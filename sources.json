@@ -1,0 +1,50 @@
+{
+  "_aide": "Liste des sources. Pour ajouter un flux : copie une ligne { name, url, lang } dans la bonne rubrique. 'exclude' (optionnel) écarte les articles dont le lien ou le titre contient l'un de ces mots.",
+  "categories": [
+    {
+      "id": "finance",
+      "label": "Finance",
+      "feeds": [
+        { "name": "CNBC", "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html", "lang": "en" },
+        { "name": "Bloomberg Markets", "url": "https://feeds.bloomberg.com/markets/news.rss", "lang": "en" },
+        { "name": "MarketWatch", "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories", "lang": "en" },
+        { "name": "Les Echos", "url": "https://services.lesechos.fr/rss/les-echos-finance-marches.xml", "lang": "fr" },
+        { "name": "BFM Business", "url": "https://www.bfmtv.com/rss/economie/", "lang": "fr" },
+        { "name": "BCE", "url": "https://www.ecb.europa.eu/rss/press.html", "lang": "en" }
+      ]
+    },
+    {
+      "id": "science",
+      "label": "Science",
+      "feeds": [
+        { "name": "Nature", "url": "https://www.nature.com/nature.rss", "lang": "en" },
+        { "name": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/top/science.xml", "lang": "en" },
+        { "name": "Quanta Magazine", "url": "https://www.quantamagazine.org/feed/", "lang": "en" },
+        { "name": "New Scientist", "url": "https://www.newscientist.com/feed/home/", "lang": "en" },
+        { "name": "Futura", "url": "https://www.futura-sciences.com/rss/actualites.xml", "lang": "fr", "exclude": ["/conso/", "bons-plans", "remise", "promo"] }
+      ]
+    },
+    {
+      "id": "spatial",
+      "label": "Spatial",
+      "feeds": [
+        { "name": "SpaceNews", "url": "https://spacenews.com/feed/", "lang": "en" },
+        { "name": "NASASpaceflight", "url": "https://www.nasaspaceflight.com/feed/", "lang": "en" },
+        { "name": "Spaceflight Now", "url": "https://spaceflightnow.com/feed/", "lang": "en" },
+        { "name": "Space.com", "url": "https://www.space.com/feeds/all", "lang": "en", "exclude": ["/entertainment/", "/deals/", "best-"] },
+        { "name": "ESA", "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News", "lang": "en" },
+        { "name": "NASA", "url": "https://www.nasa.gov/feed/", "lang": "en" }
+      ]
+    },
+    {
+      "id": "hotellerie",
+      "label": "Hôtellerie",
+      "feeds": [
+        { "name": "Hospitality ON", "url": "https://hospitality-on.com/fr/rss.xml", "lang": "fr" },
+        { "name": "Hotel Dive", "url": "https://www.hoteldive.com/feeds/news/", "lang": "en" },
+        { "name": "Hospitality Net", "url": "https://www.hospitalitynet.org/news/global.xml", "lang": "en" },
+        { "name": "Skift", "url": "https://skift.com/feed/", "lang": "en" }
+      ]
+    }
+  ]
+}

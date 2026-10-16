@@ -1,0 +1,22 @@
+{
+ "generated_at": null,
+ "categories": [
+  {
+   "id": "finance",
+   "label": "Finance"
+  },
+  {
+   "id": "science",
+   "label": "Science"
+  },
+  {
+   "id": "spatial",
+   "label": "Spatial"
+  },
+  {
+   "id": "hotellerie",
+   "label": "Hôtellerie"
+  }
+ ],
+ "items": []
+}

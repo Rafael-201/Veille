@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>La Veille</title>
+  <meta name="description" content="Ma veille quotidienne : finance, science, spatial et hôtellerie.">
+  <meta name="robots" content="noindex">
+  <meta name="theme-color" content="#f6f3ec" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#14130f" media="(prefers-color-scheme: dark)">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%231d1b17'/%3E%3Ctext x='32' y='45' font-family='Georgia,serif' font-size='38' font-weight='700' text-anchor='middle' fill='%23f6f3ec'%3EV%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400..700;1,6..72,400&family=Instrument+Sans:wght@400..600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+  <script>
+    try { var t = localStorage.getItem("veille.theme"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+</head>
+<body>
+  <a class="skip" href="#contenu">Aller au contenu</a>
+
+  <header class="masthead">
+    <div class="wrap masthead-inner">
+      <div class="brand">
+        <h1 class="logo"><a href="#une">La Veille</a></h1>
+        <p class="dateline"><span id="today"></span><span class="sep" aria-hidden="true">·</span><span id="updated">Chargement…</span></p>
+      </div>
+      <div class="masthead-tools">
+        <button type="button" class="ghost-btn" id="mark-seen" hidden>Marquer comme vu</button>
+        <button type="button" class="icon-btn" id="theme-toggle" aria-label="Changer de thème">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3a9 9 0 1 0 9 9 7 7 0 0 1-9-9Z"/></svg>
+        </button>
+      </div>
+    </div>
+
+    <nav class="tabs" aria-label="Rubriques">
+      <div class="wrap tabs-inner" id="tabs"></div>
+    </nav>
+  </header>
+
+  <div class="wrap toolbar" role="search">
+    <label class="search">
+      <span class="visually-hidden">Rechercher dans les news</span>
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" type="search" placeholder="Rechercher un sujet, une entreprise, une source…" autocomplete="off">
+    </label>
+    <fieldset class="segmented">
+      <legend class="visually-hidden">Langue des articles</legend>
+      <label><input type="radio" name="lang" value="all" checked><span>Toutes langues</span></label>
+      <label><input type="radio" name="lang" value="fr"><span>FR</span></label>
+      <label><input type="radio" name="lang" value="en"><span>EN</span></label>
+    </fieldset>
+  </div>
+
+  <main id="contenu" class="wrap" tabindex="-1">
+    <div id="view" aria-live="polite" aria-busy="true">
+      <div class="skeleton" aria-hidden="true"><span></span><span></span><span></span><span></span></div>
+    </div>
+  </main>
+
+  <footer class="wrap footer">
+    <details id="sources">
+      <summary>État des sources</summary>
+      <ul id="sources-list" class="sources-list"></ul>
+    </details>
+    <p class="credits">Titres et extraits issus des flux RSS publics des éditeurs. Chaque article renvoie vers sa source.
+      Lancements : <a href="https://thespacedevs.com/llapi" target="_blank" rel="noopener">Launch Library 2</a>.</p>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
