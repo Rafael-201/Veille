@@ -1,0 +1,65 @@
+name: Mise à jour des news
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"   # toutes les 3 heures (heure UTC)
+  push:
+    branches: [main]          # chaque modification (ex. tes sélections) republie le site
+  workflow_dispatch:          # bouton « Run workflow » pour lancer à la main
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: veille
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Récupérer les flux
+        run: |
+          pip install feedparser
+          python scripts/fetch_feeds.py
+
+      - name: Enregistrer les données
+        run: |
+          git config user.name "veille-bot"
+          git config user.email "veille-bot@users.noreply.github.com"
+          git add data/news.json data/status.json data/launches.json
+          if git diff --cached --quiet; then
+            echo "Rien de nouveau."
+          else
+            git commit -m "Mise à jour des news"
+            git pull --rebase --autostash || true
+            git push || echo "Push impossible, les données seront réenregistrées au prochain passage."
+          fi
+
+      - name: Préparer le site
+        run: |
+          mkdir -p _site
+          cp -r index.html assets data _site/
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
