@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T07:34:02Z",
+ "generated_at": "2026-10-17T07:35:08Z",
  "sources": [
   {
    "name": "CNBC",
@@ -227,9 +227,9 @@
    "topic": "transactions",
    "url": "https://news.google.com/rss/search?q=hotel+%28acquires+OR+acquisition+OR+acquired+OR+sells+OR+sold+OR+buys+OR+%22sale+of%22%29+%28Mexico+OR+Brazil+OR+Caribbean+OR+%22Latin+America%22+OR+Colombia+OR+Chile+OR+Argentina+OR+Peru+OR+%22Costa+Rica%22%29+when%3A14d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "count": 3,
+   "count": 2,
    "error": null,
-   "archived": 3
+   "archived": 4
   },
   {
    "name": "Transactions · Europe",
