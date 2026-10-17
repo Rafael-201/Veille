@@ -1,4 +1,173 @@
 {
- "generated_at": null,
- "sources": []
+ "generated_at": "2026-10-17T06:36:24Z",
+ "sources": [
+  {
+   "name": "CNBC",
+   "cat": "finance",
+   "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+   "ok": true,
+   "count": 20,
+   "error": null
+  },
+  {
+   "name": "Bloomberg Markets",
+   "cat": "finance",
+   "url": "https://feeds.bloomberg.com/markets/news.rss",
+   "ok": true,
+   "count": 20,
+   "error": null
+  },
+  {
+   "name": "MarketWatch",
+   "cat": "finance",
+   "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+   "ok": true,
+   "count": 10,
+   "error": null
+  },
+  {
+   "name": "Les Echos",
+   "cat": "finance",
+   "url": "https://services.lesechos.fr/rss/les-echos-finance-marches.xml",
+   "ok": true,
+   "count": 20,
+   "error": null
+  },
+  {
+   "name": "BFM Business",
+   "cat": "finance",
+   "url": "https://www.bfmtv.com/rss/economie/",
+   "ok": true,
+   "count": 20,
+   "error": null
+  },
+  {
+   "name": "BCE",
+   "cat": "finance",
+   "url": "https://www.ecb.europa.eu/rss/press.html",
+   "ok": true,
+   "count": 6,
+   "error": null
+  },
+  {
+   "name": "Nature",
+   "cat": "science",
+   "url": "https://www.nature.com/nature.rss",
+   "ok": true,
+   "count": 20,
+   "error": null
+  },
+  {
+   "name": "ScienceDaily",
+   "cat": "science",
+   "url": "https://www.sciencedaily.com/rss/top/science.xml",
+   "ok": true,
+   "count": 20,
+   "error": null
+  },
+  {
+   "name": "Quanta Magazine",
+   "cat": "science",
+   "url": "https://www.quantamagazine.org/feed/",
+   "ok": true,
+   "count": 5,
+   "error": null
+  },
+  {
+   "name": "New Scientist",
+   "cat": "science",
+   "url": "https://www.newscientist.com/feed/home/",
+   "ok": true,
+   "count": 10,
+   "error": null
+  },
+  {
+   "name": "Futura",
+   "cat": "science",
+   "url": "https://www.futura-sciences.com/rss/actualites.xml",
+   "ok": true,
+   "count": 20,
+   "error": null
+  },
+  {
+   "name": "SpaceNews",
+   "cat": "spatial",
+   "url": "https://spacenews.com/feed/",
+   "ok": true,
+   "count": 7,
+   "error": null
+  },
+  {
+   "name": "NASASpaceflight",
+   "cat": "spatial",
+   "url": "https://www.nasaspaceflight.com/feed/",
+   "ok": true,
+   "count": 8,
+   "error": null
+  },
+  {
+   "name": "Spaceflight Now",
+   "cat": "spatial",
+   "url": "https://spaceflightnow.com/feed/",
+   "ok": true,
+   "count": 6,
+   "error": null
+  },
+  {
+   "name": "Space.com",
+   "cat": "spatial",
+   "url": "https://www.space.com/feeds/all",
+   "ok": true,
+   "count": 20,
+   "error": null
+  },
+  {
+   "name": "ESA",
+   "cat": "spatial",
+   "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+   "ok": true,
+   "count": 8,
+   "error": null
+  },
+  {
+   "name": "NASA",
+   "cat": "spatial",
+   "url": "https://www.nasa.gov/feed/",
+   "ok": true,
+   "count": 10,
+   "error": null
+  },
+  {
+   "name": "Hospitality ON",
+   "cat": "hotellerie",
+   "url": "https://hospitality-on.com/fr/rss.xml",
+   "ok": true,
+   "count": 20,
+   "error": null
+  },
+  {
+   "name": "Hotel Dive",
+   "cat": "hotellerie",
+   "url": "https://www.hoteldive.com/feeds/news/",
+   "ok": true,
+   "count": 10,
+   "error": null
+  },
+  {
+   "name": "Hospitality Net",
+   "cat": "hotellerie",
+   "url": "https://www.hospitalitynet.org/news/global.xml",
+   "ok": true,
+   "count": 20,
+   "error": null
+  },
+  {
+   "name": "Skift",
+   "cat": "hotellerie",
+   "url": "https://skift.com/feed/",
+   "ok": true,
+   "count": 10,
+   "error": null
+  }
+ ]
 }
