@@ -227,18 +227,22 @@ REGION_WORDS = {
 REGION_RX = {rid: _rx(words) for rid, words in REGION_WORDS.items()}
 # sigles en majuscules uniquement (« us » ou « eu » seraient ambigus en minuscules)
 CASE_RX = {
-    "amerique-nord": re.compile(r"(?<![\w.])(U\.S\.|US|USA|U\.S)(?![\w])"),
-    "europe": re.compile(r"(?<![\w.])(EU|UE|UK|U\.K\.)(?![\w])"),
+    "amerique-nord": [re.compile(r"(?<![\w.])(U\.S\.|US|USA|U\.S)(?![\w])")],
+    # sigles (sensibles à la casse) + devises : £ (Royaume-Uni), ₹ / crore / lakh (Inde), R$ (Brésil)
+    "europe": [re.compile(r"(?<![\w.])(EU|UE|UK|U\.K\.)(?![\w])"),
+               re.compile(r"£|(?<![\w-])(multi-?million-pound|million-pound)(?![\w-])", re.I)],
+    "asie": [re.compile(r"₹|(?<![\w-])(crore|lakh)(?![\w-])", re.I)],
+    "amerique-latine": [re.compile(r"R\$")],
 }
 
 
 def classify_region(text: str) -> str | None:
     """Région la plus citée dans le texte (titre de préférence). None si aucune."""
     best, best_score, best_pos = None, 0, 10 ** 9
-    for rid, rx in REGION_RX.items():
-        hits = [m.start() for m in rx.finditer(text)]
-        if rid in CASE_RX:
-            hits += [m.start() for m in CASE_RX[rid].finditer(text)]
+    for rid in REGION_WORDS:
+        hits = [m.start() for m in REGION_RX[rid].finditer(text)]
+        for crx in CASE_RX.get(rid, []):
+            hits += [m.start() for m in crx.finditer(text)]
         if not hits:
             continue
         score, pos = len(hits), min(hits)
@@ -452,9 +456,14 @@ def main() -> int:
             it["summary"] = it["summary"] or old.get("summary", "")
         merged[it["id"]] = it
 
-    # Reclasse les articles archivés des flux classiques (transactions / marchés + région) avec les règles actuelles
-    for it in merged.values():
+    # Reclasse les articles archivés (transactions / marchés + région) avec les règles actuelles
+    for key in list(merged):
+        it = merged[key]
         cat, feed, topic = feeds_by_name[it["feed"]]
+        if topic and ((topic.get("match") == "deals" and not is_deal(it["title"]))
+                      or (topic.get("match") == "markets" and not is_market(it["title"]))):
+            del merged[key]
+            continue
         if topic:
             it["topic"] = topic["id"]
         elif cat["id"] == "hotellerie" and is_deal(it["title"]):
