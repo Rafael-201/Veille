@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T06:53:18Z",
+ "generated_at": "2026-10-17T06:54:32Z",
  "sources": [
   {
    "name": "CNBC",
@@ -59,10 +59,10 @@
    "name": "Nature",
    "cat": "science",
    "url": "https://www.nature.com/nature.rss",
-   "ok": false,
-   "count": 0,
-   "error": "Aucun article lu (<unknown>:15:4: not well-formed (invalid token))",
-   "archived": 20
+   "ok": true,
+   "count": 60,
+   "error": null,
+   "archived": 60
   },
   {
    "name": "ScienceDaily",
