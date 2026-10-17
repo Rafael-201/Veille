@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T07:35:08Z",
+ "generated_at": "2026-10-17T07:36:26Z",
  "sources": [
   {
    "name": "CNBC",
@@ -229,7 +229,7 @@
    "ok": true,
    "count": 2,
    "error": null,
-   "archived": 4
+   "archived": 3
   },
   {
    "name": "Transactions · Europe",
@@ -289,7 +289,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 3
+   "archived": 4
   },
   {
    "name": "Marchés · Amérique du Nord",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 3
+   "archived": 4
   },
   {
    "name": "Marchés · Asie-Pacifique",
