@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """Récupère les flux RSS listés dans sources.json et écrit les fichiers de données du site.
 
-Sorties (dans le dossier data/) :
+Sorties (à la racine du dépôt) :
   news.json      articles récents, triés du plus récent au plus ancien
   status.json    état de chaque source (ok / erreur, nombre d'articles)
   launches.json  prochains lancements spatiaux (API Launch Library 2)
 
-Lancement local :  pip install feedparser  puis  python scripts/fetch_feeds.py
+Lancement local :  pip install feedparser  puis  python fetch_feeds.py
 """
 from __future__ import annotations
 
@@ -24,9 +24,9 @@ from pathlib import Path
 
 import feedparser
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parent
 SOURCES = ROOT / "sources.json"
-DATA = ROOT / "data"
+DATA = ROOT  # tous les fichiers sont à la racine du dépôt
 
 MAX_AGE_DAYS = 10        # on ignore les articles plus vieux
 MAX_PER_FEED = 20        # articles gardés par source

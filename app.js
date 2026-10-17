@@ -1,6 +1,6 @@
 /* La Veille — affichage des news.
-   Les données viennent de data/news.json, data/launches.json, data/status.json
-   (générés par scripts/fetch_feeds.py) et data/selections.json (rempli à la main). */
+   Les données viennent de news.json, launches.json, status.json
+   (générés par fetch_feeds.py) et selections.json (rempli à la main). */
 (() => {
   "use strict";
 
@@ -246,7 +246,7 @@
     const items = state.selections.filter(matches).sort(byDateDesc);
     if (!state.selections.length) {
       return `<div class="empty"><h2>Pas encore de sélection</h2>
-        <p>Ajoute les articles qui t’ont marqué, avec ton commentaire, dans le fichier <code>data/selections.json</code> de ton dépôt GitHub. Le site se met à jour tout seul en une minute environ.</p>
+        <p>Ajoute les articles qui t’ont marqué, avec ton commentaire, dans le fichier <code>selections.json</code> de ton dépôt GitHub. Le site se met à jour tout seul en une minute environ.</p>
         <p>Le mode d’emploi est dans le fichier <code>README.md</code>.</p></div>`;
     }
     if (!items.length) return emptySearch();
@@ -371,7 +371,7 @@
     state.error = null;
     if (window.__VEILLE__) { apply(window.__VEILLE__); render(); renderSources(); return; }
     const [news, launches, selections, status] = await Promise.allSettled([
-      getJSON("data/news.json"), getJSON("data/launches.json"), getJSON("data/selections.json"), getJSON("data/status.json"),
+      getJSON("news.json"), getJSON("launches.json"), getJSON("selections.json"), getJSON("status.json"),
     ]);
     if (news.status === "rejected") {
       state.error = news.reason && news.reason.message ? news.reason.message : "erreur inconnue";
