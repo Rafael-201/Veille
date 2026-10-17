@@ -1,9 +1,10 @@
 {
- "generated_at": "2026-10-17T06:59:54Z",
+ "generated_at": "2026-10-17T07:34:02Z",
  "sources": [
   {
    "name": "CNBC",
    "cat": "finance",
+   "topic": null,
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
    "count": 3,
@@ -13,6 +14,7 @@
   {
    "name": "Bloomberg Markets",
    "cat": "finance",
+   "topic": null,
    "url": "https://feeds.bloomberg.com/markets/news.rss",
    "ok": true,
    "count": 3,
@@ -22,6 +24,7 @@
   {
    "name": "MarketWatch",
    "cat": "finance",
+   "topic": null,
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
    "count": 3,
@@ -31,6 +34,7 @@
   {
    "name": "Les Echos",
    "cat": "finance",
+   "topic": null,
    "url": "https://services.lesechos.fr/rss/les-echos-finance-marches.xml",
    "ok": true,
    "count": 3,
@@ -40,6 +44,7 @@
   {
    "name": "BFM Business",
    "cat": "finance",
+   "topic": null,
    "url": "https://www.bfmtv.com/rss/economie/",
    "ok": true,
    "count": 3,
@@ -49,6 +54,7 @@
   {
    "name": "BCE",
    "cat": "finance",
+   "topic": null,
    "url": "https://www.ecb.europa.eu/rss/press.html",
    "ok": true,
    "count": 3,
@@ -58,6 +64,7 @@
   {
    "name": "Nature",
    "cat": "science",
+   "topic": null,
    "url": "https://www.nature.com/nature.rss",
    "ok": true,
    "count": 3,
@@ -67,6 +74,7 @@
   {
    "name": "ScienceDaily",
    "cat": "science",
+   "topic": null,
    "url": "https://www.sciencedaily.com/rss/top/science.xml",
    "ok": true,
    "count": 3,
@@ -76,6 +84,7 @@
   {
    "name": "Quanta Magazine",
    "cat": "science",
+   "topic": null,
    "url": "https://www.quantamagazine.org/feed/",
    "ok": true,
    "count": 3,
@@ -85,6 +94,7 @@
   {
    "name": "New Scientist",
    "cat": "science",
+   "topic": null,
    "url": "https://www.newscientist.com/feed/home/",
    "ok": true,
    "count": 3,
@@ -94,6 +104,7 @@
   {
    "name": "Futura",
    "cat": "science",
+   "topic": null,
    "url": "https://www.futura-sciences.com/rss/actualites.xml",
    "ok": true,
    "count": 3,
@@ -103,6 +114,7 @@
   {
    "name": "SpaceNews",
    "cat": "spatial",
+   "topic": null,
    "url": "https://spacenews.com/feed/",
    "ok": true,
    "count": 3,
@@ -112,6 +124,7 @@
   {
    "name": "NASASpaceflight",
    "cat": "spatial",
+   "topic": null,
    "url": "https://www.nasaspaceflight.com/feed/",
    "ok": true,
    "count": 3,
@@ -121,6 +134,7 @@
   {
    "name": "Spaceflight Now",
    "cat": "spatial",
+   "topic": null,
    "url": "https://spaceflightnow.com/feed/",
    "ok": true,
    "count": 3,
@@ -130,6 +144,7 @@
   {
    "name": "Space.com",
    "cat": "spatial",
+   "topic": null,
    "url": "https://www.space.com/feeds/all",
    "ok": true,
    "count": 3,
@@ -139,6 +154,7 @@
   {
    "name": "ESA",
    "cat": "spatial",
+   "topic": null,
    "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
    "ok": true,
    "count": 3,
@@ -148,6 +164,7 @@
   {
    "name": "NASA",
    "cat": "spatial",
+   "topic": null,
    "url": "https://www.nasa.gov/feed/",
    "ok": true,
    "count": 3,
@@ -157,15 +174,17 @@
   {
    "name": "Hospitality ON",
    "cat": "hotellerie",
+   "topic": null,
    "url": "https://hospitality-on.com/fr/rss.xml",
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 32
+   "archived": 33
   },
   {
    "name": "Hotel Dive",
    "cat": "hotellerie",
+   "topic": null,
    "url": "https://www.hoteldive.com/feeds/news/",
    "ok": true,
    "count": 3,
@@ -175,6 +194,7 @@
   {
    "name": "Hospitality Net",
    "cat": "hotellerie",
+   "topic": null,
    "url": "https://www.hospitalitynet.org/news/global.xml",
    "ok": true,
    "count": 3,
@@ -184,11 +204,162 @@
   {
    "name": "Skift",
    "cat": "hotellerie",
+   "topic": null,
    "url": "https://skift.com/feed/",
    "ok": true,
    "count": 3,
    "error": null,
    "archived": 6
+  },
+  {
+   "name": "Transactions · Amérique du Nord",
+   "cat": "hotellerie",
+   "topic": "transactions",
+   "url": "https://news.google.com/rss/search?q=hotel+%28acquires+OR+acquisition+OR+acquired+OR+sells+OR+sold+OR+buys+OR+%22sale+of%22%29+%28US+OR+%22New+York%22+OR+Florida+OR+California+OR+Texas+OR+Canada%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 2
+  },
+  {
+   "name": "Transactions · Amérique latine",
+   "cat": "hotellerie",
+   "topic": "transactions",
+   "url": "https://news.google.com/rss/search?q=hotel+%28acquires+OR+acquisition+OR+acquired+OR+sells+OR+sold+OR+buys+OR+%22sale+of%22%29+%28Mexico+OR+Brazil+OR+Caribbean+OR+%22Latin+America%22+OR+Colombia+OR+Chile+OR+Argentina+OR+Peru+OR+%22Costa+Rica%22%29+when%3A14d&hl=en-US&gl=US&ceid=US%3Aen",
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 3
+  },
+  {
+   "name": "Transactions · Europe",
+   "cat": "hotellerie",
+   "topic": "transactions",
+   "url": "https://news.google.com/rss/search?q=hotel+%28acquires+OR+acquisition+OR+acquired+OR+sells+OR+sold+OR+buys+OR+%22sale+of%22%29+%28Europe+OR+UK+OR+London+OR+Spain+OR+Germany+OR+Italy+OR+Portugal+OR+Greece+OR+Netherlands+OR+Switzerland%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 3
+  },
+  {
+   "name": "Transactions · Europe (FR)",
+   "cat": "hotellerie",
+   "topic": "transactions",
+   "url": "https://news.google.com/rss/search?q=h%C3%B4tel+%28rach%C3%A8te+OR+rachat+OR+acquiert+OR+cession+OR+c%C3%A8de+OR+vendu+OR+%22acquisition%22%29+when%3A7d&hl=fr&gl=FR&ceid=FR%3Afr",
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 1
+  },
+  {
+   "name": "Transactions · Moyen-Orient",
+   "cat": "hotellerie",
+   "topic": "transactions",
+   "url": "https://news.google.com/rss/search?q=hotel+%28acquires+OR+acquisition+OR+acquired+OR+sells+OR+sold+OR+buys+OR+%22sale+of%22%29+%28Dubai+OR+%22Abu+Dhabi%22+OR+Saudi+OR+UAE+OR+Qatar+OR+Oman+OR+Bahrain+OR+%22Middle+East%22%29+when%3A14d&hl=en-US&gl=US&ceid=US%3Aen",
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 1
+  },
+  {
+   "name": "Transactions · Asie-Pacifique",
+   "cat": "hotellerie",
+   "topic": "transactions",
+   "url": "https://news.google.com/rss/search?q=hotel+%28acquires+OR+acquisition+OR+acquired+OR+sells+OR+sold+OR+buys+OR+%22sale+of%22%29+%28Japan+OR+China+OR+Singapore+OR+India+OR+Thailand+OR+Australia+OR+Vietnam+OR+Indonesia+OR+Bali+OR+Maldives+OR+%22Hong+Kong%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
+   "ok": true,
+   "count": 1,
+   "error": null,
+   "archived": 1
+  },
+  {
+   "name": "Transactions · Afrique",
+   "cat": "hotellerie",
+   "topic": "transactions",
+   "url": "https://news.google.com/rss/search?q=hotel+%28acquires+OR+acquisition+OR+acquired+OR+sells+OR+sold+OR+buys+OR+%22sale+of%22%29+%28Africa+OR+Morocco+OR+Egypt+OR+Kenya+OR+Nigeria+OR+Tanzania+OR+Mauritius+OR+%22South+Africa%22%29+when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 3
+  },
+  {
+   "name": "Transactions · Afrique (FR)",
+   "cat": "hotellerie",
+   "topic": "transactions",
+   "url": "https://news.google.com/rss/search?q=h%C3%B4tel+%28rachat+OR+acquiert+OR+cession+OR+rach%C3%A8te%29+%28Maroc+OR+S%C3%A9n%C3%A9gal+OR+%22C%C3%B4te+d%27Ivoire%22+OR+Tunisie+OR+Afrique%29+when%3A30d&hl=fr&gl=FR&ceid=FR%3Afr",
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 3
+  },
+  {
+   "name": "Marchés · Amérique du Nord",
+   "cat": "finance",
+   "topic": "marches",
+   "url": "https://news.google.com/rss/search?q=%28%22Wall+Street%22+OR+%22S%26P+500%22+OR+Nasdaq+OR+%22Dow+Jones%22+OR+TSX%29+stocks+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 3
+  },
+  {
+   "name": "Marchés · Amérique latine",
+   "cat": "finance",
+   "topic": "marches",
+   "url": "https://news.google.com/rss/search?q=%28Ibovespa+OR+Bovespa+OR+%22Mexican+peso%22+OR+%22Latin+American+stocks%22+OR+Merval+OR+%22Brazil+stocks%22%29+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 3
+  },
+  {
+   "name": "Marchés · Europe",
+   "cat": "finance",
+   "topic": "marches",
+   "url": "https://news.google.com/rss/search?q=%28%22European+shares%22+OR+%22Stoxx+600%22+OR+FTSE+OR+DAX+OR+%22European+stocks%22%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 3
+  },
+  {
+   "name": "Marchés · Europe (FR)",
+   "cat": "finance",
+   "topic": "marches",
+   "url": "https://news.google.com/rss/search?q=%28%22CAC+40%22+OR+%22Bourse+de+Paris%22+OR+%22Bourse+suisse%22+OR+%22SMI%22+OR+%22march%C3%A9s+europ%C3%A9ens%22%29+when%3A2d&hl=fr&gl=FR&ceid=FR%3Afr",
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 3
+  },
+  {
+   "name": "Marchés · Moyen-Orient",
+   "cat": "finance",
+   "topic": "marches",
+   "url": "https://news.google.com/rss/search?q=%28%22Gulf+stocks%22+OR+%22Mideast+stocks%22+OR+Tadawul+OR+%22Saudi+stocks%22+OR+%22Dubai+index%22+OR+%22Gulf+bourses%22%29+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 3
+  },
+  {
+   "name": "Marchés · Asie-Pacifique",
+   "cat": "finance",
+   "topic": "marches",
+   "url": "https://news.google.com/rss/search?q=%28Nikkei+OR+%22Hang+Seng%22+OR+%22Asian+shares%22+OR+%22Asian+stocks%22+OR+Kospi+OR+%22Shanghai+Composite%22+OR+Sensex+OR+%22ASX+200%22%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 3
+  },
+  {
+   "name": "Marchés · Afrique",
+   "cat": "finance",
+   "topic": "marches",
+   "url": "https://news.google.com/rss/search?q=%28JSE+OR+%22Nigerian+stocks%22+OR+EGX30+OR+%22African+markets%22+OR+%22South+African+rand%22%29+when%3A5d&hl=en-US&gl=US&ceid=US%3Aen",
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 3
   }
  ]
 }

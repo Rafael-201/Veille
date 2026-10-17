@@ -1,0 +1,155 @@
+{
+ "generated_at": "2026-10-17T07:34:03Z",
+ "indices": [
+  {
+   "symbol": "^GSPC",
+   "name": "S&P 500",
+   "region": "amerique-nord",
+   "last": 7659.44,
+   "change_pct": -1.09,
+   "month_pct": 1.43,
+   "date": "2026-10-16",
+   "currency": "USD"
+  },
+  {
+   "symbol": "^IXIC",
+   "name": "Nasdaq",
+   "region": "amerique-nord",
+   "last": 26140.03,
+   "change_pct": -2.15,
+   "month_pct": 0.62,
+   "date": "2026-10-16",
+   "currency": "USD"
+  },
+  {
+   "symbol": "^DJI",
+   "name": "Dow Jones",
+   "region": "amerique-nord",
+   "last": 52002.41,
+   "change_pct": -0.34,
+   "month_pct": 1.05,
+   "date": "2026-10-16",
+   "currency": "USD"
+  },
+  {
+   "symbol": "^BVSP",
+   "name": "Ibovespa",
+   "region": "amerique-latine",
+   "last": 205430.0,
+   "change_pct": 0.54,
+   "month_pct": 10.72,
+   "date": "2026-10-16",
+   "currency": "BRL"
+  },
+  {
+   "symbol": "^MXX",
+   "name": "IPC Mexique",
+   "region": "amerique-latine",
+   "last": 68929.72,
+   "change_pct": 1.87,
+   "month_pct": 8.54,
+   "date": "2026-10-16",
+   "currency": "MXN"
+  },
+  {
+   "symbol": "^STOXX50E",
+   "name": "Euro Stoxx 50",
+   "region": "europe",
+   "last": 6204.23,
+   "change_pct": 0.58,
+   "month_pct": -0.99,
+   "date": "2026-10-16",
+   "currency": "EUR"
+  },
+  {
+   "symbol": "^FCHI",
+   "name": "CAC 40",
+   "region": "europe",
+   "last": 7956.7,
+   "change_pct": 0.28,
+   "month_pct": -2.26,
+   "date": "2026-10-16",
+   "currency": "EUR"
+  },
+  {
+   "symbol": "^GDAXI",
+   "name": "DAX",
+   "region": "europe",
+   "last": 25622.61,
+   "change_pct": 0.95,
+   "month_pct": 0.33,
+   "date": "2026-10-16",
+   "currency": "EUR"
+  },
+  {
+   "symbol": "^SSMI",
+   "name": "SMI",
+   "region": "europe",
+   "last": 14391.31,
+   "change_pct": 0.29,
+   "month_pct": 3.77,
+   "date": "2026-10-16",
+   "currency": "CHF"
+  },
+  {
+   "symbol": "^TASI.SR",
+   "name": "Tadawul (TASI)",
+   "region": "moyen-orient",
+   "last": 10106.54,
+   "change_pct": -0.32,
+   "month_pct": -0.32,
+   "date": "2026-10-15",
+   "currency": "SAR"
+  },
+  {
+   "symbol": "^N225",
+   "name": "Nikkei 225",
+   "region": "asie",
+   "last": 65324.29,
+   "change_pct": 1.39,
+   "month_pct": 2.19,
+   "date": "2026-10-16",
+   "currency": "JPY"
+  },
+  {
+   "symbol": "^HSI",
+   "name": "Hang Seng",
+   "region": "asie",
+   "last": 24186.83,
+   "change_pct": 0.52,
+   "month_pct": -2.13,
+   "date": "2026-10-16",
+   "currency": "HKD"
+  },
+  {
+   "symbol": "000001.SS",
+   "name": "Shanghai Composite",
+   "region": "asie",
+   "last": 3716.28,
+   "change_pct": 0.24,
+   "month_pct": -4.51,
+   "date": "2026-10-16",
+   "currency": "CNY"
+  },
+  {
+   "symbol": "^J203.JO",
+   "name": "JSE All Share",
+   "region": "afrique",
+   "last": 110934.2,
+   "change_pct": 0.69,
+   "month_pct": -2.3,
+   "date": "2026-10-16",
+   "currency": "ZAR"
+  },
+  {
+   "symbol": "^CASE30",
+   "name": "EGX 30",
+   "region": "afrique",
+   "last": 52273.3,
+   "change_pct": 1.52,
+   "month_pct": 1.52,
+   "date": "2026-10-15",
+   "currency": "EGP"
+  }
+ ]
+}
