@@ -1,13 +1,14 @@
 {
- "generated_at": "2026-10-17T06:36:24Z",
+ "generated_at": "2026-10-17T06:53:18Z",
  "sources": [
   {
    "name": "CNBC",
    "cat": "finance",
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "ok": true,
-   "count": 20,
-   "error": null
+   "count": 30,
+   "error": null,
+   "archived": 30
   },
   {
    "name": "Bloomberg Markets",
@@ -15,7 +16,8 @@
    "url": "https://feeds.bloomberg.com/markets/news.rss",
    "ok": true,
    "count": 20,
-   "error": null
+   "error": null,
+   "archived": 20
   },
   {
    "name": "MarketWatch",
@@ -23,7 +25,8 @@
    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
    "ok": true,
    "count": 10,
-   "error": null
+   "error": null,
+   "archived": 10
   },
   {
    "name": "Les Echos",
@@ -31,39 +34,44 @@
    "url": "https://services.lesechos.fr/rss/les-echos-finance-marches.xml",
    "ok": true,
    "count": 20,
-   "error": null
+   "error": null,
+   "archived": 20
   },
   {
    "name": "BFM Business",
    "cat": "finance",
    "url": "https://www.bfmtv.com/rss/economie/",
    "ok": true,
-   "count": 20,
-   "error": null
+   "count": 30,
+   "error": null,
+   "archived": 24
   },
   {
    "name": "BCE",
    "cat": "finance",
    "url": "https://www.ecb.europa.eu/rss/press.html",
    "ok": true,
-   "count": 6,
-   "error": null
+   "count": 15,
+   "error": null,
+   "archived": 15
   },
   {
    "name": "Nature",
    "cat": "science",
    "url": "https://www.nature.com/nature.rss",
-   "ok": true,
-   "count": 20,
-   "error": null
+   "ok": false,
+   "count": 0,
+   "error": "Aucun article lu (<unknown>:15:4: not well-formed (invalid token))",
+   "archived": 20
   },
   {
    "name": "ScienceDaily",
    "cat": "science",
    "url": "https://www.sciencedaily.com/rss/top/science.xml",
    "ok": true,
-   "count": 20,
-   "error": null
+   "count": 60,
+   "error": null,
+   "archived": 60
   },
   {
    "name": "Quanta Magazine",
@@ -71,7 +79,8 @@
    "url": "https://www.quantamagazine.org/feed/",
    "ok": true,
    "count": 5,
-   "error": null
+   "error": null,
+   "archived": 5
   },
   {
    "name": "New Scientist",
@@ -79,47 +88,53 @@
    "url": "https://www.newscientist.com/feed/home/",
    "ok": true,
    "count": 10,
-   "error": null
+   "error": null,
+   "archived": 10
   },
   {
    "name": "Futura",
    "cat": "science",
    "url": "https://www.futura-sciences.com/rss/actualites.xml",
    "ok": true,
-   "count": 20,
-   "error": null
+   "count": 36,
+   "error": null,
+   "archived": 36
   },
   {
    "name": "SpaceNews",
    "cat": "spatial",
    "url": "https://spacenews.com/feed/",
    "ok": true,
-   "count": 7,
-   "error": null
+   "count": 10,
+   "error": null,
+   "archived": 10
   },
   {
    "name": "NASASpaceflight",
    "cat": "spatial",
    "url": "https://www.nasaspaceflight.com/feed/",
    "ok": true,
-   "count": 8,
-   "error": null
+   "count": 10,
+   "error": null,
+   "archived": 10
   },
   {
    "name": "Spaceflight Now",
    "cat": "spatial",
    "url": "https://spaceflightnow.com/feed/",
    "ok": true,
-   "count": 6,
-   "error": null
+   "count": 10,
+   "error": null,
+   "archived": 10
   },
   {
    "name": "Space.com",
    "cat": "spatial",
    "url": "https://www.space.com/feeds/all",
    "ok": true,
-   "count": 20,
-   "error": null
+   "count": 41,
+   "error": null,
+   "archived": 41
   },
   {
    "name": "ESA",
@@ -127,7 +142,8 @@
    "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
    "ok": true,
    "count": 8,
-   "error": null
+   "error": null,
+   "archived": 8
   },
   {
    "name": "NASA",
@@ -135,15 +151,17 @@
    "url": "https://www.nasa.gov/feed/",
    "ok": true,
    "count": 10,
-   "error": null
+   "error": null,
+   "archived": 10
   },
   {
    "name": "Hospitality ON",
    "cat": "hotellerie",
    "url": "https://hospitality-on.com/fr/rss.xml",
    "ok": true,
-   "count": 20,
-   "error": null
+   "count": 60,
+   "error": null,
+   "archived": 60
   },
   {
    "name": "Hotel Dive",
@@ -151,7 +169,8 @@
    "url": "https://www.hoteldive.com/feeds/news/",
    "ok": true,
    "count": 10,
-   "error": null
+   "error": null,
+   "archived": 10
   },
   {
    "name": "Hospitality Net",
@@ -159,7 +178,8 @@
    "url": "https://www.hospitalitynet.org/news/global.xml",
    "ok": true,
    "count": 20,
-   "error": null
+   "error": null,
+   "archived": 20
   },
   {
    "name": "Skift",
@@ -167,7 +187,8 @@
    "url": "https://skift.com/feed/",
    "ok": true,
    "count": 10,
-   "error": null
+   "error": null,
+   "archived": 10
   }
  ]
 }
