@@ -2,13 +2,13 @@
    Échelle d'espacement : 4 8 12 16 24 32 48 64 */
 
 :root {
-  --paper: #f6f3ec;
-  --surface: #fffdf8;
+  --paper: #f1e8d6;
+  --surface: #f7f0e2;
   --ink: #1d1b17;
   --ink-2: #47433b;
-  --ink-3: #66615a;
-  --rule: #e2dccf;
-  --rule-strong: #cfc7b6;
+  --ink-3: #615a50;
+  --rule: #dfd2b8;
+  --rule-strong: #c9b896;
   --focus: #1f5fd1;
   --new: #b3361e;
 
@@ -16,7 +16,7 @@
   --science: #2c4ca3;
   --spatial: #5a3d9e;
   --hotellerie: #9c4f18;
-  --selections: #8a6a12;
+  --selections: #7a5c0c;
   --alire: #1d1b17;
 
   --serif: "Newsreader", Georgia, "Times New Roman", serif;
