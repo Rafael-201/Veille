@@ -29,13 +29,13 @@ jobs:
       - name: Récupérer les flux
         run: |
           pip install feedparser
-          python scripts/fetch_feeds.py
+          python fetch_feeds.py
 
       - name: Enregistrer les données
         run: |
           git config user.name "veille-bot"
           git config user.email "veille-bot@users.noreply.github.com"
-          git add data/news.json data/status.json data/launches.json
+          git add news.json status.json launches.json
           if git diff --cached --quiet; then
             echo "Rien de nouveau."
           else
@@ -47,7 +47,7 @@ jobs:
       - name: Préparer le site
         run: |
           mkdir -p _site
-          cp -r index.html assets data _site/
+          cp index.html style.css app.js news.json status.json launches.json selections.json _site/
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
