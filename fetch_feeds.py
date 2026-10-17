@@ -2,7 +2,7 @@
 """Récupère les flux RSS listés dans sources.json et écrit les fichiers de données du site.
 
 Sorties (à la racine du dépôt) :
-  news.json      articles récents, triés du plus récent au plus ancien
+  news.json      archive des articles des 30 derniers jours, du plus récent au plus ancien
   status.json    état de chaque source (ok / erreur, nombre d'articles)
   launches.json  prochains lancements spatiaux (API Launch Library 2)
 
@@ -28,8 +28,8 @@ ROOT = Path(__file__).resolve().parent
 SOURCES = ROOT / "sources.json"
 DATA = ROOT  # tous les fichiers sont à la racine du dépôt
 
-MAX_AGE_DAYS = 10        # on ignore les articles plus vieux
-MAX_PER_FEED = 20        # articles gardés par source
+MAX_AGE_DAYS = 30        # un article reste affiché 30 jours après sa publication
+MAX_PER_FEED = 60        # articles lus par source à chaque passage
 SUMMARY_CHARS = 220      # longueur max du résumé affiché
 TIMEOUT = 20
 USER_AGENT = "Mozilla/5.0 (compatible; VeillePerso/1.0; lecteur RSS personnel)"
@@ -200,37 +200,39 @@ def main() -> int:
         return 1
     DATA.mkdir(exist_ok=True)
     previous = load_json(DATA / "news.json", {"items": []})
-    previous_by_source = {}
-    for it in previous.get("items", []):
-        previous_by_source.setdefault(it.get("source"), []).append(it)
 
     jobs = [(cat, feed) for cat in config["categories"] for feed in cat["feeds"]]
     started = time.time()
     with ThreadPoolExecutor(max_workers=8) as pool:
         results = list(pool.map(lambda job: parse_feed(*job), jobs))
 
-    cutoff = (now_utc() - timedelta(days=MAX_AGE_DAYS)).isoformat()
-    all_items, statuses = [], []
+    fresh, statuses = [], []
     for (cat, feed), (items, status) in zip(jobs, results):
-        if not status["ok"]:
-            # source en panne : on garde ses articles de la dernière mise à jour réussie
-            kept = [it for it in previous_by_source.get(feed["name"], []) if (it.get("date") or "") >= cutoff]
-            items = kept
-            status["kept_previous"] = len(kept)
-        all_items.extend(items)
+        fresh.extend(items)
         statuses.append(status)
         mark = "ok " if status["ok"] else "ERR"
         print(f"  [{mark}] {cat['label']:<11} {feed['name']:<20} {status['count']:>3}  {status['error'] or ''}")
 
-    # article sans date : on garde la date où il a été vu pour la première fois
-    first_seen = {it["id"]: it.get("date") for it in previous.get("items", [])}
+    # Archive : on part des articles déjà enregistrés, puis on ajoute ou rafraîchit avec ceux du jour.
+    # Un article disparaît seulement 30 jours après sa publication (ou si sa source est retirée de sources.json).
+    sources_now = {feed["name"] for _, feed in jobs}
     stamp = now_utc().isoformat().replace("+00:00", "Z")
-    for it in all_items:
+    merged = {it["id"]: it for it in previous.get("items", []) if it.get("id") and it.get("source") in sources_now}
+    for it in fresh:
+        old = merged.get(it["id"])
         if not it["date"]:
-            it["date"] = first_seen.get(it["id"]) or stamp
+            # article sans date : on garde la date où il a été vu pour la première fois
+            it["date"] = (old or {}).get("date") or stamp
+        if old:
+            it["image"] = it["image"] or old.get("image")
+            it["summary"] = it["summary"] or old.get("summary", "")
+        merged[it["id"]] = it
+
+    cutoff = (now_utc() - timedelta(days=MAX_AGE_DAYS)).isoformat().replace("+00:00", "Z")
+    kept = [it for it in merged.values() if (it.get("date") or stamp) >= cutoff]
 
     seen_links, seen_titles, unique = set(), set(), []
-    for it in sorted(all_items, key=lambda it: it["date"] or "", reverse=True):
+    for it in sorted(kept, key=lambda it: it["date"] or "", reverse=True):
         key_link, key_title = normalize_link(it["link"]), normalize_title(it["title"])
         if key_link in seen_links or key_title in seen_titles:
             continue
@@ -238,18 +240,24 @@ def main() -> int:
         seen_titles.add(key_title)
         unique.append(it)
 
+    per_source = {}
+    for it in unique:
+        per_source[it["source"]] = per_source.get(it["source"], 0) + 1
+    for st in statuses:
+        st["archived"] = per_source.get(st["name"], 0)
+
     generated = now_utc().isoformat().replace("+00:00", "Z")
     categories = [{"id": c["id"], "label": c["label"]} for c in config["categories"]]
     (DATA / "news.json").write_text(json.dumps(
         {"generated_at": generated, "categories": categories, "items": unique},
-        ensure_ascii=False, indent=1), encoding="utf-8")
+        ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     (DATA / "status.json").write_text(json.dumps(
         {"generated_at": generated, "sources": statuses}, ensure_ascii=False, indent=1), encoding="utf-8")
     launches = fetch_launches(load_json(DATA / "launches.json", None))
     (DATA / "launches.json").write_text(json.dumps(launches, ensure_ascii=False, indent=1), encoding="utf-8")
 
     ok = sum(s["ok"] for s in statuses)
-    print(f"{len(unique)} articles, {ok}/{len(statuses)} sources OK, "
+    print(f"{len(unique)} articles en archive ({MAX_AGE_DAYS} j), {ok}/{len(statuses)} sources OK, "
           f"{len(launches['launches'])} lancements, en {time.time() - started:.1f}s")
     return 0
 

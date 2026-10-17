@@ -3,7 +3,8 @@
 Ma page d'actu perso, en quatre rubriques : **finance, science, spatial, hôtellerie**.
 Elle compte aussi une section **Mes sélections** pour les articles que je commente, et une liste **À lire** pour garder un article de côté.
 
-- Les news arrivent toutes seules : toutes les 3 heures, GitHub relit les flux RSS des sources et republie le site.
+- Les news arrivent toutes seules : chaque matin vers 6-7 h, GitHub relit les flux RSS des sources et republie le site.
+- Les articles s'accumulent : chacun reste visible **30 jours** après sa publication, puis disparaît. La recherche fouille donc tout le dernier mois.
 - C'est gratuit : hébergement GitHub Pages, sans nom de domaine. L'adresse a la forme `https://TON-PSEUDO.github.io/veille/`.
 - Rien à installer sur ton ordinateur.
 
@@ -18,7 +19,7 @@ Elle compte aussi une section **Mes sélections** pour les articles que je comme
 
 ### 2. Envoie les fichiers
 1. Dans le nouveau dépôt, clique sur **uploading an existing file**.
-2. Dézippe `la-veille.zip`, puis glisse dans la page **tout le contenu** du dossier (`index.html`, `README.md`, `sources.json` et les dossiers `assets`, `data`, `scripts`).
+2. Dézippe `la-veille.zip`, puis glisse dans la page **tous les fichiers** du dossier.
 3. Clique sur **Commit changes**.
 
 > ⚠️ Le dossier `.github` est caché sur Mac et souvent sur Windows, et il ne part pas toujours avec le glisser-déposer. Vérifie qu'il est bien présent dans le dépôt. Sinon, crée le fichier à la main :
@@ -34,13 +35,13 @@ Elle compte aussi une section **Mes sélections** pour les articles que je comme
 3. Attends environ 1 à 2 minutes, jusqu'à la coche verte.
 4. Ton site est en ligne à l'adresse `https://TON-PSEUDO.github.io/veille/`. Le lien s'affiche aussi dans **Settings → Pages**.
 
-Ensuite, tout se fait seul toutes les 3 heures.
+Ensuite, tout se fait seul chaque matin. Pour forcer une mise à jour en journée : **Actions → Mise à jour des news → Run workflow**.
 
 ---
 
 ## Ajouter un article dans « Mes sélections »
 
-1. Dans le dépôt, ouvre `data/selections.json` et clique sur le crayon ✏️.
+1. Dans le dépôt, ouvre `selections.json` et clique sur le crayon ✏️.
 2. Ajoute un bloc comme celui-ci. Attention à la **virgule** entre deux blocs :
 
 ```json
@@ -77,7 +78,7 @@ Tout se trouve dans `sources.json`, une rubrique par bloc. Pour ajouter un flux,
 
 ## Vérifier que tout marche
 
-- En bas du site, **État des sources** montre chaque flux : point vert s'il est OK, rouge s'il est en panne. Quand une source tombe, ses derniers articles restent affichés.
+- En bas du site, **État des sources** montre chaque flux : point vert s'il est OK, rouge s'il est en panne. Quand une source tombe, ses articles déjà archivés restent affichés.
 - Dans l'onglet **Actions** de GitHub, chaque passage apparaît avec une coche verte, ou une croix rouge s'il y a eu un problème. Clique dessus pour voir le détail.
 
 ## Bon à savoir
@@ -85,21 +86,22 @@ Tout se trouve dans `sources.json`, une rubrique par bloc. Pour ajouter un flux,
 - **« Nouveau »** marque les articles parus depuis ta dernière visite. **Marquer comme vu** remet ce compteur à zéro.
 - **À lire** et le thème clair/sombre sont enregistrés **dans ton navigateur** : ils ne se synchronisent pas entre ton téléphone et ton ordinateur.
 - Le dépôt est public, donc tes sélections le sont aussi. Le site demande aux moteurs de recherche de ne pas l'indexer, mais toute personne qui a le lien peut le voir.
-- GitHub met parfois quelques minutes de retard sur l'horaire prévu. Si les news ne bougent plus du tout, va dans **Actions** : GitHub désactive les tâches planifiées des dépôts sans activité pendant 60 jours, et il suffit alors de cliquer sur **Enable workflow**.
+- GitHub met parfois jusqu'à une heure de retard sur l'horaire prévu. Si les news ne bougent plus du tout, va dans **Actions** : GitHub désactive les tâches planifiées des dépôts sans activité pendant 60 jours, et il suffit alors de cliquer sur **Enable workflow**.
 - Si l'étape « Enregistrer les données » échoue avec une erreur de permission : **Settings → Actions → General → Workflow permissions → Read and write permissions**.
 
 ## Structure
 
+Tous les fichiers sont à la racine du dépôt :
+
 ```
-index.html                 la page
-assets/style.css           le style (couleurs, typographie)
-assets/app.js              l'affichage, la recherche, les filtres
-sources.json               la liste des flux RSS
-data/selections.json       mes sélections (à modifier à la main)
-data/news.json             généré automatiquement — ne pas modifier
-data/status.json           généré automatiquement
-data/launches.json         prochains lancements (Launch Library 2), généré automatiquement
-scripts/fetch_feeds.py     le script qui lit les flux
-.github/workflows/update.yml   la tâche automatique (toutes les 3 h)
-workflow-a-copier.yml      copie visible de la tâche, utile seulement pour l'installation
+index.html             la page
+style.css              le style (couleurs, typographie)
+app.js                 l'affichage, la recherche, les filtres
+sources.json           la liste des flux RSS
+selections.json        mes sélections (à modifier à la main)
+news.json              généré automatiquement — ne pas modifier
+status.json            généré automatiquement
+launches.json          prochains lancements (Launch Library 2), généré automatiquement
+fetch_feeds.py         le script qui lit les flux
+.github/workflows/update.yml   la tâche automatique (chaque matin)
 ```

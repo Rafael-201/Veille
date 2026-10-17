@@ -237,7 +237,7 @@
     const intro = names.length ? `Sources : ${names.map(esc).join(", ")}.` : "";
     const launch = id === "spatial" && !state.q
       ? `<section class="panel launch-strip" data-cat="spatial"><h2>Prochains lancements</h2>${launchesBlock(6)}</section>` : "";
-    const body = items.length ? paged(items) : (state.q || state.lang !== "all" ? emptySearch() : `<div class="empty"><h2>Rien pour l’instant</h2><p>Aucun article récent dans cette rubrique. Les flux sont relus toutes les 3 heures.</p></div>`);
+    const body = items.length ? paged(items) : (state.q || state.lang !== "all" ? emptySearch() : `<div class="empty"><h2>Rien pour l’instant</h2><p>Aucun article récent dans cette rubrique. Les flux sont relus chaque matin.</p></div>`);
     return `<div class="feed-col" data-cat="${esc(id)}"><h2 class="page-title">${esc(cat.label)}</h2>
       <p class="page-intro">${intro}</p>${launch}${body}</div>`;
   }
@@ -317,7 +317,7 @@
     }
     const d = new Date(state.generatedAt);
     const ok = state.sources.filter((s) => s.ok).length;
-    const late = Date.now() - d > 12 * 3600 * 1000 ? " (en retard)" : "";
+    const late = Date.now() - d > 30 * 3600 * 1000 ? " (en retard)" : "";
     $("#updated").innerHTML = `Mis à jour <time datetime="${esc(state.generatedAt)}" title="${esc(fmtLongDate.format(d))} à ${fmtTime.format(d)}">${esc(relative(d))}</time>${late}`
       + (state.sources.length ? ` · ${ok}/${state.sources.length} sources` : "");
   }
@@ -325,7 +325,7 @@
   function renderSources() {
     $("#sources-list").innerHTML = state.sources.map((s) => `<li title="${esc(s.error || "")}">
       <span class="dot${s.ok ? "" : " err"}" aria-hidden="true"></span>
-      <span><b>${esc(s.name)}</b> · ${esc(catLabel(s.cat))} · ${s.ok ? `${s.count} article${s.count > 1 ? "s" : ""}` : "en panne" + (s.kept_previous ? ` (${s.kept_previous} conservés)` : "")}</span></li>`).join("")
+      <span><b>${esc(s.name)}</b> · ${esc(catLabel(s.cat))} · ${s.ok ? `${s.count} lu${s.count > 1 ? "s" : ""} ce matin` : "en panne"}${s.archived != null ? ` · ${s.archived} en archive` : ""}</span></li>`).join("")
       || "<li>Aucune information.</li>";
   }
 
