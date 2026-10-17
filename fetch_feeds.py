@@ -144,7 +144,7 @@ HOTEL_RX = _rx([
 ])
 DEAL_RX = re.compile(
     r"(?<![\w-])(acquires?|acquired|acquiring|acquisitions?|buys|bought|buying|sells|sold|selling|sale of|"
-    r"to sell|purchases?|purchased|divests?|offloads?|snaps up|picks up|changes hands|trades hands|recapitali[sz]\w*|"
+    r"to sell|purchases?|purchased|divests?|offloads?|snaps up|changes hands|trades hands|recapitali[sz]\w*|"
     r"takeover|merger|merges?|joint venture|refinanc\w+|portfolio deal|"
     r"acquiert|acquis|acquise|acquisition|rachète|rachètent|rachat|racheté|rachetée|cède|cèdent|cédé|cédée|cession|"
     r"vendu|vendue|vendus|achète|acheté|achetée|reprend|reprise|repris|fusion|"
@@ -166,7 +166,7 @@ REGION_WORDS = {
         "dallas", "houston", "austin", "chicago", "boston", "washington", "atlanta", "nashville", "orlando", "hawaii",
         "maui", "seattle", "denver", "phoenix", "new orleans", "san diego", "philadelphia", "arizona", "colorado",
         "american", "américain", "américains", "américaine", "américaines",
-        "canada", "canadian", "toronto", "montreal", "montréal", "vancouver", "quebec", "québec", "wall street",
+        "canada", "canadian", "toronto", "b.c.", "british columbia", "alberta", "ontario", "calgary", "ottawa", "montreal", "montréal", "vancouver", "quebec", "québec", "wall street",
         "s&p 500", "nasdaq", "dow", "dow jones", "federal reserve", "the fed", "treasury", "treasuries", "tsx",
     ],
     "amerique-latine": [
@@ -210,7 +210,7 @@ REGION_WORDS = {
         "thaïlande", "bangkok", "phuket", "vietnam", "viêt nam", "hanoi", "indonesia", "indonésie", "bali",
         "jakarta", "philippines", "manila", "india", "inde", "indian", "mumbai", "delhi", "goa", "sri lanka",
         "maldives", "nepal", "cambodia", "cambodge", "australia", "australie", "australian", "sydney", "melbourne",
-        "new zealand", "nouvelle-zélande", "fiji", "nikkei", "topix", "hang seng", "kospi", "sensex", "nifty",
+        "new zealand", "nouvelle-zélande", "auckland", "queenstown", "fiji", "brisbane", "perth", "gold coast", "nikkei", "topix", "hang seng", "kospi", "sensex", "nifty",
         "asx", "yen", "yuan",
     ],
     "afrique": [
@@ -251,6 +251,7 @@ def classify_region(text: str) -> str | None:
 NOT_HOTEL_DEAL_RX = _rx([
     "revenue management", "rms", "pms", "software", "logiciel", "logiciels", "saas", "tech", "technology",
     "start-up", "startup", "plateforme", "platform", "app", "application", "booking engine", "channel manager",
+    "own shares", "its shares", "buyback", "share buyback", "rachat d'actions", "ses propres actions", "bill", "tax bill",
 ])
 
 
@@ -312,7 +313,8 @@ def parse_feed(cat: dict, feed: dict, topic: dict | None = None) -> tuple[list[d
             item_topic = "marches"
         region = None
         if item_topic:
-            region = classify_region(title) or feed.get("region") or classify_region(summary) or "monde"
+            region = classify_region(title) or (None if feed.get("google_news") else feed.get("region")) \
+                or classify_region(summary) or "monde"
         items.append({
             "id": hashlib.sha1(normalize_link(link).encode()).hexdigest()[:12],
             "cat": cat["id"],
@@ -461,7 +463,8 @@ def main() -> int:
             it["topic"] = "marches"
         else:
             it["topic"] = None
-        it["region"] = (classify_region(it["title"]) or feed.get("region")
+        default_region = None if feed.get("google_news") else feed.get("region")
+        it["region"] = (classify_region(it["title"]) or default_region
                         or classify_region(it.get("summary") or "") or "monde") if it["topic"] else None
 
     cutoff = (now_utc() - timedelta(days=MAX_AGE_DAYS)).isoformat().replace("+00:00", "Z")
