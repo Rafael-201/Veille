@@ -284,7 +284,7 @@
         </li>`).join("")}</ul>`
       : `<p class="small-empty">${topic.id === "marches" ? "Pas d’actualité récente." : "Rien de repéré ces 30 derniers jours."}</p>`;
     const more = items.length > SHOWN_PER_REGION
-      ? `<button type="button" class="link-btn" data-open="${esc(key)}" aria-expanded="${isOpen}">${isOpen ? "Réduire" : `Afficher les ${items.length - SHOWN_PER_REGION} autres`}</button>` : "";
+      ? `<button type="button" class="link-btn" data-open="${esc(key)}" aria-expanded="${isOpen}">${isOpen ? "Réduire" : items.length - SHOWN_PER_REGION === 1 ? "Afficher l’autre" : `Afficher les ${items.length - SHOWN_PER_REGION} autres`}</button>` : "";
     return `<article class="region-card">
       <h3 class="region-name">${esc(region.label)}${items.length ? ` <span class="region-count">${items.length}</span>` : ""}</h3>
       ${indices.length ? `<div class="idx-grid">${indices.map(indexTile).join("")}</div>` : ""}
