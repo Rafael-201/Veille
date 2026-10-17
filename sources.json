@@ -1,50 +1,401 @@
 {
-  "_aide": "Liste des sources. Pour ajouter un flux : copie une ligne { name, url, lang } dans la bonne rubrique. 'exclude' (optionnel) écarte les articles dont le lien ou le titre contient l'un de ces mots.",
+  "_aide": "Liste des sources. Pour ajouter un flux : copie une ligne { name, url, lang } dans la bonne rubrique. 'exclude' (optionnel) écarte les articles dont le lien ou le titre contient l'un de ces mots. 'region' (optionnel) : région par défaut des articles de ce flux quand le titre n'en cite aucune. 'topics' : blocs Transactions (hôtellerie) et Marchés (finance), alimentés par des recherches Google News ('q' = la recherche). 'indices' : symboles Yahoo Finance affichés dans le bloc Marchés.",
+  "regions": [
+    {
+      "id": "amerique-nord",
+      "label": "Amérique du Nord"
+    },
+    {
+      "id": "amerique-latine",
+      "label": "Amérique latine"
+    },
+    {
+      "id": "europe",
+      "label": "Europe"
+    },
+    {
+      "id": "moyen-orient",
+      "label": "Moyen-Orient"
+    },
+    {
+      "id": "asie",
+      "label": "Asie-Pacifique"
+    },
+    {
+      "id": "afrique",
+      "label": "Afrique"
+    },
+    {
+      "id": "monde",
+      "label": "International"
+    }
+  ],
   "categories": [
     {
       "id": "finance",
       "label": "Finance",
       "feeds": [
-        { "name": "CNBC", "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html", "lang": "en" },
-        { "name": "Bloomberg Markets", "url": "https://feeds.bloomberg.com/markets/news.rss", "lang": "en" },
-        { "name": "MarketWatch", "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories", "lang": "en" },
-        { "name": "Les Echos", "url": "https://services.lesechos.fr/rss/les-echos-finance-marches.xml", "lang": "fr" },
-        { "name": "BFM Business", "url": "https://www.bfmtv.com/rss/economie/", "lang": "fr" },
-        { "name": "BCE", "url": "https://www.ecb.europa.eu/rss/press.html", "lang": "en" }
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+          "lang": "en",
+          "region": "amerique-nord"
+        },
+        {
+          "name": "Bloomberg Markets",
+          "url": "https://feeds.bloomberg.com/markets/news.rss",
+          "lang": "en"
+        },
+        {
+          "name": "MarketWatch",
+          "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+          "lang": "en",
+          "region": "amerique-nord"
+        },
+        {
+          "name": "Les Echos",
+          "url": "https://services.lesechos.fr/rss/les-echos-finance-marches.xml",
+          "lang": "fr",
+          "region": "europe"
+        },
+        {
+          "name": "BFM Business",
+          "url": "https://www.bfmtv.com/rss/economie/",
+          "lang": "fr",
+          "region": "europe"
+        },
+        {
+          "name": "BCE",
+          "url": "https://www.ecb.europa.eu/rss/press.html",
+          "lang": "en",
+          "region": "europe"
+        }
       ]
     },
     {
       "id": "science",
       "label": "Science",
       "feeds": [
-        { "name": "Nature", "url": "https://www.nature.com/nature.rss", "lang": "en" },
-        { "name": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/top/science.xml", "lang": "en" },
-        { "name": "Quanta Magazine", "url": "https://www.quantamagazine.org/feed/", "lang": "en" },
-        { "name": "New Scientist", "url": "https://www.newscientist.com/feed/home/", "lang": "en" },
-        { "name": "Futura", "url": "https://www.futura-sciences.com/rss/actualites.xml", "lang": "fr", "exclude": ["/conso/", "bons-plans", "remise", "promo"] }
+        {
+          "name": "Nature",
+          "url": "https://www.nature.com/nature.rss",
+          "lang": "en"
+        },
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/rss/top/science.xml",
+          "lang": "en"
+        },
+        {
+          "name": "Quanta Magazine",
+          "url": "https://www.quantamagazine.org/feed/",
+          "lang": "en"
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/feed/home/",
+          "lang": "en"
+        },
+        {
+          "name": "Futura",
+          "url": "https://www.futura-sciences.com/rss/actualites.xml",
+          "lang": "fr",
+          "exclude": [
+            "/conso/",
+            "bons-plans",
+            "remise",
+            "promo"
+          ]
+        }
       ]
     },
     {
       "id": "spatial",
       "label": "Spatial",
       "feeds": [
-        { "name": "SpaceNews", "url": "https://spacenews.com/feed/", "lang": "en" },
-        { "name": "NASASpaceflight", "url": "https://www.nasaspaceflight.com/feed/", "lang": "en" },
-        { "name": "Spaceflight Now", "url": "https://spaceflightnow.com/feed/", "lang": "en" },
-        { "name": "Space.com", "url": "https://www.space.com/feeds/all", "lang": "en", "exclude": ["/entertainment/", "/deals/", "best-"] },
-        { "name": "ESA", "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News", "lang": "en" },
-        { "name": "NASA", "url": "https://www.nasa.gov/feed/", "lang": "en" }
+        {
+          "name": "SpaceNews",
+          "url": "https://spacenews.com/feed/",
+          "lang": "en"
+        },
+        {
+          "name": "NASASpaceflight",
+          "url": "https://www.nasaspaceflight.com/feed/",
+          "lang": "en"
+        },
+        {
+          "name": "Spaceflight Now",
+          "url": "https://spaceflightnow.com/feed/",
+          "lang": "en"
+        },
+        {
+          "name": "Space.com",
+          "url": "https://www.space.com/feeds/all",
+          "lang": "en",
+          "exclude": [
+            "/entertainment/",
+            "/deals/",
+            "best-"
+          ]
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+          "lang": "en"
+        },
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/feed/",
+          "lang": "en"
+        }
       ]
     },
     {
       "id": "hotellerie",
       "label": "Hôtellerie",
       "feeds": [
-        { "name": "Hospitality ON", "url": "https://hospitality-on.com/fr/rss.xml", "lang": "fr" },
-        { "name": "Hotel Dive", "url": "https://www.hoteldive.com/feeds/news/", "lang": "en" },
-        { "name": "Hospitality Net", "url": "https://www.hospitalitynet.org/news/global.xml", "lang": "en" },
-        { "name": "Skift", "url": "https://skift.com/feed/", "lang": "en" }
+        {
+          "name": "Hospitality ON",
+          "url": "https://hospitality-on.com/fr/rss.xml",
+          "lang": "fr"
+        },
+        {
+          "name": "Hotel Dive",
+          "url": "https://www.hoteldive.com/feeds/news/",
+          "lang": "en",
+          "region": "amerique-nord"
+        },
+        {
+          "name": "Hospitality Net",
+          "url": "https://www.hospitalitynet.org/news/global.xml",
+          "lang": "en"
+        },
+        {
+          "name": "Skift",
+          "url": "https://skift.com/feed/",
+          "lang": "en"
+        }
       ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "transactions",
+      "cat": "hotellerie",
+      "label": "Transactions",
+      "match": "deals",
+      "intro": "Rachats, cessions et portefeuilles d’hôtels repérés ces 30 derniers jours, par marché.",
+      "feeds": [
+        {
+          "name": "Transactions · Amérique du Nord",
+          "region": "amerique-nord",
+          "lang": "en",
+          "google_news": {
+            "q": "hotel (acquires OR acquisition OR acquired OR sells OR sold OR buys OR \"sale of\") (US OR \"New York\" OR Florida OR California OR Texas OR Canada) when:7d"
+          }
+        },
+        {
+          "name": "Transactions · Amérique latine",
+          "region": "amerique-latine",
+          "lang": "en",
+          "google_news": {
+            "q": "hotel (acquires OR acquisition OR acquired OR sells OR sold OR buys OR \"sale of\") (Mexico OR Brazil OR Caribbean OR \"Latin America\" OR Colombia OR Chile OR Argentina OR Peru OR \"Costa Rica\") when:14d"
+          }
+        },
+        {
+          "name": "Transactions · Europe",
+          "region": "europe",
+          "lang": "en",
+          "google_news": {
+            "q": "hotel (acquires OR acquisition OR acquired OR sells OR sold OR buys OR \"sale of\") (Europe OR UK OR London OR Spain OR Germany OR Italy OR Portugal OR Greece OR Netherlands OR Switzerland) when:7d"
+          }
+        },
+        {
+          "name": "Transactions · Europe (FR)",
+          "region": "europe",
+          "lang": "fr",
+          "google_news": {
+            "q": "hôtel (rachète OR rachat OR acquiert OR cession OR cède OR vendu OR \"acquisition\") when:7d",
+            "lang": "fr"
+          }
+        },
+        {
+          "name": "Transactions · Moyen-Orient",
+          "region": "moyen-orient",
+          "lang": "en",
+          "google_news": {
+            "q": "hotel (acquires OR acquisition OR acquired OR sells OR sold OR buys OR \"sale of\") (Dubai OR \"Abu Dhabi\" OR Saudi OR UAE OR Qatar OR Oman OR Bahrain OR \"Middle East\") when:14d"
+          }
+        },
+        {
+          "name": "Transactions · Asie-Pacifique",
+          "region": "asie",
+          "lang": "en",
+          "google_news": {
+            "q": "hotel (acquires OR acquisition OR acquired OR sells OR sold OR buys OR \"sale of\") (Japan OR China OR Singapore OR India OR Thailand OR Australia OR Vietnam OR Indonesia OR Bali OR Maldives OR \"Hong Kong\") when:7d"
+          }
+        },
+        {
+          "name": "Transactions · Afrique",
+          "region": "afrique",
+          "lang": "en",
+          "google_news": {
+            "q": "hotel (acquires OR acquisition OR acquired OR sells OR sold OR buys OR \"sale of\") (Africa OR Morocco OR Egypt OR Kenya OR Nigeria OR Tanzania OR Mauritius OR \"South Africa\") when:30d"
+          }
+        },
+        {
+          "name": "Transactions · Afrique (FR)",
+          "region": "afrique",
+          "lang": "fr",
+          "google_news": {
+            "q": "hôtel (rachat OR acquiert OR cession OR rachète) (Maroc OR Sénégal OR \"Côte d'Ivoire\" OR Tunisie OR Afrique) when:30d",
+            "lang": "fr"
+          }
+        }
+      ]
+    },
+    {
+      "id": "marches",
+      "cat": "finance",
+      "label": "Marchés",
+      "match": "markets",
+      "intro": "Indices à la dernière clôture et actualité des marchés, par région.",
+      "feeds": [
+        {
+          "name": "Marchés · Amérique du Nord",
+          "region": "amerique-nord",
+          "lang": "en",
+          "google_news": {
+            "q": "(\"Wall Street\" OR \"S&P 500\" OR Nasdaq OR \"Dow Jones\" OR TSX) stocks when:2d"
+          }
+        },
+        {
+          "name": "Marchés · Amérique latine",
+          "region": "amerique-latine",
+          "lang": "en",
+          "google_news": {
+            "q": "(Ibovespa OR Bovespa OR \"Mexican peso\" OR \"Latin American stocks\" OR Merval OR \"Brazil stocks\") when:3d"
+          }
+        },
+        {
+          "name": "Marchés · Europe",
+          "region": "europe",
+          "lang": "en",
+          "google_news": {
+            "q": "(\"European shares\" OR \"Stoxx 600\" OR FTSE OR DAX OR \"European stocks\") when:2d"
+          }
+        },
+        {
+          "name": "Marchés · Europe (FR)",
+          "region": "europe",
+          "lang": "fr",
+          "google_news": {
+            "q": "(\"CAC 40\" OR \"Bourse de Paris\" OR \"Bourse suisse\" OR \"SMI\" OR \"marchés européens\") when:2d",
+            "lang": "fr"
+          }
+        },
+        {
+          "name": "Marchés · Moyen-Orient",
+          "region": "moyen-orient",
+          "lang": "en",
+          "google_news": {
+            "q": "(\"Gulf stocks\" OR \"Mideast stocks\" OR Tadawul OR \"Saudi stocks\" OR \"Dubai index\" OR \"Gulf bourses\") when:3d"
+          }
+        },
+        {
+          "name": "Marchés · Asie-Pacifique",
+          "region": "asie",
+          "lang": "en",
+          "google_news": {
+            "q": "(Nikkei OR \"Hang Seng\" OR \"Asian shares\" OR \"Asian stocks\" OR Kospi OR \"Shanghai Composite\" OR Sensex OR \"ASX 200\") when:2d"
+          }
+        },
+        {
+          "name": "Marchés · Afrique",
+          "region": "afrique",
+          "lang": "en",
+          "google_news": {
+            "q": "(JSE OR \"Nigerian stocks\" OR EGX30 OR \"African markets\" OR \"South African rand\") when:5d"
+          }
+        }
+      ]
+    }
+  ],
+  "indices": [
+    {
+      "symbol": "^GSPC",
+      "name": "S&P 500",
+      "region": "amerique-nord"
+    },
+    {
+      "symbol": "^IXIC",
+      "name": "Nasdaq",
+      "region": "amerique-nord"
+    },
+    {
+      "symbol": "^DJI",
+      "name": "Dow Jones",
+      "region": "amerique-nord"
+    },
+    {
+      "symbol": "^BVSP",
+      "name": "Ibovespa",
+      "region": "amerique-latine"
+    },
+    {
+      "symbol": "^MXX",
+      "name": "IPC Mexique",
+      "region": "amerique-latine"
+    },
+    {
+      "symbol": "^STOXX50E",
+      "name": "Euro Stoxx 50",
+      "region": "europe"
+    },
+    {
+      "symbol": "^FCHI",
+      "name": "CAC 40",
+      "region": "europe"
+    },
+    {
+      "symbol": "^GDAXI",
+      "name": "DAX",
+      "region": "europe"
+    },
+    {
+      "symbol": "^SSMI",
+      "name": "SMI",
+      "region": "europe"
+    },
+    {
+      "symbol": "^TASI.SR",
+      "name": "Tadawul (TASI)",
+      "region": "moyen-orient"
+    },
+    {
+      "symbol": "^N225",
+      "name": "Nikkei 225",
+      "region": "asie"
+    },
+    {
+      "symbol": "^HSI",
+      "name": "Hang Seng",
+      "region": "asie"
+    },
+    {
+      "symbol": "000001.SS",
+      "name": "Shanghai Composite",
+      "region": "asie"
+    },
+    {
+      "symbol": "^J203.JO",
+      "name": "JSE All Share",
+      "region": "afrique"
+    },
+    {
+      "symbol": "^CASE30",
+      "name": "EGX 30",
+      "region": "afrique"
     }
   ]
 }

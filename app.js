@@ -26,6 +26,7 @@
 
   const state = {
     cats: [], items: [], launches: [], selections: [], sources: [], generatedAt: null,
+    topics: [], regions: [], indices: [], open: {},
     q: "", lang: store.get("veille.lang", "all"), shown: PAGE,
     saved: store.get("veille.saved", []),
     lastVisit: store.get("veille.lastVisit", null),
@@ -88,7 +89,8 @@
     const hay = fold(`${it.title} ${it.summary || ""} ${it.source} ${it.note || ""}`);
     return fold(state.q).split(/\s+/).filter(Boolean).every((w) => hay.includes(w));
   }
-  const filtered = (cat) => state.items.filter((it) => (!cat || it.cat === cat) && matches(it));
+  const filtered = (cat, { withTopics = false } = {}) =>
+    state.items.filter((it) => (!cat || it.cat === cat) && (withTopics || !it.topic) && matches(it));
 
   function currentView() {
     const id = location.hash.replace(/^#/, "");
@@ -223,7 +225,7 @@
   }
 
   function viewResults() {
-    const items = filtered();
+    const items = filtered(null, { withTopics: true });
     if (!items.length) return emptySearch();
     return `<div class="feed-col"><h2 class="page-title">Résultats</h2>
       <p class="page-intro">${items.length} article${items.length > 1 ? "s" : ""} pour « ${esc(state.q)} ».</p>
@@ -232,14 +234,77 @@
 
   function viewCategory(id) {
     const cat = state.cats.find((c) => c.id === id);
-    const items = filtered(id);
-    const names = [...new Set(state.sources.filter((s) => s.cat === id).map((s) => s.name))];
-    const intro = names.length ? `Sources : ${names.map(esc).join(", ")}.` : "";
+    const items = filtered(id, { withTopics: !!state.q });
+    const topicBlocks = state.q ? "" : state.topics.filter((t) => t.cat === id).map(topicBlock).join("");
+    const names = [...new Set(state.sources.filter((s) => s.cat === id && !s.topic).map((s) => s.name))];
+    const hasTopic = state.sources.some((s) => s.cat === id && s.topic);
+    const intro = names.length ? `Sources : ${names.map(esc).join(", ")}${hasTopic ? ", et des recherches Google News par région" : ""}.` : "";
     const launch = id === "spatial" && !state.q
       ? `<section class="panel launch-strip" data-cat="spatial"><h2>Prochains lancements</h2>${launchesBlock(6)}</section>` : "";
     const body = items.length ? paged(items) : (state.q || state.lang !== "all" ? emptySearch() : `<div class="empty"><h2>Rien pour l’instant</h2><p>Aucun article récent dans cette rubrique. Les flux sont relus chaque matin.</p></div>`);
     return `<div class="feed-col" data-cat="${esc(id)}"><h2 class="page-title">${esc(cat.label)}</h2>
-      <p class="page-intro">${intro}</p>${launch}${body}</div>`;
+      <p class="page-intro">${intro}</p>${topicBlocks}${launch}
+      ${topicBlocks ? `<h2 class="stream-title">Toute l’actualité ${esc(cat.label.toLowerCase())}</h2>` : ""}${body}</div>`;
+  }
+
+  /* ---------- Blocs par région : Transactions (hôtellerie) et Marchés (finance) ---------- */
+  const SHOWN_PER_REGION = 4;
+  const fmtNum = new Intl.NumberFormat("fr-CH", { maximumFractionDigits: 2, minimumFractionDigits: 2 });
+  const fmtPct = new Intl.NumberFormat("fr-CH", { maximumFractionDigits: 2, minimumFractionDigits: 2, signDisplay: "exceptZero" });
+  const fmtPct1 = new Intl.NumberFormat("fr-CH", { maximumFractionDigits: 1, minimumFractionDigits: 1, signDisplay: "exceptZero" });
+  const fmtDayShort = new Intl.DateTimeFormat("fr-FR", { day: "numeric", month: "short" });
+
+  function pct(v, label) {
+    if (v == null) return "";
+    const cls = v > 0 ? "up" : v < 0 ? "down" : "flat";
+    const arrow = v > 0 ? "▲" : v < 0 ? "▼" : "■";
+    return `<span class="pct ${cls}"${label ? ` title="${esc(label)}"` : ""}><span aria-hidden="true">${arrow}</span> ${esc(fmtPct.format(v))} %</span>`;
+  }
+
+  function indexTile(ix) {
+    if (ix.last == null) return "";
+    const d = ix.date ? new Date(`${ix.date}T12:00:00`) : null;
+    return `<div class="idx${ix.stale ? " stale" : ""}">
+      <p class="idx-name"><span>${esc(ix.name)}</span>${d ? `<time datetime="${esc(ix.date)}" title="Dernière clôture">${esc(fmtDayShort.format(d))}</time>` : ""}</p>
+      <p class="idx-value">${esc(fmtNum.format(ix.last))}</p>
+      <p class="idx-change">${pct(ix.change_pct, "Variation sur la dernière séance")}</p>
+      <p class="idx-meta">${ix.month_pct != null ? `1 mois ${esc(fmtPct1.format(ix.month_pct))} %` : ""}</p>
+    </div>`;
+  }
+
+  function regionCard(topic, region, items) {
+    const key = `${topic.id}:${region.id}`;
+    const isOpen = !!state.open[key];
+    const shown = isOpen ? items : items.slice(0, SHOWN_PER_REGION);
+    const indices = topic.id === "marches" ? state.indices.filter((ix) => ix.region === region.id && ix.last != null) : [];
+    const list = items.length
+      ? `<ul class="deal-list">${shown.map((it) => `<li>
+          <a href="${esc(safeUrl(it.link))}" target="_blank" rel="noopener">${esc(it.title)}</a>
+          <span class="deal-meta">${esc(it.source)}${it.date ? ` · <time datetime="${esc(it.date)}">${esc(relative(new Date(it.date)))}</time>` : ""}${it.lang && it.lang !== "fr" ? ' <span class="lang">EN</span>' : ""}${isNew(it) ? ' <span class="is-new">Nouveau</span>' : ""}</span>
+        </li>`).join("")}</ul>`
+      : `<p class="small-empty">${topic.id === "marches" ? "Pas d’actualité récente." : "Rien de repéré ces 30 derniers jours."}</p>`;
+    const more = items.length > SHOWN_PER_REGION
+      ? `<button type="button" class="link-btn" data-open="${esc(key)}" aria-expanded="${isOpen}">${isOpen ? "Réduire" : `Afficher les ${items.length - SHOWN_PER_REGION} autres`}</button>` : "";
+    return `<article class="region-card">
+      <h3 class="region-name">${esc(region.label)}${items.length ? ` <span class="region-count">${items.length}</span>` : ""}</h3>
+      ${indices.length ? `<div class="idx-grid">${indices.map(indexTile).join("")}</div>` : ""}
+      ${list}${more}
+    </article>`;
+  }
+
+  function topicBlock(topic) {
+    const items = state.items.filter((it) => it.topic === topic.id && matches(it));
+    const regions = state.regions.length ? state.regions : [{ id: "monde", label: "International" }];
+    const cards = regions.map((r) => {
+      const inRegion = items.filter((it) => (it.region || "monde") === r.id);
+      if (r.id === "monde" && !inRegion.length) return "";
+      return regionCard(topic, r, inRegion);
+    }).join("");
+    return `<section class="topic-block" data-topic="${esc(topic.id)}" aria-labelledby="t-${esc(topic.id)}">
+      <div class="topic-head"><h2 id="t-${esc(topic.id)}">${esc(topic.label)}</h2>
+      <p>${esc(topic.intro || "")}</p></div>
+      <div class="region-grid">${cards}</div>
+    </section>`;
   }
 
   function viewSelections() {
@@ -351,9 +416,12 @@
     return res.json();
   }
 
-  function apply({ news, launches, selections, status, previewLastVisit }) {
+  function apply({ news, launches, selections, status, markets, previewLastVisit }) {
     if (previewLastVisit && !state.lastVisit) state.lastVisit = previewLastVisit;
     state.cats = news.categories || [];
+    state.topics = news.topics || [];
+    state.regions = news.regions || [];
+    state.indices = (markets && markets.indices) || [];
     state.items = news.items || [];
     state.generatedAt = news.generated_at || null;
     state.launches = (launches && launches.launches) || [];
@@ -370,8 +438,9 @@
   async function load() {
     state.error = null;
     if (window.__VEILLE__) { apply(window.__VEILLE__); render(); renderSources(); return; }
-    const [news, launches, selections, status] = await Promise.allSettled([
+    const [news, launches, selections, status, markets] = await Promise.allSettled([
       getJSON("news.json"), getJSON("launches.json"), getJSON("selections.json"), getJSON("status.json"),
+      getJSON("markets.json"),
     ]);
     if (news.status === "rejected") {
       state.error = news.reason && news.reason.message ? news.reason.message : "erreur inconnue";
@@ -379,7 +448,7 @@
       return;
     }
     const val = (r) => (r.status === "fulfilled" ? r.value : null);
-    apply({ news: news.value, launches: val(launches), selections: val(selections), status: val(status) });
+    apply({ news: news.value, launches: val(launches), selections: val(selections), status: val(status), markets: val(markets) });
     render();
     renderSources();
   }
@@ -403,6 +472,17 @@
   }
 
   document.addEventListener("click", (e) => {
+    const opener = e.target.closest("[data-open]");
+    if (opener) {
+      const key = opener.dataset.open;
+      state.open[key] = !state.open[key];
+      const y = window.scrollY;
+      render();
+      window.scrollTo(0, y);
+      const again = document.querySelector(`[data-open="${CSS.escape(key)}"]`);
+      if (again) again.focus({ preventScroll: true });
+      return;
+    }
     const save = e.target.closest("[data-save]");
     if (save) { toggleSave(save.dataset.save); return; }
     if (e.target.closest("[data-more]")) {

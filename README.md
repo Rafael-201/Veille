@@ -40,6 +40,13 @@ Ensuite, tout se fait seul chaque matin. Pour forcer une mise à jour en journé
 
 ---
 
+## Blocs « Transactions » et « Marchés »
+
+- **Hôtellerie → Transactions** : rachats, cessions et portefeuilles d'hôtels, classés par marché (Amérique du Nord, Amérique latine, Europe, Moyen-Orient, Asie-Pacifique, Afrique, International). Alimenté par des recherches Google News par région et par les articles des sources hôtelières qui parlent d'une transaction.
+- **Finance → Marchés** : indices à la dernière clôture (Yahoo Finance), avec la variation de la séance et sur un mois, et l'actualité des marchés de chaque région.
+- Le classement par région est automatique, à partir des lieux cités dans le titre. Il peut parfois se tromper, par exemple pour un hôtel londonien racheté par un fonds de Dubaï.
+- Pour modifier les recherches, les régions ou les indices : `sources.json`, sections `topics`, `regions` et `indices`.
+
 ## Ajouter un article dans « Mes sélections »
 
 1. Dans le dépôt, ouvre `selections.json` et clique sur le crayon ✏️.
@@ -103,6 +110,7 @@ selections.json        mes sélections (à modifier à la main)
 news.json              généré automatiquement — ne pas modifier
 status.json            généré automatiquement
 launches.json          prochains lancements (Launch Library 2), généré automatiquement
+markets.json           indices boursiers (Yahoo Finance), généré automatiquement
 fetch_feeds.py         le script qui lit les flux
 .github/workflows/update.yml   la tâche automatique (chaque matin)
 ```
