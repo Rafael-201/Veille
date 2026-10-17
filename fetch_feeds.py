@@ -274,6 +274,19 @@ def is_market(title: str) -> bool:
     return bool(MARKET_RX.search(title))
 
 
+def topic_rejects(topic: dict | None, title: str, source: str | None) -> bool:
+    """Vrai si l'article ne doit pas figurer dans le bloc (filtre du bloc, éditeur ou motif exclu)."""
+    if not topic:
+        return False
+    if topic.get("match") == "deals" and not is_deal(title):
+        return True
+    if topic.get("match") == "markets" and not is_market(title):
+        return True
+    if source and source.lower() in {x.lower() for x in topic.get("exclude_sources", [])}:
+        return True
+    return any(re.search(rx, title, re.I) for rx in topic.get("exclude_patterns", []))
+
+
 def parse_feed(cat: dict, feed: dict, topic: dict | None = None) -> tuple[list[dict], dict]:
     url = feed_url(feed)
     status = {"name": feed["name"], "cat": cat["id"], "topic": topic["id"] if topic else None, "url": url,
@@ -302,9 +315,7 @@ def parse_feed(cat: dict, feed: dict, topic: dict | None = None) -> tuple[list[d
             publisher = clean_text((entry.get("source") or {}).get("title")) or None
             if publisher and title.endswith(f" - {publisher}"):
                 title = title[: -len(publisher) - 3].rstrip()
-        if topic and topic.get("match") == "deals" and not is_deal(title):
-            continue
-        if topic and topic.get("match") == "markets" and not is_market(title):
+        if topic_rejects(topic, title, publisher):
             continue
         haystack = f"{title} {link}".lower()
         if any(word in haystack for word in excludes):
@@ -467,8 +478,7 @@ def main() -> int:
     for key in list(merged):
         it = merged[key]
         cat, feed, topic = feeds_by_name[it["feed"]]
-        if topic and ((topic.get("match") == "deals" and not is_deal(it["title"]))
-                      or (topic.get("match") == "markets" and not is_market(it["title"]))):
+        if topic_rejects(topic, it["title"], it.get("source")):
             del merged[key]
             continue
         if topic:

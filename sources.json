@@ -252,6 +252,10 @@
             "lang": "fr"
           }
         }
+      ],
+      "exclude_sources": [
+        "Stock Titan",
+        "MarketBeat"
       ]
     },
     {
@@ -318,6 +322,31 @@
             "q": "(JSE OR \"Nigerian stocks\" OR EGX30 OR \"African markets\" OR \"South African rand\") when:5d"
           }
         }
+      ],
+      "exclude_sources": [
+        "MarketBeat",
+        "Stock Titan",
+        "TradingView",
+        "Benzinga",
+        "Zacks",
+        "Zacks Investment Research",
+        "Simply Wall St",
+        "Investing.com India",
+        "ts2.tech",
+        "AInvest",
+        "Sahm",
+        "Defense World",
+        "ETF Daily News",
+        "Insider Monkey",
+        "Nasdaq"
+      ],
+      "exclude_patterns": [
+        "\\((NASDAQ|NYSE|NYSEARCA|AMEX|OTC|TSX|LON|ASX)\\s*:",
+        "moving average",
+        "price target",
+        "shares (sold|bought|acquired) by",
+        "stake (in|raised|lowered|trimmed)",
+        "\\bBC-"
       ]
     }
   ],
