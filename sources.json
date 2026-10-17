@@ -256,6 +256,9 @@
       "exclude_sources": [
         "Stock Titan",
         "MarketBeat"
+      ],
+      "exclude_patterns": [
+        "[؀-ۿ]"
       ]
     },
     {
@@ -346,7 +349,15 @@
         "price target",
         "shares (sold|bought|acquired) by",
         "stake (in|raised|lowered|trimmed)",
-        "\\bBC-"
+        "\\bBC-",
+        "stock price today",
+        "quotes? (&|and) news",
+        "\\bcours action\\b",
+        "\\bcotation\\b",
+        "\\|.*\\|",
+        "nikkei reports",
+        "[؀-ۿ]",
+        "\\blive (chart|price)\\b"
       ]
     }
   ],
