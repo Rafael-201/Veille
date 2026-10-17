@@ -5,6 +5,7 @@ Elle compte aussi une section **Mes sélections** pour les articles que je comme
 
 - Les news arrivent toutes seules : chaque matin vers 6-7 h, GitHub relit les flux RSS des sources et republie le site.
 - Les articles s'accumulent : chacun reste visible **30 jours** après sa publication, puis disparaît. La recherche fouille donc tout le dernier mois.
+- **3 articles maximum par source** à chaque mise à jour, et jamais plus de 3 par source pour un même jour (les plus récents). Réglable en haut de `fetch_feeds.py` (`MAX_PER_FEED`, `MAX_PER_DAY`).
 - C'est gratuit : hébergement GitHub Pages, sans nom de domaine. L'adresse a la forme `https://TON-PSEUDO.github.io/veille/`.
 - Rien à installer sur ton ordinateur.
 

@@ -20,6 +20,7 @@ import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
 from pathlib import Path
 
 import feedparser
@@ -29,10 +30,12 @@ SOURCES = ROOT / "sources.json"
 DATA = ROOT  # tous les fichiers sont à la racine du dépôt
 
 MAX_AGE_DAYS = 30        # un article reste affiché 30 jours après sa publication
-MAX_PER_FEED = 60        # articles lus par source à chaque passage
+MAX_PER_FEED = 3         # nouveaux articles retenus par source à chaque mise à jour
+MAX_PER_DAY = 3          # et jamais plus de 3 par source pour un même jour (même si on relance à la main)
 SUMMARY_CHARS = 220      # longueur max du résumé affiché
 TIMEOUT = 20
 USER_AGENT = "Mozilla/5.0 (compatible; VeillePerso/1.0; lecteur RSS personnel)"
+LOCAL_TZ = ZoneInfo("Europe/Zurich")
 LAUNCHES_URL = "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=8&mode=list"
 
 TAG_RE = re.compile(r"<[^>]+>")
@@ -163,6 +166,14 @@ def parse_feed(cat: dict, feed: dict) -> tuple[list[dict], dict]:
     return items, status
 
 
+def local_day(iso: str | None) -> str:
+    """Jour de publication à l'heure de Genève (AAAA-MM-JJ)."""
+    try:
+        return datetime.fromisoformat(iso.replace("Z", "+00:00")).astimezone(LOCAL_TZ).date().isoformat()
+    except (AttributeError, ValueError):
+        return ""
+
+
 def load_json(path: Path, default):
     try:
         return json.loads(path.read_text(encoding="utf-8"))
@@ -231,11 +242,15 @@ def main() -> int:
     cutoff = (now_utc() - timedelta(days=MAX_AGE_DAYS)).isoformat().replace("+00:00", "Z")
     kept = [it for it in merged.values() if (it.get("date") or stamp) >= cutoff]
 
-    seen_links, seen_titles, unique = set(), set(), []
+    seen_links, seen_titles, unique, per_day = set(), set(), [], {}
     for it in sorted(kept, key=lambda it: it["date"] or "", reverse=True):
         key_link, key_title = normalize_link(it["link"]), normalize_title(it["title"])
         if key_link in seen_links or key_title in seen_titles:
             continue
+        day = local_day(it["date"])
+        if per_day.get((it["source"], day), 0) >= MAX_PER_DAY:
+            continue
+        per_day[(it["source"], day)] = per_day.get((it["source"], day), 0) + 1
         seen_links.add(key_link)
         seen_titles.add(key_title)
         unique.append(it)
