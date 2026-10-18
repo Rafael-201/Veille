@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T07:42:16Z",
+ "generated_at": "2026-10-18T09:41:18Z",
  "indices": [
   {
    "symbol": "^GSPC",
@@ -59,7 +59,7 @@
    "change_pct": 0.58,
    "month_pct": -0.99,
    "date": "2026-10-16",
-   "currency": null
+   "currency": "EUR"
   },
   {
    "symbol": "^FCHI",
@@ -95,10 +95,10 @@
    "symbol": "^TASI.SR",
    "name": "Tadawul (TASI)",
    "region": "moyen-orient",
-   "last": 10106.54,
-   "change_pct": -0.32,
-   "month_pct": -0.32,
-   "date": "2026-10-15",
+   "last": 10189.69,
+   "change_pct": 0.82,
+   "month_pct": 0.82,
+   "date": "2026-10-18",
    "currency": "SAR"
   },
   {
@@ -145,10 +145,10 @@
    "symbol": "^CASE30",
    "name": "EGX 30",
    "region": "afrique",
-   "last": 52273.3,
-   "change_pct": 1.52,
-   "month_pct": 1.52,
-   "date": "2026-10-15",
+   "last": 51415.6,
+   "change_pct": -0.15,
+   "month_pct": -0.15,
+   "date": "2026-10-18",
    "currency": "EGP"
   }
  ]

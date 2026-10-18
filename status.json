@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T07:42:16Z",
+ "generated_at": "2026-10-18T09:41:17Z",
  "sources": [
   {
    "name": "CNBC",
@@ -9,7 +9,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 6
+   "archived": 8
   },
   {
    "name": "Bloomberg Markets",
@@ -19,7 +19,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 6
+   "archived": 9
   },
   {
    "name": "MarketWatch",
@@ -29,7 +29,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 3
+   "archived": 6
   },
   {
    "name": "Les Echos",
@@ -39,7 +39,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 8
+   "archived": 9
   },
   {
    "name": "BFM Business",
@@ -49,7 +49,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 6
+   "archived": 9
   },
   {
    "name": "BCE",
@@ -79,7 +79,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 27
+   "archived": 30
   },
   {
    "name": "Quanta Magazine",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 6
+   "archived": 7
   },
   {
    "name": "Futura",
@@ -109,7 +109,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 11
+   "archived": 14
   },
   {
    "name": "SpaceNews",
@@ -149,7 +149,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 15
+   "archived": 18
   },
   {
    "name": "ESA",
@@ -169,7 +169,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 7
+   "archived": 8
   },
   {
    "name": "Hospitality ON",
@@ -209,7 +209,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 6
+   "archived": 7
   },
   {
    "name": "Transactions · Amérique du Nord",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 2
+   "archived": 3
   },
   {
    "name": "Transactions · Amérique latine",
@@ -227,7 +227,7 @@
    "topic": "transactions",
    "url": "https://news.google.com/rss/search?q=hotel+%28acquires+OR+acquisition+OR+acquired+OR+sells+OR+sold+OR+buys+OR+%22sale+of%22%29+%28Mexico+OR+Brazil+OR+Caribbean+OR+%22Latin+America%22+OR+Colombia+OR+Chile+OR+Argentina+OR+Peru+OR+%22Costa+Rica%22%29+when%3A14d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "count": 2,
+   "count": 1,
    "error": null,
    "archived": 3
   },
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 1
+   "archived": 2
   },
   {
    "name": "Transactions · Asie-Pacifique",
@@ -279,7 +279,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 3
+   "archived": 4
   },
   {
    "name": "Transactions · Afrique (FR)",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 3
+   "archived": 6
   },
   {
    "name": "Marchés · Amérique latine",
@@ -309,7 +309,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 3
+   "archived": 5
   },
   {
    "name": "Marchés · Europe",
@@ -329,7 +329,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 3
+   "archived": 6
   },
   {
    "name": "Marchés · Moyen-Orient",
@@ -349,7 +349,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 3
+   "archived": 6
   },
   {
    "name": "Marchés · Afrique",
@@ -359,7 +359,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 4
+   "archived": 6
   }
  ]
 }

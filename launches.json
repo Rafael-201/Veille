@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T07:42:16Z",
+ "generated_at": "2026-10-18T09:41:18Z",
  "launches": [
   {
    "name": "Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
@@ -68,26 +68,26 @@
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_launch_2_image_20251206093107.jpeg"
   },
   {
+   "name": "Long March 6A | Unknown Payload",
+   "net": "2026-10-23T10:15:00Z",
+   "status": "Go",
+   "status_label": "Go for Launch",
+   "provider": "China Aerospace Science and Technology Corporation",
+   "pad": "Launch Complex 9A",
+   "location": "Taiyuan Satellite Launch Center, People's Republic of China",
+   "mission_type": "Unknown",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_6a__image_20251209050223.jpeg"
+  },
+  {
    "name": "Long March 4B | Unknown Payload",
-   "net": "2026-10-23T18:00:00Z",
-   "status": "TBC",
-   "status_label": "To Be Confirmed",
+   "net": "2026-10-23T19:25:00Z",
+   "status": "Go",
+   "status_label": "Go for Launch",
    "provider": "China Aerospace Science and Technology Corporation",
    "pad": "Launch Area 94 (SLS-2 / 603)",
    "location": "Jiuquan Satellite Launch Center, People's Republic of China",
    "mission_type": "Unknown",
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_4b_l_image_20251209044050.jpeg"
-  },
-  {
-   "name": "Falcon 9 Block 5 | Starlink Group 15-16",
-   "net": "2026-10-24T05:29:00Z",
-   "status": "Go",
-   "status_label": "Go for Launch",
-   "provider": "SpaceX",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "mission_type": "Communications",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png"
   }
  ]
 }
