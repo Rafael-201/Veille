@@ -1,17 +1,6 @@
 {
- "generated_at": "2026-10-18T09:41:18Z",
+ "generated_at": "2026-10-19T10:51:49Z",
  "launches": [
-  {
-   "name": "Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
-   "net": "2026-10-19T10:30:00Z",
-   "status": "Go",
-   "status_label": "Go for Launch",
-   "provider": "SpaceX",
-   "pad": "Space Launch Complex 40",
-   "location": "Cape Canaveral SFS, FL, USA",
-   "mission_type": "Dedicated Rideshare",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20251102082912.jpg"
-  },
   {
    "name": "H3-24 | Martian Moons eXploration (MMX)",
    "net": "2026-10-19T19:41:03Z",
@@ -22,6 +11,17 @@
    "location": "Tanegashima Space Center, Japan",
    "mission_type": "Planetary Science",
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h3-24_liftoff__image_20251028184029.jpeg"
+  },
+  {
+   "name": "Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
+   "net": "2026-10-20T10:30:00Z",
+   "status": "Go",
+   "status_label": "Go for Launch",
+   "provider": "SpaceX",
+   "pad": "Space Launch Complex 40",
+   "location": "Cape Canaveral SFS, FL, USA",
+   "mission_type": "Dedicated Rideshare",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20251102082912.jpg"
   },
   {
    "name": "Falcon 9 Block 5 | Starlink Group 15-15",

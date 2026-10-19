@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T09:41:17Z",
+ "generated_at": "2026-10-19T10:51:49Z",
  "sources": [
   {
    "name": "CNBC",
@@ -9,7 +9,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 8
+   "archived": 11
   },
   {
    "name": "Bloomberg Markets",
@@ -19,7 +19,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 9
+   "archived": 12
   },
   {
    "name": "MarketWatch",
@@ -29,7 +29,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 6
+   "archived": 9
   },
   {
    "name": "Les Echos",
@@ -39,7 +39,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 9
+   "archived": 12
   },
   {
    "name": "BFM Business",
@@ -49,7 +49,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 9
+   "archived": 12
   },
   {
    "name": "BCE",
@@ -59,16 +59,16 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 15
+   "archived": 16
   },
   {
    "name": "Nature",
    "cat": "science",
    "topic": null,
    "url": "https://www.nature.com/nature.rss",
-   "ok": true,
-   "count": 3,
-   "error": null,
+   "ok": false,
+   "count": 0,
+   "error": "Aucun article lu (<unknown>:15:4: not well-formed (invalid token))",
    "archived": 9
   },
   {
@@ -79,7 +79,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 30
+   "archived": 33
   },
   {
    "name": "Quanta Magazine",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 7
+   "archived": 10
   },
   {
    "name": "Futura",
@@ -109,7 +109,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 14
+   "archived": 17
   },
   {
    "name": "SpaceNews",
@@ -129,7 +129,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 10
+   "archived": 12
   },
   {
    "name": "Spaceflight Now",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 10
+   "archived": 11
   },
   {
    "name": "Space.com",
@@ -149,7 +149,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 18
+   "archived": 21
   },
   {
    "name": "ESA",
@@ -169,7 +169,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 8
+   "archived": 10
   },
   {
    "name": "Hospitality ON",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 33
+   "archived": 34
   },
   {
    "name": "Hotel Dive",
@@ -199,7 +199,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 5
+   "archived": 8
   },
   {
    "name": "Skift",
@@ -209,7 +209,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 7
+   "archived": 9
   },
   {
    "name": "Transactions · Amérique du Nord",
@@ -239,7 +239,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 3
+   "archived": 4
   },
   {
    "name": "Transactions · Europe (FR)",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 2
+   "archived": 4
   },
   {
    "name": "Transactions · Asie-Pacifique",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 6
+   "archived": 8
   },
   {
    "name": "Marchés · Amérique latine",
@@ -309,7 +309,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 5
+   "archived": 8
   },
   {
    "name": "Marchés · Europe",
@@ -319,7 +319,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 3
+   "archived": 5
   },
   {
    "name": "Marchés · Europe (FR)",
@@ -329,7 +329,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 6
+   "archived": 9
   },
   {
    "name": "Marchés · Moyen-Orient",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 2
+   "archived": 5
   },
   {
    "name": "Marchés · Asie-Pacifique",
@@ -349,7 +349,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 6
+   "archived": 9
   },
   {
    "name": "Marchés · Afrique",
@@ -359,7 +359,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 6
+   "archived": 9
   }
  ]
 }
