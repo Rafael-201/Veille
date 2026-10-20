@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-19T10:51:49Z",
+ "generated_at": "2026-10-20T10:08:37Z",
  "launches": [
   {
    "name": "H3-24 | Martian Moons eXploration (MMX)",
    "net": "2026-10-19T19:41:03Z",
-   "status": "Go",
-   "status_label": "Go for Launch",
+   "status": "Success",
+   "status_label": "Launch Successful",
    "provider": "Mitsubishi Heavy Industries",
    "pad": "Yoshinobu Launch Complex LP-2",
    "location": "Tanegashima Space Center, Japan",
@@ -14,7 +14,7 @@
   },
   {
    "name": "Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
-   "net": "2026-10-20T10:30:00Z",
+   "net": "2026-10-20T11:04:00Z",
    "status": "Go",
    "status_label": "Go for Launch",
    "provider": "SpaceX",
@@ -25,7 +25,7 @@
   },
   {
    "name": "Falcon 9 Block 5 | Starlink Group 15-15",
-   "net": "2026-10-20T22:14:00Z",
+   "net": "2026-10-20T23:10:02Z",
    "status": "Go",
    "status_label": "Go for Launch",
    "provider": "SpaceX",
@@ -47,11 +47,11 @@
   },
   {
    "name": "Electron | We're Not Hawking Around (3x HawkEye 360)",
-   "net": "2026-10-21T05:00:00Z",
-   "status": "TBC",
-   "status_label": "To Be Confirmed",
+   "net": "2026-10-21T07:00:00Z",
+   "status": "Go",
+   "status_label": "Go for Launch",
    "provider": "Rocket Lab",
-   "pad": "Unknown Pad",
+   "pad": "Rocket Lab Launch Complex 1A",
    "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
    "mission_type": "Earth Science",
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
