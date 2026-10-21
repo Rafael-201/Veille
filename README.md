@@ -49,7 +49,7 @@ Ensuite, tout se fait seul chaque matin. Pour forcer une mise à jour en journé
 
 ## Résumé « L'essentiel »
 
-En tête de chaque rubrique, un résumé de l'actualité en 4 ou 5 points, avec les liens vers les articles.
+Sur la page « À la une », chaque rubrique est résumée en 4 ou 5 points, avec les liens vers les articles. Ce résumé remplace la liste d'articles sur cette page ; les articles complets restent dans chaque rubrique.
 Il est écrit chaque matin vers 8 h 45 (heure de Genève) par une tâche planifiée Claude, qui lit `news.json`, écrit `summaries.json` et republie le site.
 Si un matin le résumé n'est pas mis à jour, le site affiche le précédent avec sa date.
 

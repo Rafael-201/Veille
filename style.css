@@ -312,18 +312,14 @@ main { padding-top: var(--s4); padding-bottom: var(--s7); outline: none; }
 [data-topic="marches"] { --c: var(--finance); }
 @media (min-width: 1000px) { .feed-col:has(.topic-block) { max-width: none; } .feed-col:has(.topic-block) > .day, .feed-col:has(.topic-block) > .load-more, .feed-col:has(.topic-block) > .stream-title, .feed-col:has(.topic-block) > .page-intro { max-width: 760px; } }
 
-/* ---------- L'essentiel (résumé du jour) ---------- */
-.digest { background: var(--surface); border: 1px solid var(--rule); border-top: 3px solid var(--c, var(--ink)); border-radius: var(--radius);
-  padding: var(--s5); margin: 0 0 var(--s7); max-width: 760px; }
-.digest-head { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: var(--s1) var(--s4); margin-bottom: var(--s3); }
-.digest-head h2 { margin: 0; font: 600 24px/1.15 var(--serif); }
-.digest-head p { margin: 0; font-size: 13px; color: var(--ink-3); }
-.digest-head p::first-letter { text-transform: uppercase; }
-.digest-lede { margin: 0 0 var(--s4); font: italic 400 18px/1.45 var(--serif); color: var(--ink-2); }
-.digest-points { margin: 0; padding: 0; list-style: none; display: grid; gap: var(--s4); }
-.digest-points li { padding-left: var(--s4); border-left: 2px solid var(--rule-strong); }
-.digest-points li p { margin: 0; line-height: 1.55; }
-.digest-refs { display: flex; flex-wrap: wrap; gap: var(--s1) var(--s3); margin-top: var(--s1) !important; font-size: 13px; }
+/* ---------- L'essentiel (résumé du jour, page d'accueil) ---------- */
+.digest-intro { margin: 0; font-size: 14px; color: var(--ink-3); max-width: 70ch; }
+.digest-intro strong { color: var(--ink); font-weight: 600; }
+.digest { min-width: 0; }
+.digest-lede { margin: 0 0 var(--s4); font: italic 400 19px/1.45 var(--serif); color: var(--ink-2); max-width: 62ch; }
+.digest-points { margin: 0; padding: 0; list-style: none; display: grid; gap: var(--s4); max-width: 70ch; }
+.digest-points li { padding-left: var(--s4); border-left: 2px solid var(--c, var(--rule-strong)); }
+.digest-points li p { margin: 0; line-height: 1.6; font-size: 16px; }
+.digest-refs { display: flex; flex-wrap: wrap; gap: var(--s1) var(--s3); margin-top: var(--s1) !important; font-size: 13px !important; }
 .digest-refs a { color: var(--ink-2); text-underline-offset: 2px; }
 .digest-refs a::after { content: " ↗"; font-size: 11px; }
-.digest-note { margin: var(--s4) 0 0; font-size: 12px; color: var(--ink-3); }

@@ -202,8 +202,10 @@
     if (state.q) return viewResults();
     const sections = state.cats.map((cat) => {
       const items = filtered(cat.id);
-      let body;
-      if (!items.length) {
+      let body = summaryBody(cat.id);
+      if (body) {
+        // le résumé du jour remplace les articles sur la page d'accueil
+      } else if (!items.length) {
         body = '<p class="small-empty">Rien de neuf dans cette rubrique pour le moment.</p>';
       } else {
         const top = items[0]; // toujours le plus récent en tête, avec ou sans image
@@ -221,7 +223,7 @@
       <section class="panel" data-cat="selections"><h2>Mes sélections <a href="#selections">Tout voir →</a></h2>
         ${picks.length ? picks.map(pick).join("") : '<p class="small-empty">Tes articles commentés apparaîtront ici.</p>'}</section>
     </aside>`;
-    return `<div class="front"><div class="sections">${sections}</div>${rail}</div>`;
+    return `<div class="front"><div class="sections">${summaryIntro()}${sections}</div>${rail}</div>`;
   }
 
   function viewResults() {
@@ -236,7 +238,6 @@
     const cat = state.cats.find((c) => c.id === id);
     const items = filtered(id, { withTopics: !!state.q });
     const topicBlocks = state.q ? "" : state.topics.filter((t) => t.cat === id).map(topicBlock).join("");
-    const digest = state.q ? "" : summaryBlock(id);
     const names = [...new Set(state.sources.filter((s) => s.cat === id && !s.topic).map((s) => s.name))];
     const hasTopic = state.sources.some((s) => s.cat === id && s.topic);
     const intro = names.length ? `Sources : ${names.map(esc).join(", ")}${hasTopic ? ", et des recherches Google News par région" : ""}.` : "";
@@ -244,29 +245,43 @@
       ? `<section class="panel launch-strip" data-cat="spatial"><h2>Prochains lancements</h2>${launchesBlock(6)}</section>` : "";
     const body = items.length ? paged(items) : (state.q || state.lang !== "all" ? emptySearch() : `<div class="empty"><h2>Rien pour l’instant</h2><p>Aucun article récent dans cette rubrique. Les flux sont relus chaque matin.</p></div>`);
     return `<div class="feed-col" data-cat="${esc(id)}"><h2 class="page-title">${esc(cat.label)}</h2>
-      <p class="page-intro">${intro}</p>${digest}${topicBlocks}${launch}
+      <p class="page-intro">${intro}</p>${topicBlocks}${launch}
       ${topicBlocks ? `<h2 class="stream-title">Toute l’actualité ${esc(cat.label.toLowerCase())}</h2>` : ""}${body}</div>`;
   }
 
   /* ---------- Résumé du jour (écrit chaque matin par Claude, data/summaries.json) ---------- */
   const fmtDigestDate = new Intl.DateTimeFormat("fr-FR", { weekday: "long", day: "numeric", month: "long" });
-  function summaryBlock(catId) {
+  function currentSummary(catId) {
     const all = state.summaries;
     const sum = all && all.rubriques && all.rubriques[catId];
-    if (!sum || !Array.isArray(sum.points) || !sum.points.length) return "";
+    return sum && Array.isArray(sum.points) && sum.points.length ? sum : null;
+  }
+
+  // Ligne en tête de la page d'accueil : date du résumé + mention
+  function summaryIntro() {
+    const all = state.summaries;
+    if (!all || !state.cats.some((c) => currentSummary(c.id))) return "";
     const d = all.generated_at ? new Date(all.generated_at) : null;
     const old = d && Date.now() - d > 36 * 3600 * 1000;
-    const when = d ? `${old ? "Résumé du" : "Résumé de ce"} ${old ? fmtDigestDate.format(d) : (d.getHours() < 12 ? "matin" : "jour")}` : "";
-    return `<section class="digest" data-cat="${esc(catId)}" aria-labelledby="dg-${esc(catId)}">
-      <div class="digest-head"><h2 id="dg-${esc(catId)}">L’essentiel</h2>${when ? `<p>${esc(when)}${d ? ` · <time datetime="${esc(all.generated_at)}">${esc(fmtTime.format(d))}</time>` : ""}</p>` : ""}</div>
+    const when = !d ? "L’essentiel du jour"
+      : old ? `L’essentiel du ${fmtDigestDate.format(d)}`
+      : `L’essentiel de ce ${d.getHours() < 12 ? "matin" : "jour"}`;
+    return `<p class="digest-intro"><strong>${esc(when)}</strong>${d ? ` · <time datetime="${esc(all.generated_at)}">${esc(fmtTime.format(d))}</time>` : ""}
+      — résumé rédigé par Claude à partir des titres et extraits des articles. Les détails sont dans les liens et dans chaque rubrique.</p>`;
+  }
+
+  // Corps d'une section de la page d'accueil : accroche + points avec leurs sources
+  function summaryBody(catId) {
+    const sum = currentSummary(catId);
+    if (!sum) return "";
+    return `<div class="digest">
       ${sum.titre ? `<p class="digest-lede">${esc(sum.titre)}</p>` : ""}
       <ul class="digest-points">${sum.points.map((pt) => `<li>
         <p>${esc(pt.texte)}</p>
         ${Array.isArray(pt.articles) && pt.articles.length ? `<p class="digest-refs">${pt.articles.filter((r) => r && r.url).map((r) =>
           `<a href="${esc(safeUrl(r.url))}" target="_blank" rel="noopener" title="${esc(r.titre || "")}">${esc(r.source || hostOf(r.url))}</a>`).join("")}</p>` : ""}
       </li>`).join("")}</ul>
-      <p class="digest-note">Résumé rédigé automatiquement par Claude à partir des titres et extraits du jour. Vérifie les détails dans les articles.</p>
-    </section>`;
+    </div>`;
   }
 
   /* ---------- Blocs par région : Transactions (hôtellerie) et Marchés (finance) ---------- */
