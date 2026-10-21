@@ -206,7 +206,7 @@
       if (!items.length) {
         body = '<p class="small-empty">Rien de neuf dans cette rubrique pour le moment.</p>';
       } else {
-        const top = items.slice(0, 6).find((i) => i.image) || items[0];
+        const top = items[0]; // toujours le plus récent en tête, avec ou sans image
         const rest = items.filter((i) => i !== top).slice(0, 4);
         body = `<div class="cat-block">${lead(top)}${list(rest, { compact: true, noSummary: true, noImage: true })}</div>`;
       }

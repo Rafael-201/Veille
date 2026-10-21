@@ -2,7 +2,7 @@ name: Mise à jour des news
 
 on:
   schedule:
-    - cron: "17 5 * * *"     # chaque jour à 5h17 UTC = 7h17 à Genève en été, 6h17 en hiver
+    - cron: "17 0 * * *"     # 0h17 UTC ; GitHub lance souvent avec plusieurs heures de retard, d’où cet horaire très matinal
   push:
     branches: [main]          # chaque modification (ex. tes sélections) republie le site
   workflow_dispatch:          # bouton « Run workflow » pour lancer à la main
