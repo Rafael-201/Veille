@@ -1,25 +1,15 @@
-import urllib.request, feedparser
-UA = "Mozilla/5.0 (compatible; VeillePerso/1.0; lecteur RSS personnel)"
-urls = {
- "fool-1": "https://www.fool.com/a/feeds/partner/googlechromefollow?apikey=5d8f8b1e-8e0e-4b6e-9a7c-2a9b3b2c1d0e",
- "fool-2": "https://www.fool.com/feeds/index.aspx?id=foolwatch&format=rss2",
- "fool-3": "https://www.fool.com/a/feeds/foolwatch?format=rss2&id=foolwatch&apikey=foolwatch_feed",
- "fool-4": "https://www.fool.com/investing-news/rss/",
- "fool-5": "https://www.fool.com/feeds/index.aspx",
- "parisien-1": "https://feeds.leparisien.fr/leparisien/rss/economie",
- "parisien-2": "https://www.leparisien.fr/economie/rss.xml",
- "parisien-3": "https://www.leparisien.fr/arc/outboundfeeds/rss/category/economie/?outputType=xml",
- "libe-1": "https://www.liberation.fr/arc/outboundfeeds/rss-all/category/economie/?outputType=xml",
- "libe-2": "https://www.liberation.fr/arc/outboundfeeds/rss/category/economie/?outputType=xml",
- "cnbc-earnings": "https://www.cnbc.com/id/15839135/device/rss/rss.html",
- "aktionnaire": "https://www.aktionnaire.com/feed",
-}
-for name, url in urls.items():
+import json, os, urllib.request
+token = os.environ.get("GITHUB_TOKEN", "")
+for model in ["openai/gpt-4.1-mini", "openai/gpt-4o-mini", "meta/Llama-3.3-70B-Instruct", "mistral-ai/mistral-medium-2505"]:
+    body = {"model": model, "temperature": 0.2, "messages": [
+        {"role": "system", "content": "Tu résumes l'actualité en français, sobrement."},
+        {"role": "user", "content": "Résume en une phrase : 'Netflix posts third-quarter earnings beat, but shares fall on advertising guidance' ; 'Carrefour shares plunge 14% after warning unrest will hit sales'."}]}
+    req = urllib.request.Request("https://models.github.ai/inference/chat/completions", data=json.dumps(body).encode(),
+        headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json", "Accept": "application/json"})
     try:
-        raw = urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": UA}), timeout=20).read()
-        f = feedparser.parse(raw)
-        print(f"== {name}: {len(f.entries)} entries | {url}")
-        for e in f.entries[:3]:
-            print("   -", e.get("published", "")[:22], "|", e.get("title", "")[:90], "|", e.get("link", "")[:70])
-    except Exception as ex:
-        print(f"== {name}: ERROR {ex} | {url}")
+        d = json.loads(urllib.request.urlopen(req, timeout=60).read())
+        print("OK", model, "|", d["choices"][0]["message"]["content"][:300].replace("\n", " "), "| usage", d.get("usage"))
+    except urllib.error.HTTPError as e:
+        print("ERR", model, e.code, e.read()[:300])
+    except Exception as e:
+        print("ERR", model, e)
