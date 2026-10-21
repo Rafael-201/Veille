@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T08:38:19Z",
+ "generated_at": "2026-10-21T08:46:11Z",
  "sources": [
   {
    "name": "CNBC",
@@ -62,14 +62,54 @@
    "archived": 19
   },
   {
+   "name": "CNBC Résultats",
+   "cat": "finance",
+   "topic": null,
+   "url": "https://www.cnbc.com/id/15839135/device/rss/rss.html",
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 3
+  },
+  {
+   "name": "The Motley Fool",
+   "cat": "finance",
+   "topic": null,
+   "url": "https://www.fool.com/feeds/index.aspx?id=foolwatch&format=rss2",
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 3
+  },
+  {
+   "name": "Le Parisien Économie",
+   "cat": "finance",
+   "topic": null,
+   "url": "https://feeds.leparisien.fr/leparisien/rss/economie",
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 3
+  },
+  {
+   "name": "Libération Économie",
+   "cat": "finance",
+   "topic": null,
+   "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/category/economie/?outputType=xml",
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 3
+  },
+  {
    "name": "Nature",
    "cat": "science",
    "topic": null,
    "url": "https://www.nature.com/nature.rss",
-   "ok": false,
-   "count": 0,
-   "error": "Aucun article lu (<unknown>:15:4: not well-formed (invalid token))",
-   "archived": 12
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 13
   },
   {
    "name": "ScienceDaily",
@@ -219,7 +259,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 5
+   "archived": 6
   },
   {
    "name": "Transactions · Amérique latine",
@@ -229,7 +269,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 4
+   "archived": 5
   },
   {
    "name": "Transactions · Europe",
@@ -339,7 +379,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 10
+   "archived": 11
   },
   {
    "name": "Marchés · Asie-Pacifique",

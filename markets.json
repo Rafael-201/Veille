@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T08:38:19Z",
+ "generated_at": "2026-10-21T08:46:12Z",
  "indices": [
   {
    "symbol": "^GSPC",
@@ -55,9 +55,9 @@
    "symbol": "^STOXX50E",
    "name": "Euro Stoxx 50",
    "region": "europe",
-   "last": 6147.84,
-   "change_pct": 0.43,
-   "month_pct": -2.7,
+   "last": 6150.02,
+   "change_pct": 0.46,
+   "month_pct": -2.66,
    "date": "2026-10-21",
    "currency": null
   },
@@ -65,9 +65,9 @@
    "symbol": "^FCHI",
    "name": "CAC 40",
    "region": "europe",
-   "last": 7869.71,
-   "change_pct": 0.4,
-   "month_pct": -3.31,
+   "last": 7874.36,
+   "change_pct": 0.46,
+   "month_pct": -3.25,
    "date": "2026-10-21",
    "currency": "EUR"
   },
@@ -75,9 +75,9 @@
    "symbol": "^GDAXI",
    "name": "DAX",
    "region": "europe",
-   "last": 25356.01,
-   "change_pct": 0.2,
-   "month_pct": -0.86,
+   "last": 25359.02,
+   "change_pct": 0.22,
+   "month_pct": -0.84,
    "date": "2026-10-21",
    "currency": "EUR"
   },
@@ -85,9 +85,9 @@
    "symbol": "^SSMI",
    "name": "SMI",
    "region": "europe",
-   "last": 14478.26,
-   "change_pct": -0.0,
-   "month_pct": 3.74,
+   "last": 14480.84,
+   "change_pct": 0.02,
+   "month_pct": 3.76,
    "date": "2026-10-21",
    "currency": "CHF"
   },
@@ -95,9 +95,9 @@
    "symbol": "^TASI.SR",
    "name": "Tadawul (TASI)",
    "region": "moyen-orient",
-   "last": 9980.95,
-   "change_pct": 0.29,
-   "month_pct": 0.29,
+   "last": 9964.29,
+   "change_pct": 0.12,
+   "month_pct": 0.12,
    "date": "2026-10-21",
    "currency": "SAR"
   },
@@ -135,9 +135,9 @@
    "symbol": "^J203.JO",
    "name": "JSE All Share",
    "region": "afrique",
-   "last": 109809.15,
-   "change_pct": -0.53,
-   "month_pct": -2.92,
+   "last": 109875.92,
+   "change_pct": -0.47,
+   "month_pct": -2.86,
    "date": "2026-10-21",
    "currency": "ZAR"
   },
@@ -145,9 +145,9 @@
    "symbol": "^CASE30",
    "name": "EGX 30",
    "region": "afrique",
-   "last": 52681.6,
-   "change_pct": 1.14,
-   "month_pct": 1.14,
+   "last": 52575.7,
+   "change_pct": 0.93,
+   "month_pct": 0.93,
    "date": "2026-10-21",
    "currency": "EGP"
   }
