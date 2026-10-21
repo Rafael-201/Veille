@@ -1,5 +1,11 @@
-token len 377
-STATUS 200 https://models.github.ai/inference/chat/completions openai/gpt-4.1-mini | ct text/plain | len 4 | b'OK\r\n'
-STATUS 200 https://models.github.ai/inference/chat/completions gpt-4o-mini | ct text/plain | len 4 | b'OK\r\n'
-ERR https://models.inference.ai.azure.com/chat/completions openai/gpt-4.1-mini URLError(gaierror(-2, 'Name or service not known'))
-ERR https://models.inference.ai.azure.com/chat/completions gpt-4o-mini URLError(gaierror(-2, 'Name or service not known'))
+HTTP/2 200 
+content-type: text/plain
+
+OK
+
+---- catalog
+HTTP/2 200 
+content-type: text/plain
+
+OK
+
