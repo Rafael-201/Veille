@@ -303,6 +303,7 @@ def parse_feed(cat: dict, feed: dict, topic: dict | None = None) -> tuple[list[d
         return [], status
 
     excludes = [e.lower() for e in feed.get("exclude", [])]
+    includes = [e.lower() for e in feed.get("include", [])]
     cutoff = now_utc() - timedelta(days=MAX_AGE_DAYS)
     items = []
     for entry in parsed.entries:
@@ -319,6 +320,8 @@ def parse_feed(cat: dict, feed: dict, topic: dict | None = None) -> tuple[list[d
             continue
         haystack = f"{title} {link}".lower()
         if any(word in haystack for word in excludes):
+            continue
+        if includes and not any(word in haystack for word in includes):
             continue
         date = entry_date(entry)
         if date and date < cutoff:

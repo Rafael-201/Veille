@@ -1,5 +1,5 @@
 {
-  "_aide": "Liste des sources. Pour ajouter un flux : copie une ligne { name, url, lang } dans la bonne rubrique. 'exclude' (optionnel) écarte les articles dont le lien ou le titre contient l'un de ces mots. 'region' (optionnel) : région par défaut des articles de ce flux quand le titre n'en cite aucune. 'topics' : blocs Transactions (hôtellerie) et Marchés (finance), alimentés par des recherches Google News ('q' = la recherche). 'indices' : symboles Yahoo Finance affichés dans le bloc Marchés.",
+  "_aide": "Liste des sources. Pour ajouter un flux : copie une ligne { name, url, lang } dans la bonne rubrique. 'exclude' (optionnel) écarte les articles dont le lien ou le titre contient l'un de ces mots. 'include' (optionnel) ne garde que les articles dont le lien ou le titre contient l'un de ces mots. 'region' (optionnel) : région par défaut des articles de ce flux quand le titre n'en cite aucune. 'topics' : blocs Transactions (hôtellerie) et Marchés (finance), alimentés par des recherches Google News ('q' = la recherche). 'indices' : symboles Yahoo Finance affichés dans le bloc Marchés.",
   "regions": [
     {
       "id": "amerique-nord",
@@ -69,6 +69,36 @@
           "url": "https://www.ecb.europa.eu/rss/press.html",
           "lang": "en",
           "region": "europe"
+        },
+        {
+          "name": "CNBC Résultats",
+          "url": "https://www.cnbc.com/id/15839135/device/rss/rss.html",
+          "lang": "en",
+          "region": "amerique-nord"
+        },
+        {
+          "name": "The Motley Fool",
+          "url": "https://www.fool.com/feeds/index.aspx?id=foolwatch&format=rss2",
+          "lang": "en",
+          "region": "amerique-nord"
+        },
+        {
+          "name": "Le Parisien Économie",
+          "url": "https://feeds.leparisien.fr/leparisien/rss/economie",
+          "lang": "fr",
+          "region": "europe",
+          "include": [
+            "/economie/"
+          ]
+        },
+        {
+          "name": "Libération Économie",
+          "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/category/economie/?outputType=xml",
+          "lang": "fr",
+          "region": "europe",
+          "include": [
+            "/economie/"
+          ]
         }
       ]
     },
