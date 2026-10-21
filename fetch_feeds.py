@@ -188,7 +188,7 @@ REGION_WORDS = {
         "edinburgh", "édimbourg", "glasgow", "manchester", "birmingham", "liverpool", "leeds", "oxford", "cambridge",
         "surrey", "kent", "sussex", "cornwall", "devon", "yorkshire", "cotswolds", "lake district", "wales",
         "pays de galles", "belfast", "caledonian",
-        "dublin", "france", "français", "française", "paris", "lyon", "marseille", "cannes", "bordeaux",
+        "dublin", "france", "french", "français", "française", "paris", "lyon", "marseille", "cannes", "bordeaux",
         "strasbourg", "bayonne", "biarritz", "saint-jean-de-luz", "courchevel", "chamonix", "megève", "annecy",
         "germany", "allemagne", "german", "allemand", "berlin", "munich", "frankfurt", "francfort", "hamburg",
         "spain", "espagne", "spanish", "madrid", "barcelona", "barcelone", "mallorca", "majorque", "ibiza",
