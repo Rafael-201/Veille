@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T08:46:11Z",
+ "generated_at": "2026-10-21T08:47:25Z",
  "sources": [
   {
    "name": "CNBC",
@@ -269,7 +269,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 5
+   "archived": 6
   },
   {
    "name": "Transactions · Europe",
@@ -319,7 +319,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 8
+   "archived": 7
   },
   {
    "name": "Transactions · Afrique (FR)",
