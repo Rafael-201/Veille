@@ -47,6 +47,12 @@ Ensuite, tout se fait seul chaque matin. Pour forcer une mise à jour en journé
 - Le classement par région est automatique, à partir des lieux cités dans le titre. Il peut parfois se tromper, par exemple pour un hôtel londonien racheté par un fonds de Dubaï.
 - Pour modifier les recherches, les régions ou les indices : `sources.json`, sections `topics`, `regions` et `indices`.
 
+## Résumé « L'essentiel »
+
+En tête de chaque rubrique, un résumé de l'actualité en 4 ou 5 points, avec les liens vers les articles.
+Il est écrit chaque matin vers 8 h 45 (heure de Genève) par une tâche planifiée Claude, qui lit `news.json`, écrit `summaries.json` et republie le site.
+Si un matin le résumé n'est pas mis à jour, le site affiche le précédent avec sa date.
+
 ## Ajouter un article dans « Mes sélections »
 
 1. Dans le dépôt, ouvre `selections.json` et clique sur le crayon ✏️.
@@ -111,6 +117,7 @@ news.json              généré automatiquement — ne pas modifier
 status.json            généré automatiquement
 launches.json          prochains lancements (Launch Library 2), généré automatiquement
 markets.json           indices boursiers (Yahoo Finance), généré automatiquement
+summaries.json         résumés « L'essentiel », écrits chaque matin par Claude
 fetch_feeds.py         le script qui lit les flux
 .github/workflows/update.yml   la tâche automatique (chaque matin)
 ```
