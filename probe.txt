@@ -1,0 +1,33 @@
+== fool-1: ERROR HTTP Error 401: Unauthorized | https://www.fool.com/a/feeds/partner/googlechromefollow?apikey=5d8f8b1e-8e0e-4b6e-9a7c-2a9b3b2c1d0e
+== fool-2: 50 entries | https://www.fool.com/feeds/index.aspx?id=foolwatch&format=rss2
+   - Wed, 21 Oct 2026 04:34 | Here's How Much Enbridge (ENB) Stock You'd Need to Earn $1,000 in Dividend Income Each Yea | https://www.fool.com/investing/2026/10/21/how-much-enbridge-enb-stock-
+   - Wed, 21 Oct 2026 04:20 | Comcast Trades at 6 Times Earnings and Yields 6%. Does It Deserve to Be One of the Cheapes | https://www.fool.com/investing/2026/10/21/comcast-earnings-yields-chea
+   - Wed, 21 Oct 2026 04:06 | Trumpflation Is Evolving, and There's a New Twist That Threatens to Sink Stocks | https://www.fool.com/investing/2026/10/21/trumpflation-is-evolving-new
+== fool-3: ERROR HTTP Error 401: Unauthorized | https://www.fool.com/a/feeds/foolwatch?format=rss2&id=foolwatch&apikey=foolwatch_feed
+== fool-4: ERROR HTTP Error 404: Not Found | https://www.fool.com/investing-news/rss/
+== fool-5: 50 entries | https://www.fool.com/feeds/index.aspx
+   - Wed, 21 Oct 2026 04:34 | Here's How Much Enbridge (ENB) Stock You'd Need to Earn $1,000 in Dividend Income Each Yea | https://www.fool.com/investing/2026/10/21/how-much-enbridge-enb-stock-
+   - Wed, 21 Oct 2026 04:20 | Comcast Trades at 6 Times Earnings and Yields 6%. Does It Deserve to Be One of the Cheapes | https://www.fool.com/investing/2026/10/21/comcast-earnings-yields-chea
+   - Wed, 21 Oct 2026 04:06 | Trumpflation Is Evolving, and There's a New Twist That Threatens to Sink Stocks | https://www.fool.com/investing/2026/10/21/trumpflation-is-evolving-new
+== parisien-1: 100 entries | https://feeds.leparisien.fr/leparisien/rss/economie
+   -  | « Certains pensaient que c’étaient des vraies personnes » : mes nouveaux collègues sont… d | https://www.leparisien.fr/economie/certains-pensaient-que-cetaient-des
+   -  | « Aux bornes de la zone d’alerte » : comment Chartres et son agglomération en sont arrivée | https://www.leparisien.fr/eure-et-loir-28/aux-bornes-de-la-zone-dalert
+   -  | « Si c’est trop loin de chez moi, je refuse la mission » : ces intérimaires pénalisés par  | https://www.leparisien.fr/economie/si-cest-trop-loin-de-chez-moi-je-re
+== parisien-2: 100 entries | https://www.leparisien.fr/economie/rss.xml
+   -  | « Certains pensaient que c’étaient des vraies personnes » : mes nouveaux collègues sont… d | https://www.leparisien.fr/economie/certains-pensaient-que-cetaient-des
+   -  | « Aux bornes de la zone d’alerte » : comment Chartres et son agglomération en sont arrivée | https://www.leparisien.fr/eure-et-loir-28/aux-bornes-de-la-zone-dalert
+   -  | « Si c’est trop loin de chez moi, je refuse la mission » : ces intérimaires pénalisés par  | https://www.leparisien.fr/economie/si-cest-trop-loin-de-chez-moi-je-re
+== parisien-3: ERROR HTTP Error 403: Forbidden | https://www.leparisien.fr/arc/outboundfeeds/rss/category/economie/?outputType=xml
+== libe-1: 50 entries | https://www.liberation.fr/arc/outboundfeeds/rss-all/category/economie/?outputType=xml
+   - Wed, 21 Oct 2026 07:01 | Getty Images en procédure de faillite aux Etats-Unis | https://www.liberation.fr/economie/getty-images-en-procedure-de-failli
+   - Wed, 21 Oct 2026 05:47 | Après le 17 octobre, ce que votre fil d’actualités ne vous montre pas | https://www.liberation.fr/idees-et-debats/editorial/apres-le-17-octobr
+   - Tue, 20 Oct 2026 17:08 | Le dépôt de bilan de Gifi annoncé aux salariés | https://www.liberation.fr/economie/le-depot-de-bilan-de-gifi-annonce-a
+== libe-2: 50 entries | https://www.liberation.fr/arc/outboundfeeds/rss/category/economie/?outputType=xml
+   - Wed, 21 Oct 2026 07:01 | Getty Images en procédure de faillite aux Etats-Unis | https://www.liberation.fr/economie/getty-images-en-procedure-de-failli
+   - Wed, 21 Oct 2026 05:47 | Après le 17 octobre, ce que votre fil d’actualités ne vous montre pas | https://www.liberation.fr/idees-et-debats/editorial/apres-le-17-octobr
+   - Tue, 20 Oct 2026 17:08 | Le dépôt de bilan de Gifi annoncé aux salariés | https://www.liberation.fr/economie/le-depot-de-bilan-de-gifi-annonce-a
+== cnbc-earnings: 30 entries | https://www.cnbc.com/id/15839135/device/rss/rss.html
+   - Wed, 21 Oct 2026 08:12 | French supermarket giant's shares plunge 14% after warning ‘unprecedented’ unrest will hit | https://www.cnbc.com/2026/10/21/carrefour-french-protests-guidance-cut
+   - Tue, 20 Oct 2026 23:34 | Capital One's strong quarter and progressing Discover integration are rewarded on Wall Str | https://www.cnbc.com/investingclub/2026/10/20/capital-one-strong-quart
+   - Tue, 20 Oct 2026 22:29 | Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guid | https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html
+== aktionnaire: ERROR HTTP Error 404: Not Found | https://www.aktionnaire.com/feed
