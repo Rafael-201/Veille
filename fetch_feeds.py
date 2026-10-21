@@ -168,7 +168,7 @@ REGION_WORDS = {
         "portland", "oregon", "utah", "salt lake city", "minneapolis", "detroit", "charlotte", "carolina",
         "virginia", "georgia", "tennessee", "louisiana", "nevada", "massachusetts", "new jersey", "pennsylvania",
         "ohio", "michigan", "illinois", "san antonio", "scottsdale", "palm beach", "key west", "napa", "aspen",
-        "pebblebrook", "park hotels & resorts", "host hotels", "reit", "cmbs",
+        "maine", "chattanooga", "pebblebrook", "park hotels & resorts", "host hotels", "reit", "cmbs",
         "american", "américain", "américains", "américaine", "américaines",
         "canada", "canadian", "toronto", "b.c.", "british columbia", "alberta", "ontario", "calgary", "ottawa", "montreal", "montréal", "vancouver", "quebec", "québec", "wall street",
         "s&p 500", "nasdaq", "dow", "dow jones", "federal reserve", "the fed", "treasury", "treasuries", "tsx",
@@ -207,7 +207,8 @@ REGION_WORDS = {
         "middle east", "moyen-orient", "mideast", "gulf", "golfe", "gcc", "dubai", "dubaï", "abu dhabi", "uae",
         "émirats", "emirates", "saudi", "saoudite", "riyadh", "riyad", "jeddah", "red sea", "mer rouge", "neom",
         "alula", "qatar", "doha", "oman", "muscat", "bahrain", "bahreïn", "kuwait", "koweït", "jordan", "jordanie",
-        "israel", "israël", "tel aviv", "lebanon", "liban", "tadawul",
+        "israel", "israël", "tel aviv", "lebanon", "liban", "tadawul", "mecca", "la mecque", "makkah", "medina",
+        "médine",
     ],
     "asie": [
         "asia", "asian", "asie", "asiatique", "asiatiques", "apac", "asia-pacific", "asie-pacifique", "japan",
@@ -262,7 +263,7 @@ def classify_region(text: str) -> str | None:
 NOT_HOTEL_DEAL_RX = _rx([
     "revenue management", "rms", "pms", "software", "logiciel", "logiciels", "saas", "tech", "technology",
     "start-up", "startup", "plateforme", "platform", "app", "application", "booking engine", "channel manager",
-    "own shares", "its shares", "buyback", "share buyback", "rachat d'actions", "ses propres actions", "bill", "tax bill",
+    "own shares", "its shares", "shares", "buyback", "share buyback", "rachat d'actions", "ses propres actions", "bill", "tax bill",
 ])
 
 

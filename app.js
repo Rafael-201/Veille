@@ -26,7 +26,7 @@
 
   const state = {
     cats: [], items: [], launches: [], selections: [], sources: [], generatedAt: null,
-    topics: [], regions: [], indices: [], open: {},
+    topics: [], regions: [], indices: [], open: {}, summaries: null,
     q: "", lang: store.get("veille.lang", "all"), shown: PAGE,
     saved: store.get("veille.saved", []),
     lastVisit: store.get("veille.lastVisit", null),
@@ -236,6 +236,7 @@
     const cat = state.cats.find((c) => c.id === id);
     const items = filtered(id, { withTopics: !!state.q });
     const topicBlocks = state.q ? "" : state.topics.filter((t) => t.cat === id).map(topicBlock).join("");
+    const digest = state.q ? "" : summaryBlock(id);
     const names = [...new Set(state.sources.filter((s) => s.cat === id && !s.topic).map((s) => s.name))];
     const hasTopic = state.sources.some((s) => s.cat === id && s.topic);
     const intro = names.length ? `Sources : ${names.map(esc).join(", ")}${hasTopic ? ", et des recherches Google News par région" : ""}.` : "";
@@ -243,8 +244,29 @@
       ? `<section class="panel launch-strip" data-cat="spatial"><h2>Prochains lancements</h2>${launchesBlock(6)}</section>` : "";
     const body = items.length ? paged(items) : (state.q || state.lang !== "all" ? emptySearch() : `<div class="empty"><h2>Rien pour l’instant</h2><p>Aucun article récent dans cette rubrique. Les flux sont relus chaque matin.</p></div>`);
     return `<div class="feed-col" data-cat="${esc(id)}"><h2 class="page-title">${esc(cat.label)}</h2>
-      <p class="page-intro">${intro}</p>${topicBlocks}${launch}
+      <p class="page-intro">${intro}</p>${digest}${topicBlocks}${launch}
       ${topicBlocks ? `<h2 class="stream-title">Toute l’actualité ${esc(cat.label.toLowerCase())}</h2>` : ""}${body}</div>`;
+  }
+
+  /* ---------- Résumé du jour (écrit chaque matin par Claude, data/summaries.json) ---------- */
+  const fmtDigestDate = new Intl.DateTimeFormat("fr-FR", { weekday: "long", day: "numeric", month: "long" });
+  function summaryBlock(catId) {
+    const all = state.summaries;
+    const sum = all && all.rubriques && all.rubriques[catId];
+    if (!sum || !Array.isArray(sum.points) || !sum.points.length) return "";
+    const d = all.generated_at ? new Date(all.generated_at) : null;
+    const old = d && Date.now() - d > 36 * 3600 * 1000;
+    const when = d ? `${old ? "Résumé du" : "Résumé de ce"} ${old ? fmtDigestDate.format(d) : (d.getHours() < 12 ? "matin" : "jour")}` : "";
+    return `<section class="digest" data-cat="${esc(catId)}" aria-labelledby="dg-${esc(catId)}">
+      <div class="digest-head"><h2 id="dg-${esc(catId)}">L’essentiel</h2>${when ? `<p>${esc(when)}${d ? ` · <time datetime="${esc(all.generated_at)}">${esc(fmtTime.format(d))}</time>` : ""}</p>` : ""}</div>
+      ${sum.titre ? `<p class="digest-lede">${esc(sum.titre)}</p>` : ""}
+      <ul class="digest-points">${sum.points.map((pt) => `<li>
+        <p>${esc(pt.texte)}</p>
+        ${Array.isArray(pt.articles) && pt.articles.length ? `<p class="digest-refs">${pt.articles.filter((r) => r && r.url).map((r) =>
+          `<a href="${esc(safeUrl(r.url))}" target="_blank" rel="noopener" title="${esc(r.titre || "")}">${esc(r.source || hostOf(r.url))}</a>`).join("")}</p>` : ""}
+      </li>`).join("")}</ul>
+      <p class="digest-note">Résumé rédigé automatiquement par Claude à partir des titres et extraits du jour. Vérifie les détails dans les articles.</p>
+    </section>`;
   }
 
   /* ---------- Blocs par région : Transactions (hôtellerie) et Marchés (finance) ---------- */
@@ -416,12 +438,13 @@
     return res.json();
   }
 
-  function apply({ news, launches, selections, status, markets, previewLastVisit }) {
+  function apply({ news, launches, selections, status, markets, summaries, previewLastVisit }) {
     if (previewLastVisit && !state.lastVisit) state.lastVisit = previewLastVisit;
     state.cats = news.categories || [];
     state.topics = news.topics || [];
     state.regions = news.regions || [];
     state.indices = (markets && markets.indices) || [];
+    state.summaries = summaries || null;
     state.items = news.items || [];
     state.generatedAt = news.generated_at || null;
     state.launches = (launches && launches.launches) || [];
@@ -438,9 +461,9 @@
   async function load() {
     state.error = null;
     if (window.__VEILLE__) { apply(window.__VEILLE__); render(); renderSources(); return; }
-    const [news, launches, selections, status, markets] = await Promise.allSettled([
+    const [news, launches, selections, status, markets, summaries] = await Promise.allSettled([
       getJSON("news.json"), getJSON("launches.json"), getJSON("selections.json"), getJSON("status.json"),
-      getJSON("markets.json"),
+      getJSON("markets.json"), getJSON("summaries.json"),
     ]);
     if (news.status === "rejected") {
       state.error = news.reason && news.reason.message ? news.reason.message : "erreur inconnue";
@@ -448,7 +471,7 @@
       return;
     }
     const val = (r) => (r.status === "fulfilled" ? r.value : null);
-    apply({ news: news.value, launches: val(launches), selections: val(selections), status: val(status), markets: val(markets) });
+    apply({ news: news.value, launches: val(launches), selections: val(selections), status: val(status), markets: val(markets), summaries: val(summaries) });
     render();
     renderSources();
   }

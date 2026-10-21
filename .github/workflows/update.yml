@@ -48,7 +48,7 @@ jobs:
         run: |
           mkdir -p _site
           cp index.html style.css app.js news.json status.json launches.json selections.json _site/
-          cp markets.json _site/ 2>/dev/null || true
+          cp markets.json summaries.json _site/ 2>/dev/null || true
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
