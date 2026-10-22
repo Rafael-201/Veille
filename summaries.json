@@ -1,61 +1,21 @@
 {
- "generated_at": "2026-10-21T08:57:28Z",
+ "generated_at": "2026-10-22T05:55:32Z",
  "auteur": "Claude",
  "rubriques": {
   "finance": {
-   "titre": "La France sous pression sur les marchés, saison des résultats animée aux États-Unis.",
+   "titre": "Wall Street portée par les résultats de Meta, IBM et SpaceX, pendant que Carrefour chute à Paris et que les tensions avec l'Iran pèsent.",
    "points": [
     {
-     "texte": "Après le week-end d’émeutes, la dette française inquiète : le taux à 10 ans de la France a atteint 4,96 % mardi, contre 3,43 % pour l’Allemagne, et la Cour des comptes juge « fragile » la trajectoire de réduction du déficit de la Sécu.",
+     "texte": "Saison des résultats porteuse aux États-Unis : Meta a publié un trimestre solide avec des prévisions et une feuille de route de monétisation de Muse saluées par les investisseurs, IBM a dépassé les attentes en chiffre d'affaires comme en bénéfice, et SpaceX a bondi de 10 % avant Bourse après des résultats supérieurs aux attentes, Elon Musk évoquant un rapprochement avec Tesla. Le Dow Jones a gagné 360 points, tiré par la tech et l'IA.",
      "articles": [
       {
-       "titre": "La vente d'obligations françaises devient \"massive\": après le week-end d'émeutes, le taux d'emprunt de la France flambe, la défiance des marchés atteint un niveau inédit depuis 2012",
-       "url": "https://www.bfmtv.com/economie/economie-social/la-vente-d-obligations-francaises-devient-massive-apres-le-week-end-d-emeutes-le-taux-d-emprunt-de-la-france-flambe-la-defiance-des-marches-atteint-un-niveau-inedit-depuis-2012_AV-202610200399.html",
-       "source": "BFM Business"
-      },
-      {
-       "titre": "Les Experts : Taux, l'écart entre la France et l'Allemagne se creuse - 21/10",
-       "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/les-experts-taux-l-ecart-entre-la-france-et-l-allemagne-se-creuse-21-10_EN-202610210367.html",
-       "source": "BFM Business"
-      },
-      {
-       "titre": "Budget de la Sécu : la Cour des comptes juge «fragile» le schéma de réduction du déficit du gouvernement",
-       "url": "https://www.liberation.fr/economie/social/budget-de-la-secu-la-cour-des-comptes-juge-fragile-le-schema-de-reduction-du-deficit-du-gouvernement-20261020_QCDZ6MBBXNEUTPS72XSMUAKHJM/",
-       "source": "Libération Économie"
-      }
-     ]
-    },
-    {
-     "texte": "Carrefour abaisse ses objectifs 2026 en invoquant les troubles en France et chute de 12 à 14 % en Bourse, tandis qu’EssilorLuxottica s’envole d’environ 12 % à Paris.",
-     "articles": [
-      {
-       "titre": "French supermarket giant's shares plunge 14% after warning ‘unprecedented’ unrest will hit business",
-       "url": "https://www.cnbc.com/2026/10/21/carrefour-french-protests-guidance-cut.html",
+       "titre": "Meta put out an ambitious roadmap to Muse monetization after strong quarter and guide",
+       "url": "https://www.cnbc.com/investingclub/2026/10/21/meta-put-out-an-ambitious-roadmap-to-muse-monetization-after-strong-quarter-and-guide.html",
        "source": "CNBC Résultats"
       },
       {
-       "titre": "CAC 40 : EssilorLuxottica +12%, Carrefour -12% - Volatilité folle face aux résultats",
-       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLUZyYWREUy1pUXVrLXBYMHVzTDhsdWNDZWw2MGVSMmFXRkhORXlYU29DLVp1bElZWXhfQTVEazhxemh3Nmx5aThOVzZ2VXpNQlR2X2tXdzI2WmduUTdkaFYxeUxzekY3R0VCV21EVmM2UDhnSzNWNnp6Y2dSTzFqQ2syZHhBNVdmLWFCWWR0Y3Mza1otOVd3THRzempGYWRUTEFabGR3R0FaS1lVRE92MjIxeGphUU9HeUkwSC1NcjRoQ0hzZExHenFlYWgwdw?oc=5",
-       "source": "Investing.com France"
-      },
-      {
-       "titre": "\"C'étaient des alcools forts qui étaient volés\": alors que Carrefour s'effondre en Bourse, son patron affirme que les pillages n'ont rien à voir avec le pouvoir d'achat",
-       "url": "https://www.bfmtv.com/economie/consommation/c-etaient-des-alcools-forts-qui-etaient-voles-alors-que-carrefour-s-effondre-en-bourse-son-patron-affirme-que-les-pillages-n-ont-rien-a-voir-avec-le-pouvoir-d-achat_AV-202610210360.html",
-       "source": "BFM Business"
-      }
-     ]
-    },
-    {
-     "texte": "Résultats américains : Netflix bat les attentes mais recule sur des prévisions publicitaires décevantes ; Capital One est salué par Wall Street ; SpaceX gagne 10 % avant l’ouverture après ses résultats, et Elon Musk évoque un rapprochement avec Tesla.",
-     "articles": [
-      {
-       "titre": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
-       "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
-       "source": "CNBC Résultats"
-      },
-      {
-       "titre": "Capital One's strong quarter and progressing Discover integration are rewarded on Wall Street",
-       "url": "https://www.cnbc.com/investingclub/2026/10/20/capital-one-strong-quarter-and-progressing-discover-integration-are-rewarded.html",
+       "titre": "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction",
+       "url": "https://www.cnbc.com/2026/10/21/ibm-q3-earnings-report-2026.html",
        "source": "CNBC Résultats"
       },
       {
@@ -64,158 +24,228 @@
        "source": "CNBC"
       },
       {
-       "titre": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
-       "url": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
-       "source": "MarketWatch"
+       "titre": "US Markets Rally as Tech, AI Stocks Jump; Dow Gains 360",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPenJOM1BGOUdETnRYZFJBUjYwcEViQlZXdnhfU1JMMDc2elVBTTlHQm04THpBUEVUX1FQU05yR0llUzlhN1VaTS15RHJib0JmVFlNZllhU1lDYXZZbEx1a3Nsc1dJNDlYMFJqMWJEYWkxR3I4cHdhTy1LTTZuTDluM1BwV0d4b2dPOU9kMG5mVEVDRDlmSjNLYktDTDdybGNk?oc=5",
+       "source": "HDFC Sky"
       }
      ]
     },
     {
-     "texte": "Au Royaume-Uni, l’inflation monte à 3,5 % sur un an en septembre, tirée par les carburants, ce qui renforce les anticipations de hausse de taux. Le pétrole grimpe sur les tensions au Moyen-Orient (mines dans le détroit d’Ormuz).",
+     "texte": "En France, Carrefour a abaissé ses prévisions 2026 en invoquant les troubles sociaux, et l'action a plongé de 14 à 15 %. Le ministre de la Ville estime que les dégâts et pillages en marge de la mobilisation du 17 octobre coûteront « beaucoup plus » qu'un milliard d'euros.",
      "articles": [
       {
-       "titre": "UK inflation jumps to 3.5% — cementing rate hike expectations",
-       "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+       "titre": "French supermarket giant's shares plunge 14% after warning ‘unprecedented’ unrest will hit business",
+       "url": "https://www.cnbc.com/2026/10/21/carrefour-french-protests-guidance-cut.html",
+       "source": "CNBC Résultats"
+      },
+      {
+       "titre": "Carrefour dégringole en Bourse et rejette la faute sur les violences du 17 octobre",
+       "url": "https://www.liberation.fr/economie/carrefour-degringole-en-bourse-et-rejette-la-faute-sur-les-violences-du-17-octobre-20261021_EHYRJVNBHZF6HGPCN2WHTFFHNQ/",
+       "source": "Libération Économie"
+      },
+      {
+       "titre": "LES ÉCLAIREURS - Violences et pillages: une facture probablement supérieure à un milliard selon le ministre de la Ville",
+       "url": "https://www.bfmtv.com/economie/video-les-eclaireurs-violences-et-pillages-une-facture-probablement-superieure-a-un-milliard-selon-le-ministre-de-la-ville_VN-202610210382.html",
+       "source": "BFM Business"
+      }
+     ]
+    },
+    {
+     "texte": "Malgré la remontée de son taux à 1,7 %, le Livret A continue de décollecter : avec le LDDS, les retraits nets atteignent 2,2 milliards d'euros en septembre et 8,5 milliards depuis le début de l'année, signe de la pression sur le pouvoir d'achat.",
+     "articles": [
+      {
+       "titre": "Malgré le relèvement du taux, le Livret A chute encore en septembre",
+       "url": "https://www.lesechos.fr/finance-marches/banque-assurances/malgre-le-relevement-du-taux-le-livret-a-chute-encore-en-septembre-2258251",
+       "source": "Les Echos"
+      },
+      {
+       "titre": "Malgré la remontée de son taux à 1,7%, le Livret A toujours boudé des Français en septembre à cause de la pression sur le pouvoir d'achat",
+       "url": "https://www.bfmtv.com/economie/entreprises/assurance-banque/malgre-la-remontee-de-son-taux-a-1-7-le-livret-a-a-ete-boude-des-francais-en-septembre-a-cause-de-la-pression-sur-le-pouvoir-d-achat_AD-202610220104.html",
+       "source": "BFM Business"
+      }
+     ]
+    },
+    {
+     "texte": "Sur les marchés, les Bourses européennes ont clôturé en hausse grâce aux résultats, le DAX dépassant 25 600 points. Les taux longs américains sont tombés à leur plus bas d'un mois, les doutes sur l'IA poussant vers les valeurs refuges, tandis que l'indice chinois CSI 300 est entré en marché baissier, en recul de 20 % depuis son pic de juin.",
+     "articles": [
+      {
+       "titre": "European Stock Markets Today: FTSE 100, DAX 40, CAC 40 and FTSE MIB Close Higher as Earnings Lift Sentiment",
+       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUkMyeVNQdVgzeUpDR0FwMkFKT2ozaGh2d3BPdG1QTjFhR2oyb3A4cWkxZWtGTlRReTgtdmZtYUdreGEwUDJ3Yko5Rkx3M3BvNEZELUt3cUJIdFJDNW1jTmtJWFBkVmt0TmtWNzh1UEplY3hfOEY4d1Z1ekVnaHNQdnhGWURqVGNmaFRZLUxRMk9naTlpN0hsY2JYaFp2WjlvazZ6TzdEcmZsWTVjVElLRGtfbFJqY0tITHFoVmV3TEFfMEtzclF6aEY0TUR4cW51RUJzWkJldmZzbExk?oc=5",
+       "source": "BBN Times"
+      },
+      {
+       "titre": "Germany’s DAX 40 Tops 25,600 Points, Up 1.9% in 24 Hours",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84eENWckZMLThKcy1QakNrZTdTcXdJRVc5cldlc0pDT1hKZHhkQ0ZJR1NaTWJva1F0ODhRX19WajJWSko4bllzTW90alcxVXI4Tk1iS245NjFCZw?oc=5",
+       "source": "www.tokenpost.com"
+      },
+      {
+       "titre": "Long-End US Yield Hits One-Month Low as AI Fears Fuel Haven Bid",
+       "url": "https://www.bloomberg.com/news/articles/2026-10-22/long-end-us-yield-hits-one-month-low-as-ai-fears-fuel-haven-bid",
+       "source": "Bloomberg Markets"
+      },
+      {
+       "titre": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout",
+       "url": "https://www.cnbc.com/2026/10/22/chinas-stock-market-csi-300-bear-market.html",
+       "source": "CNBC"
+      }
+     ]
+    },
+    {
+     "texte": "Géopolitique et opérations : Washington a retiré son personnel non essentiel d'Arabie saoudite après des frappes houthies sur un aéroport et un champ pétrolier, sur fond de possibles frappes contre l'Iran ; les Bourses du Golfe reculent et le peso mexicain s'enfonce. Côté deals, le fonds australien IFM Investors a pris 64 % d'Associated British Ports, valorisé 10 milliards de livres.",
+     "articles": [
+      {
+       "titre": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms",
+       "url": "https://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html",
        "source": "CNBC"
       },
       {
-       "titre": "Oil prices climb as traders assess Middle East developments",
-       "url": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
-       "source": "CNBC"
-      }
-     ]
-    },
-    {
-     "texte": "Opérations et défaillances : IFM Investors prend 64 % d’Associated British Ports, valorisé 10 milliards de livres ; Getty Images se place en procédure de faillite aux États-Unis ; Gifi annonce son dépôt de bilan.",
-     "articles": [
+       "titre": "Mideast Stocks: Most Gulf bourses slip as Iran-US diplomacy hits a standstill",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLTk1dmVpM01hX3dwbFJhdFBmVjUxdUgwMWhDLS1yU1ZrdGw3dUo4UjZONGpfM0ZIcnNXM2daNTlmVEtlSWdScjNHT09UWGFIbm83YWNRZmV3V1JmeVhPRFFkZXNqNHlOc1lXTTlyRXhFQ0g5M1MySkV6SU90SDQ0SVRfYXc1RlJZLXdrUDlKN253bFN1aXRxMWtZclk4WU9hOTc1X1VOR3MtbmI2eHBzSTY0NFRxVlBVV2xRTE5vNGFrLVU?oc=5",
+       "source": "Zawya"
+      },
+      {
+       "titre": "Mexican Peso rout deepens as Iran tensions push USD/MXN toward 18.70",
+       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdXo5V0tLVzdhTGpIYlFNMkFjWjB4eVJDaU02MlZzeEl5VUd0WG5NTzh3dmI2dmxfRnRGTGFOMkhVNUtMcTMwYi1xQXpwOGxGYW4ydW42bDNEM1dzTzVFak9pRFdfOUk3eTFsX01iZkt4WEN4eXBiWGsxdmc4Q3NpV0dGa0pQaHRYWGt3QUtIUEV6Nmx4RmNMMXpDTEYxOVdYMkhEdmhGZDZFeFAyWE1FNnZuTHNIS1p0bGdGbUtaTDZhc25xenA0bG5OWFZJQQ?oc=5",
+       "source": "www.tmgm.com"
+      },
       {
        "titre": "UK’s Biggest Port Operator Valued at £10 Billion in Stake Sale",
        "url": "https://www.bloomberg.com/news/articles/2026-10-21/uk-s-biggest-port-operator-valued-at-10-billion-in-stake-sale",
        "source": "Bloomberg Markets"
-      },
-      {
-       "titre": "Getty Images en procédure de faillite aux Etats-Unis",
-       "url": "https://www.liberation.fr/economie/getty-images-en-procedure-de-faillite-aux-etats-unis-20261021_TGIFKNRSJBFUVK4MAZ2AE7DPXI/",
-       "source": "Libération Économie"
-      },
-      {
-       "titre": "Le dépôt de bilan de Gifi annoncé aux salariés",
-       "url": "https://www.liberation.fr/economie/le-depot-de-bilan-de-gifi-annonce-aux-salaries-20261020_6JNZZ5722JASFGHA5FXNPPHRQ4/",
-       "source": "Libération Économie"
       }
      ]
     }
    ]
   },
   "science": {
-   "titre": "Le climat domine, avec le nouveau rapport de l’ONU sur le réchauffement.",
+   "titre": "Alzheimer, climat et physique fondamentale dominent une actualité scientifique riche en nouvelles études.",
    "points": [
     {
-     "texte": "Selon le dernier rapport de l’ONU, l’objectif de 1,5 °C est désormais hors d’atteinte et les engagements actuels mènent vers environ 2,8 °C. Nature note que les émissions mondiales ralentissent, sans suffire à éviter les 2 °C.",
+     "texte": "Alzheimer : une étude montre comment APOE4, version d'un gène qui triple le risque de la maladie, dérègle la gestion des graisses dans certaines cellules cérébrales ; corriger ce mécanisme a amélioré leur gaine protectrice. Une autre piste suggère que le cholestérol perturbe le système glymphatique qui évacue les toxines du cerveau.",
      "articles": [
       {
-       "titre": "UN says 1.5°C is over and world is on track for 2.8°C of global warming",
-       "url": "https://www.newscientist.com/article/2594831-un-says-1-5c-is-over-and-world-is-on-track-for-2-8c-of-global-warming/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-       "source": "New Scientist"
+       "titre": "Alzheimer : cette version d’un gène triple le risque, les graisses du cerveau pourraient expliquer pourquoi",
+       "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-cette-version-gene-triple-risque-graisses-cerveau-pourraient-expliquer-138706/#xtor%3DRSS-8",
+       "source": "Futura"
       },
+      {
+       "titre": "Cholesterol may disrupt the brain’s cleaning system in Alzheimer’s disease",
+       "url": "https://www.newscientist.com/article/2595089-cholesterol-may-disrupt-the-brains-cleaning-system-in-alzheimers-disease/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "source": "New Scientist"
+      }
+     ]
+    },
+    {
+     "texte": "Climat : le dernier rapport de l'ONU constate un ralentissement des émissions mondiales, mais le monde se dirige vers 2 °C de réchauffement et limiter le réchauffement aux niveaux les plus sûrs semble désormais hors d'atteinte. Une expérience dans un bassin à vagues géant montre comment les marais salés peuvent protéger les côtes des grandes tempêtes.",
+     "articles": [
       {
        "titre": "Global emissions slow — but world hurtles towards 2 °C of warming",
        "url": "https://www.nature.com/articles/d41586-026-03355-x",
+       "source": "Nature"
+      },
+      {
+       "titre": "Scientists put a salt marsh in a giant wave-machine: here's what they learned",
+       "url": "https://www.nature.com/articles/d41586-026-03376-6",
        "source": "Nature"
       }
      ]
     },
     {
-     "texte": "Santé : des chercheurs expliquent enfin pourquoi les statines peuvent provoquer des douleurs musculaires, et une étude suggère qu’un cas de dépression sur quatre pourrait être lié à une horloge biologique déréglée.",
+     "texte": "Physique et géosciences : des physiciens ont réussi à piéger un unique positron dans un piège quantique, étape vers des tests sur l'antimatière ; une étude affirme avoir identifié des signaux précurseurs de séismes plusieurs semaines à l'avance ; et un célèbre retard de train dû à une tempête solaire est daté de 1848 et non de 1841.",
      "articles": [
       {
-       "titre": "Scientists finally uncover why statins can cause muscle pain",
-       "url": "https://www.sciencedaily.com/releases/2026/10/261019093447.htm",
-       "source": "ScienceDaily"
-      },
-      {
-       "titre": "1 in 4 cases of depression may be caused by off-kilter body clocks",
-       "url": "https://www.newscientist.com/article/2594761-1-in-4-cases-of-depression-may-be-caused-by-off-kilter-body-clocks/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-       "source": "New Scientist"
-      }
-     ]
-    },
-    {
-     "texte": "Première en Europe : des moustiques mâles porteurs d’un parasite ont été lâchés à Barcelone pour réduire les populations capables de transmettre la dengue.",
-     "articles": [
-      {
-       "titre": "Parasite-infected mosquitoes released in Europe for first time",
-       "url": "https://www.newscientist.com/article/2594886-parasite-infected-mosquitoes-released-in-europe-for-first-time/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-       "source": "New Scientist"
-      }
-     ]
-    },
-    {
-     "texte": "Côté cosmos, une mesure de l’hélium formé dans les cinq premières minutes de l’Univers affine notre compréhension du Big Bang, et plus de 10 000 failles montrent que la Lune continue de rétrécir.",
-     "articles": [
-      {
-       "titre": "Astronomers uncover new secrets of the Universe’s first five minutes",
-       "url": "https://www.sciencedaily.com/releases/2026/10/261019093442.htm",
-       "source": "ScienceDaily"
-      },
-      {
-       "titre": "La Lune est en train de rétrécir : plus de 10 000 failles à sa surface révèlent ce qui se passe",
-       "url": "https://www.futura-sciences.com/sciences/actualites/lune-lune-train-retrecir-plus-10-000-failles-surface-revelent-ce-passe-138660/#xtor%3DRSS-8",
+       "titre": "« La plus grande découverte du siècle » : une expérience sur l’antimatière approche du test qui pourrait ébranler la physique !",
+       "url": "https://www.futura-sciences.com/sciences/actualites/antimatiere-plus-grande-decouverte-siecle-experience-antimatiere-approche-test-pourrait-ebranler-physique-138693/#xtor%3DRSS-8",
        "source": "Futura"
+      },
+      {
+       "titre": "Des scientifiques ont cherché dans le ciel ce qui annonce les séismes : les résultats sont presque trop beaux",
+       "url": "https://www.futura-sciences.com/planete/actualites/seisme-scientifiques-ont-cherche-ciel-ce-annonce-seismes-resultats-sont-presque-trop-beaux-138712/#xtor%3DRSS-8",
+       "source": "Futura"
+      },
+      {
+       "titre": "A train was delayed by a solar storm. But something didn't add up.",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261020085021.htm",
+       "source": "ScienceDaily"
+      }
+     ]
+    },
+    {
+     "texte": "Biologie et santé : un excès d'ARN peut endommager les structures qui produisent l'énergie des cellules ; le tadalafil (Cialis) pourrait stimuler la régénération musculaire ; et un suivi de 13 astronautes suggère que le cœur humain est plutôt bien armé pour un voyage vers Mars, surtout avec de l'exercice régulier.",
+     "articles": [
+      {
+       "titre": "Too much RNA can starve cells of energy, scientists discover",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261020085023.htm",
+       "source": "ScienceDaily"
+      },
+      {
+       "titre": "Un médicament contre les troubles de l’érection pourrait aussi régénérer les muscles, annoncent des chercheurs",
+       "url": "https://www.futura-sciences.com/sante/actualites/muscle-medicament-troubles-erection-pourrait-aussi-regenerer-muscles-annoncent-chercheurs-138689/#xtor%3DRSS-8",
+       "source": "Futura"
+      },
+      {
+       "titre": "Astronauts’ hearts just passed a surprising test for Mars",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261020085016.htm",
+       "source": "ScienceDaily"
       }
      ]
     }
    ]
   },
   "spatial": {
-   "titre": "SpaceX prépare un double rattrapage de Starship, semaine chargée en lancements.",
+   "titre": "La Chine accélère vers les fusées réutilisables tandis que la NASA revoit la sélection de ses missions scientifiques.",
    "points": [
     {
-     "texte": "SpaceX tentera de récupérer les deux étages de Starship lors du prochain vol d’essai, attendu en novembre, une première selon Elon Musk.",
+     "texte": "La Chine prépare son premier vaisseau de ravitaillement commercial, la première réutilisation d'un premier étage et une nouvelle tentative d'atterrissage, à mesure que sa cadence de lancement augmente.",
      "articles": [
       {
-       "titre": "SpaceX will attempt 1st-ever double Starship rocket catch on next test launch, a 'profound technology milestone,' Elon Musk says",
-       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-attempt-1st-ever-double-starship-rocket-catch-on-next-test-launch-a-profound-technology-milestone-elon-musk-says",
-       "source": "Space.com"
-      }
-     ]
-    },
-    {
-     "texte": "Neuf fusées doivent décoller cette semaine (H3, Falcon 9, Electron…), depuis la Californie, la Floride, la Nouvelle-Zélande et le Japon. Un lancement Starlink depuis Vandenberg a été reporté à mercredi.",
-     "articles": [
-      {
-       "titre": "Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week",
-       "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102026/",
+       "titre": "China readies first commercial resupply craft, first booster reflight, and next landing attempt",
+       "url": "https://www.nasaspaceflight.com/2026/10/china-roundup-102026/",
        "source": "NASASpaceflight"
-      },
-      {
-       "titre": "SpaceX scrubs launch of 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
-       "url": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
-       "source": "Spaceflight Now"
       }
      ]
     },
     {
-     "texte": "La NASA clôt officiellement la mission OSIRIS-REx, terminée le 30 septembre, et l’ESA présente les douze satellites Galileo de deuxième génération qui rejoindront la constellation.",
+     "texte": "NASA Science annonce changer la manière dont elle met en concurrence et sélectionne ses missions pour « livrer la science plus vite », avec un town hall virtuel prévu le lundi 26 octobre.",
      "articles": [
       {
-       "titre": "NASA closes the book on epic OSIRIS-REx asteroid-sampling mission: 'I am immensely proud of what we did'",
-       "url": "https://www.space.com/astronomy/asteroids/nasa-closes-the-book-on-epic-osiris-rex-asteroid-sampling-mission-i-am-immensely-proud-of-what-we-did",
-       "source": "Space.com"
-      },
-      {
-       "titre": "New brain for Galileo",
-       "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/New_brain_for_Galileo",
-       "source": "ESA"
+       "titre": "Faster to Science: A Letter to the Science Community",
+       "url": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/",
+       "source": "NASA"
       }
      ]
     },
     {
-     "texte": "Côté industrie, une tribune s’interroge sur la stratégie de Jeff Bezos avant une éventuelle introduction en Bourse de Blue Origin.",
+     "texte": "Industrie : selon Novaspace, les revenus mondiaux des services satellitaires devraient croître de 44 % pour atteindre 145 milliards de dollars d'ici 2035. Space Nuclear Power Corporation a obtenu un accord de la DARPA pour tester au sol un contrôleur autonome de réacteur nucléaire.",
      "articles": [
       {
-       "titre": "Jeff Bezos is playing the long game with Blue Origin (op-ed)",
-       "url": "https://www.space.com/space-exploration/private-spaceflight/jeff-bezos-is-playing-the-long-game-with-blue-origin-op-ed",
+       "titre": "Global Satcom Services Revenues to Reach $145 Billion by 2035",
+       "url": "https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035/",
+       "source": "SpaceNews"
+      },
+      {
+       "titre": "Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller",
+       "url": "https://spacenews.com/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller/",
+       "source": "SpaceNews"
+      }
+     ]
+    },
+    {
+     "texte": "Observation de la Terre et ISS : les satellites de la NASA montrent des incendies d'origine humaine d'une ampleur inhabituelle en Nouvelle-Guinée, sur fond de sécheresse, et une puissante dépression issue des restes de l'ouragan Isaias près de l'Islande ; à bord de l'ISS, l'astronaute Luke Delaney mène des expériences de botanique.",
+     "articles": [
+      {
+       "titre": "Fires Char New Guinea",
+       "url": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/",
+       "source": "NASA"
+      },
+      {
+       "titre": "Extratropical Cyclone Whips Past Iceland",
+       "url": "https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/",
+       "source": "NASA"
+      },
+      {
+       "titre": "Space botanist conducts plant experiments in orbit | Space photo of the day for Oct. 21, 2026",
+       "url": "https://www.space.com/space-exploration/human-spaceflight/space-botanist-conducts-plant-experiments-in-orbit-space-photo-of-the-day-for-oct-21-2026",
        "source": "Space.com"
       }
      ]
@@ -223,85 +253,110 @@
    ]
   },
   "hotellerie": {
-   "titre": "Plusieurs cessions aux États-Unis et un changement de cap chez Kempinski.",
+   "titre": "Rafale de transactions hôtelières et offensive des plateformes sur la distribution, de Booking à Meta.",
    "points": [
     {
-     "texte": "Transactions : le Fairmont Scottsdale Princess cédé pour 241,4 M$, deux hôtels du comté de Palm Beach pour 48 M$, et le rachat d’Essendi par Blackstone autorisé au Chili. Le fonds indonésien Danantara achète un hôtel de 1 461 chambres à La Mecque.",
+     "texte": "Transactions internationales : les administrateurs judiciaires vont céder les deux hôtels hongkongais de Shimao pour 344 millions de dollars, British Land vend le Novotel Paddington pour 63 millions de livres, un investisseur canadien acquiert deux hôtels du comté de Palm Beach pour plus de 48 millions de dollars, et Danantara achète un hôtel de 1 461 chambres à La Mecque.",
      "articles": [
       {
-       "titre": "News | US hotel deals: Fairmont Scottsdale Princess sells for $241.36 million",
-       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdVlIcWZTbUVaX0stZmhwN1RGMjJRa0o1bllzdDQ4ZGRlQXRkS1FMVGk3bE52R0lUaUpnbTJTTlB2WlF1bDQtZlkwbDVhYUtPdFVlQVktYk5hWWVDX0xZaW5Ed3dKalFDNHJoWmxFcHh2anVHVmhrRms0VnMtcnRjc1dpTFpQcU9Cc0RtMjdLUDlpVWp1YUNlalZRTmRrZkR1MUw1N1BFVU9RUmpDTHc?oc=5",
+       "titre": "Receivers to sell Shimao’s 2 Hong Kong hotels for US$344 million",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbmthMEhGTHBiOFgtY29uVWJJN3RiLVl3dXJ3M0N3aGZWY21jdnl4bXJaTGhoX0IydWFYZTVXQWVCLU9LWkQ5ZmF3c3dsN1FTYXc5cmJCeVdvVU5YbzdUaTNUdWZvZnRVWVdQX0VOSTNaNlgtczJhLXNmQzVWTDlsTlRIbnJmRC1EdXBweVl0MkxqeUk5eU9lQlFUODVMMzZDTm9MdkdtUjFHWTZWc0ltalRuaF9DTjNPb0prZlJobzE2bFnSAcMBQVVfeXFMTnVOSnlmRVQxMjJRM3B5SWJnRUVGcDZvU01za0VOTEJJNERTYkJqXzJSeFlkOXhXUE1GTjNPT3ppQ3dZMlhoOXFKV1FzMlB0bFRKSzFJeW05U3ZZY29sVzFiQ2NwYXNfcU5jbm9VajV6Y2o0OXJYOXZqOEJnNG9GeGs5S0tPMk52RUpoUUxlTVd5WmwxeXhsYlpiV3cwZDFrcUJXaEtqejNMdGhxT2h2RmRtR0VVQk5HMm4xQUNiVFEyd0ZB?oc=5",
+       "source": "South China Morning Post"
+      },
+      {
+       "titre": "News | British Land sells Novotel Paddington hotel for £63 million",
+       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc1pmQWZURENjSEpjT3pmZl9yLU43c01Bd2xscG40R1U1ODVVVDhVWmFMR3BNUlRSSzRMQVBSLUl6NHBFd1ppVURwRjZGSnRLS3B3RmRmekFVSkVTOE9qRUlSMFJHa0Z1U0JqUGNaVVVwZkc3dmpXVXJtX2hURnpqSVlKYmdmdks1eEZHcTZkalBOc3ppTlpOdldXMUFYQjBpSGc?oc=5",
        "source": "CoStar"
       },
       {
-       "titre": "Pair of Palm Beach County hotels sold for $48M",
-       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaTZpcEowQU1lZ1hNTHJlbkRWM0pjQjBNZ1BfdS1WaXlQVVdhX0VQRExzeHI1Zlc5R2hWVXdNTGlyUnRERWE2OElwdzlSNElQWXoySjFza291RHoyZDhPVk1IaDVYeE5ranpwNUVJLU9CM01yZDlhamQ3MlAzZ2hmZW5yUldvdGRSSWNmbWc4Z2tqRXZZR1dvLXZBamdydmJKWGw3d2xCeldhSHM?oc=5",
-       "source": "The Business Journals"
+       "titre": "Canadian Investor Buys Two Hotels in Palm Beach County for More Than $48M",
+       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc1pzMUI2Z1lmT0taeDNLZlV1TjlZVWwwWW04Wk9jQ1NVMVpZNjZHaEEtbWZBNmNWdGRyU0JnZFppLU1iQV9Uc0hEekI3QTU5cWxaSGpsYVpyTzRJR2d4OHZBaTlkZFNyUGJ3TEFiblduSG1XNl8wb19NTGdkSl9oNkZBWUN0YWV2NDh4UktNLS1wUGtjSm1TUDVZanN6UWl1R2xQYk9hSDk?oc=5",
+       "source": "Commercial Observer"
       },
       {
-       "titre": "Chile clears Blackstone's acquisition of hotel operator Essendi",
-       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaldVMkhldll1UWFuZTBfVGNHV29VMUloZGYxVlRRYzhHNlgyUndhbmVQQWNKV0h5MHMzbnRHcEhKVXFCS05LenN4d1RXOWswal9Ocm1JYzlmanotbDFJTlpzQnZITk5qZXEtUTRtUjUxTnViTmlXb0hRY0tCNlRpeE5vV2NmV2RjSFYzS2ZMOVlMLVdXSmZDR0dmQjBqUQ?oc=5",
-       "source": "Dealroom"
-      },
-      {
-       "titre": "Danantara Indonesia Seals Mecca Hotel Acquisition",
-       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS01uZ3dSYUZCTm9OV3JqaFdlVnBMcWM0T05NdDUtclVScVFjMFh6X1ZiOE5id3c5LXpQc3dvN2FzblNlMzY3RzBhR1JjV3d1ZjUwbzEyM0V4Y0tfOHRjRHNOLThkQzdFcUo3RklxU1hvU29uQUZieXZVUWluUzlsZGhaS2M4TTVHc0E?oc=5",
-       "source": "Tempo.co English"
+       "titre": "Danantara achète 4,4 hectares de terre et un hôtel de 1 461 chambres à La Mecque pour les pèlerins du Hadj",
+       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB5YS1JalNEQk1oaGpYVnVvX0NldVhTanhJU1ZWbVgwbGZ6V3VUUDlIa0xaU08tblZqeHQ1UUZ2SnBBQQ?oc=5",
+       "source": "VOI.ID"
       }
      ]
     },
     {
-     "texte": "Sonesta supprime des postes alors qu’une offre non sollicitée de 2 milliards de dollars vise une partie des hôtels de Service Properties Trust qu’elle exploite.",
+     "texte": "Autres cessions : le groupe Parallel hospitality reprend l'hôtel Baya de Capbreton (Landes), l'Hôtel Sacacomie est vendu à une entreprise québécoise et NOHM Hospitality prend la majorité de Baoli Dubai en vue d'une expansion internationale.",
      "articles": [
       {
-       "titre": "Sonesta Cuts Jobs as a $2 Billion Bid Puts Many of Its Best Hotels in Play",
-       "url": "https://skift.com/2026/10/20/sonesta-cuts-jobs-as-a-2-billion-bid-puts-many-of-its-best-hotels-in-play/",
+       "titre": "Landes. L’hôtel Baya de Capbreton acquis par le groupe Parallel hospitality : « C’est un établissement qui a un énorme potentiel, un savoir-faire indéniable, mais aussi une marge de progression »",
+       "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOYWVUZmNhNU5hTDRWSm53dGY0ZTh5N3NDX1g1QzMwcHowdWkzS3VoUG5kZURRWWVKN0g5U1hIVHYyLVV3MWF0dHRfUUo5a1c1cjQtb0dxQkgzTFlST1RmZnhJLWtpQzg2OEV6X3pEcjVxVjRYOXJzZDhrT0VjaW15eEFZal9iTU5hRWhoOFgyQkpHZnQzbE43eXJ3ZkZWTTNEXzZXdHgwRGNYankyRUVPNTJDbllJc0hJdVlnaXBiMy00SS1uaWw4V0NjLWtlWUt4aHFHOEdJOGd1Y2xjN2k4b2VERTFpdzJyRTI0UDNGYWZCOTE4NDdic1ZHRTBtdVhlTndoS0ZkWS1GYTVsT0pRbUlkSFFsc0RTZVFNenhHZ09UMDJfNjFzTFFjV3phTkd6cUVjUU9mODlpTDRfOV9QM0RwU2twRnEwNWdPQ3ZPMkRwbVA3Wkd5R1dLRTZWUHplSnRMX3RUM0lpaERN?oc=5",
+       "source": "Sud Ouest"
+      },
+      {
+       "titre": "L’Hôtel Sacacomie vendu à une entreprise québécoise",
+       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTGI1V0d0ZFNfRmtBOV9XT2VYcUt6NkZUVDhDQ3FKMlJOMGJPNUVYUnBDdXE2cGExT2Z4dnEzUVFQV3hYQ2hrWGtyM0FJeHFxS1NiT293VktCb01Rc2NXbmxRVkt2RTFENzFmVEhhWVRaQmVEWWhPdXBNU1RVclJUdjFJME9tOG1yWXc?oc=5",
+       "source": "Radio-Canada"
+      },
+      {
+       "titre": "NOHM Hospitality acquires majority stake in Baoli Dubai, eyes international expansion",
+       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVUtqckxrQU14MmtNdkk2aEM4VUpla2lqQzlOUHNBcEp1dXZTTG9jQVdjZnJHaFp5UUx4aldRZzdmQ0F6MmRKNUllUUNpS1A4OGNuQ0ZXclRzcVU4OUd1ekJsUWRzYVpVRFhmeUdKS2t4Zl93TEVCWFFCaUp4UDBiNUdfX1FsUkNYSGNOUDlkb0hZZ0tqTWlyRkQ3V0FMNFUwZkZnQlFMbWV3UEx3Y01qZ2Z6VV9MM1gtaThjYXh0bzBOdkF6azA3OEhZcnhmTC1tMjFNQXQ0ZTktZm1aQkJiM0E5NmdGZm4t?oc=5",
+       "source": "Gulf News"
+      }
+     ]
+    },
+    {
+     "texte": "Développement : Accor arrive en République dominicaine avec plus de 20 projets, près de 6 000 clés (environ 6,5 % de la capacité nationale), appuyé par la banque d'État Banreservas. Yotel prépare une marque haut de gamme et YotelAir en centre-ville et vise 100 hôtels, Hilton va transférer sa cotation du NYSE au Nasdaq en novembre, et Francesca Tozzi prend la direction du futur Brach Roma, prévu en 2027.",
+     "articles": [
+      {
+       "titre": "Accor débarque en République dominicaine avec l’appui de la banque d’État Banreservas",
+       "url": "https://hospitality-on.com/fr/hotellerie/accor-debarque-en-republique-dominicaine-avec-lappui-de-la-banque-detat-banreservas",
+       "source": "Hospitality ON"
+      },
+      {
+       "titre": "Yotel Plans Upscale Brand and YotelAir in City Centers as It Targets 100 Hotels: Exclusive",
+       "url": "https://skift.com/2026/10/21/yotel-plans-upscale-brand-and-yotelair-in-city-centers-as-it-targets-100-hotels-exclusive/",
        "source": "Skift"
-      }
-     ]
-    },
-    {
-     "texte": "Kempinski : la CEO Barbara Muckermann et une partie de l’état-major quittent le groupe. Chez Dorchester Collection, Richard Cooke prendra la tête de l’Hotel Bel-Air en janvier 2027.",
-     "articles": [
-      {
-       "titre": "Barbara Muckermann et une partie de l’état-major ont quitté leur fonction à la tête de Kempinski",
-       "url": "https://hospitality-on.com/fr/luxe/barbara-muckermann-et-une-partie-de-letat-major-ont-quitte-leur-fonction-la-tete-de-kempinski",
-       "source": "Hospitality ON"
       },
       {
-       "titre": "Richard Cooke rejoint Dorchester Collection et la tête de l'Hotel Bel-Air",
-       "url": "https://hospitality-on.com/fr/hotellerie/richard-cooke-rejoint-dorchester-collection-et-la-tete-de-lhotel-bel-air",
+       "titre": "Hilton to move stock listing to Nasdaq",
+       "url": "https://www.hoteldive.com/news/hilton-to-move-stock-listing-to-nasdaq/833577/",
+       "source": "Hotel Dive"
+      },
+      {
+       "titre": "Francesca Tozzi aux rênes du futur Brach Roma",
+       "url": "https://hospitality-on.com/fr/hotellerie/francesca-tozzi-aux-renes-du-futur-brach-roma",
        "source": "Hospitality ON"
       }
      ]
     },
     {
-     "texte": "Distribution : Booking.com veut s’imposer en Inde avec son propre système de paiement et le voyage d’affaires, Agoda double son offre d’hôtels haut de gamme, et Global Hotel Alliance intègre Far East Hospitality (26 hôtels, 6 212 chambres).",
+     "texte": "Distribution : Booking Holdings encaisse désormais le paiement sur 73 % de ses ventes, contre 25 % en 2019, et Booking.com veut s'imposer en Inde avec son propre système de paiement et le voyage d'affaires. Meta qualifie le voyage de cas d'usage majeur pour son agent IA Muse et entend prélever une commission sur les réservations.",
      "articles": [
+      {
+       "titre": "Booking Holdings Now Collects Payment on 73% of Sales, Charlotte Weatherall of Corinthia London on Leading from the Heart, Paathz Rebuilds Hospitality Hiring Without CVs",
+       "url": "https://www.hospitalitynet.org/editorial/4135038/booking-holdings-now-collects-payment-on-73-of-sales-charlotte-weatherall-of-corinthia-london-on-leading-from-the-heart-paathz-rebuilds-hospitality-hiring-without-cvs",
+       "source": "Hospitality Net"
+      },
       {
        "titre": "Booking.com Looks to Compete in India With Its Own Payments System and Business Travel",
        "url": "https://skift.com/2026/10/21/booking-com-looks-to-compete-in-india-with-its-own-payments-system-and-business-travel/",
        "source": "Skift"
       },
       {
-       "titre": "Agoda Doubles Premium Hotel Supply as Five-Star Search Rises",
-       "url": "https://skift.com/2026/10/20/agoda-doubles-premium-hotel-supply-as-five-star-search-rises/",
+       "titre": "Meta Calls Travel ‘a Top Use Case’ for Muse — and Zuck Wants a Cut",
+       "url": "https://skift.com/2026/10/21/meta-calls-travel-a-top-use-case-for-muse-and-zuck-wants-a-cut/",
        "source": "Skift"
-      },
-      {
-       "titre": "Global Hotel Alliance Signs on Far East Hospitality, Singapore-Based Regional Hotel Management Operator, Expanding Its Presence Across Asia Pacific",
-       "url": "https://www.hospitalitynet.org/news/4135018/global-hotel-alliance-signs-on-far-east-hospitality-singapore-based-regional-hotel-management-operator-expanding-its-presence-across-asia-pacific",
-       "source": "Hospitality Net"
       }
      ]
     },
     {
-     "texte": "Tendances : HVS prévoit un bon automne pour l’hôtellerie américaine, porté par les prix moyens, avec une occupation encore environ 2 points sous 2019. United Airlines réduit ses prévisions de bénéfice à cause du kérosène, malgré une demande forte.",
+     "texte": "Chiffres du secteur : l'hôtellerie française signe en septembre l'une de ses meilleures progressions de l'année, avec un taux d'occupation en hausse de près de 2 points. Côté aérien, Southwest et United abaissent leurs prévisions de bénéfices en raison du kérosène, United notant toutefois des revenus premium et fidélité en hausse de 17 %.",
      "articles": [
       {
-       "titre": "HVS U.S. Market Pulse: October 2026",
-       "url": "https://www.hospitalitynet.org/report/4135017/hvs-us-market-pulse-october-2026",
-       "source": "Hospitality Net"
+       "titre": "Tendances France Septembre 2026 – Vert sur vert tout est clair, merci Céline !",
+       "url": "https://hospitality-on.com/fr/tendances/tendances-france-septembre-2026-vert-sur-vert-tout-est-clair-merci-celine",
+       "source": "Hospitality ON"
+      },
+      {
+       "titre": "Southwest Airlines Slashes 2026 Profit Guidance on Higher Fuel Bills",
+       "url": "https://skift.com/2026/10/21/southwest-slashes-2026-profit-guidance-on-higher-fuel-bills/",
+       "source": "Skift"
       },
       {
        "titre": "United Airlines Cuts Profit Outlook as Jet Fuel Costs Rise",
