@@ -1,31 +1,9 @@
 {
- "generated_at": "2026-10-21T09:11:40Z",
+ "generated_at": "2026-10-22T04:50:52Z",
  "launches": [
   {
-   "name": "Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
-   "net": "2026-10-20T11:04:00Z",
-   "status": "Success",
-   "status_label": "Launch Successful",
-   "provider": "SpaceX",
-   "pad": "Space Launch Complex 40",
-   "location": "Cape Canaveral SFS, FL, USA",
-   "mission_type": "Dedicated Rideshare",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20251102082912.jpg"
-  },
-  {
-   "name": "Ceres-1S | Xiguang-4 01",
-   "net": "2026-10-21T03:39:00Z",
-   "status": "Success",
-   "status_label": "Launch Successful",
-   "provider": "Galactic Energy",
-   "pad": "Rizhao offshore launch location",
-   "location": "Haiyang Oriental Spaceport",
-   "mission_type": "Earth Science",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-1s_image_20230905114324.jpeg"
-  },
-  {
    "name": "Falcon 9 Block 5 | Starlink Group 15-15",
-   "net": "2026-10-21T23:02:41Z",
+   "net": "2026-10-22T22:40:24Z",
    "status": "Go",
    "status_label": "Go for Launch",
    "provider": "SpaceX",
@@ -36,7 +14,7 @@
   },
   {
    "name": "Electron | We're Not Hawking Around (3x HawkEye 360)",
-   "net": "2026-10-22T07:00:00Z",
+   "net": "2026-10-23T07:00:00Z",
    "status": "TBC",
    "status_label": "To Be Confirmed",
    "provider": "Rocket Lab",
@@ -68,17 +46,6 @@
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_4b_l_image_20251209044050.jpeg"
   },
   {
-   "name": "Falcon 9 Block 5 | Starlink Group 15-16",
-   "net": "2026-10-24T05:29:00Z",
-   "status": "Go",
-   "status_label": "Go for Launch",
-   "provider": "SpaceX",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "mission_type": "Communications",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png"
-  },
-  {
    "name": "Long March 8A | Unknown Payload",
    "net": "2026-10-25T01:50:00Z",
    "status": "Go",
@@ -88,6 +55,39 @@
    "location": "Wenchang Space Launch Site, People's Republic of China",
    "mission_type": "Unknown",
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_launch_2_image_20251206093107.jpeg"
+  },
+  {
+   "name": "Falcon 9 Block 5 | Starlink Group 15-16",
+   "net": "2026-10-26T05:00:00Z",
+   "status": "Go",
+   "status_label": "Go for Launch",
+   "provider": "SpaceX",
+   "pad": "Space Launch Complex 4E",
+   "location": "Vandenberg SFB, CA, USA",
+   "mission_type": "Communications",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png"
+  },
+  {
+   "name": "Vulcan VC6L | Amazon Leo (LV-01)",
+   "net": "2026-10-29T00:00:00Z",
+   "status": "TBD",
+   "status_label": "To Be Determined",
+   "provider": "United Launch Alliance",
+   "pad": "Space Launch Complex 41",
+   "location": "Cape Canaveral SFS, FL, USA",
+   "mission_type": "Communications",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg"
+  },
+  {
+   "name": "Falcon 9 Block 5 | Starlink Group 15-18",
+   "net": "2026-10-29T04:17:00Z",
+   "status": "Go",
+   "status_label": "Go for Launch",
+   "provider": "SpaceX",
+   "pad": "Space Launch Complex 4E",
+   "location": "Vandenberg SFB, CA, USA",
+   "mission_type": "Communications",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png"
   }
  ]
 }
