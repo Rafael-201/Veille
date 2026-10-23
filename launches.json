@@ -1,22 +1,11 @@
 {
- "generated_at": "2026-10-22T05:58:07Z",
+ "generated_at": "2026-10-23T04:53:00Z",
  "launches": [
-  {
-   "name": "Falcon 9 Block 5 | Starlink Group 15-15",
-   "net": "2026-10-22T22:40:24Z",
-   "status": "Go",
-   "status_label": "Go for Launch",
-   "provider": "SpaceX",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "mission_type": "Communications",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png"
-  },
   {
    "name": "Electron | We're Not Hawking Around (3x HawkEye 360)",
    "net": "2026-10-23T07:00:00Z",
-   "status": "TBC",
-   "status_label": "To Be Confirmed",
+   "status": "Go",
+   "status_label": "Go for Launch",
    "provider": "Rocket Lab",
    "pad": "Rocket Lab Launch Complex 1A",
    "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
@@ -44,6 +33,17 @@
    "location": "Jiuquan Satellite Launch Center, People's Republic of China",
    "mission_type": "Unknown",
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_4b_l_image_20251209044050.jpeg"
+  },
+  {
+   "name": "Falcon 9 Block 5 | Starlink Group 15-15",
+   "net": "2026-10-23T21:30:00Z",
+   "status": "Go",
+   "status_label": "Go for Launch",
+   "provider": "SpaceX",
+   "pad": "Space Launch Complex 4E",
+   "location": "Vandenberg SFB, CA, USA",
+   "mission_type": "Communications",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png"
   },
   {
    "name": "Long March 8A | Unknown Payload",
