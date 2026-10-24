@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T05:17:43Z",
+ "generated_at": "2026-10-24T04:39:42Z",
  "sources": [
   {
    "name": "CNBC",
@@ -9,7 +9,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 22
+   "archived": 25
   },
   {
    "name": "Bloomberg Markets",
@@ -19,7 +19,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 24
+   "archived": 27
   },
   {
    "name": "MarketWatch",
@@ -29,7 +29,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 19
+   "archived": 21
   },
   {
    "name": "Les Echos",
@@ -59,7 +59,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 19
+   "archived": 20
   },
   {
    "name": "CNBC Résultats",
@@ -69,7 +69,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 6
+   "archived": 8
   },
   {
    "name": "The Motley Fool",
@@ -79,7 +79,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 9
+   "archived": 12
   },
   {
    "name": "Le Parisien Économie",
@@ -89,7 +89,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 9
+   "archived": 12
   },
   {
    "name": "Libération Économie",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 8
+   "archived": 10
   },
   {
    "name": "Nature",
@@ -109,7 +109,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 18
+   "archived": 21
   },
   {
    "name": "ScienceDaily",
@@ -129,7 +129,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 7
+   "archived": 8
   },
   {
    "name": "New Scientist",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 18
+   "archived": 21
   },
   {
    "name": "Futura",
@@ -149,7 +149,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 28
+   "archived": 30
   },
   {
    "name": "SpaceNews",
@@ -159,7 +159,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 16
+   "archived": 17
   },
   {
    "name": "NASASpaceflight",
@@ -169,7 +169,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 17
+   "archived": 18
   },
   {
    "name": "Spaceflight Now",
@@ -189,7 +189,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 32
+   "archived": 35
   },
   {
    "name": "ESA",
@@ -199,7 +199,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 13
+   "archived": 15
   },
   {
    "name": "NASA",
@@ -209,7 +209,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 20
+   "archived": 23
   },
   {
    "name": "Hospitality ON",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 43
+   "archived": 46
   },
   {
    "name": "Hotel Dive",
@@ -229,7 +229,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 19
+   "archived": 20
   },
   {
    "name": "Hospitality Net",
@@ -239,7 +239,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 17
+   "archived": 19
   },
   {
    "name": "Skift",
@@ -249,7 +249,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 20
+   "archived": 22
   },
   {
    "name": "Transactions · Amérique du Nord",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 10
+   "archived": 11
   },
   {
    "name": "Transactions · Amérique latine",
@@ -269,7 +269,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 9
+   "archived": 11
   },
   {
    "name": "Transactions · Europe",
@@ -279,7 +279,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 10
+   "archived": 12
   },
   {
    "name": "Transactions · Europe (FR)",
@@ -289,16 +289,16 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 8
+   "archived": 9
   },
   {
    "name": "Transactions · Moyen-Orient",
    "cat": "hotellerie",
    "topic": "transactions",
    "url": "https://news.google.com/rss/search?q=hotel+%28acquires+OR+acquisition+OR+acquired+OR+sells+OR+sold+OR+buys+OR+%22sale+of%22%29+%28Dubai+OR+%22Abu+Dhabi%22+OR+Saudi+OR+UAE+OR+Qatar+OR+Oman+OR+Bahrain+OR+%22Middle+East%22%29+when%3A14d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "count": 3,
-   "error": null,
+   "ok": false,
+   "count": 0,
+   "error": "Aucun article lu",
    "archived": 11
   },
   {
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 20
+   "archived": 23
   },
   {
    "name": "Marchés · Amérique latine",
@@ -349,7 +349,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 17
+   "archived": 20
   },
   {
    "name": "Marchés · Europe",
@@ -359,16 +359,16 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 17
+   "archived": 19
   },
   {
    "name": "Marchés · Europe (FR)",
    "cat": "finance",
    "topic": "marches",
    "url": "https://news.google.com/rss/search?q=%28%22CAC+40%22+OR+%22Bourse+de+Paris%22+OR+%22Bourse+suisse%22+OR+%22SMI%22+OR+%22march%C3%A9s+europ%C3%A9ens%22%29+when%3A2d&hl=fr&gl=FR&ceid=FR%3Afr",
-   "ok": true,
-   "count": 3,
-   "error": null,
+   "ok": false,
+   "count": 0,
+   "error": "Aucun article lu",
    "archived": 20
   },
   {
@@ -379,7 +379,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 14
+   "archived": 15
   },
   {
    "name": "Marchés · Asie-Pacifique",
@@ -389,16 +389,16 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 21
+   "archived": 24
   },
   {
    "name": "Marchés · Afrique",
    "cat": "finance",
    "topic": "marches",
    "url": "https://news.google.com/rss/search?q=%28JSE+OR+%22Nigerian+stocks%22+OR+EGX30+OR+%22African+markets%22+OR+%22South+African+rand%22%29+when%3A5d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "count": 3,
-   "error": null,
+   "ok": false,
+   "count": 0,
+   "error": "Aucun article lu",
    "archived": 17
   }
  ]
