@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T04:39:42Z",
+ "generated_at": "2026-10-24T05:17:28Z",
  "sources": [
   {
    "name": "CNBC",
@@ -49,7 +49,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 24
+   "archived": 26
   },
   {
    "name": "BCE",
@@ -209,7 +209,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 23
+   "archived": 24
   },
   {
    "name": "Hospitality ON",
@@ -289,16 +289,16 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 9
+   "archived": 10
   },
   {
    "name": "Transactions · Moyen-Orient",
    "cat": "hotellerie",
    "topic": "transactions",
    "url": "https://news.google.com/rss/search?q=hotel+%28acquires+OR+acquisition+OR+acquired+OR+sells+OR+sold+OR+buys+OR+%22sale+of%22%29+%28Dubai+OR+%22Abu+Dhabi%22+OR+Saudi+OR+UAE+OR+Qatar+OR+Oman+OR+Bahrain+OR+%22Middle+East%22%29+when%3A14d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "count": 0,
-   "error": "Aucun article lu",
+   "ok": true,
+   "count": 3,
+   "error": null,
    "archived": 11
   },
   {
@@ -366,10 +366,10 @@
    "cat": "finance",
    "topic": "marches",
    "url": "https://news.google.com/rss/search?q=%28%22CAC+40%22+OR+%22Bourse+de+Paris%22+OR+%22Bourse+suisse%22+OR+%22SMI%22+OR+%22march%C3%A9s+europ%C3%A9ens%22%29+when%3A2d&hl=fr&gl=FR&ceid=FR%3Afr",
-   "ok": false,
-   "count": 0,
-   "error": "Aucun article lu",
-   "archived": 20
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 22
   },
   {
    "name": "Marchés · Moyen-Orient",
@@ -396,10 +396,10 @@
    "cat": "finance",
    "topic": "marches",
    "url": "https://news.google.com/rss/search?q=%28JSE+OR+%22Nigerian+stocks%22+OR+EGX30+OR+%22African+markets%22+OR+%22South+African+rand%22%29+when%3A5d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "count": 0,
-   "error": "Aucun article lu",
-   "archived": 17
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 20
   }
  ]
 }

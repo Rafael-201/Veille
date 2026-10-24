@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T04:39:43Z",
+ "generated_at": "2026-10-24T05:17:29Z",
  "indices": [
   {
    "symbol": "^GSPC",
@@ -59,7 +59,7 @@
    "change_pct": -0.31,
    "month_pct": -3.68,
    "date": "2026-10-23",
-   "currency": "EUR"
+   "currency": null
   },
   {
    "symbol": "^FCHI",
