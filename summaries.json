@@ -1,17 +1,47 @@
 {
- "generated_at": "2026-10-23T05:17:23Z",
+ "generated_at": "2026-10-24T05:17:03Z",
  "auteur": "Claude",
  "rubriques": {
   "finance": {
-   "titre": "La dette française franchit le cap des 5 % tandis que la tech et les tensions au Moyen-Orient secouent les marchés",
+   "titre": "La chute des valeurs technologiques et de l'IA fait reculer les Bourses, tandis que Moody's maintient la note de la France malgré les tensions",
    "points": [
     {
-     "texte": "Le taux de l'OAT à dix ans a dépassé 5 % pour la première fois depuis 2002, la prime de risque de la France bondissant après les émeutes de la semaine dernière. La Bourse de Paris recule, entraînée par Crédit Agricole, Société Générale et BNP Paribas, avant le verdict de Moody's sur la note du pays.",
+     "texte": "Les valeurs liées à l'IA et aux semi-conducteurs ont lourdement chuté : le Nasdaq a perdu 2,58 % en une séance et le Dow Jones a clôturé en baisse de 1,24 %. Les « neoclouds » sont sous pression, les primes de CDS montent et Solidigm (SK Hynix) a renoncé à son introduction en Bourse aux États-Unis.",
      "articles": [
       {
-       "titre": "Dette : le taux français a dépassé le cap des 5 % pour la première fois depuis 2002",
-       "url": "https://www.lesechos.fr/finance-marches/marches-financiers/dette-le-taux-francais-depasse-5-pour-la-premiere-fois-depuis-2002-2258143",
-       "source": "Les Echos"
+       "titre": "Nasdaq AI Selloff: 2.58% Drop, Chip Stocks Sink [2026]",
+       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yamZmMEdRWlJoZjhCSzRjdEZwa1lUZGRGQW5Kc2N0bUZQMGNjS25ZRlpWYTVWOVU4eWtOTUxVcjdmdW85bzdpUVloNHpLZTgzdkYxcmU3R215d25CYXkwaUEzc0MwWnI4Ml9lS2hfN0ZNcE9sd05nVjlqR01VZw?oc=5",
+       "source": "tech-insider.org"
+      },
+      {
+       "titre": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 1.24%",
+       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQjk5ampmOEZjdkxJVDhTcndpb2FxdFBUWVV1bE9UT2F6N2lOdEdMT0RoaW5VN3AwRHEyS2dPUm8tQm51c1NORWRLM2gyWVVsUVFnOV95X3lXTkRDSE42cmNqNFp2alpaVGw1R0tlRmQxMlFkQjcySm9kMGV4b21Ub0VYRUk3MjlvZFhDS29EWmF4YTVrTnNJQW5SY1RRWXAtTWwwR0QwQ3ZzcjhzTXNGek1GVzVXMTdzUEhBVk9zdjhBa2wzS0Jn?oc=5",
+       "source": "Investing.com"
+      },
+      {
+       "titre": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+       "url": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+       "source": "CNBC"
+      },
+      {
+       "titre": "SK Hynix shares rebound after initial drop on scrapped Solidigm IPO plans",
+       "url": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
+       "source": "CNBC"
+      }
+     ]
+    },
+    {
+     "texte": "Moody's a maintenu la note de la France à Aa3, avec une perspective négative, malgré les violences du 17 octobre et l'incertitude budgétaire. La Bourse de Paris recule alors que le taux à dix ans français franchit de nouveau 5 %, et les Bourses européennes baissent sur fond de troubles en France et de hausse du pétrole.",
+     "articles": [
+      {
+       "titre": "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
+       "url": "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
+       "source": "CNBC"
+      },
+      {
+       "titre": "Dette : contre toute attente, Moody’s maintient la note de la France... avec une perspective négative",
+       "url": "https://www.liberation.fr/economie/dette-contre-toute-attente-moodys-maintient-la-note-de-la-france-20261023_B6U3PWPYWFFHNKTAT7H3JXBBNY/",
+       "source": "Libération Économie"
       },
       {
        "titre": "La Bourse de Paris recule; le taux à dix ans de la France franchit de nouveau 5%",
@@ -19,98 +49,48 @@
        "source": "https://renseignementeconomique.fr/"
       },
       {
-       "titre": "Crédit Agricole, Société Générale et BNP Paribas font chuter le CAC 40 : le Journal de la bourse du 22 octobre",
-       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTDJReUs3ZER5LWFLMWZEc0E0RDFPTU91bzJlb1B0WGl1NGU0ZHRMRnJrcHBISmI3dVZHSTdUdDdRcFNLZTBLcWlIWVZHQVdteHNhRUVvTVZZVmJNa2xxSTBYX2YxajZzZG1BZ1NGM0tfX2xiSFIzZ01zeUV1NFIybnBEcW9RX3BCNElpZWRyWFd6OEVqRnhlOFNvOHZZYUNmZHJESGZxVWxxSWEzeXZZVDhFcGlaaFc5b3dabDFzZjVkSXhfOU5Qbk8xS1lsNGJBa28zUlltcE12dTg0Ty1WbFdFVjhfOUVkbmZISQ?oc=5",
-       "source": "MoneyVox"
-      },
-      {
-       "titre": "« Il serait incompréhensible que la note ne bouge pas » : avant même le verdict de Moody’s, la crédibilité de la France déjà atteinte",
-       "url": "https://www.leparisien.fr/economie/il-serait-incomprehensible-que-la-note-ne-bouge-pas-avant-meme-le-verdict-de-moodys-la-credibilite-de-la-france-deja-atteinte-23-10-2026-PILEHQYU35FGTJSSSPAEX6VOAA.php",
-       "source": "Le Parisien Économie"
+       "titre": "European stocks fall on French unrest, rising oil prices",
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT3JGbGF6NzFmbnpFS0ZTS1pDencyMFVHTW9IdEN4UHEzbDJOandOLXNlOXNtQjd6Ul9JUjdONTVSWXFpcUIyQ2tIQmdOTWNkYWZUTGJyeXlNWFpKQjQ3X0h4eVA1dk9uQzNPaTd6WXJxQWdWQVRob19EVm9aOHZMNFp0NjlrZVdKWWQ3U2xuRHE0UnRkRmdwY2JUa0dRVUhPam9SRDhNaG9yS1E?oc=5",
+       "source": "巴士的報"
       }
      ]
     },
     {
-     "texte": "Wall Street a connu sa pire séance depuis juillet sous l'effet d'une chute des valeurs technologiques, les investisseurs s'inquiétant des dépenses dans l'IA. Meta recule de près de 7 % : ses investissements dans l'IA font passer son flux de trésorerie disponible en négatif, et ses CDS à cinq ans atteignent des records. Les places asiatiques suivent à la baisse.",
+     "texte": "En Europe, le DAX cède 0,75 % à 25 181,65 points (-1,7 % sur la semaine) et le FTSE 100 recule à 10 690,36 points, le plongeon des ventes au détail britanniques l'emportant sur les gains de BP et Shell, portés par un pétrole au plus haut depuis cinq mois. En Asie, le Hang Seng rebondit de 0,69 % à 23 093,37 points mais perd 4,5 % sur la semaine.",
      "articles": [
       {
-       "titre": "Tech sell-off hands Wall Street its worst day since July as oil climbs",
-       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM2NvYThLZVhmTE1XNTk3cjhpbHNiUV9pcDhwOXkydmJCWi1UZ29PenYxbUVabXBiSl9yYkwyUjdNanFzZU1RT0hfVlktTWZKVlBKTWI0akx0R0NLOUU0VE1qVWwySkJ0UFZMYnpBOXJ0bXpZUGZlY2JsYkpCdzdVRElhVmVOOUlnejgxdkNDT0tVcWlFclZWeWR0X1h6MUhvMnhWUzRvU0ZOVjFwNm1NaUx4MWdXQQ?oc=5",
-       "source": "CommBank"
+       "titre": "Germany's DAX 40 Falls 0.75% to 25,181.65 as French Worries and an MTU Slump Extend Weekly Loss to 1.7%",
+       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV0FzYlhpNjhxVXUyeDJLQzh2c2tNTndqbXpfd3R1ZjY2T2xiekJUeEtCdlFUQW5TTTZhM0szLXFnRmJZQ1BuM0hldTFwWDB5bWNINVBIOW9vOUtwNnR3cnJ2QktKZnRObTRXRjZnRkU1V2pvMU1Qa2ZVNzlWWjU4bUcyeWk2Vk9RbUYtYURoSWNFQkZFX0VWR1lvUGdIVk5IdXZENVMxcGk4NUUzYjlPdmlPbUtPYzlYXzBhOE85NmpsYUhQZG1JY1ZWbEp0bDh0M1BQWjdIWEM?oc=5",
+       "source": "BBN Times"
       },
       {
-       "titre": "US tech stocks tumble as investors fret over AI spending",
-       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT2xmdU1Ga0VLeGtTMlBVN0tjdEZYUmNHYTZIZnRNWjBRVUs2SGUxU0pKdDRpSGpyZC1ESDNGdDZ2OWQ2UTNjcmQ3RWJtVVpCaXNDOElGQ2lUVHJEdDRIR2VRdXFYZkl0Vm1TX2o4VDVNb2pSNnFpSHNXc2dqbXBIVFU5NGcyc3BWSzZqSXpZMFdKMENIaUFZNjhXdjJnalRObzR30gGoAUFVX3lxTFAzbm1pU1E3Y2ZjTVRTZTk1QzhHVmtaWmNReEJTbENyWHRaOEhqWWQ4Y01VTFdXeE9aaEhzMVJfdVBLckxzMFlqeTlSSDNCM2hkdGhJYjB0ZHZRWW9uak14RUJ6cW42b2lMbW1oYmxkU3d6UjNnUTRxdkRoaFFrT0FNbU8tcnFrWS1lNVNmUV85ZkF1U21qajdpYXFKeXU0T0JVM1Npb0tjTQ?oc=5",
-       "source": "Al Jazeera"
+       "titre": "FTSE 100 Falls to 10,690.36 as UK Retail Sales Slump Outweighs BP and Shell Gains on Five-Month Oil High",
+       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVDZYWjF1c1VSYTYwMnNPWlE1TE00MWN1UXNqcUJFT21KN1ZPN0g4TXJqSjRGd3lCRXRfZU1Db1JqOGE0RWRXenBxNUxsLTZBa0pvWGJQRHQ5SUV4M1hzZWU0M1dlb3lvLWt4RkRodXBERXo2RG5ERGRKb3Q5OVhDT2pPNXVhdnRscUxLb183SjRlTmt0M3F4MFRiTWdtWWhpRjl1cWZUTm1PZnZmWnplX3RLaTAzNlFjUWExazg0bUN5M0N6YjFCejZaX0ZQSmhBTGxNa0Z3?oc=5",
+       "source": "BBN Times"
       },
       {
-       "titre": "Meta stock sinks nearly 7% as AI spend pushes free cash flow negative",
-       "url": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
+       "titre": "Hong Kong Stock Exchange: Hang Seng Index Climbs 0.69% to 23,093.37 as AI Stocks Rebound, Still Down 4.5% on the Week",
+       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLWlZUGwzOGgxaW1nd1F3cEJHcXd2ekhqanpFYm9pRTRpUjFKenpkY24yZDVoWUN4WGxOck4zSmtaSWM1RGk3WVd5WElwODRHaTFSV0k2OGZsUWhnYXZJT2xfdnRwSXZ1Y042TGJrRGxxVkpKaU1BekxURVMzMnk1dXdhZGlZcXdEYXZxNGxLNzBjaUJ2T2lRenJiQnBuSENtOXN0cDBEMkl0MGFjZy1MdGV0THAteV9jT0hpalFmQ1FTZTQtQVdYa3RNU01LelExZEMyRmdJSUYxYVh5U2k5dDdR?oc=5",
+       "source": "BBN Times"
+      }
+     ]
+    },
+    {
+     "texte": "Côté résultats : Volvo Cars s'effondre de 24 % après un recul plus rapide que prévu de ses ventes en Chine, Holcim relève ses prévisions annuelles pour la deuxième fois, Saab voit ses commandes tripler après le contrat Gripen avec l'Ukraine, et Swiggy touche un plus bas historique sur des pertes plus lourdes que prévu.",
+     "articles": [
+      {
+       "titre": "Volvo Cars plunges 24% as CEO says China sales slump came 'faster than we thought'",
+       "url": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
        "source": "CNBC Résultats"
       },
       {
-       "titre": "Asian shares slip as sharp drops for AI stocks overwhelm markets worldwide and oil prices jump",
-       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWndhVFdXbi1IYTNMWjEwWWdMU0xBbW51b3lOMDRpYTYydG5ZbF9JMy15c1lRYXFFWWhhNF9sTjR2Uk16eXNWWXI4aDVyNmFFSm1HUDgyOW9aSEZLcFdBUnRxb1FzZ2ZXZXYtR21DLWE3dlBNWm1ZTFh6T0gwam5PUFVLdUJMNnNYTG10TFNlVWx2cWx3SmVDOS1yRUZ2TGJJZV9nTTZaVmtsbmdhZE8tVHQtM2Jud08yZHUwTGFjT2xYUXVfbDZHbm9aVk1tckstNkZwVkRKeXprbkNMZUVlcGc2Z29PcWdpTjRLNW9iaTh5b0luRkNrdXRVXzQ2V3g1SXJFZHV0VHo?oc=5",
-       "source": "The Spec"
-      }
-     ]
-    },
-    {
-     "texte": "Le pétrole grimpe face aux craintes au Moyen-Orient : les États-Unis et Israël envisageraient de nouvelles frappes contre l'Iran, et Washington a retiré son personnel non essentiel d'Arabie saoudite après des frappes houthies sur un aéroport et un champ pétrolier. Les marchés du Golfe chutent, le Tadawul saoudien cédant 2,32 %.",
-     "articles": [
-      {
-       "titre": "Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
-       "url": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
-       "source": "CNBC"
-      },
-      {
-       "titre": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms",
-       "url": "https://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html",
-       "source": "CNBC"
-      },
-      {
-       "titre": "Mideast Stocks: Gulf markets fall as fresh Houthi strikes on Saudi Arabia raise regional risk",
-       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMlZmdjFwbERlMDRXSGdHa2R3bmlWRmZ4VFZRdFhULUlWOWUxTTlwMWVVMkZRX1FjajhQN180eTRhZE8tZUNwU1dxZ1lUclZWYWdrSHQycTczUUwtMWNNZnVTbm9jTTc4LW53SzdIdHBNNkFHNVY1T1ZMOXdvcUhVNmdGT1l6WHRPVGNGdFhsbUJlczkyVU9nM3NHVzZUSWdIX2xOcVhmR0tHb2VhRWZMZWU1ZVhKU0xscjNqUTE5Y3lVcklreV95dmJfRlp3TDhxWFhqeEV4bkM?oc=5",
-       "source": "Zawya"
-      },
-      {
-       "titre": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 2.32%",
-       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTkphTTVSSFNkVlNtTkdUWkRwbkc3OUxPWUcxWl9vSUNFNTJ1aTlFazhEakJwZnJKQWhxWHFCTDZGVE9uOEZSYkNfV00yeWk4YkVBVnRqakRZQ290S1hMeUJPNWd6UUxCSlp3WFBrb2U3UlVPUlpxdzhsa2lTVWxsYkJBYXl5Zk9QeHVHZEdYVUtrbHlpeUpBVUJmQjJTaHdGUE9xczhrY2kzcngxdEtxM1dGQ3I1LW1jMkxMVlBWbksyaUJKSHc?oc=5",
-       "source": "Investing.com"
-      }
-     ]
-    },
-    {
-     "texte": "En Asie, l'indice chinois CSI 300 entre en marché baissier, en recul de 20 % depuis son pic de juin, tandis que l'inflation sous-jacente japonaise atteint 2,1 % en septembre, son plus haut de l'année. Sur les matières premières, le blé enchaîne une huitième semaine de baisse, sa plus longue série depuis 1997.",
-     "articles": [
-      {
-       "titre": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout",
-       "url": "https://www.cnbc.com/2026/10/22/chinas-stock-market-csi-300-bear-market.html",
-       "source": "CNBC"
-      },
-      {
-       "titre": "Japan core inflation in September surges to its highest this year at 2.1%",
-       "url": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
-       "source": "CNBC"
-      },
-      {
-       "titre": "Wheat Slides for Eighth Week in Longest Losing Streak Since 1997",
-       "url": "https://www.bloomberg.com/news/articles/2026-10-23/wheat-slides-for-eighth-week-in-longest-losing-streak-since-1997",
+       "titre": "Holcim Lifts Guidance Again as Strong Demand Drives Profit Beat",
+       "url": "https://www.bloomberg.com/news/articles/2026-10-23/holcim-lifts-guidance-again-as-strong-demand-drives-profit-beat",
        "source": "Bloomberg Markets"
-      }
-     ]
-    },
-    {
-     "texte": "Côté résultats, Comcast dépasse les attentes grâce à ses revenus médias, tandis qu'American Airlines anticipe une perte plus lourde en 2026 en raison de la flambée du carburant, quatrième grande compagnie américaine à réviser ses prévisions ce mois-ci. En Inde, l'action Swiggy tombe à un plus bas historique après des pertes plus fortes que prévu.",
-     "articles": [
-      {
-       "titre": "Comcast beats earnings expectations as media revenue offsets weakness in connectivity",
-       "url": "https://www.cnbc.com/2026/10/22/comcast-cmcsa-earnings-q3-2026.html",
-       "source": "CNBC Résultats"
       },
       {
-       "titre": "American Airlines forecasts bigger loss in 2026 on fuel spike, plans to slow growth next year",
-       "url": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html",
+       "titre": "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine",
+       "url": "https://www.cnbc.com/2026/10/23/saab-q3-earnings-figther-jet-maker-beats-expectations-as-orders-triple.html",
        "source": "CNBC Résultats"
       },
       {
@@ -119,78 +99,108 @@
        "source": "Bloomberg Markets"
       }
      ]
+    },
+    {
+     "texte": "Anthropic a vu son chiffre d'affaires atteindre 16,3 milliards de dollars au premier semestre 2026, contre 1,1 milliard un an plus tôt, mais le calendrier d'une introduction en Bourse en novembre devient serré. Barclays supprime 5 000 emplois dans le cadre de sa stratégie d'IA, et au Japon l'inflation sous-jacente atteint en septembre 2,1 %, son plus haut de l'année.",
+     "articles": [
+      {
+       "titre": "Anthropic's Revenue Surged to $16.3 Billion in the First Half of 2026, Up From $1.1 Billion a Year Ago",
+       "url": "https://www.fool.com/investing/2026/10/24/anthropics-revenue-surged-to-163-billion-in-the-fi/?source=iedfolrf0000001",
+       "source": "The Motley Fool"
+      },
+      {
+       "titre": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
+       "url": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
+       "source": "MarketWatch"
+      },
+      {
+       "titre": "Le top / flop de la semaine : la suppression de 5 000 emplois par Barclays - 23/10",
+       "url": "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/video-le-top-flop-de-la-semaine-la-suppression-de-5-000-emplois-par-barclays-23-10_VN-202610230896.html",
+       "source": "BFM Business"
+      },
+      {
+       "titre": "Japan core inflation in September surges to its highest this year at 2.1%",
+       "url": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
+       "source": "CNBC"
+      }
+     ]
     }
    ]
   },
   "science": {
-   "titre": "Alerte sur les récifs coralliens et première d'édition génétique « prime editing » directement dans le corps humain",
+   "titre": "Santé à l'honneur : vaccin anticancer personnalisé, nouveau traitement du stress post-traumatique et mécanismes des effets des statines",
    "points": [
     {
-     "texte": "L'UICN avertit, lors d'une conférence de l'ONU sur la biodiversité, que les récifs coralliens tropicaux de faible profondeur risquent de disparaître d'ici 2075, ce qui décimerait les pêcheries. Les scientifiques testent diverses parades, des haut-parleurs sous-marins aux « super-coraux ».",
+     "texte": "Un vaccin sur mesure contre le cancer de la peau a réduit les récidives ou décès dans un essai de phase avancée, laissant espérer une autorisation l'an prochain. Un traitement du stress post-traumatique autorisé par la FDA, fondé sur une cartographie cérébrale personnalisée et la stimulation magnétique, affiche 68 % de rémission en essai clinique.",
      "articles": [
       {
-       "titre": "All tropical coral reefs could collapse within 50 years",
-       "url": "https://www.newscientist.com/article/2595378-all-tropical-coral-reefs-could-collapse-within-50-years/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "titre": "Personalised cancer vaccine expected to be approved next year",
+       "url": "https://www.newscientist.com/article/2595599-personalised-cancer-vaccine-expected-to-be-approved-next-year/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
        "source": "New Scientist"
       },
       {
-       "titre": "Can a 'lullaby' save coral reefs from extinction?",
-       "url": "https://www.nature.com/articles/d41586-026-03414-3",
-       "source": "Nature"
-      }
-     ]
-    },
-    {
-     "texte": "Le prime editing, technique CRISPR de haute précision, a été appliqué pour la première fois directement dans le corps humain, dans le cadre d'un essai clinique contre une maladie génétique. À Cambridge, des chercheurs ont mis au point un capteur optique à 10 dollars offrant une précision de laboratoire dans un format compatible avec les objets portables.",
-     "articles": [
-      {
-       "titre": "A first for CRISPR: powerful prime editing alters DNA directly in the human body",
-       "url": "https://www.nature.com/articles/d41586-026-03371-x",
-       "source": "Nature"
-      },
-      {
-       "titre": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
-       "url": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
+       "titre": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm",
        "source": "ScienceDaily"
       }
      ]
     },
     {
-     "texte": "L'analyse de 2 884 supernovae apporte de nouveaux indices que l'énergie noire pourrait évoluer dans le temps. En laboratoire, une expérience a reproduit des nanoéruptions semblables à celles du Soleil, qui pourraient expliquer la température élevée de la couronne solaire.",
+     "texte": "Des chercheurs ont compris pour la première fois pourquoi les statines provoquent des douleurs musculaires ; d'autres travaux suggèrent que les variations de température corporelle liées au cycle menstruel pourraient expliquer la fréquence plus élevée des maladies auto-immunes chez les femmes, et que les implants dentaires peuvent contribuer aux infections résistantes aux antibiotiques.",
      "articles": [
       {
-       "titre": "Nearly 3,000 exploding stars challenge our understanding of the Universe",
-       "url": "https://www.sciencedaily.com/releases/2026/10/261021231244.htm",
-       "source": "ScienceDaily"
+       "titre": "« Docteur, j’ai mal aux jambes » : des chercheurs ont enfin compris pourquoi les statines affectent les muscles",
+       "url": "https://www.futura-sciences.com/sante/actualites/coeur-docteur-jai-mal-jambes-chercheurs-ont-enfin-compris-statines-affectent-muscles-138775/#xtor%3DRSS-8",
+       "source": "Futura"
       },
       {
-       "titre": "Tiny ‘solar flares’ recreated in the lab may explain corona mystery",
-       "url": "https://www.newscientist.com/article/2595244-tiny-solar-flares-recreated-in-the-lab-may-explain-corona-mystery/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "titre": "Body temperature may drive the higher risk of autoimmune conditions in women",
+       "url": "https://www.newscientist.com/article/2595579-body-temperature-may-drive-the-higher-risk-of-autoimmune-conditions-in-women/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
        "source": "New Scientist"
+      },
+      {
+       "titre": "Dental implants can hijack your immune system, scientists discover",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm",
+       "source": "ScienceDaily"
       }
      ]
     },
     {
-     "texte": "Quarante ans après Tchernobyl, des rayons X puissants révèlent que certaines particules radioactives encore présentes dans le sol ne se comportent pas comme prévu. Les chercheurs précisent aussi le scénario des décennies difficiles qui ont suivi l'impact de l'astéroïde à l'origine de l'extinction des dinosaures.",
+     "texte": "En biologie, la structure du « portail » moléculaire temporaire que crée le parasite du paludisme pour envahir les globules rouges a été observée en détail.",
      "articles": [
       {
-       "titre": "40 years later, Chernobyl's nuclear fallout is not what scientists expected",
-       "url": "https://www.sciencedaily.com/releases/2026/10/261021231241.htm",
-       "source": "ScienceDaily"
-      },
-      {
-       "titre": "Earth entered its ‘bad decades’ after dinosaur-ending asteroid strike",
-       "url": "https://www.newscientist.com/article/2594979-earths-bad-decades-after-dinosaur-ending-asteroid-strike/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-       "source": "New Scientist"
+       "titre": "Malaria Parasite Caught in the Act of Breaking and Entering",
+       "url": "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/",
+       "source": "Quanta Magazine"
       }
      ]
     },
     {
-     "texte": "Une analyse de près de 30 000 IRM cérébrales établit une chronologie détaillée de la maturation du cerveau et suggère un lien entre le développement cérébral dans l'enfance et la dépression ou l'anxiété à l'adolescence.",
+     "texte": "Sciences de la Terre : le réservoir magmatique de la caldeira de Kikai, au Japon, se remplit de nouveau 7 300 ans après l'une des plus puissantes éruptions récentes, et l'étude d'une ancienne calotte glaciaire canadienne éclaire pourquoi une glaciation aurait été interrompue.",
      "articles": [
       {
-       "titre": "Teen depression and anxiety predicted by childhood brain development",
-       "url": "https://www.nature.com/articles/d41586-026-03357-9",
+       "titre": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
+       "source": "ScienceDaily"
+      },
+      {
+       "titre": "« La prochaine glaciation avait bien commencé » : une découverte révèle pourquoi tout s'est arrêté",
+       "url": "https://www.futura-sciences.com/planete/actualites/glaciation-prochaine-glaciation-avait-bien-commence-decouverte-revele-tout-arrete-138789/#xtor%3DRSS-8",
+       "source": "Futura"
+      }
+     ]
+    },
+    {
+     "texte": "Société et technologie : au Brésil, des partisans de Lula accusent les outils d'IA de Meta de partialité dans la présidentielle, et une étude publiée par Nature montre que le sommeil décline dans des communautés rurales argentines après l'arrivée de l'électricité.",
+     "articles": [
+      {
+       "titre": "Brazil presidential election dogged by alleged bias by Meta AI tools",
+       "url": "https://www.newscientist.com/article/2595540-brazil-presidential-election-dogged-by-alleged-bias-by-meta-ai-tools/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "source": "New Scientist"
+      },
+      {
+       "titre": "Sleep declines in rural communities after electricity arrives",
+       "url": "https://www.nature.com/articles/d41586-026-03318-2",
        "source": "Nature"
       }
      ]
@@ -198,145 +208,95 @@
    ]
   },
   "spatial": {
-   "titre": "Relève d'équipage sur l'ISS et revers pour le Space Rider européen",
+   "titre": "La NASA détaille la feuille de route d'Artemis, avec un test du futur alunisseur en orbite terrestre l'an prochain et deux options pour 2028",
    "points": [
     {
-     "texte": "La Station spatiale internationale a reçu une nouvelle cargaison via un Dragon, tandis que l'équipage Crew-12 passe le relais à Crew-13 au sein de l'Expédition 75.",
+     "texte": "Dans sa mise à jour d'octobre, la NASA fait le point sur l'empilement du SLS, la combinaison lunaire et deux scénarios pour 2028. Artemis III sera une mission de test des opérations du futur alunisseur en orbite terrestre, prévue l'an prochain sans date ferme de lancement.",
      "articles": [
       {
-       "titre": "ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13",
-       "url": "https://www.nasaspaceflight.com/2026/10/iss-roundup-102226/",
+       "titre": "NASA Artemis Update: SLS Stacking, Sortie Suit, Dual 2028 Paths",
+       "url": "https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/",
        "source": "NASASpaceflight"
-      }
-     ]
-    },
-    {
-     "texte": "Le prototype grandeur nature du Space Rider de l'ESA s'est écrasé lors d'un essai de largage, son parachute ne s'étant pas déployé ; l'agence espère que ce revers ne retardera pas le programme. Le Conseil de l'ESA, réuni pour sa 350e session, a approuvé la nomination de deux nouveaux directeurs, Andrzej Banasiak et Nicolaus Hanowski.",
-     "articles": [
-      {
-       "titre": "Europe's Space Rider vehicle comes crashing down during drop test",
-       "url": "https://www.space.com/space-exploration/launches-spacecraft/europes-space-rider-vehicle-comes-crashing-down-during-drop-test",
-       "source": "Space.com"
       },
       {
-       "titre": "ESA Council approves appointment of two new directors",
-       "url": "https://www.esa.int/About_Us/Corporate_news/ESA_Council_approves_appointment_of_two_new_directors",
-       "source": "ESA"
+       "titre": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
+       "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+       "source": "NASA"
       },
       {
-       "titre": "350th ESA Council: Media information session",
-       "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/350th_ESA_Council_Media_information_session",
-       "source": "ESA"
-      }
-     ]
-    },
-    {
-     "texte": "Après l'interruption du service Starshield, l'armée ukrainienne a signé une lettre d'intention avec Nokia et le fabricant finlandais de satellites ICEYE pour étudier un système souverain de communications par satellite.",
-     "articles": [
-      {
-       "titre": "After Starshield interruption, Ukraine wants to build its own satellite communication network with ICEYE and Nokia",
-       "url": "https://www.space.com/space-exploration/satellites/after-starshield-interruption-ukraine-wants-to-build-its-own-satellite-communication-network-with-iceye-and-nokia",
+       "titre": "NASA lays out plan for Artemis 3 moon-lander test flight —but when will it launch?",
+       "url": "https://www.space.com/space-exploration/artemis/nasa-lays-out-plan-for-artemis-3-moon-lander-test-flight-but-when-will-it-launch",
        "source": "Space.com"
       }
      ]
     },
     {
-     "texte": "Côté observation de la Terre, la NASA compare l'El Niño de cette année à ses plus puissants prédécesseurs grâce à 35 ans de données d'altimétrie satellitaire, et suit des incendies d'une ampleur inhabituelle en Nouvelle-Guinée, frappée par la sécheresse.",
+     "texte": "La NASA et ses partenaires des systèmes d'atterrissage habités accélèrent le développement des alunisseurs en vue des missions lunaires de 2028.",
      "articles": [
       {
-       "titre": "El Niño Then and Now",
-       "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/",
+       "titre": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
+       "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
        "source": "NASA"
-      },
+      }
+     ]
+    },
+    {
+     "texte": "L'observatoire Swift de la NASA a terminé sa mission scientifique, son orbite étant descendue sous 275 km d'altitude.",
+     "articles": [
       {
-       "titre": "Fires Char New Guinea",
-       "url": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/",
+       "titre": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
+       "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
        "source": "NASA"
+      }
+     ]
+    },
+    {
+     "texte": "SpaceX a lancé 27 satellites Starlink depuis la Californie le 23 octobre, son premier lancement Starlink en 11 jours, signe d'une cadence du Falcon 9 ralentie.",
+     "articles": [
+      {
+       "titre": "SpaceX launches Starlink satellites from California as Falcon 9 cadence slows (photos)",
+       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-15-b1063-ocisly",
+       "source": "Space.com"
       }
      ]
     }
    ]
   },
   "hotellerie": {
-   "titre": "Les résultats du troisième trimestre et une vague de cessions d'hôtels animent le secteur, sur fond de ralentissement de la demande française",
+   "titre": "Vague de transactions hôtelières dans le monde et IHG franchit le cap des 1 000 hôtels en Europe",
    "points": [
     {
-     "texte": "IHG affiche un RevPAR américain en hausse de 6,9 % au troisième trimestre et prévoit une nouvelle année record de développement en 2026 ; Wyndham fait aussi état de gains de RevPAR aux États-Unis et d'un pipeline en croissance. Accor, plus prudent, table sur un quatrième trimestre stable en raison des troubles en France et des guerres au Moyen-Orient.",
+     "texte": "Transactions : le groupe malaisien ParkCity rachète des hôtels de l'aéroport de Hong Kong pour 1,4 milliard de ringgits lors d'une vente en difficulté, le fonds thaïlandais Sansiri Capital acquiert The Lake Como EDITION, et l'Indonésie devient le premier pays étranger à posséder un bien immobilier en Arabie saoudite en achetant un Novotel près de La Mecque.",
      "articles": [
       {
-       "titre": "IHG reports Q3 RevPAR growth driven by ‘strength of US economy’",
-       "url": "https://www.hoteldive.com/news/ihg-q3-revpar-growth-strong-us-economy/833773/",
-       "source": "Hotel Dive"
+       "titre": "Malaysia’s ParkCity Buys Hong Kong Airport Hotels For RM1.4 Billion In Distressed Sale",
+       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcFJTSV9BN05mYmZYcnQtMy1EdTRRS19HV1BOTzJiVHlDbk52YllRajlCRjR0TjhxUmFMZFY5ZTRzYkNWbTRhX1ZCc2lUNDlGMVdjeEVDYUppWFI4bkNkXzZScjBsRFQtSHJEN3lHdlp0ZUJLX0ZTb0szb1VIOEo4bW8wcEpIaGNYQ05saFNVakZhQ3QyTkhUbllSQ2hWOWNFb3BLTDBNc19JeEtCcDdNODBUS1FaUHhxSk9MdnMzeE1sd0d3WmEzVUNBdkY?oc=5",
+       "source": "TRP | The Rakyat Post"
       },
       {
-       "titre": "Wyndham posts Q3 US RevPAR gains amid ‘healthier’ demand trends",
-       "url": "https://www.hoteldive.com/news/wyndham-earnings-q3-2026/833706/",
-       "source": "Hotel Dive"
-      },
-      {
-       "titre": "Accor Builds Caution Into Outlook Over France Unrest and Middle East",
-       "url": "https://skift.com/2026/10/22/accor-builds-caution-into-outlook-over-france-unrest-and-middle-east/",
-       "source": "Skift"
-      }
-     ]
-    },
-    {
-     "texte": "En France, MKG observe un ralentissement « localisé et mesuré » depuis le 17 octobre, les réservations parisiennes reculant d'environ 3 points d'occupation. Chez Pierre & Vacances, David Sandier constate que la demande française patine depuis cinq semaines, la clientèle internationale, Britanniques en tête, tirant les réservations.",
-     "articles": [
-      {
-       "titre": "Hôtellerie : quel impact réel depuis le 17 octobre ? MKG observe un ralentissement « localisé et mesuré »",
-       "url": "https://hospitality-on.com/fr/hotellerie/hotellerie-quel-impact-reel-depuis-le-17-octobre-mkg-observe-un-ralentissement-localise",
-       "source": "Hospitality ON"
-      },
-      {
-       "titre": "David Sandier (Pierre & Vacances) : « La demande française patine depuis cinq semaines »",
-       "url": "https://hospitality-on.com/fr/thematiques-touristiques/david-sandier-pierre-vacances-la-demande-francaise-patine-depuis-cinq",
-       "source": "Hospitality ON"
-      }
-     ]
-    },
-    {
-     "texte": "Pandox cède sept hôtels au Danemark et en Suède pour 2,1 milliards de couronnes (189 M€) afin de réduire son endettement et se recentrer sur Copenhague. En Italie, l'Hôtel de la Poste de Cortina d'Ampezzo est vendu en vue d'une montée en gamme cinq étoiles, et un hôtel du lac de Côme change aussi de mains.",
-     "articles": [
-      {
-       "titre": "Décryptage, Scandinavie | Pandox cède sept hôtels pour 2,1 milliards SEK (189 M€) et réduit son endettement",
-       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSXJ4SXJtTXRTMjMyMUx5ZnVjUXRzclp3MXQzdUZMb1A1VjUxb3hFbF9MY3h1M1pYQnNTNEVZcFhOTXl3a0tkLThsY3cyMnJWZHU4eE5vTzRscHNYam5NdWo3R0hhVTdOTlQwOU42MzJ3UFU4cC1WVFViSjd3eWZxWnRjUUVpeUtuRlE?oc=5",
-       "source": "La Tribune de l'Hôtellerie"
-      },
-      {
-       "titre": "Pandox cède sept hôtels nordiques et se recentre sur le cœur de Copenhague",
-       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVURxVExBUmJnSGhtMW5GR2dsMG1MM1pMLWtkb2toTllQbVl1U0RIZ091Q2NpNUVhaWF4SDlJSExXTXJJekticFVRVDgxSnVGNjFWYTJ4X2xFNmducklyMlFiT1BNMlFLWVRteFlMTDNOWTAyX3BjYml3aXdwMzczZXlCZzV2eDVjRktyMVJOdmI0d2tiaXh4MWJJNGtOT1RSN0hxa3c4d1Vfcjkwdnp6ZHp2MEdSNGs?oc=5",
-       "source": "Hospitality ON"
-      },
-      {
-       "titre": "The Hotel de la Poste in Cortina d’Ampezzo, Hemingway’s haunt, is sold and will aim for five-star luxury",
-       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeXF5djhiTGtTMXZTLWlWbEtVdUNpd1dhR3g0VWtHd0E2MGFTU1FRZF95dmdZdUhpZGJ1aXRKVkItd3hUaG5XQ0M3bC1la2ViV3pvWkhBRmhKNW1JalE0MUt6SXU3NVRBYmU5VzhqcGc0aGpwLWx5YUVHZXdwUV81YUFLWHM5cC1aeGlPWWVyLWx0OS1hdXQwY0Nrdm1HOTVp?oc=5",
+       "titre": "The Lake Como EDITION hotel in Cadenabbia, on Lake Como, is sold to Thai fund Sansiri Capital",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFlHX3M3X3dyVUhzTWQ0REppN1JWSXl2ZVU4TUxaT0U1MXZpTGZNTFYtQ01ld2lQMnJ1bGRvbW5IZ3RmTHZPTHZlczNZTFFyY1h3Y1hsc0xaT3FRTWNRSnZxZnF5LTdVVkhMS2sxcWQ2Q3l1d3p0MnRpN2R5aGN5RDhaWkc2bG96UkUwRmczc2k2RHU4NlZTNHVUVGpjRkd2?oc=5",
        "source": "La Revue des Hôtels"
-      },
-      {
-       "titre": "Eversheds steers Lake Como hotel acquisition",
-       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lbk1KR0Z3RlRJMjZrUEh0RjFWdmdqdjJWaEpPN2xzdzF2N1JtdG1rQkY4bHpnQTBydmEyZFRudFlmSGFfZDZ2RzEtM1FEUGVzcE9MWTNWUXBGQjNQTGp1YUZrX2E5N1dmbzRIVW1PN2RCc20wVWc?oc=5",
-       "source": "ICLG"
-      }
-     ]
-    },
-    {
-     "texte": "Hors d'Europe, le promoteur malaisien ParkCity rachète pour environ 1,4 milliard de ringgits deux hôtels hongkongais de Shimao mis en vente par les administrateurs judiciaires. L'Indonésie devient le premier pays étranger propriétaire d'un bien immobilier en Arabie saoudite en acquérant un Novotel près de La Mecque, et Saint-Vincent approuve la vente du Holiday Inn de Diamond pour 35 M$.",
-     "articles": [
-      {
-       "titre": "ParkCity Group acquires Hong Kong hotel complex for approximately RM1.4 billion",
-       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV1Z2aEd4d2pEaXdIbVZ2YnZES1FPQXVxNUdwYWxMSi1aclkzcXAxQ2R6SURjN3c0YWxIaWVadkp1LUxTdGtlcm55X2xqdWdyaUxhRWpQeTFWcUdhYTJLLVZEejd6WExSSGVDcW1lWlFpSndRQllzYzN0NEE4d05CenY3OTg1U1BvTE05dmZYS0g1YjBPczRwNg?oc=5",
-       "source": "Traders Union"
-      },
-      {
-       "titre": "Receivers to sell Shimao’s 2 Hong Kong hotels to Malaysian developer",
-       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbmthMEhGTHBiOFgtY29uVWJJN3RiLVl3dXJ3M0N3aGZWY21jdnl4bXJaTGhoX0IydWFYZTVXQWVCLU9LWkQ5ZmF3c3dsN1FTYXc5cmJCeVdvVU5YbzdUaTNUdWZvZnRVWVdQX0VOSTNaNlgtczJhLXNmQzVWTDlsTlRIbnJmRC1EdXBweVl0MkxqeUk5eU9lQlFUODVMMzZDTm9MdkdtUjFHWTZWc0ltalRuaF9DTjNPb0prZlJobzE2bFnSAcMBQVVfeXFMTnVOSnlmRVQxMjJRM3B5SWJnRUVGcDZvU01za0VOTEJJNERTYkJqXzJSeFlkOXhXUE1GTjNPT3ppQ3dZMlhoOXFKV1FzMlB0bFRKSzFJeW05U3ZZY29sVzFiQ2NwYXNfcU5jbm9VajV6Y2o0OXJYOXZqOEJnNG9GeGs5S0tPMk52RUpoUUxlTVd5WmwxeXhsYlpiV3cwZDFrcUJXaEtqejNMdGhxT2h2RmRtR0VVQk5HMm4xQUNiVFEyd0ZB?oc=5",
-       "source": "South China Morning Post"
       },
       {
        "titre": "Indonesia becomes first foreign country to own real estate in Saudi Arabia, acquires Novotel hotel near Mecca",
        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01ZGhDMU9Gb1dTakxhMXdUbVNUbG5EaHhKamJ5NGN0QmlYQnNRbHFPYkRYUDJFdFgyaTZTNk9hYmZESGh5a1lMNlprdkxsSGRBT2lGeHlVSEk?oc=5",
        "source": "파이낸셜뉴스"
+      }
+     ]
+    },
+    {
+     "texte": "Autres cessions : le Radisson RED du centre de Minneapolis est vendu à des groupes hôteliers du Minnesota, AMTD Digital acquiert un hôtel à New York, et le gouvernement de Saint-Vincent approuve la vente du Holiday Inn de Diamond pour 35 millions de dollars.",
+     "articles": [
+      {
+       "titre": "Radisson RED in downtown Minneapolis sold to Minnesota hotel groups",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWHRNUHYydDhVQnBxay1reU11MU5zQVR3ZlhWVURDSlE2b21sZ01GWlZqZFI5cnRjZGtLTE5jWkhtdEJINXVFSkRxekFVTEpsbDU1N1lSNWw4VEpUX2dQTWs4a1Aza0xLZnJuY1pDb2VpSXExUS1uSXlIbWRwOTBlNkZMUjdTakRFejc3cnlEclAyZmJ2ZWx3aTVVdC1kT3lmMjZ6bHdYblBJSUFzeWR1ZVQ3dlU?oc=5",
+       "source": "Bring Me The News"
+      },
+      {
+       "titre": "AMTD Digital reports 23% asset growth, acquires New York hotel By Investing.com",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeEw1SGFjSDdyLWxjRWVZWkRoX2N5UDd2UmhHb1VTSlg3TmtjdC1SbV9UWW9UbHEwcjZWQjdqX0xOZWdkODl3eVdKMHVFVktMNy1PZmJmUG1BTTN0TXBnejlpZTV2ODRhbHNHTC1iVVRFYjZGSlhkV3dSU0hjMnhRT3U4c3BSMEkxb1VFcUhINzhnLWhGRnFITHV2eEJRMEFqYkVFWFF2TFZWeW4tSjRuZ0prNmZldW5lSWtnQmh3?oc=5",
+       "source": "Investing.com UK"
       },
       {
        "titre": "Govt approves terms for US$35M sale of Holiday Inn at Diamond",
@@ -346,17 +306,47 @@
      ]
     },
     {
-     "texte": "Accor ouvre le Raffles The Red Sea, premier resort de la marque sur la côte saoudienne de la mer Rouge, avec 168 clés. Hilton permet désormais aux membres Hilton Honors de régler leur facture avec des points lors du check-out numérique, une première revendiquée parmi les grandes marques hôtelières.",
+     "texte": "IHG dépasse les 1 000 hôtels ouverts en Europe, avec plus de 280 projets en développement, et voit son RevPAR mondial progresser de 5,3 % au troisième trimestre 2026 malgré la situation dans le Golfe.",
      "articles": [
       {
-       "titre": "Accor ouvre le Raffles The Red Sea sur l'île de Shura",
-       "url": "https://hospitality-on.com/fr/ouverture/accor-ouvre-le-raffles-red-sea-sur-lile-de-shura",
+       "titre": "IHG franchit les 1000 hôtels ouverts en Europe, avec plus de 280 projets en développement",
+       "url": "https://hospitality-on.com/fr/hotellerie/ihg-franchit-les-1000-hotels-ouverts-en-europe-avec-plus-de-280-projets-en-developpement",
        "source": "Hospitality ON"
       },
       {
-       "titre": "Hilton offers loyalty members option to pay with points during digital checkout",
-       "url": "https://www.hoteldive.com/news/hilton-loyalty-members-pay-with-points-digital-checkout/833708/",
+       "titre": "IHG accélère au troisième trimestre malgré la situation dans le Golfe",
+       "url": "https://hospitality-on.com/fr/hotellerie/ihg-accelere-au-troisieme-trimestre-malgre-la-situation-dans-le-golfe",
+       "source": "Hospitality ON"
+      }
+     ]
+    },
+    {
+     "texte": "Développement : Barrière ouvrira le 4 décembre son sixième Fouquet's, à Gstaad, cinq mois après Mykonos ; le Signia Hilton Savannah atteint son point culminant et Driftwood Hospitality Management nomme plusieurs directeurs généraux.",
+     "articles": [
+      {
+       "titre": "Barrière ouvre un sixième Fouquet’s à Gstaad",
+       "url": "https://hospitality-on.com/fr/ouverture/barriere-ouvre-un-sixieme-fouquets-gstaad",
+       "source": "Hospitality ON"
+      },
+      {
+       "titre": "Lodging Lowdown: Expedia Group launches autonomous onboarding, Signia Hilton Savannah tops out",
+       "url": "https://www.hoteldive.com/news/expedia-group-launches-autonomous-onboarding-signia-hilton-savannah/833825/",
        "source": "Hotel Dive"
+      }
+     ]
+    },
+    {
+     "texte": "Distribution et investissement : l'accord exclusif d'Airbnb avec Amex Travel sur les locations de courte durée pose question pour Expedia, et le financement en capital-risque du voyage recule pour le deuxième trimestre consécutif, les tours de table des sociétés d'IA étant divisés par deux.",
+     "articles": [
+      {
+       "titre": "What the Amex Travel-Airbnb Deal Means for Expedia",
+       "url": "https://skift.com/2026/10/23/what-the-amex-travel-airbnb-deal-means-for-expedia/",
+       "source": "Skift"
+      },
+      {
+       "titre": "Travel VC Funding Fell for the Second Straight Quarter, Rounds for AI Companies Cut in Half",
+       "url": "https://skift.com/2026/10/23/travel-vc-funding-fell-for-the-second-straight-quarter-rounds-for-ai-companies-cut-in-half/",
+       "source": "Skift"
       }
      ]
     }
