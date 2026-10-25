@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T04:44:13Z",
+ "generated_at": "2026-10-25T06:21:45Z",
  "sources": [
   {
    "name": "CNBC",
@@ -19,7 +19,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 29
+   "archived": 30
   },
   {
    "name": "MarketWatch",
@@ -49,7 +49,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 27
+   "archived": 30
   },
   {
    "name": "BCE",
@@ -149,7 +149,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 32
+   "archived": 33
   },
   {
    "name": "SpaceNews",
@@ -319,7 +319,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 8
+   "archived": 10
   },
   {
    "name": "Transactions · Afrique (FR)",
