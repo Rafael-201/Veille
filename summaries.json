@@ -1,166 +1,186 @@
 {
- "generated_at": "2026-10-25T06:21:15Z",
+ "generated_at": "2026-10-26T06:21:57Z",
  "auteur": "Claude",
  "rubriques": {
   "finance": {
-   "titre": "Le doute sur les dépenses dans l'IA fait chuter la tech et les marchés asiatiques, sur fond de tensions géopolitiques et d'échéances électorales.",
+   "titre": "Pétrole à 115 dollars, réélection de Lula et semaine chargée en résultats : les marchés démarrent sous tension.",
    "points": [
     {
-     "texte": "Les craintes autour du financement de l'IA secouent Wall Street : l'action Meta a perdu près de 10 % sur la semaine, les valeurs de la mémoire plongent malgré l'optimisme affiché par Jensen Huang, et une rotation profite aux valeurs défensives. En Afrique du Sud, Naspers et Prosus ont reculé de 5 % avec la faiblesse de Tencent.",
+     "texte": "Le baril de pétrole a bondi à 115 dollars, au plus haut depuis le début de la guerre au Moyen-Orient, après de nouvelles attaques des Houthis en Arabie saoudite. Donald Trump affirme que le « moment de la décision » approche sur l'Iran : un accord ou la reprise des frappes. Les Bourses du Golfe reculent, le Tadawul saoudien perdant 2,65 % et l'EGX30 égyptien 3,56 %.",
      "articles": [
       {
-       "titre": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
-       "url": "https://www.cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html",
-       "source": "CNBC Résultats"
-      },
-      {
-       "titre": "Should Investors Buy the Meta Platforms Dip?",
-       "url": "https://www.fool.com/investing/2026/10/24/should-investors-buy-the-meta-platforms-dip/?source=iedfolrf0000001",
-       "source": "The Motley Fool"
-      },
-      {
-       "titre": "Memory Stocks Are Plummetting. Jensen Huang Says the Bears Have It Wrong.",
-       "url": "https://www.fool.com/investing/2026/10/23/memory-stocks-are-plummetting-jensen-huang-says-the-bears-have-it-wrong/?source=iedfolrf0000001",
-       "source": "The Motley Fool"
-      },
-      {
-       "titre": "Naspers Share Price (JSE: NPN) and Prosus Find Support after 5% Fall as Tencent Weakness, AI Spending Concerns Weigh",
-       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQjNFbFRZOVFoWlVBR0tZTFB1TmlGMTJNZnhKeWhTdkVJd1FCNC1vVGxhdk1xXzdIZ0VRa1M2cF9US19XbXBRVWtGaG8zV2dESkpvUXE4YjRnbFhiU09ncDBHOXZNOWdrOHlpbGFLX2RoTFI2bnh0bDg2ejZCNkFkOEN4Tk5rMFAtRGpPemphNGYxX0ozcFNtQ05IcDdMOFdHYWZuZU9hR2xmWm5EeXJvRzRyS0Nya0VYX2xvcVUtVzV5SFlqT0dyUVFQaW1KS2g5OE1yLVlSNlRCenpXVXJpaHVGSjlSS01BS2c?oc=5",
-       "source": "FXLeaders"
-      }
-     ]
-    },
-    {
-     "texte": "Anthropic a vu son chiffre d'affaires bondir à 16,3 milliards de dollars au premier semestre 2026, contre 1,1 milliard un an plus tôt, alors qu'une introduction en Bourse est attendue cette année. La question de savoir quels fournisseurs profiteront des centaines de milliards investis dans l'IA reste ouverte.",
-     "articles": [
-      {
-       "titre": "Anthropic's Revenue Surged to $16.3 Billion in the First Half of 2026, Up From $1.1 Billion a Year Ago",
-       "url": "https://www.fool.com/investing/2026/10/24/anthropics-revenue-surged-to-163-billion-in-the-fi/?source=iedfolrf0000001",
-       "source": "The Motley Fool"
-      },
-      {
-       "titre": "As AI Labs Burn Cash, the Real Question Is Which Suppliers Get Paid",
-       "url": "https://www.fool.com/investing/2026/10/25/as-ai-labs-burn-cash-the-real-question-is-which-su/?source=iedfolrf0000001",
-       "source": "The Motley Fool"
-      }
-     ]
-    },
-    {
-     "texte": "Séance agitée en Asie : la chute du KOSPI a effacé 51 000 milliards de wons de dépôts d'investisseurs en Corée du Sud, qui attend la Fed et les résultats de Samsung Electronics et SK Hynix. La Bourse indonésienne a connu sa pire journée depuis 1998 sur un avertissement de déclassement par MSCI, tandis que le Hang Seng est repassé au-dessus de 23 000 points.",
-     "articles": [
-      {
-       "titre": "South Korea's KOSPI Plunge Wipes Out 51 Trillion Won in Investor Deposits as 'Buying Ammunition' Runs Dry",
-       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GdnRWMHlyczlEdjlYMDVWNnJaRFBQeTFZekJLRDl2Szhpc1JJWjNtZUlYSlV1SGNPX2lTM3ZGYmU3LVNtdFNtTURPWk4yYUlMVEpHQ2lqcEJVMUFsSHhEOTFKcVlFRF9pdVZQbThMVlI1R3F6QXc?oc=5",
-       "source": "BigGo Finance"
-      },
-      {
-       "titre": "Kospi Seeks Direction Ahead of Fed FOMC, Samsung Electronics and SK Hynix Earnings",
-       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nREJZNzBhUFFoRHBMS3lLbC1BOXpiWHpaeGdmTFJDdkl4dHdmakpGR1REVk82eURab09NVUdhYUxFUzh2Uk5jT2dNTlljb2paZkt1bw?oc=5",
-       "source": "bloomingbit"
-      },
-      {
-       "titre": "Indonesia Stocks Log Worst Day Since 1998 on MSCI Downgrade Warning",
-       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRmY4bFlVY09zSkdQc0ItXzJqT2pmcFBSUkpwVVd6aUNuTU1waDNUcHY3UHJfYkRNby1kOTBPWHdEcklJLXlHVWpfMThubmtmU3JGZjNPWFdjNHJXZ29vVzJ6Z2tienRzc2d6V3pyVFNGQzdFZVphWTRNazZiRVRMeWpoSTE5ZEJ1aVRRUTZ6eC1XSE1scE9RNUx6MnhMbUxHRTc4ek9hOWlqTldkRlpxTzcxYjJQQQ?oc=5",
-       "source": "WSJ"
-      },
-      {
-       "titre": "Hong Kong Stocks Rebound 158.69 Points As Tech, EV Shares Lift Hang Seng Above 23,000",
-       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR3lIWnRWTnVQejhQS3czWWV3eXc1Vm5fSUUwYkwxaGFXZ1Vya1RpalNCWVdMU1lpei1xVDNZRzkxT013RmNjZlR6eEFUSllaMlJXMnJzQWFWY2dUS21jRGdLRkhnZUVrX1VHZFFqZnktZVBpOWFuYlhaWFBPXy15dXdLV243SS1yRXozeE1TVmFuR3otNzFxY3puOWI1RUVGU2JDTWQtMk8xQm9Odklhc0pSQk5nd3lTN0NjSTJKTWFXUi13RmhR?oc=5",
-       "source": "BusinessToday Malaysia"
-      }
-     ]
-    },
-    {
-     "texte": "En Europe, les actions reculent sur les troubles en France et la hausse du pétrole. À Paris, le ministre de l'Économie Roland Lescure évoque une revalorisation du Smic avant le 1er janvier ; les défauts sur la dette à effet de levier s'accélèrent, et Barclays prévoit 5 000 suppressions de postes d'ici fin 2026 avec l'essor de l'IA, comme HSBC et Standard Chartered.",
-     "articles": [
-      {
-       "titre": "European stocks fall on French unrest, rising oil prices",
-       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT3JGbGF6NzFmbnpFS0ZTS1pDencyMFVHTW9IdEN4UHEzbDJOandOLXNlOXNtQjd6Ul9JUjdONTVSWXFpcUIyQ2tIQmdOTWNkYWZUTGJyeXlNWFpKQjQ3X0h4eVA1dk9uQzNPaTd6WXJxQWdWQVRob19EVm9aOHZMNFp0NjlrZVdKWWQ3U2xuRHE0UnRkRmdwY2JUa0dRVUhPam9SRDhNaG9yS1E?oc=5",
-       "source": "巴士的報"
-      },
-      {
-       "titre": "Une hausse du Smic avant le 1er janvier en discussion, selon le ministre de l’Economie",
-       "url": "https://www.liberation.fr/economie/social/une-hausse-du-smic-avant-le-1er-janvier-en-discussion-selon-le-ministre-de-leconomie-20261024_JAOBZ6WO2FCJFMXFPC4F74NIAE/",
-       "source": "Libération Économie"
-      },
-      {
-       "titre": "Capital-investissement : prudents, les fonds de LBO laissent plus volontiers les clés des entreprises en difficulté aux créanciers",
-       "url": "https://www.lesechos.fr/finance-marches/banque-assurances/capital-investissement-prudents-les-fonds-de-lbo-laissent-plus-volontiers-les-cles-des-entreprises-en-difficulte-aux-creanciers-2258835",
+       "titre": "Le prix du baril de pétrole bondit à 115 dollars, au plus haut depuis le début de la guerre au Moyen-Orient",
+       "url": "https://www.lesechos.fr/finance-marches/marches-financiers/le-prix-du-baril-de-petrole-bondit-a-115-dollars-au-plus-haut-depuis-le-debut-de-la-guerre-au-moyen-orient-2258870",
        "source": "Les Echos"
       },
       {
-       "titre": "Les suppressions de postes liées à l'IA se multiplient dans le secteur bancaire",
-       "url": "https://www.lesechos.fr/finance-marches/banque-assurances/les-suppressions-de-postes-liees-a-lia-se-multiplient-dans-le-secteur-bancaire-2258916",
-       "source": "Les Echos"
-      }
-     ]
-    },
-    {
-     "texte": "Côté géopolitique et politique : l'aéroport de Riyad pourrait rouvrir dimanche après des attaques houthies, les ambassades américaines renforcent leur sécurité face aux menaces iraniennes, et un projet de GNL en Alaska aurait été financé par le russe Novatek, sous sanctions. La Colombie-Britannique élit sa première majorité conservatrice en 98 ans et Lula mobilise ses partisans avant le scrutin brésilien.",
-     "articles": [
-      {
-       "titre": "Saudi Arabia Suggests Riyadh Airport May Reopen on Sunday",
-       "url": "https://www.bloomberg.com/news/articles/2026-10-24/saudi-arabia-suggests-riyadh-airport-may-reopen-on-sunday",
+       "titre": "Trump Says Decision Nearing on Iran: Deal or ‘Finish It Off’",
+       "url": "https://www.bloomberg.com/news/videos/2026-10-26/trump-says-decision-nearing-on-iran-video",
        "source": "Bloomberg Markets"
       },
       {
-       "titre": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
-       "url": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
+       "titre": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 2.65%",
+       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZGk0RnRSenlFLVhSbnl5Mkp1Z3RId1VXVVlCX3Axd2ZrZXZTbmtXeF81c2NUZlZQTUNuOVc5cExFRWt6MkhSTDg5QXpLYXE1dzBVSnI3X252azBEdXlQalVWVnhMNWU3NHUzc3lLX2xod25mUVFzeXk0aTg0U0V5QWJwTkJSSExTNEtGbC1Hb0lWZXRlZTRabFBDS1BBdEk5XzZUZHBwb1FIY1pHQXIxTFlpcTVzeERZNEw4dXp2Y0ZDZUZ5OWc?oc=5",
+       "source": "Investing.com"
+      },
+      {
+       "titre": "EGX30 falls 3.56% on Sunday",
+       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb0tUc3ZCLTdSaExhc2swZDJhT0x2NFpNVTVDcUFUNGZqOG9WR3RyeHZvWjlxV2tGekRnZE43a2xBdDJNMGRKTjh0Sk42UVhlVTM4TG1zT1V5d1JoLWhQY0pNS3BCcTcwMklpdzJCZ0d5OE5oQVVMUGFnMU56MmtwdTl3?oc=5",
+       "source": "www.businesstodayegypt.com"
+      }
+     ]
+    },
+    {
+     "texte": "Au Brésil, Lula a remporté une présidentielle historique : c'est la première fois depuis 1989 qu'un candidat gagne le second tour après avoir perdu le premier ; Jair Bolsonaro refuserait de reconnaître sa défaite. Les actions brésiliennes plongent après cette réélection, qui inquiète les investisseurs.",
+     "articles": [
+      {
+       "titre": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
+       "url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
        "source": "CNBC"
       },
       {
-       "titre": "US LNG Project Developer Funded by Russia’s Novatek, FT Says",
-       "url": "https://www.bloomberg.com/news/articles/2026-10-24/us-lng-project-developer-funded-by-russia-s-novatek-ft-says",
+       "titre": "Brazil Stocks Dive As President Lula Wins Re-Election",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNamdSQTJzYldjZUdOZ1YzazZGWWNmTGJoVV8wZFJJRGNzNWc4b0o0T0NNcElKWnFlUFh1ZWlCQ0RLN2NKS296d2J0SlhKWS1Lb3FkLUJ3T0t5c2FBR1B4YTV2d2JqV0JOY2taVWVVeTFzbC1UbGJld3k1MXh6SHAwdWtrRGVVRmpXTjlCWmxn?oc=5",
+       "source": "Investor's Business Daily"
+      },
+      {
+       "titre": "Brazil stocks plunge after Lula’s re-election. Why investors are worried",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaGQ5dDMxM2VKeE9FTmhhMUxUNjJQM09VNTB2WE1NNm5fTlFrS0d3R0p2aUt6SVZIamFnUFJYcEs4dGZidURKVVNiSWZyakJtS3VIemR1S3hUcnZZVXZCamVPNTI1el9QT2ZWaWg2NEprLTRZcVRoMjdiRWpGcmRQQl9nRWRxdTQyQjVFanpBSGE4OHZiTTBPR3FZaG5BZ9IBowFBVV95cUxQamR1d3lQTjFXYnNuWVBTRTI3NXI2Mm41a2lZQ3pxb2ItU0tBUkJiNXlxTE1PbFVrYnBzZEY3NE03S3BybjhwM05nZWNNczVTU3drb3lWcmRLR1NQN2hIU0dnOGM2WHJIT0U4ajdiMk43SFFYSHo4Uno1dnRYZFVkREp2czM1c3NhbUF2R1dmZUNCdDBLYnZoMDI1SW9LdWUtaE9F?oc=5",
+       "source": "Firstpost"
+      }
+     ]
+    },
+    {
+     "texte": "En Europe, le DAX a cédé 0,75 % à 25 181,65 points, portant sa perte hebdomadaire à 1,7 % sur fond d'inquiétudes françaises et de chute de MTU, tandis que le FTSE 100 a fini à 10 733 points. Le CAC 40 pourrait rebondir, Moody's ayant épargné la France. Kering a connu un « vendredi noir » (-16,6 %, une chute record) après les ventes trimestrielles de Gucci.",
+     "articles": [
+      {
+       "titre": "Germany's DAX 40 Falls 0.75% to 25,181.65 as French Worries and an MTU Slump Extend Weekly Loss to 1.7%",
+       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV0FzYlhpNjhxVXUyeDJLQzh2c2tNTndqbXpfd3R1ZjY2T2xiekJUeEtCdlFUQW5TTTZhM0szLXFnRmJZQ1BuM0hldTFwWDB5bWNINVBIOW9vOUtwNnR3cnJ2QktKZnRObTRXRjZnRkU1V2pvMU1Qa2ZVNzlWWjU4bUcyeWk2Vk9RbUYtYURoSWNFQkZFX0VWR1lvUGdIVk5IdXZENVMxcGk4NUUzYjlPdmlPbUtPYzlYXzBhOE85NmpsYUhQZG1JY1ZWbEp0bDh0M1BQWjdIWEM?oc=5",
+       "source": "BBN Times"
+      },
+      {
+       "titre": "FTSE 100 Falls to 10,733.00 After Recovering From an Early Bank-Led Sell-Off Amid US-Iran Tensions",
+       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQTFpZmtwUGJMR0ZNWEpkUUQ1Y0QtdzRONnFVdDhoUFVmV3dhQ1BveEhjdlZsUnNKMHhaMUJieUpiV29yM19RRHhER0dBcHFNZUJBeWh0dEt2N0phbjBCNEpzODRSdFBfdVBWVjNuYlF3WkprYmNUY2pIS240bS01OW5kWXJ0M3hraV9XSkwySjZXU0twYmRya2JBV2QzZHNJY0RjeDZKdlhLS2hkTFZhRGNQSC1ZT0lxdEZ5YUtuc3RDcmoxa3ZrYjg0eEJ6cVU5ajg5Vw?oc=5",
+       "source": "BBN Times"
+      },
+      {
+       "titre": "CAC 40 : Rebond en vue alors que Moody’s épargne la France et que le pétrole recule ?",
+       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORENmc1dXWFlXU0pzR211M1B6TktzdHJKYmlEbVRwMUs2U0QzdkU1SzVqcHF5MlpFdUNLRURmUmU4OWNmbmw3OFRZZkd0dm5QLVNrNzBHek5yaHlDR2h2WmlQdFNVcXhycDJLckxVc21xVC1rR2RnVG9jVFUxbmYySE4xT3RqMktPMkZsbUwxMHBhcjJYXzlPVWJ4eDJ5YWtsbGVUMWtDeE5SSkRleGFTNDRWNy1nX2xiR1ZSN21JZHUzTUgxcjhSaFNCUjBMcmVhYmpJeQ?oc=5",
+       "source": "Investing.com France"
+      },
+      {
+       "titre": "Kering, une « recovery story » plus ardue que prévu",
+       "url": "https://www.lesechos.fr/finance-marches/le-radar-des-marches/kering-une-recovery-story-plus-ardue-que-prevu-2258983",
+       "source": "Les Echos"
+      }
+     ]
+    },
+    {
+     "texte": "En Asie, les fonds publics chinois ont effectué leurs plus gros achats depuis la déroute d'avril 2025 pour enrayer la chute du marché, mais Morgan Stanley anticipe encore de la baisse avant un point bas. En Inde, le Sensex a perdu 508 points et le Nifty est passé sous 22 450, alors que les places asiatiques reculent avant les résultats des géants de la tech et les réunions des banques centrales.",
+     "articles": [
+      {
+       "titre": "China National Team ETFs Draw Most Inflows Since Trade War Rout",
+       "url": "https://www.bloomberg.com/news/articles/2026-10-26/china-national-team-etfs-draw-most-inflows-since-trade-war-rout",
        "source": "Bloomberg Markets"
       },
       {
-       "titre": "BC’s Left-Wing Leader Loses to Conservatives in Vote He Called",
-       "url": "https://www.bloomberg.com/news/articles/2026-10-25/bc-s-left-wing-leader-loses-to-conservatives-in-vote-he-called",
+       "titre": "Morgan Stanley Sees Further China Stock Downside Before Bottom",
+       "url": "https://www.bloomberg.com/news/articles/2026-10-26/morgan-stanley-sees-further-china-stock-downside-before-bottom",
        "source": "Bloomberg Markets"
+      },
+      {
+       "titre": "Sensex falls 508 points, Nifty slips below 22,450 as 43 of 50 stocks decline",
+       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb0dkZjlTVFhKTDNqcy1xOXhPWEt4dTVLb0hwU2lMVUQ4cFRWYTBxcmFla2tLakQ0SHY4VUJ1c3U3Z3ZuckswYldzb1hDQVVReUxkOEdhb3ZhN01lSE1WYTVETnlORFBvaWRVWmt1QUpBUVBvOGNod3JCYXhkYkRTQm0tNFB4VDQ2Q2plZG5wYXRmeXVIdUZTU0NwLWg5ME1xSGfSAacBQVVfeXFMTXpQNXhyc29SNEU5MzRtR0F5eU1DTGliTy1ZcllLb25lSjVwQ3RXMGdHLVpQSzdwUnJGVEZ4OVhpbUdHUXpWb2I5Rmw1S09jV0VLWS1BYzczV0cwUWcwMUhWbUxVRjFlNjZoeHp3a001aV80NnVmY2xaZVd0VFBGbTN2VlNEbVc5ekhuMmpRQXZyS01aUW9Hal9SaGU1QlFaZUl6RkFlZnc?oc=5",
+       "source": "Firstpost"
+      },
+      {
+       "titre": "Asian stocks slip as traders brace for tech earnings, central banks",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM0VLMDIyMHBtV1pCQ3g3OThzU0p0alZqSlFHSzlVOHpNd1c5T1B2REh5NDFuY2hBeUVxMzJNdzZYUWtIQUhNZEcyaDJKbXpYNm0wakhDYWpqRVIxWkRuS0VvWFRqb0NUTDJqcXZUczhjQ3dFZHpwZlFVRzZTYkFUalQyMWFGYWd3c1N4amZGU2RScTZyeF9waFQ3ZERETjB0YVdpeW9XdFQtZ2FNYmZHZ0Zxb1fSAbgBQVVfeXFMTVhoQjlXNEgxTWFEZ0ViU3JRV3pXMTY4Y0FieHA5SzdVRFFtRUc1bjlPYmU1QmllMGhKVXF6dWNXRDhIMmU4dGpzMWFib3ZuRXE1UnlUY0FvcW8wMjA5TlpwYW9JV2E0YjdqVzh4TDhxSXB5RUhsTjJTcU4wVXlObmprUXJyblpmOF9zY3hiTGpuMVNyZzdhN1lETHB4ZU0wQjhpcmtybXFfbFhrX3FYTGxDY0NEUnlNSw?oc=5",
+       "source": "Kuwait Times"
+      }
+     ]
+    },
+    {
+     "texte": "Côté tech et IA, Elon Musk annonce que SpaceX a bouclé un financement par dette de 40 milliards de dollars pour acheter des GPU. Jensen Huang affirme que les puces Vera Rubin de Nvidia rapporteront 40 milliards de dollars par gigawatt, contre 25 milliards pour Grace Blackwell. À Wall Street, les contrats à terme hésitent et le Nasdaq recule à l'approche d'une semaine cruciale de résultats.",
+     "articles": [
+      {
+       "titre": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+       "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+       "source": "CNBC"
+      },
+      {
+       "titre": "Jensen Huang Says Nvidia's Next-Gen Vera Rubin Chips Will Generate $40 Billion in Revenue per Gigawatt, Up From $25 Billion for Grace Blackwell. What That Means for NVDA's Growth Runway.",
+       "url": "https://www.fool.com/investing/2026/10/26/jensen-huang-says-nvidias-next-gen-vera-rubin-chip/?source=iedfolrf0000001",
+       "source": "The Motley Fool"
+      },
+      {
+       "titre": "Nasdaq Futures Slip Amid Tech Selloff While S&P 500, Dow Edge Higher Ahead Of Crucial Earnings Week: IREN, CRWV, NBIS, MRNA, EWZ In Focus",
+       "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPWmluXzRSdUFjVjh6MWNzZ0NCclhhQWFlYmJHRGdIMHYweDMtanRiV2Ezbi00MG14akJTSEtVb3BhbGJYR3Vtem90TXp3VlJKMHctNnBROVVOOGYxZlFnVTZWV3NqWUxjOEJNZERtWHBkODRCNHBDb20yRjRjd1B4aXpQaVJyTF9ma2tnSTFwTGV2ZjViRTJFcXlHTTlNNWNITXNjOGIyZi13WFdEcXlIdmhjSlItZ2UtSjJobzEtbWlkbTJRUlhoMTZVUmdKLUtpMUw0Y0F2RzBSTzhyanFtMHB0R2dLLWcydnRpc1VPNjRnZlBNMmUwaDRzQklva1h4NTJJTEVTejZseVhOQV94VXN5eXhMc3BIaERpQnRhX2VDaFpWRmc?oc=5",
+       "source": "Stocktwits"
+      },
+      {
+       "titre": "Futures Waver; 3 Titans Lead Huge Earnings",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnVjTUhHNlhCR3diSDlXVTI4c082YmNhWmRrdGJqWW9yeGxsa0ZKSFBfa1RDUVBRS202amNuT3loOXdtTzdOWUpNTjA3VjlnWVczak1rU3NjYUg0YnF6R1JlcUdVRi1NOEdya0I1ZU4xZlNzUmRKU2U1ZlJkcVRCNF90clE4QjJNRmVOOGJ4Ymp5QzdHVEp3WFgtLXYyS09KbGtvNi1ucWgtZnlJbUpmVXVyaE9fZ0pPeUJUQg?oc=5",
+       "source": "Investor's Business Daily"
       }
      ]
     }
    ]
   },
   "science": {
-   "titre": "Les échantillons de l'astéroïde Bennu éclairent la formation du Système solaire, tandis que la médecine et la linguistique livrent des résultats surprenants.",
+   "titre": "De l'Univers primitif à la santé humaine, la recherche multiplie les découvertes inattendues.",
    "points": [
     {
-     "texte": "Les échantillons de l'astéroïde Bennu rapportés par la NASA suggèrent qu'il s'est formé là où se mêlaient des matériaux du Système solaire interne et externe, ce qui modifie la compréhension de la formation du Système solaire il y a 4,5 milliards d'années.",
+     "texte": "En astronomie, des chercheurs ont découvert trois trous noirs actifs dans une même galaxie située à plus de 12,5 milliards d'années-lumière. Le télescope James-Webb a par ailleurs observé les collisions violentes entre mondes autour de jeunes étoiles, une fenêtre sur la naissance des planètes.",
      "articles": [
       {
-       "titre": "NASA’s asteroid Bennu samples reveal a 4.5-billion-year-old secret",
-       "url": "https://www.sciencedaily.com/releases/2026/10/261023023734.htm",
+       "titre": "Three giant black holes discovered in a galaxy from the dawn of time",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261024222000.htm",
+       "source": "ScienceDaily"
+      },
+      {
+       "titre": "Le télescope James-Webb révèle ce qui se passe lorsque des mondes entrent en collision : un spectacle d'une violence extrême",
+       "url": "https://www.futura-sciences.com/sciences/actualites/astronomie-telescope-james-webb-revele-ce-passe-lorsque-mondes-entrent-collision-spectacle-violence-extreme-138254/#xtor%3DRSS-8",
+       "source": "Futura"
+      }
+     ]
+    },
+    {
+     "texte": "En santé, une étude internationale portant sur plus de 6 millions de personnes dans 118 pays révèle des différences dans la douleur selon l'âge et le sexe. Des chercheurs ont aussi montré comment le cancer du pancréas remodèle son ADN pour échapper aux traitements ; bloquer un gène clé a inversé une partie de ce processus en laboratoire.",
+     "articles": [
+      {
+       "titre": "Douleur : une étude géante sur 6 millions de personnes révèle deux surprises majeures sur l'âge et le sexe",
+       "url": "https://www.futura-sciences.com/sante/actualites/douleur-douleur-etude-geante-6-millions-personnes-revele-deux-surprises-majeures-age-sexe-138735/#xtor%3DRSS-8",
+       "source": "Futura"
+      },
+      {
+       "titre": "Scientists discover how pancreatic cancer rewrites its DNA to escape treatment",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261024221849.htm",
        "source": "ScienceDaily"
       }
      ]
     },
     {
-     "texte": "Un petit dispositif qui stimule les nerfs via l'oreille pourrait aider à traiter l'hypertension résistante : un essai clinique a porté sur 63 patients déjà sous traitement.",
+     "texte": "Contre le syndrome du canal carpien, une technique à base d'eau salée ferait mieux que les corticoïdes et pourrait éviter une chirurgie.",
      "articles": [
       {
-       "titre": "Could lowering high blood pressure be as simple as stimulating your ear?",
-       "url": "https://www.sciencedaily.com/releases/2026/10/261023023732.htm",
-       "source": "ScienceDaily"
+       "titre": "Canal carpien : cette technique à base d’eau salée fait mieux que les corticoïdes et pourrait vous éviter une chirurgie",
+       "url": "https://www.futura-sciences.com/sante/actualites/corps-humain-canal-carpien-cette-technique-base-eau-salee-fait-mieux-corticoides-pourrait-vous-eviter-chirurgie-138763/#xtor%3DRSS-8",
+       "source": "Futura"
       }
      ]
     },
     {
-     "texte": "En analysant des milliards d'usages de mots, une étude remet en cause 70 ans d'hypothèses sur le langage : le sens serait organisé autour de notions comme le pouvoir et le danger.",
+     "texte": "En paléontologie, des scientifiques de Yale s'appuient sur l'apprentissage automatique et des milliers de mesures de fossiles pour suggérer que le spinosaure passait l'essentiel de sa vie sous l'eau. En écologie, des chercheurs ont transporté un marais entier pour le soumettre à une tempête extrême « millénaire » simulée.",
      "articles": [
       {
-       "titre": "A hidden bias in human language challenges 70 years of science",
-       "url": "https://www.sciencedaily.com/releases/2026/10/261023023738.htm",
+       "titre": "New evidence suggests spinosaurus spent most of its life underwater",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261024221956.htm",
        "source": "ScienceDaily"
-      }
-     ]
-    },
-    {
-     "texte": "L'Italie travaille sur un système de gravité artificielle, alors que l'Europe envisage de se doter de sa propre station spatiale.",
-     "articles": [
+      },
       {
-       "titre": "Recréer la gravité terrestre dans l'espace : l'Italie prépare une expérience digne de la science-fiction",
-       "url": "https://www.futura-sciences.com/sciences/actualites/astronautique-recreer-gravite-terrestre-espace-italie-prepare-experience-digne-science-fiction-138543/#xtor%3DRSS-8",
+       "titre": "Ils ont transporté un marais entier pour lui faire subir une tempête extrême du « millénaire » : voici ce qui s'est passé",
+       "url": "https://www.futura-sciences.com/planete/actualites/tempete-ils-ont-transporte-marais-entier-lui-faire-subir-tempete-extreme-millenaire-voici-ce-passe-138758/#xtor%3DRSS-8",
        "source": "Futura"
       }
      ]
@@ -168,39 +188,54 @@
    ]
   },
   "spatial": {
-   "titre": "Journée calme dans le spatial, dominée par le point d'étape de la NASA sur le programme Artemis.",
+   "titre": "SpaceX prépare la suite du programme Starship, pendant que le ciel d'automne offre ses spectacles.",
    "points": [
     {
-     "texte": "Dans sa mise à jour d'octobre, la NASA fait le point sur l'empilement du lanceur SLS, la combinaison destinée aux sorties et deux scénarios possibles pour 2028 dans le programme Artemis.",
+     "texte": "SpaceX prépare le vol 15 de Starship pour novembre après un essai de mise à feu statique réussi, et pousse déjà vers le vol 16, avec une possible extension de Roberts Road.",
      "articles": [
       {
-       "titre": "NASA Artemis Update: SLS Stacking, Sortie Suit, Dual 2028 Paths",
-       "url": "https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/",
+       "titre": "Possible Roberts Road Expansion as SpaceX pushes for Flight 16",
+       "url": "https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/",
        "source": "NASASpaceflight"
       }
      ]
     },
     {
-     "texte": "Côté patrimoine et images, l'APOD du 24 octobre met à l'honneur un « selfie » de la sonde Rosetta, et Space.com rappelle que le 24 octobre 1946, une fusée V-2 prenait les premières photos de la Terre depuis l'espace.",
+     "texte": "La pleine lune d'octobre, dite « Lune du chasseur », s'est levée le 25 octobre. La NASA montre aussi comment un satellite moderne permet de suivre les couleurs de l'automne depuis l'espace.",
      "articles": [
       {
-       "titre": "APOD: 2026 October 24 – Rosetta’s Selfie",
-       "url": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
-       "source": "NASA"
+       "titre": "October's 'Hunter's Moon' stalks into the autumn sky tonight: Here's what you need to know",
+       "url": "https://www.space.com/stargazing/octobers-hunters-moon-stalks-into-the-autumn-sky-tonight-heres-what-you-need-to-know",
+       "source": "Space.com"
       },
       {
-       "titre": "On this day in space! Oct. 24, 1946: V-2 rocket takes 1st photos of Earth from space",
-       "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-24-2026",
-       "source": "Space.com"
+       "titre": "Hunting Red Leaves with Satellites",
+       "url": "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/",
+       "source": "NASA"
       }
      ]
     },
     {
-     "texte": "Pour Halloween, plusieurs cibles d'observation à l'œil nu sont mises en avant, dont « l'œil de Méduse » et des bolides.",
+     "texte": "Les images astronomiques du jour de la NASA mettent à l'honneur la grande nébuleuse d'Orion (M42) et une simulation de la matière noire dans l'Univers.",
      "articles": [
       {
-       "titre": "Medusa's eye, Halloween fireballs and more: 5 skywatching targets to look out for this spooky season",
-       "url": "https://www.space.com/stargazing/medusas-eye-halloween-fireballs-and-more-5-skywatching-targets-to-look-out-for-this-spooky-season",
+       "titre": "2026 October 26 – M42: The Great Nebula in Orion",
+       "url": "https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/",
+       "source": "NASA"
+      },
+      {
+       "titre": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
+       "url": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
+       "source": "NASA"
+      }
+     ]
+    },
+    {
+     "texte": "Rappel historique : le 25 octobre 1671, l'astronome Giovanni Cassini découvrait Japet, la lune « yin-yang » de Saturne.",
+     "articles": [
+      {
+       "titre": "On this day in space! Oct. 25, 1671: Astronomer Giovanni Cassini discovers Iapetus, Saturn's 'yin-yang' moon",
+       "url": "https://www.space.com/space-exploration/on-this-day-in-space-oct-25-1671-astronomer-giovanni-cassini-discovers-iapetus-saturns-yin-yang-moon",
        "source": "Space.com"
       }
      ]
@@ -208,50 +243,25 @@
    ]
   },
   "hotellerie": {
-   "titre": "Le Puy du Fou affiche un record de fréquentation et lance son train de luxe, pendant que l'IA s'installe dans les coulisses des chaînes hôtelières.",
+   "titre": "Actualité calme dans l'hôtellerie, entre ouverture de luxe à Florence et gestion financière des groupes.",
    "points": [
     {
-     "texte": "Le Puy du Fou annonce un record de 3,1 millions de visiteurs en 2026 et ouvre pour la première fois à Noël, avec des hôtels agrandis, un spectacle à 33 millions d'euros et une tournée nationale pour fonctionner toute l'année.",
+     "texte": "À Florence, le palazzo Segni rouvre via Santo Spirito sous l'enseigne La Réserve après quatre ans de chantier.",
      "articles": [
       {
-       "titre": "Puy du Fou : 3,1 millions de visiteurs et un parc qui veut tourner toute l'année",
-       "url": "https://hospitality-on.com/fr/hotellerie/puy-du-fou-31-millions-de-visiteurs-et-un-parc-qui-veut-tourner-toute-lannee",
+       "titre": "Palazzo Segni, cinq siècles entre les mains de familles florentines avant d’entrer dans la collection La Réserve",
+       "url": "https://hospitality-on.com/fr/hotellerie/palazzo-segni-cinq-siecles-entre-les-mains-de-familles-florentines-avant-dentrer-dans-la",
        "source": "Hospitality ON"
       }
      ]
     },
     {
-     "texte": "Le parc dévoile aussi les premières images du Grand Tour, un train Belle Époque proposant un voyage-spectacle de six jours à travers la France, réservé à 44 passagers.",
+     "texte": "Hospitality Net décrit comment les groupes hôteliers en croissance mutualisent leurs fonctions financières entre établissements grâce à des équipes partagées et des flux numériques, pour réduire les effectifs nécessaires et améliorer la visibilité au niveau du groupe.",
      "articles": [
       {
-       "titre": "Le Grand Tour, la nouvelle attraction de luxe du Puy du Fou",
-       "url": "https://hospitality-on.com/fr/hotellerie/le-grand-tour-la-nouvelle-attraction-de-luxe-du-puy-du-fou",
-       "source": "Hospitality ON"
-      }
-     ]
-    },
-    {
-     "texte": "Dans les hôtels de chaîne, l'intelligence artificielle se déploie d'abord dans les fonctions invisibles du client : traitement des demandes, traduction des sites et validation des standards des franchisés.",
-     "articles": [
-      {
-       "titre": "L’IA hôtelière entre par la porte de service des hôtels de chaîne",
-       "url": "https://hospitality-on.com/fr/hotellerie/lia-hoteliere-entre-par-la-porte-de-service-des-hotels-de-chaine",
-       "source": "Hospitality ON"
-      }
-     ]
-    },
-    {
-     "texte": "Transactions : à Charleston, un propriétaire d'hôtel cède un terrain de 0,15 acre pour 2,2 millions de dollars ; à Moissac, un couple du Nord rachète un hôtel particulier pour en faire un restaurant avec chambres d'hôtes.",
-     "articles": [
-      {
-       "titre": "Charleston hotel owner sells 0.15-acre lot for $2.2M",
-       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOODI3M1g3N2JvcnVYVlN6MXJQZTJsZ3lWMkI2RG4zcVZJeFpPNlN0aFNGOVdYcFlrc0JVWnlBUWk4dFp4STVQbS0xZlB4ODNCOF9Ta2dLNV92SEJOVFBzNF9rcnNwUEFFNjV4bmQ5dWZsbTd4NlNjZUY4VW9aNktjTEFIQ0sxc2FIdjEzaVozREh4Ymp2bzVIZmxpSmRDNmxvNUIzaE00b1QtVWQ2VTFJcXZkLVVqVnZzb1E1LUlzak1mWVg2aDlpd20yVTNvY054QUp5dzVoWGpBMW9TR0Jn?oc=5",
-       "source": "Post and Courier"
-      },
-      {
-       "titre": "PORTRAIT. \"On s'est regardés avec mon mari, ça s'est fait en quelques secondes\" : sur un coup de tête, un couple du Nord rachète un hôtel particulier de Moissac pour en faire un restaurant avec chambres d’hôtes",
-       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNbGh2Ti1uek1ndjU1YlpVbmYxYm1Qd2RZWVVMMk5oX2hBeHdPb3Y4MUl2MDMtMTZpT2hRZUZ6eEdHNEVTQWRFMDBCS0N3Q3FwRGgtdDFPY01ubGlUYnJUMGpNZVRnSG1IbnNkVUdJbURGOGtyN2ltQVJjRjhkYk53cWhsUFV0QWJtVnlVbWVCTnVlMDBmNkp2dWRrODlfSkV4NlJSNVNYcEhxS1ljRnlxQ3Q3UmRCOExubXVNZW92UkNGdnM2Y1VIaXFPTk52ZDVvRUoxS0x1YmhFckVLMHpRVDlTeG1XZlRFTDNlMUotRzFHNjNDczZUcWJOWWM4MXRVZkJFT2cySTNubGNnSGlTN0t1a3ZPQ3JOMHpoTg?oc=5",
-       "source": "ladepeche.fr"
+       "titre": "How growing hotel groups share finance across properties",
+       "url": "https://www.hospitalitynet.org/opinion/4135081/how-growing-hotel-groups-share-finance-across-properties",
+       "source": "Hospitality Net"
       }
      ]
     }
