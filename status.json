@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T05:08:58Z",
+ "generated_at": "2026-10-27T06:19:11Z",
  "sources": [
   {
    "name": "CNBC",
@@ -9,7 +9,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 30
+   "archived": 31
   },
   {
    "name": "Bloomberg Markets",
@@ -39,7 +39,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 31
+   "archived": 33
   },
   {
    "name": "BFM Business",
@@ -49,7 +49,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 34
+   "archived": 36
   },
   {
    "name": "BCE",
@@ -149,7 +149,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 39
+   "archived": 40
   },
   {
    "name": "SpaceNews",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 14
+   "archived": 13
   },
   {
    "name": "Transactions · Amérique latine",
@@ -289,7 +289,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 14
+   "archived": 13
   },
   {
    "name": "Transactions · Moyen-Orient",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 13
+   "archived": 15
   },
   {
    "name": "Transactions · Asie-Pacifique",
@@ -329,7 +329,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 6
+   "archived": 7
   },
   {
    "name": "Marchés · Amérique du Nord",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 30
+   "archived": 31
   },
   {
    "name": "Marchés · Amérique latine",
@@ -359,7 +359,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 27
+   "archived": 26
   },
   {
    "name": "Marchés · Europe (FR)",
@@ -369,7 +369,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 28
+   "archived": 29
   },
   {
    "name": "Marchés · Moyen-Orient",
