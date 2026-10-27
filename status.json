@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T06:22:17Z",
+ "generated_at": "2026-10-27T05:08:58Z",
  "sources": [
   {
    "name": "CNBC",
@@ -9,7 +9,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 28
+   "archived": 30
   },
   {
    "name": "Bloomberg Markets",
@@ -19,7 +19,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 33
+   "archived": 36
   },
   {
    "name": "MarketWatch",
@@ -29,7 +29,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 23
+   "archived": 26
   },
   {
    "name": "Les Echos",
@@ -39,7 +39,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 29
+   "archived": 31
   },
   {
    "name": "BFM Business",
@@ -49,7 +49,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 33
+   "archived": 34
   },
   {
    "name": "BCE",
@@ -59,7 +59,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 22
+   "archived": 23
   },
   {
    "name": "CNBC Résultats",
@@ -69,7 +69,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 9
+   "archived": 10
   },
   {
    "name": "The Motley Fool",
@@ -79,7 +79,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 18
+   "archived": 21
   },
   {
    "name": "Le Parisien Économie",
@@ -89,7 +89,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 18
+   "archived": 21
   },
   {
    "name": "Libération Économie",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 15
+   "archived": 18
   },
   {
    "name": "Nature",
@@ -109,7 +109,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 22
+   "archived": 25
   },
   {
    "name": "ScienceDaily",
@@ -119,7 +119,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 51
+   "archived": 54
   },
   {
    "name": "Quanta Magazine",
@@ -129,7 +129,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 8
+   "archived": 9
   },
   {
    "name": "New Scientist",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 21
+   "archived": 24
   },
   {
    "name": "Futura",
@@ -149,7 +149,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 36
+   "archived": 39
   },
   {
    "name": "SpaceNews",
@@ -159,7 +159,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 17
+   "archived": 19
   },
   {
    "name": "NASASpaceflight",
@@ -169,7 +169,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 19
+   "archived": 20
   },
   {
    "name": "Spaceflight Now",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 12
+   "archived": 13
   },
   {
    "name": "Space.com",
@@ -189,7 +189,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 38
+   "archived": 41
   },
   {
    "name": "ESA",
@@ -199,7 +199,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 15
+   "archived": 16
   },
   {
    "name": "NASA",
@@ -209,7 +209,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 27
+   "archived": 30
   },
   {
    "name": "Hospitality ON",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 50
+   "archived": 53
   },
   {
    "name": "Hotel Dive",
@@ -229,7 +229,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 20
+   "archived": 22
   },
   {
    "name": "Hospitality Net",
@@ -239,7 +239,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 20
+   "archived": 23
   },
   {
    "name": "Skift",
@@ -249,7 +249,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 22
+   "archived": 25
   },
   {
    "name": "Transactions · Amérique du Nord",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 12
+   "archived": 14
   },
   {
    "name": "Transactions · Amérique latine",
@@ -269,7 +269,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 11
+   "archived": 12
   },
   {
    "name": "Transactions · Europe",
@@ -279,7 +279,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 10
+   "archived": 13
   },
   {
    "name": "Transactions · Europe (FR)",
@@ -289,7 +289,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 11
+   "archived": 14
   },
   {
    "name": "Transactions · Moyen-Orient",
@@ -319,7 +319,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 11
+   "archived": 12
   },
   {
    "name": "Transactions · Afrique (FR)",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 28
+   "archived": 30
   },
   {
    "name": "Marchés · Amérique latine",
@@ -349,7 +349,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 24
+   "archived": 27
   },
   {
    "name": "Marchés · Europe",
@@ -359,7 +359,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 24
+   "archived": 27
   },
   {
    "name": "Marchés · Europe (FR)",
@@ -379,7 +379,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 19
+   "archived": 21
   },
   {
    "name": "Marchés · Asie-Pacifique",
@@ -389,7 +389,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 30
+   "archived": 33
   },
   {
    "name": "Marchés · Afrique",
@@ -399,7 +399,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 27
+   "archived": 28
   }
  ]
 }
