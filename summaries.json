@@ -1,42 +1,57 @@
 {
- "generated_at": "2026-10-26T06:21:57Z",
+ "generated_at": "2026-10-27T06:18:47Z",
  "auteur": "Claude",
  "rubriques": {
   "finance": {
-   "titre": "Pétrole à 115 dollars, réélection de Lula et semaine chargée en résultats : les marchés démarrent sous tension.",
+   "titre": "Le dépôt de l'introduction en Bourse d'Anthropic porte les valeurs de l'IA et des puces, tandis que le Brésil chute après la réélection de Lula.",
    "points": [
     {
-     "texte": "Le baril de pétrole a bondi à 115 dollars, au plus haut depuis le début de la guerre au Moyen-Orient, après de nouvelles attaques des Houthis en Arabie saoudite. Donald Trump affirme que le « moment de la décision » approche sur l'Iran : un accord ou la reprise des frappes. Les Bourses du Golfe reculent, le Tadawul saoudien perdant 2,65 % et l'EGX30 égyptien 3,56 %.",
+     "texte": "Anthropic a déposé son dossier d'introduction en Bourse, ce qui fait grimper les actions asiatiques des puces et de l'IA. À Wall Street, le Dow Jones a clôturé à 52 867,98 points, son plus haut niveau depuis un mois, porté par un bond de 5,6 % de Procter & Gamble, tandis que SpaceX et Super Micro relancent le thème de l'IA.",
      "articles": [
       {
-       "titre": "Le prix du baril de pétrole bondit à 115 dollars, au plus haut depuis le début de la guerre au Moyen-Orient",
-       "url": "https://www.lesechos.fr/finance-marches/marches-financiers/le-prix-du-baril-de-petrole-bondit-a-115-dollars-au-plus-haut-depuis-le-debut-de-la-guerre-au-moyen-orient-2258870",
-       "source": "Les Echos"
+       "titre": "Asian Stocks to Gain as Anthropic Files for IPO: Markets Wrap",
+       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTFLZTJNckNaRFN0TG9fLXJTY3h3VkVRSnZfMDJfLVkxOTNsU01IbWtXbDZQUTFIOXJXWENhY2NIX0ZuLUdLSHJMemcyUkNEZklQdUQxZlpHUWNwaVE3WFp1dk1meVZwejRrSUF1dEhFdDBjNUp3WVdqVnNBamJfQjFrN2g5b3QwZFBUMHZjYVU2aGhK?oc=5",
+       "source": "Bloomberg.com"
       },
       {
-       "titre": "Trump Says Decision Nearing on Iran: Deal or ‘Finish It Off’",
-       "url": "https://www.bloomberg.com/news/videos/2026-10-26/trump-says-decision-nearing-on-iran-video",
-       "source": "Bloomberg Markets"
+       "titre": "Asia chipmaking, AI stocks surge on Anthropic IPO cheer",
+       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcmZGZU9VNy1jckxxWkxVVmZoVEJybUx2NVNfSERSWjZ6c3o4bmg3VHFPZmhxaWkzMlJxQmVOUzBZdVJZOEg2UTAtVzVkSy1sbEtiLUxJeXY5X0djb3dhYndDcEJoVV9yazF6Yy1BbEtTM1dfdmRyeUd2a2dqQlFNeVpjbjd6S0k?oc=5",
+       "source": "Yahoo Finance UK"
       },
       {
-       "titre": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 2.65%",
-       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZGk0RnRSenlFLVhSbnl5Mkp1Z3RId1VXVVlCX3Axd2ZrZXZTbmtXeF81c2NUZlZQTUNuOVc5cExFRWt6MkhSTDg5QXpLYXE1dzBVSnI3X252azBEdXlQalVWVnhMNWU3NHUzc3lLX2xod25mUVFzeXk0aTg0U0V5QWJwTkJSSExTNEtGbC1Hb0lWZXRlZTRabFBDS1BBdEk5XzZUZHBwb1FIY1pHQXIxTFlpcTVzeERZNEw4dXp2Y0ZDZUZ5OWc?oc=5",
-       "source": "Investing.com"
+       "titre": "Dow Jones Rises to 52,867.98, Its Highest Close in a Month, as Procter & Gamble Jumps 5.6%",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcVgxYm8wRHBtUF9JYm1GaWVoY2wyTWVMQ3ZrLVV6U3BIX0ZobDJmMU1PUWQ1blRNcGVMU0ZVSkJqSjRIT25oYkZvT3Mybkt3SVplMzFLN2ZPMjl5SHV1Y1cwYXp6X2pSeGxuNlNUM1pvcUdqS1VDNXltc2dnZDM1eEFvbTFxYmxDM09LN01FN1lFcl93NWpWYl9wM09teEVFd29oZnl6T1Q4cXAtSFp3Slkwa2ZGMWoxTXJOYw?oc=5",
+       "source": "BBN Times"
       },
       {
-       "titre": "EGX30 falls 3.56% on Sunday",
-       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb0tUc3ZCLTdSaExhc2swZDJhT0x2NFpNVTVDcUFUNGZqOG9WR3RyeHZvWjlxV2tGekRnZE43a2xBdDJNMGRKTjh0Sk42UVhlVTM4TG1zT1V5d1JoLWhQY0pNS3BCcTcwMklpdzJCZ0d5OE5oQVVMUGFnMU56MmtwdTl3?oc=5",
-       "source": "www.businesstodayegypt.com"
+       "titre": "North American Stock Markets Today: S&P 500, Dow Jones, Nasdaq and TSX Rise as SpaceX and Super Micro Revive the AI Trade",
+       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRkZfaGZBVmExSlUzUVhzQ05YcW9xcnMyckYySnNHTEotOUxxejBDNk1URmlHeU1IenlYTkQzREt2LTItNHdWaFI1ei1ZQ0dtNFd3V1hNa0UwWUZCd2p6bEhoRlV0V3c5NFQ3d0hxeFZneDAxUjhGaE9wLTdPZUppZjBKakhXMnJxbms2Q1ZUeW5CQlo4enJTRFBDM3RPYzFzby1seUJXaERZUldoejl2MjRDNnQ2UzRVem5WRmlPa2oyTzJvMlRKN3lRcDc0OVh3cjEyUVl5NDVtb3cwUGdyVEowcEVzTU90NVpyZm92UQ?oc=5",
+       "source": "BBN Times"
       }
      ]
     },
     {
-     "texte": "Au Brésil, Lula a remporté une présidentielle historique : c'est la première fois depuis 1989 qu'un candidat gagne le second tour après avoir perdu le premier ; Jair Bolsonaro refuserait de reconnaître sa défaite. Les actions brésiliennes plongent après cette réélection, qui inquiète les investisseurs.",
+     "texte": "SpaceX a obtenu un financement par dette de 40 milliards de dollars selon Elon Musk, qui prédit des difficultés pour certains concurrents du cloud IA. En Inde, l'IPO record de Jio Platforms (3,1 milliards de dollars) s'échange 22 % au-dessus de son prix sur le marché gris.",
      "articles": [
       {
-       "titre": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
-       "url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
-       "source": "CNBC"
+       "titre": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
+       "url": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
+       "source": "MarketWatch"
+      },
+      {
+       "titre": "Jio Shares Indicated 22% Higher in India Gray-Market Trading",
+       "url": "https://www.bloomberg.com/news/articles/2026-10-27/jio-shares-mukesh-ambani-india-gray-market-trading",
+       "source": "Bloomberg Markets"
+      }
+     ]
+    },
+    {
+     "texte": "Au Brésil, les actions et le real sont attendus en baisse après la réélection du président Lula, la Bourse ayant déjà plongé. Dans le Golfe, les places rebondissent sur l'espoir d'une diplomatie avec l'Iran, la Bourse saoudienne gagnant 3,49 %, alors que le pétrole recule de plus de 2 % malgré le risque de nouvelles attaques contre les infrastructures saoudiennes.",
+     "articles": [
+      {
+       "titre": "Investors expect Brazilian stocks, currency to fall after Lula reelected",
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN2NwbFFDLVhWTUJuTGZxYkI1YWtMOFNFM29UMndmRUp3V1RzM0wyeTdvS2dzalE3WFRKdUVvWTdpOXVzakNmajA1TFVkX1RmdG5xRmRWUm9pQ1lOMEYwM2tMQVY0emRfdjVWeks3QVBhdWNzVXd4dEN1TE5oc1Q2ZHpOUDE3NmM4bWE0Sk1mS3RSeF9CUUlqdjhkZmJiNFpRWUp3ZTRDb3ZHWkU?oc=5",
+       "source": "Reuters"
       },
       {
        "titre": "Brazil Stocks Dive As President Lula Wins Re-Election",
@@ -44,109 +59,99 @@
        "source": "Investor's Business Daily"
       },
       {
-       "titre": "Brazil stocks plunge after Lula’s re-election. Why investors are worried",
-       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaGQ5dDMxM2VKeE9FTmhhMUxUNjJQM09VNTB2WE1NNm5fTlFrS0d3R0p2aUt6SVZIamFnUFJYcEs4dGZidURKVVNiSWZyakJtS3VIemR1S3hUcnZZVXZCamVPNTI1el9QT2ZWaWg2NEprLTRZcVRoMjdiRWpGcmRQQl9nRWRxdTQyQjVFanpBSGE4OHZiTTBPR3FZaG5BZ9IBowFBVV95cUxQamR1d3lQTjFXYnNuWVBTRTI3NXI2Mm41a2lZQ3pxb2ItU0tBUkJiNXlxTE1PbFVrYnBzZEY3NE03S3BybjhwM05nZWNNczVTU3drb3lWcmRLR1NQN2hIU0dnOGM2WHJIT0U4ajdiMk43SFFYSHo4Uno1dnRYZFVkREp2czM1c3NhbUF2R1dmZUNCdDBLYnZoMDI1SW9LdWUtaE9F?oc=5",
-       "source": "Firstpost"
-      }
-     ]
-    },
-    {
-     "texte": "En Europe, le DAX a cédé 0,75 % à 25 181,65 points, portant sa perte hebdomadaire à 1,7 % sur fond d'inquiétudes françaises et de chute de MTU, tandis que le FTSE 100 a fini à 10 733 points. Le CAC 40 pourrait rebondir, Moody's ayant épargné la France. Kering a connu un « vendredi noir » (-16,6 %, une chute record) après les ventes trimestrielles de Gucci.",
-     "articles": [
-      {
-       "titre": "Germany's DAX 40 Falls 0.75% to 25,181.65 as French Worries and an MTU Slump Extend Weekly Loss to 1.7%",
-       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV0FzYlhpNjhxVXUyeDJLQzh2c2tNTndqbXpfd3R1ZjY2T2xiekJUeEtCdlFUQW5TTTZhM0szLXFnRmJZQ1BuM0hldTFwWDB5bWNINVBIOW9vOUtwNnR3cnJ2QktKZnRObTRXRjZnRkU1V2pvMU1Qa2ZVNzlWWjU4bUcyeWk2Vk9RbUYtYURoSWNFQkZFX0VWR1lvUGdIVk5IdXZENVMxcGk4NUUzYjlPdmlPbUtPYzlYXzBhOE85NmpsYUhQZG1JY1ZWbEp0bDh0M1BQWjdIWEM?oc=5",
-       "source": "BBN Times"
+       "titre": "Saudi Tadawul Surges 3.49% to Close Near Session High",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQkdfTTk5Xy03QjcwbTJLaHQxRmtsY09HTXdGZnlDOC0yeHJVNnp0Ri11cnRWWDlhWFlQRlNBRFEyTVg0czI5N0k1TEdIbXc1UzVWNGpHY2VkU2EwQU04M2lLaDhka3diX2dBamxkWXlWNmc5VldfYU9RcUZQZ2lNOUNfOTl5Z1pyd0EyQmpiVy1rWHpTZVBsWUdaS1dXT2NwY3MxdFlIbEpiUVFYU0Vva2czcktrQQ?oc=5",
+       "source": "Business Upturn"
       },
       {
-       "titre": "FTSE 100 Falls to 10,733.00 After Recovering From an Early Bank-Led Sell-Off Amid US-Iran Tensions",
-       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQTFpZmtwUGJMR0ZNWEpkUUQ1Y0QtdzRONnFVdDhoUFVmV3dhQ1BveEhjdlZsUnNKMHhaMUJieUpiV29yM19RRHhER0dBcHFNZUJBeWh0dEt2N0phbjBCNEpzODRSdFBfdVBWVjNuYlF3WkprYmNUY2pIS240bS01OW5kWXJ0M3hraV9XSkwySjZXU0twYmRya2JBV2QzZHNJY0RjeDZKdlhLS2hkTFZhRGNQSC1ZT0lxdEZ5YUtuc3RDcmoxa3ZrYjg0eEJ6cVU5ajg5Vw?oc=5",
-       "source": "BBN Times"
-      },
-      {
-       "titre": "CAC 40 : Rebond en vue alors que Moody’s épargne la France et que le pétrole recule ?",
-       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORENmc1dXWFlXU0pzR211M1B6TktzdHJKYmlEbVRwMUs2U0QzdkU1SzVqcHF5MlpFdUNLRURmUmU4OWNmbmw3OFRZZkd0dm5QLVNrNzBHek5yaHlDR2h2WmlQdFNVcXhycDJLckxVc21xVC1rR2RnVG9jVFUxbmYySE4xT3RqMktPMkZsbUwxMHBhcjJYXzlPVWJ4eDJ5YWtsbGVUMWtDeE5SSkRleGFTNDRWNy1nX2xiR1ZSN21JZHUzTUgxcjhSaFNCUjBMcmVhYmpJeQ?oc=5",
-       "source": "Investing.com France"
-      },
-      {
-       "titre": "Kering, une « recovery story » plus ardue que prévu",
-       "url": "https://www.lesechos.fr/finance-marches/le-radar-des-marches/kering-une-recovery-story-plus-ardue-que-prevu-2258983",
-       "source": "Les Echos"
-      }
-     ]
-    },
-    {
-     "texte": "En Asie, les fonds publics chinois ont effectué leurs plus gros achats depuis la déroute d'avril 2025 pour enrayer la chute du marché, mais Morgan Stanley anticipe encore de la baisse avant un point bas. En Inde, le Sensex a perdu 508 points et le Nifty est passé sous 22 450, alors que les places asiatiques reculent avant les résultats des géants de la tech et les réunions des banques centrales.",
-     "articles": [
-      {
-       "titre": "China National Team ETFs Draw Most Inflows Since Trade War Rout",
-       "url": "https://www.bloomberg.com/news/articles/2026-10-26/china-national-team-etfs-draw-most-inflows-since-trade-war-rout",
-       "source": "Bloomberg Markets"
-      },
-      {
-       "titre": "Morgan Stanley Sees Further China Stock Downside Before Bottom",
-       "url": "https://www.bloomberg.com/news/articles/2026-10-26/morgan-stanley-sees-further-china-stock-downside-before-bottom",
-       "source": "Bloomberg Markets"
-      },
-      {
-       "titre": "Sensex falls 508 points, Nifty slips below 22,450 as 43 of 50 stocks decline",
-       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb0dkZjlTVFhKTDNqcy1xOXhPWEt4dTVLb0hwU2lMVUQ4cFRWYTBxcmFla2tLakQ0SHY4VUJ1c3U3Z3ZuckswYldzb1hDQVVReUxkOEdhb3ZhN01lSE1WYTVETnlORFBvaWRVWmt1QUpBUVBvOGNod3JCYXhkYkRTQm0tNFB4VDQ2Q2plZG5wYXRmeXVIdUZTU0NwLWg5ME1xSGfSAacBQVVfeXFMTXpQNXhyc29SNEU5MzRtR0F5eU1DTGliTy1ZcllLb25lSjVwQ3RXMGdHLVpQSzdwUnJGVEZ4OVhpbUdHUXpWb2I5Rmw1S09jV0VLWS1BYzczV0cwUWcwMUhWbUxVRjFlNjZoeHp3a001aV80NnVmY2xaZVd0VFBGbTN2VlNEbVc5ekhuMmpRQXZyS01aUW9Hal9SaGU1QlFaZUl6RkFlZnc?oc=5",
-       "source": "Firstpost"
-      },
-      {
-       "titre": "Asian stocks slip as traders brace for tech earnings, central banks",
-       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM0VLMDIyMHBtV1pCQ3g3OThzU0p0alZqSlFHSzlVOHpNd1c5T1B2REh5NDFuY2hBeUVxMzJNdzZYUWtIQUhNZEcyaDJKbXpYNm0wakhDYWpqRVIxWkRuS0VvWFRqb0NUTDJqcXZUczhjQ3dFZHpwZlFVRzZTYkFUalQyMWFGYWd3c1N4amZGU2RScTZyeF9waFQ3ZERETjB0YVdpeW9XdFQtZ2FNYmZHZ0Zxb1fSAbgBQVVfeXFMTVhoQjlXNEgxTWFEZ0ViU3JRV3pXMTY4Y0FieHA5SzdVRFFtRUc1bjlPYmU1QmllMGhKVXF6dWNXRDhIMmU4dGpzMWFib3ZuRXE1UnlUY0FvcW8wMjA5TlpwYW9JV2E0YjdqVzh4TDhxSXB5RUhsTjJTcU4wVXlObmprUXJyblpmOF9zY3hiTGpuMVNyZzdhN1lETHB4ZU0wQjhpcmtybXFfbFhrX3FYTGxDY0NEUnlNSw?oc=5",
-       "source": "Kuwait Times"
-      }
-     ]
-    },
-    {
-     "texte": "Côté tech et IA, Elon Musk annonce que SpaceX a bouclé un financement par dette de 40 milliards de dollars pour acheter des GPU. Jensen Huang affirme que les puces Vera Rubin de Nvidia rapporteront 40 milliards de dollars par gigawatt, contre 25 milliards pour Grace Blackwell. À Wall Street, les contrats à terme hésitent et le Nasdaq recule à l'approche d'une semaine cruciale de résultats.",
-     "articles": [
-      {
-       "titre": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
-       "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+       "titre": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
+       "url": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
        "source": "CNBC"
+      }
+     ]
+    },
+    {
+     "texte": "La pression sur la dette française reste au cœur des débats : Goldman Sachs juge « excessif » l'écart de taux avec l'Allemagne et un grand fonds australien rachète des obligations françaises, tandis que les grandes entreprises arbitrent entre emprunter maintenant ou attendre. L'Assemblée nationale reprend l'examen du budget 2027.",
+     "articles": [
+      {
+       "titre": "Un fonds australien achète de nouveau des obligations tricolores, Goldman Sachs juge \"excessif\" l'écart de taux entre la France et l'Allemagne: la pression des marchés sur la dette française est-elle exagérée?",
+       "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/un-fonds-australien-achete-de-nouveau-des-obligations-tricolores-goldman-sachs-juge-excessif-l-ecart-de-taux-entre-la-france-et-l-allemagne-la-pression-des-marches-sur-la-dette-francaise-est-elle-exageree_AV-202610270068.html",
+       "source": "BFM Business"
       },
       {
-       "titre": "Jensen Huang Says Nvidia's Next-Gen Vera Rubin Chips Will Generate $40 Billion in Revenue per Gigawatt, Up From $25 Billion for Grace Blackwell. What That Means for NVDA's Growth Runway.",
-       "url": "https://www.fool.com/investing/2026/10/26/jensen-huang-says-nvidias-next-gen-vera-rubin-chip/?source=iedfolrf0000001",
-       "source": "The Motley Fool"
+       "titre": "« Risque France » : emprunter ou attendre, le jeu d'équilibriste des grandes entreprises face aux tensions sur la dette",
+       "url": "https://www.lesechos.fr/finance-marches/marches-financiers/risque-france-emprunter-ou-attendre-le-jeu-dequilibriste-des-grandes-entreprises-face-aux-tensions-sur-la-dette-2259150",
+       "source": "Les Echos"
       },
       {
-       "titre": "Nasdaq Futures Slip Amid Tech Selloff While S&P 500, Dow Edge Higher Ahead Of Crucial Earnings Week: IREN, CRWV, NBIS, MRNA, EWZ In Focus",
-       "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPWmluXzRSdUFjVjh6MWNzZ0NCclhhQWFlYmJHRGdIMHYweDMtanRiV2Ezbi00MG14akJTSEtVb3BhbGJYR3Vtem90TXp3VlJKMHctNnBROVVOOGYxZlFnVTZWV3NqWUxjOEJNZERtWHBkODRCNHBDb20yRjRjd1B4aXpQaVJyTF9ma2tnSTFwTGV2ZjViRTJFcXlHTTlNNWNITXNjOGIyZi13WFdEcXlIdmhjSlItZ2UtSjJobzEtbWlkbTJRUlhoMTZVUmdKLUtpMUw0Y0F2RzBSTzhyanFtMHB0R2dLLWcydnRpc1VPNjRnZlBNMmUwaDRzQklva1h4NTJJTEVTejZseVhOQV94VXN5eXhMc3BIaERpQnRhX2VDaFpWRmc?oc=5",
-       "source": "Stocktwits"
+       "titre": "Budget 2027 : l’Assemblée nationale reprend l’examen d’un projet de loi incohérent",
+       "url": "https://www.liberation.fr/economie/budget-2027-lassemblee-nationale-reprend-lexamen-dun-projet-de-loi-incoherent-20261027_2PWP7BC4YNAWNLWKSBWPDZKL2U/",
+       "source": "Libération Économie"
+      }
+     ]
+    },
+    {
+     "texte": "Côté résultats, HSBC publie un bénéfice trimestriel conforme aux attentes et annonce un rachat d'actions pouvant atteindre 1 milliard de dollars ; GTT déçoit au troisième trimestre mais rassure par son carnet de commandes. À Paris, Stellantis mène le CAC 40 avec un rebond de près de 4 %, EssilorLuxottica cédant 3,5 %. La BCE fait état d'un durcissement des conditions de crédit aux entreprises.",
+     "articles": [
+      {
+       "titre": "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
+       "url": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
+       "source": "CNBC Résultats"
       },
       {
-       "titre": "Futures Waver; 3 Titans Lead Huge Earnings",
-       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnVjTUhHNlhCR3diSDlXVTI4c082YmNhWmRrdGJqWW9yeGxsa0ZKSFBfa1RDUVBRS202amNuT3loOXdtTzdOWUpNTjA3VjlnWVczak1rU3NjYUg0YnF6R1JlcUdVRi1NOEdya0I1ZU4xZlNzUmRKU2U1ZlJkcVRCNF90clE4QjJNRmVOOGJ4Ymp5QzdHVEp3WFgtLXYyS09KbGtvNi1ucWgtZnlJbUpmVXVyaE9fZ0pPeUJUQg?oc=5",
-       "source": "Investor's Business Daily"
+       "titre": "GTT, plus de peur que de mal pour la pépite du GNL",
+       "url": "https://www.lesechos.fr/finance-marches/le-radar-des-marches/gtt-plus-de-peur-que-de-mal-pour-la-pepite-du-gnl-2259240",
+       "source": "Les Echos"
+      },
+      {
+       "titre": "L'action Stellantis en tête du CAC 40 et rebondit de près de 4 %",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOExfRGNaU1dwcnVyUzJTb1oxdkdCd1FKc2dsM0xWb2dITVV5TEMtOEtZNFUwc3ZUbHZmLWdBMmxHZEZiRG5LUGQxdVg0RWlsdS1IRWZjSVJndjhaU0NKajZ6bUZvVmxnOEJTVFJwZmotMFB3TFV5VkJfWHA0N1d0a25xNGloSHNod09pZ1VNOW9pbTRlcUx3eWVibFZacEhPNmhFSGMySWlkQUFrU0poMVcwakpvaWM?oc=5",
+       "source": "Idéal Investisseur"
+      },
+      {
+       "titre": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
+       "source": "BCE"
       }
      ]
     }
    ]
   },
   "science": {
-   "titre": "De l'Univers primitif à la santé humaine, la recherche multiplie les découvertes inattendues.",
+   "titre": "Paléontologie, géophysique et santé dominent une actualité scientifique variée, des amphibiens marins du Trias à une étude sur la douleur menée sur 6 millions de personnes.",
    "points": [
     {
-     "texte": "En astronomie, des chercheurs ont découvert trois trous noirs actifs dans une même galaxie située à plus de 12,5 milliards d'années-lumière. Le télescope James-Webb a par ailleurs observé les collisions violentes entre mondes autour de jeunes étoiles, une fenêtre sur la naissance des planètes.",
+     "texte": "Des amphibiens prédateurs nageaient déjà en mer il y a 237 millions d'années, contredisant l'idée que leur peau perméable les excluait du milieu marin. En Chine, des chercheurs décrivent « D-rex », le plus grand champignon de son espèce connu, jusqu'à environ 50 cm de haut et plus de 2 kg, dont la lignée remonte à 65 millions d'années.",
      "articles": [
       {
-       "titre": "Three giant black holes discovered in a galaxy from the dawn of time",
-       "url": "https://www.sciencedaily.com/releases/2026/10/261024222000.htm",
-       "source": "ScienceDaily"
+       "titre": "Predatory amphibians swam the seas 237 million years ago",
+       "url": "https://www.newscientist.com/article/2595507-predatory-amphibians-swam-the-seas-237-million-years-ago/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "source": "New Scientist"
       },
       {
-       "titre": "Le télescope James-Webb révèle ce qui se passe lorsque des mondes entrent en collision : un spectacle d'une violence extrême",
-       "url": "https://www.futura-sciences.com/sciences/actualites/astronomie-telescope-james-webb-revele-ce-passe-lorsque-mondes-entrent-collision-spectacle-violence-extreme-138254/#xtor%3DRSS-8",
-       "source": "Futura"
+       "titre": "Chinese scientists discover “D-rex,” a giant fungus with roots stretching back 65 million years",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261025073034.htm",
+       "source": "ScienceDaily"
       }
      ]
     },
     {
-     "texte": "En santé, une étude internationale portant sur plus de 6 millions de personnes dans 118 pays révèle des différences dans la douleur selon l'âge et le sexe. Des chercheurs ont aussi montré comment le cancer du pancréas remodèle son ADN pour échapper aux traitements ; bloquer un gène clé a inversé une partie de ce processus en laboratoire.",
+     "texte": "La Terre change de forme de plus en plus vite, selon une nouvelle étude. Une éclipse solaire vieille de 2 700 ans, dont la localisation a été corrigée de huit kilomètres, livre de nouvelles informations sur la rotation de la Terre et l'activité passée du Soleil.",
+     "articles": [
+      {
+       "titre": "La Terre change de forme, et de plus en plus vite : ce que les scientifiques viennent de découvrir",
+       "url": "https://www.futura-sciences.com/planete/actualites/terre-terre-change-forme-plus-plus-vite-ce-scientifiques-viennent-decouvrir-138835/#xtor%3DRSS-8",
+       "source": "Futura"
+      },
+      {
+       "titre": "A 2,700-year-old solar eclipse just revealed something surprising about Earth",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261025073055.htm",
+       "source": "ScienceDaily"
+      }
+     ]
+    },
+    {
+     "texte": "Une étude portant sur plus de 6 millions de personnes dans 118 pays révèle des différences de douleur selon l'âge et le sexe. D'autres travaux montrent que l'exercice régulier remodèle les nerfs qui contrôlent le cœur, et décrivent une dépression « circadienne » qui concernerait jusqu'à 25 % des personnes dépressives.",
      "articles": [
       {
        "titre": "Douleur : une étude géante sur 6 millions de personnes révèle deux surprises majeures sur l'âge et le sexe",
@@ -154,114 +159,199 @@
        "source": "Futura"
       },
       {
-       "titre": "Scientists discover how pancreatic cancer rewrites its DNA to escape treatment",
-       "url": "https://www.sciencedaily.com/releases/2026/10/261024221849.htm",
-       "source": "ScienceDaily"
-      }
-     ]
-    },
-    {
-     "texte": "Contre le syndrome du canal carpien, une technique à base d'eau salée ferait mieux que les corticoïdes et pourrait éviter une chirurgie.",
-     "articles": [
-      {
-       "titre": "Canal carpien : cette technique à base d’eau salée fait mieux que les corticoïdes et pourrait vous éviter une chirurgie",
-       "url": "https://www.futura-sciences.com/sante/actualites/corps-humain-canal-carpien-cette-technique-base-eau-salee-fait-mieux-corticoides-pourrait-vous-eviter-chirurgie-138763/#xtor%3DRSS-8",
-       "source": "Futura"
-      }
-     ]
-    },
-    {
-     "texte": "En paléontologie, des scientifiques de Yale s'appuient sur l'apprentissage automatique et des milliers de mesures de fossiles pour suggérer que le spinosaure passait l'essentiel de sa vie sous l'eau. En écologie, des chercheurs ont transporté un marais entier pour le soumettre à une tempête extrême « millénaire » simulée.",
-     "articles": [
-      {
-       "titre": "New evidence suggests spinosaurus spent most of its life underwater",
-       "url": "https://www.sciencedaily.com/releases/2026/10/261024221956.htm",
+       "titre": "Exercise doesn't just strengthen your heart. It rewires it",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
        "source": "ScienceDaily"
       },
       {
-       "titre": "Ils ont transporté un marais entier pour lui faire subir une tempête extrême du « millénaire » : voici ce qui s'est passé",
-       "url": "https://www.futura-sciences.com/planete/actualites/tempete-ils-ont-transporte-marais-entier-lui-faire-subir-tempete-extreme-millenaire-voici-ce-passe-138758/#xtor%3DRSS-8",
+       "titre": "Qu’est-ce que la dépression « circadienne », un nouveau type de dépression qui concernerait jusqu’à 25% des personnes dépressives ?",
+       "url": "https://www.futura-sciences.com/sante/actualites/depression-quest-ce-depression-circadienne-nouveau-type-depression-concernerait-jusqua-25-personnes-depressives-138726/#xtor%3DRSS-8",
        "source": "Futura"
+      }
+     ]
+    },
+    {
+     "texte": "Les éoliennes auraient tué près de 19 millions de chauves-souris aux États-Unis entre 1981 et 2024, des mesures existant pour réduire cette mortalité. Un test « oddball » montre que les macaques perçoivent moins la vue d'ensemble que les humains mais sont moins troublés par les images inversées.",
+     "articles": [
+      {
+       "titre": "Wind turbines have killed 19 million bats in 40 years in the US",
+       "url": "https://www.newscientist.com/article/2595845-wind-turbines-have-killed-19-million-bats-in-40-years-in-the-us/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "source": "New Scientist"
+      },
+      {
+       "titre": "‘Oddball’ test lets us glimpse how monkeys see the world",
+       "url": "https://www.newscientist.com/article/2595841-oddball-test-lets-us-glimpse-how-monkeys-see-the-world/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "source": "New Scientist"
       }
      ]
     }
    ]
   },
   "spatial": {
-   "titre": "SpaceX prépare la suite du programme Starship, pendant que le ciel d'automne offre ses spectacles.",
+   "titre": "La NASA met fin à la mission Swift après l'échec d'un sauvetage, pendant que l'Europe prépare l'après-ISS et que les lancements s'enchaînent.",
    "points": [
     {
-     "texte": "SpaceX prépare le vol 15 de Starship pour novembre après un essai de mise à feu statique réussi, et pousse déjà vers le vol 16, avec une possible extension de Roberts Road.",
+     "texte": "La NASA a officiellement mis fin à la mission de l'observatoire Swift, après qu'un satellite privé n'a pas réussi à rejoindre le télescope vieillissant en orbite.",
      "articles": [
       {
-       "titre": "Possible Roberts Road Expansion as SpaceX pushes for Flight 16",
-       "url": "https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/",
+       "titre": "NASA ends Swift space telescope mission after failed rescue attempt",
+       "url": "https://www.space.com/space-exploration/missions/nasa-ends-swift-space-telescope-mission-after-failed-rescue-attempt",
+       "source": "Space.com"
+      }
+     ]
+    },
+    {
+     "texte": "Sans station spatiale propre et à l'approche de la fin de l'ISS, l'Europe cherche à garder son accès à l'orbite basse : l'ESA a signé un nouveau protocole avec Vast. Le satellite européen de surveillance des glaces CRISTAL, panneaux solaires intégrés, passe de l'assemblage à la phase d'essais.",
+     "articles": [
+      {
+       "titre": "Après l'ISS, une nouvelle ère se dessine : voici où pourraient vivre les prochains astronautes européens",
+       "url": "https://www.futura-sciences.com/sciences/actualites/vols-habites-apres-iss-nouvelle-ere-dessine-voici-pourraient-vivre-prochains-astronautes-europeens-138314/#xtor%3DRSS-8",
+       "source": "Futura"
+      },
+      {
+       "titre": "Ice mission CRISTAL opens its wings",
+       "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Ice_mission_CRISTAL_opens_its_wings",
+       "source": "ESA"
+      }
+     ]
+    },
+    {
+     "texte": "Quatre lancements sont prévus cette semaine depuis les États-Unis et l'Inde, dont une Falcon 9 emportant 27 satellites Starlink depuis la côte Ouest ce mardi 27 octobre. Astranis a transformé son quatrième lancement en mission dédiée sur Falcon 9 en 2028 pour toute sa production de satellites Block 4.",
+     "articles": [
+      {
+       "titre": "Launch Preview: Falcon 9 and GSLV rockets scheduled to launch",
+       "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102626/",
        "source": "NASASpaceflight"
-      }
-     ]
-    },
-    {
-     "texte": "La pleine lune d'octobre, dite « Lune du chasseur », s'est levée le 25 octobre. La NASA montre aussi comment un satellite moderne permet de suivre les couleurs de l'automne depuis l'espace.",
-     "articles": [
-      {
-       "titre": "October's 'Hunter's Moon' stalks into the autumn sky tonight: Here's what you need to know",
-       "url": "https://www.space.com/stargazing/octobers-hunters-moon-stalks-into-the-autumn-sky-tonight-heres-what-you-need-to-know",
-       "source": "Space.com"
       },
       {
-       "titre": "Hunting Red Leaves with Satellites",
-       "url": "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/",
-       "source": "NASA"
+       "titre": "West Coast Falcon 9 rocket to launch 27 Starlink satellites",
+       "url": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
+       "source": "Spaceflight Now"
+      },
+      {
+       "titre": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
+       "url": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/",
+       "source": "SpaceNews"
       }
      ]
     },
     {
-     "texte": "Les images astronomiques du jour de la NASA mettent à l'honneur la grande nébuleuse d'Orion (M42) et une simulation de la matière noire dans l'Univers.",
+     "texte": "Flexell Space crée une filiale française à Paris pour accompagner ses discussions de contrats et de production en série avec des clients européens. Côté observation, Perseverance livre une vue à 360° de la poussière à Neretva Vallis sur Mars, et l'iceberg antarctique A-81 a atteint la Géorgie du Sud.",
      "articles": [
       {
-       "titre": "2026 October 26 – M42: The Great Nebula in Orion",
-       "url": "https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/",
+       "titre": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
+       "url": "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/",
+       "source": "SpaceNews"
+      },
+      {
+       "titre": "NASA’s Perseverance Views Dust at Neretva Vallis",
+       "url": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
        "source": "NASA"
       },
       {
-       "titre": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
-       "url": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
+       "titre": "A-81 Reaches South Georgia",
+       "url": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
        "source": "NASA"
-      }
-     ]
-    },
-    {
-     "texte": "Rappel historique : le 25 octobre 1671, l'astronome Giovanni Cassini découvrait Japet, la lune « yin-yang » de Saturne.",
-     "articles": [
-      {
-       "titre": "On this day in space! Oct. 25, 1671: Astronomer Giovanni Cassini discovers Iapetus, Saturn's 'yin-yang' moon",
-       "url": "https://www.space.com/space-exploration/on-this-day-in-space-oct-25-1671-astronomer-giovanni-cassini-discovers-iapetus-saturns-yin-yang-moon",
-       "source": "Space.com"
       }
      ]
     }
    ]
   },
   "hotellerie": {
-   "titre": "Actualité calme dans l'hôtellerie, entre ouverture de luxe à Florence et gestion financière des groupes.",
+   "titre": "Une vague de transactions marque l'hôtellerie, avec le rachat de Fletcher, première chaîne néerlandaise, par Sunday PropTech.",
    "points": [
     {
-     "texte": "À Florence, le palazzo Segni rouvre via Santo Spirito sous l'enseigne La Réserve après quatre ans de chantier.",
+     "texte": "Sunday PropTech (Prism) acquiert 100 % de Fletcher Hotels, la plus grande chaîne hôtelière des Pays-Bas, et étend ainsi ses ambitions européennes.",
      "articles": [
       {
-       "titre": "Palazzo Segni, cinq siècles entre les mains de familles florentines avant d’entrer dans la collection La Réserve",
-       "url": "https://hospitality-on.com/fr/hotellerie/palazzo-segni-cinq-siecles-entre-les-mains-de-familles-florentines-avant-dentrer-dans-la",
+       "titre": "News | Sunday PropTech acquires 100% of Fletcher, The Netherlands’ largest hotel firm",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNjNVSlNDRExvSzloMzZuMXVKTlJIVEhDMWFPT1Zyd09uNWIycnN2LVcydFdFbVoxekNMYm5RSFlQaTNsanRCbVk2V2toM2lHaVMycHF1TEREem5kOEU2di1MVWdZQVlabzlIR1pIY29hcFlSODZjeTRYa0k4d2g4VjV3WF9JckdHa2NaZ2N6Q2ZqbUxuQ2xiRGtnazlKVGRJU01yWS0xUXEybFZfZ3E1RERPYm5JaE0?oc=5",
+       "source": "CoStar"
+      },
+      {
+       "titre": "HN Original: Prism Expands European Hotel Ambitions with Acquisition of Dutch Fletcher Hotels",
+       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSjgzYWdZbUg4czJIc1ZlQ0xlQXhzMTVTNkJKRmlRSklTZl9FUy1icGsxQWF4STNfMDBDSGluME1wWjdmTW9NMlBaRVRPeU9UWmgtZ0p3YlBJQ0lyclZZTWZxQXhXeVZjeG5qOGNja3lablNINkZrZTZmT2Ffd0piblEtOVA3ZXJiSzF0a1Y1akoySExWWG1pcUxIb2hSdEdSd0tnU0UzR2l3RjFDb0VIUWxYMWFoclNDZHRGbzB6R0dPdy1GVnc?oc=5",
+       "source": "Hospitality Net"
+      },
+      {
+       "titre": "Sunday PropTech buys Fletcher Hotels, the Netherlands' largest chain",
+       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR2xpVTZkeDNacjdydzBDZWZlM3h6UW1lNHdCczE2c1ZVbE1OLXFyS1JnZlB1WV9MNU5wT2NTd01hbXhPbjhvalJ1aXE4QTlsRUJFY3kyeER2Z2R0cnFaX21xRG1DMVg4bFg4c2FfNmNHMnhfWjdHMFZ3ajdocGhtakF2LXd1dUFUZEl0aWJuYXhJdDlHeUg3Q3RfTmN0REJqLVE?oc=5",
+       "source": "Dealroom"
+      }
+     ]
+    },
+    {
+     "texte": "Autres opérations : le propriétaire de l'hôtel du Cap-Eden-Roc rachète un domaine de 9 hectares au cap d'Antibes pour 155 millions d'euros, PERIAL acquiert Le Rosamundi à Saint-Ouen et monte son premier club deal hôtelier, Heartwood Collection reprend The Angel Hotel à Leamington Spa et The Cliff Hotel s'agrandit en rachetant la propriété voisine Idle Awhile.",
+     "articles": [
+      {
+       "titre": "Une transaction à 155 millions d’euros : le propriétaire de l’hôtel du Cap-Eden-Roc rachète un immense domaine de 9 hectares au cap d’Antibes",
+       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNTVBNNy1oX1EyMlVTZndIWTdGbkNlaU4ySWdsRFNIRUM4eTdvT3NfcDM2RE4tQUw3d1RIMVd2Z3ZJaWljVS1hX3IteVlEcUNZem1FVnoyZkM3TGhNZGRkV1Y1RlVONDFMY1NxMWNwUzNIOHlLM1NYYm1QeG5NX2lRSWNOUkpRZUo5SUxnM2pPcER4c2FTODVnaEhlUXM4LXpqU1JMSWNTcEoyZkdDYmJLMHhYZ2FkRk9qOUVZVlc2N0Q0VXpuVURDT2tNUTdHb242a1hwZU0tcHBuNnNSWDNZelV5ZUhpREp1U0hQb2t4YjcwYU5rX1JnNDREZHNGbGJ5RTFjMEdxNklQWkVfemtSQUt6SG82M1oyRm9BZzNR?oc=5",
+       "source": "Nice-Matin"
+      },
+      {
+       "titre": "Investissement, Grand Paris | PERIAL acquiert Le Rosamundi à Saint-Ouen et structure son premier club deal hôtelier",
+       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNkhLY3h1blB0WEZzOG5weHNPdVR6SHVVdWdrZE5YMXYxSkZEY2t1ZWk3VDg4d0ZuT3B4UUVqWE5QcHEyS1AzM0tHdWVqVGlwQ3lDNVhkOTFZWm4xeTYtYW4xb25XT0dyajNBMmpqV2ZsUFFWNTNVd2lQNzlfbVRFWF9oTnJVSzNZb1E?oc=5",
+       "source": "La Tribune de l'Hôtellerie"
+      },
+      {
+       "titre": "Heartwood Collection Acquires The Angel Hotel, Leamington Spa",
+       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcFQ2d3lRdWRMaW9DRlptTGcyZXdDTFdoVEE0QS1iN1NxYnpMWEhZRVlCN1lCMlZrQTJTTDRSNFlxZ01vMEJSekJvSzdMTTlHbXBsUUxOSE5kY1NJWlA0YzhLZHJWemdDVWswblBNNHhqVXNhVXY4Y1E3Qlh6UnBlb2MtSU14VnF0bGl5UWxoS2U3Sjg?oc=5",
+       "source": "CLH News"
+      },
+      {
+       "titre": "The Cliff Hotel acquires neighboring Idle Awhile property in expansion",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVHpEWS1NM2hGd3dYNDFYYy03NHJ6ak5za0lqMHJnWGFZQkJuZjJ2U3dxamN4SThCMkctMU5ULUFpbGs4TGY0S29LcmlEQWZFMDI0N1BFb2pvaHpUWFdueHc5TEZPUnczVDA4TGdYM09aNkQ5bGJjQUc5SFdPYWVUVndXa0F3emxjcVA4ZlVzUll5bTQ0eXdSZWtROTUxRGRjLTRiYnhnVXQ3aHptWkt1Y2p3ZXBLN1E?oc=5",
+       "source": "Caribbean National Weekly"
+      }
+     ]
+    },
+    {
+     "texte": "En Espagne, les hôtels ont enregistré plus de 40,1 millions de nuitées en septembre 2026 (+1,7 %), tandis que le prix moyen par chambre occupée a progressé de 7,4 %, malgré le recul de la clientèle domestique. Accor publie un livre blanc sur l'évolution de la carte du tourisme européen à l'horizon 2036.",
+     "articles": [
+      {
+       "titre": "Espagne : les prix hôteliers en forte hausse malgré le recul de la clientèle domestique",
+       "url": "https://hospitality-on.com/fr/hotellerie/espagne-les-prix-hoteliers-en-forte-hausse-malgre-le-recul-de-la-clientele-domestique",
+       "source": "Hospitality ON"
+      },
+      {
+       "titre": "A travers son livre blanc, Accor redessine la carte du tourisme européen à l'horizon 2036",
+       "url": "https://hospitality-on.com/fr/loisirs/travers-son-livre-blanc-accor-redessine-la-carte-du-tourisme-europeen-lhorizon-2036",
        "source": "Hospitality ON"
       }
      ]
     },
     {
-     "texte": "Hospitality Net décrit comment les groupes hôteliers en croissance mutualisent leurs fonctions financières entre établissements grâce à des équipes partagées et des flux numériques, pour réduire les effectifs nécessaires et améliorer la visibilité au niveau du groupe.",
+     "texte": "Chez Accor, le train de luxe La Dolce Vita du groupe Arsenale, commercialisé par Orient Express, a lancé son premier voyage international de Rome vers Istanbul. Marriott déploie avec LG une plateforme TV cloud dans ses chambres, et Travel + Leisure Co. ouvre son premier « Outpost » Eddie Bauer Adventure Club près d'Austin.",
      "articles": [
       {
-       "titre": "How growing hotel groups share finance across properties",
-       "url": "https://www.hospitalitynet.org/opinion/4135081/how-growing-hotel-groups-share-finance-across-properties",
-       "source": "Hospitality Net"
+       "titre": "La Dolce Vita du groupe Arsenale, commercialisée par Orient Express, s'élance de Rome vers Istanbul",
+       "url": "https://hospitality-on.com/fr/developpement/la-dolce-vita-du-groupe-arsenale-commercialisee-par-orient-express-selance-de-rome",
+       "source": "Hospitality ON"
+      },
+      {
+       "titre": "Hotel Tech-in: Marriott’s guest room TV goes beyond entertainment",
+       "url": "https://www.hoteldive.com/news/marriott-entertainment-technology-platform-tv/850052/",
+       "source": "Hotel Dive"
+      },
+      {
+       "titre": "Travel + Leisure Co. expands Eddie Bauer Adventure Club to Texas Hill Country",
+       "url": "https://www.hoteldive.com/news/travel-leisure-co-expands-eddie-bauer-adventure-club-to-texas/856903/",
+       "source": "Hotel Dive"
+      }
+     ]
+    },
+    {
+     "texte": "Dans la distribution et le voyage, MakeMyTrip profite d'un ralentissement de l'aérien en Inde pour se diversifier au-delà des vols et des hôtels, et l'action JetBlue rebondit après la confirmation de ses objectifs de bénéfice pour 2027.",
+     "articles": [
+      {
+       "titre": "MakeMyTrip Uses an Air Travel Dip to Reach Beyond Flights",
+       "url": "https://skift.com/2026/10/26/makemytrip-uses-an-air-travel-dip-to-reach-beyond-flights/",
+       "source": "Skift"
+      },
+      {
+       "titre": "Beaten-Down JetBlue Shares Rebound as Carrier Says 2027 Profit Is on Track",
+       "url": "https://skift.com/2026/10/26/beaten-down-jetblue-shares-rebound-as-carrier-says-2027-profit-is-on-track/",
+       "source": "Skift"
       }
      ]
     }
