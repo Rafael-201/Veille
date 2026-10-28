@@ -1,302 +1,312 @@
 {
- "generated_at": "2026-10-27T06:18:47Z",
+ "generated_at": "2026-10-28T06:18:36Z",
  "auteur": "Claude",
  "rubriques": {
   "finance": {
-   "titre": "Le dépôt de l'introduction en Bourse d'Anthropic porte les valeurs de l'IA et des puces, tandis que le Brésil chute après la réélection de Lula.",
+   "titre": "Les marchés suspendus à la Fed et aux résultats des géants de la tech, sur fond d'euphorie autour de l'introduction en Bourse d'Anthropic",
    "points": [
     {
-     "texte": "Anthropic a déposé son dossier d'introduction en Bourse, ce qui fait grimper les actions asiatiques des puces et de l'IA. À Wall Street, le Dow Jones a clôturé à 52 867,98 points, son plus haut niveau depuis un mois, porté par un bond de 5,6 % de Procter & Gamble, tandis que SpaceX et Super Micro relancent le thème de l'IA.",
+     "texte": "La Réserve fédérale américaine devrait maintenir ses taux directeurs inchangés ce mercredi, à quelques jours d'élections aux États-Unis, alors que l'inflation a poursuivi son accélération sous l'effet des prix de l'énergie. Wall Street affronte un double test avec cette décision et les résultats de Microsoft et Alphabet ; le cuivre évolue près de son plus haut de deux semaines.",
      "articles": [
       {
-       "titre": "Asian Stocks to Gain as Anthropic Files for IPO: Markets Wrap",
-       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTFLZTJNckNaRFN0TG9fLXJTY3h3VkVRSnZfMDJfLVkxOTNsU01IbWtXbDZQUTFIOXJXWENhY2NIX0ZuLUdLSHJMemcyUkNEZklQdUQxZlpHUWNwaVE3WFp1dk1meVZwejRrSUF1dEhFdDBjNUp3WVdqVnNBamJfQjFrN2g5b3QwZFBUMHZjYVU2aGhK?oc=5",
-       "source": "Bloomberg.com"
+       "titre": "Que va faire la Réserve fédérale américaine? À quelques jours d'élections aux États-Unis, la Fed devrait maintenir inchangés ses taux directeurs",
+       "url": "https://www.bfmtv.com/economie/international/que-va-faire-la-reserve-federale-americaine-a-quelques-jours-d-elections-aux-etats-unis-la-fed-devrait-maintenir-inchanges-ses-taux-directeurs_AD-202610280099.html",
+       "source": "BFM Business"
       },
       {
-       "titre": "Asia chipmaking, AI stocks surge on Anthropic IPO cheer",
-       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcmZGZU9VNy1jckxxWkxVVmZoVEJybUx2NVNfSERSWjZ6c3o4bmg3VHFPZmhxaWkzMlJxQmVOUzBZdVJZOEg2UTAtVzVkSy1sbEtiLUxJeXY5X0djb3dhYndDcEJoVV9yazF6Yy1BbEtTM1dfdmRyeUd2a2dqQlFNeVpjbjd6S0k?oc=5",
-       "source": "Yahoo Finance UK"
+       "titre": "Wall Street faces a double test as Fed decision and Microsoft, Alphabet earnings loom",
+       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXFpNW9RVEo3WTdHcUROTjhyek0tUGQzVFhKc3ctVm9BOGZ0MERmdWtUbFhVU0VUR0g3LTdMSEhuT3N1R1draXlJRW9yb3p3a0hZZHZaLVFoN2dyVWlHaFBZUWFBY3JrQk1UN1dLV05mcWt3bTBDY0doRTZLQ21lUGUtVWt6aXdVbFRES1JGUmFTZHVYeXg4RjNpbGY4bWRUWFRFOVVENWhVMGw3d21obmFwTzl0NGFXWXc?oc=5",
+       "source": "investingLive"
       },
       {
-       "titre": "Dow Jones Rises to 52,867.98, Its Highest Close in a Month, as Procter & Gamble Jumps 5.6%",
-       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcVgxYm8wRHBtUF9JYm1GaWVoY2wyTWVMQ3ZrLVV6U3BIX0ZobDJmMU1PUWQ1blRNcGVMU0ZVSkJqSjRIT25oYkZvT3Mybkt3SVplMzFLN2ZPMjl5SHV1Y1cwYXp6X2pSeGxuNlNUM1pvcUdqS1VDNXltc2dnZDM1eEFvbTFxYmxDM09LN01FN1lFcl93NWpWYl9wM09teEVFd29oZnl6T1Q4cXAtSFp3Slkwa2ZGMWoxTXJOYw?oc=5",
-       "source": "BBN Times"
-      },
-      {
-       "titre": "North American Stock Markets Today: S&P 500, Dow Jones, Nasdaq and TSX Rise as SpaceX and Super Micro Revive the AI Trade",
-       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRkZfaGZBVmExSlUzUVhzQ05YcW9xcnMyckYySnNHTEotOUxxejBDNk1URmlHeU1IenlYTkQzREt2LTItNHdWaFI1ei1ZQ0dtNFd3V1hNa0UwWUZCd2p6bEhoRlV0V3c5NFQ3d0hxeFZneDAxUjhGaE9wLTdPZUppZjBKakhXMnJxbms2Q1ZUeW5CQlo4enJTRFBDM3RPYzFzby1seUJXaERZUldoejl2MjRDNnQ2UzRVem5WRmlPa2oyTzJvMlRKN3lRcDc0OVh3cjEyUVl5NDVtb3cwUGdyVEowcEVzTU90NVpyZm92UQ?oc=5",
-       "source": "BBN Times"
-      }
-     ]
-    },
-    {
-     "texte": "SpaceX a obtenu un financement par dette de 40 milliards de dollars selon Elon Musk, qui prédit des difficultés pour certains concurrents du cloud IA. En Inde, l'IPO record de Jio Platforms (3,1 milliards de dollars) s'échange 22 % au-dessus de son prix sur le marché gris.",
-     "articles": [
-      {
-       "titre": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
-       "url": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
-       "source": "MarketWatch"
-      },
-      {
-       "titre": "Jio Shares Indicated 22% Higher in India Gray-Market Trading",
-       "url": "https://www.bloomberg.com/news/articles/2026-10-27/jio-shares-mukesh-ambani-india-gray-market-trading",
+       "titre": "Copper Wavers Near Two-Week High as Traders Look to Fed Meeting",
+       "url": "https://www.bloomberg.com/news/articles/2026-10-28/copper-wavers-near-two-week-high-as-traders-look-to-fed-meeting",
        "source": "Bloomberg Markets"
       }
      ]
     },
     {
-     "texte": "Au Brésil, les actions et le real sont attendus en baisse après la réélection du président Lula, la Bourse ayant déjà plongé. Dans le Golfe, les places rebondissent sur l'espoir d'une diplomatie avec l'Iran, la Bourse saoudienne gagnant 3,49 %, alors que le pétrole recule de plus de 2 % malgré le risque de nouvelles attaques contre les infrastructures saoudiennes.",
+     "texte": "Anthropic a publié lundi 26 octobre son dossier d'introduction à Wall Street, ce qui a relancé l'optimisme autour de l'IA sur les Bourses asiatiques. En Inde, Jio Platforms, soutenu par Meta et Google, a bondi de plus de 21 % pour ses débuts après la plus grosse introduction en Bourse de l'histoire du pays (3,2 milliards de dollars).",
      "articles": [
       {
-       "titre": "Investors expect Brazilian stocks, currency to fall after Lula reelected",
-       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN2NwbFFDLVhWTUJuTGZxYkI1YWtMOFNFM29UMndmRUp3V1RzM0wyeTdvS2dzalE3WFRKdUVvWTdpOXVzakNmajA1TFVkX1RmdG5xRmRWUm9pQ1lOMEYwM2tMQVY0emRfdjVWeks3QVBhdWNzVXd4dEN1TE5oc1Q2ZHpOUDE3NmM4bWE0Sk1mS3RSeF9CUUlqdjhkZmJiNFpRWUp3ZTRDb3ZHWkU?oc=5",
-       "source": "Reuters"
+       "titre": "Entrée d’Anthropic à Wall Street : le géant de l’IA veut faire la Bourse en tête",
+       "url": "https://www.liberation.fr/economie/economie-numerique/entree-danthropic-a-wall-street-le-geant-de-lia-veut-faire-la-bourse-en-tete-20261027_YOCNYIGNARHCNIHSJMWBBVDY74/",
+       "source": "Libération Économie"
       },
       {
-       "titre": "Brazil Stocks Dive As President Lula Wins Re-Election",
-       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNamdSQTJzYldjZUdOZ1YzazZGWWNmTGJoVV8wZFJJRGNzNWc4b0o0T0NNcElKWnFlUFh1ZWlCQ0RLN2NKS296d2J0SlhKWS1Lb3FkLUJ3T0t5c2FBR1B4YTV2d2JqV0JOY2taVWVVeTFzbC1UbGJld3k1MXh6SHAwdWtrRGVVRmpXTjlCWmxn?oc=5",
-       "source": "Investor's Business Daily"
+       "titre": "Asian Stocks Rally as Anthropic IPO Filing Lifts AI Sentiment",
+       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdE40dHN6UjdrS0pQeERTdFZYNXFpUW5pbVg5YTJDY3MwTEd5SGt5QUNtT3V2WXktYl9TSC1Zb0NKMnh5dFBvQlVmX3ZiWmhQMTVUT3lyOUJtc1g4RTJjMzVqdDl0RWlCTVdFZXBxc2lVckJreXU4bDlEY0I1ZlF4cnlWd1E4U05xRGZnaVRfNE8xWkxwLWpxdjVn?oc=5",
+       "source": "Tempo.co English"
       },
       {
-       "titre": "Saudi Tadawul Surges 3.49% to Close Near Session High",
-       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQkdfTTk5Xy03QjcwbTJLaHQxRmtsY09HTXdGZnlDOC0yeHJVNnp0Ri11cnRWWDlhWFlQRlNBRFEyTVg0czI5N0k1TEdIbXc1UzVWNGpHY2VkU2EwQU04M2lLaDhka3diX2dBamxkWXlWNmc5VldfYU9RcUZQZ2lNOUNfOTl5Z1pyd0EyQmpiVy1rWHpTZVBsWUdaS1dXT2NwY3MxdFlIbEpiUVFYU0Vva2czcktrQQ?oc=5",
-       "source": "Business Upturn"
-      },
-      {
-       "titre": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
-       "url": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+       "titre": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
+       "url": "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html",
        "source": "CNBC"
       }
      ]
     },
     {
-     "texte": "La pression sur la dette française reste au cœur des débats : Goldman Sachs juge « excessif » l'écart de taux avec l'Allemagne et un grand fonds australien rachète des obligations françaises, tandis que les grandes entreprises arbitrent entre emprunter maintenant ou attendre. L'Assemblée nationale reprend l'examen du budget 2027.",
+     "texte": "Au Brésil, la victoire surprise de Lula a fait plonger l'Ibovespa de 17 % lundi, avec une suspension des échanges de 30 minutes à l'ouverture. En Europe, le CAC 40 a terminé en hausse grâce à une accalmie sur le pétrole et les taux, le brut reculant face aux efforts diplomatiques pour mettre fin à la guerre avec l'Iran.",
      "articles": [
       {
-       "titre": "Un fonds australien achète de nouveau des obligations tricolores, Goldman Sachs juge \"excessif\" l'écart de taux entre la France et l'Allemagne: la pression des marchés sur la dette française est-elle exagérée?",
-       "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/un-fonds-australien-achete-de-nouveau-des-obligations-tricolores-goldman-sachs-juge-excessif-l-ecart-de-taux-entre-la-france-et-l-allemagne-la-pression-des-marches-sur-la-dette-francaise-est-elle-exageree_AV-202610270068.html",
-       "source": "BFM Business"
-      },
-      {
-       "titre": "« Risque France » : emprunter ou attendre, le jeu d'équilibriste des grandes entreprises face aux tensions sur la dette",
-       "url": "https://www.lesechos.fr/finance-marches/marches-financiers/risque-france-emprunter-ou-attendre-le-jeu-dequilibriste-des-grandes-entreprises-face-aux-tensions-sur-la-dette-2259150",
+       "titre": "Brésil : le grand plongeon de la Bourse de Sao Paulo, effrayée par la victoire de Lula",
+       "url": "https://www.lesechos.fr/finance-marches/marches-financiers/bresil-le-grand-plongeon-de-la-bourse-de-sao-paulo-effrayee-par-la-victoire-de-lula-2259154",
        "source": "Les Echos"
       },
       {
-       "titre": "Budget 2027 : l’Assemblée nationale reprend l’examen d’un projet de loi incohérent",
-       "url": "https://www.liberation.fr/economie/budget-2027-lassemblee-nationale-reprend-lexamen-dun-projet-de-loi-incoherent-20261027_2PWP7BC4YNAWNLWKSBWPDZKL2U/",
-       "source": "Libération Économie"
+       "titre": "CAC 40 : La Bourse de Paris termine en hausse, profitant d'une accalmie sur le pétrole et les taux",
+       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNc2UyWkdmSnNIay1VbC00ZExKNnpUUVJJWXNDTTVucmFyb1EtWVl1a0xtVm5McjZpcWxnR21ramx2Mjc3dG15a21xSXExS3BYRVB2ZGotVTloNl9ObkJ5bVdQSWZVZkVXeC11eklYX0QzV3E0Mlhsbncxc0QzMXlGdFYzdEpQcGR0MEtLbVdSOU1pV05hUXo3NF8tbHEyX0VIOGctYWJRNjFkYzY0ZF9CVWMySVBVel9GZGJCUmV4amFfcDBBZ2M5QmVuU1ZiY3FlN0l2UTR5RGxfc3g1dUJXZUVGVHB6Z1kyVUc4?oc=5",
+       "source": "Zonebourse Suisse"
+      },
+      {
+       "titre": "Les Bourses européennes terminent majoritairement en hausse",
+       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdzBVTVdDQmRIekNybEMtNW14aGE5ZVBjenZodmVTU2R2ekc1a29WWlN0UXRFMHkyUFI1dFJaYkFLRzRLYmlDRy1WYXMtQzVad0NDSzdKMklkYk83eXZLdFJqT2ZTQVVIYmVLelR3dVl1ZlB3eW12Ym1VVV9oZUhMMDc3ZS1qU285VVZvQTdPS21aNXRKWk1FRGduY2dNRUNGeVJISHA2cmRkbDdJWEJuRzMxckhDdjdh?oc=5",
+       "source": "France 24"
+      },
+      {
+       "titre": "Oil falls as renewed diplomatic efforts to end Mideast conflict ease supply concerns",
+       "url": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
+       "source": "CNBC"
       }
      ]
     },
     {
-     "texte": "Côté résultats, HSBC publie un bénéfice trimestriel conforme aux attentes et annonce un rachat d'actions pouvant atteindre 1 milliard de dollars ; GTT déçoit au troisième trimestre mais rassure par son carnet de commandes. À Paris, Stellantis mène le CAC 40 avec un rebond de près de 4 %, EssilorLuxottica cédant 3,5 %. La BCE fait état d'un durcissement des conditions de crédit aux entreprises.",
+     "texte": "Saison des résultats : Robinhood recule de 4 % malgré un chiffre d'affaires conforme, pénalisé par le repli des cryptos ; Worldline renoue avec la croissance (+2,5 % au troisième trimestre) et confirme ses objectifs 2026 ; Ultra Clean affiche un chiffre d'affaires record de 759 millions de dollars porté par l'IA. Royal Caribbean, Coca-Cola et UPS décrivent un consommateur américain « résilient ».",
      "articles": [
       {
-       "titre": "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
-       "url": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
+       "titre": "Robinhood shares fall 4% as crypto slump weighs on profits, offsetting gains in new businesses",
+       "url": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
        "source": "CNBC Résultats"
       },
       {
-       "titre": "GTT, plus de peur que de mal pour la pépite du GNL",
-       "url": "https://www.lesechos.fr/finance-marches/le-radar-des-marches/gtt-plus-de-peur-que-de-mal-pour-la-pepite-du-gnl-2259240",
+       "titre": "Paiement : Worldline retrouve le chemin de la croissance",
+       "url": "https://www.lesechos.fr/finance-marches/banque-assurances/paiement-worldline-retrouve-le-chemin-de-la-croissance-2259460",
        "source": "Les Echos"
       },
       {
-       "titre": "L'action Stellantis en tête du CAC 40 et rebondit de près de 4 %",
-       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOExfRGNaU1dwcnVyUzJTb1oxdkdCd1FKc2dsM0xWb2dITVV5TEMtOEtZNFUwc3ZUbHZmLWdBMmxHZEZiRG5LUGQxdVg0RWlsdS1IRWZjSVJndjhaU0NKajZ6bUZvVmxnOEJTVFJwZmotMFB3TFV5VkJfWHA0N1d0a25xNGloSHNod09pZ1VNOW9pbTRlcUx3eWVibFZacEhPNmhFSGMySWlkQUFrU0poMVcwakpvaWM?oc=5",
-       "source": "Idéal Investisseur"
+       "titre": "Ultra Clean Holdings (UCTT) Q3 2026 Earnings Call Transcript",
+       "url": "https://www.fool.com/earnings/call-transcripts/2026/10/28/ultra-clean-holdings-uctt-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+       "source": "The Motley Fool"
       },
       {
-       "titre": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
-       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
-       "source": "BCE"
+       "titre": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
+       "url": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
+       "source": "CNBC Résultats"
+      }
+     ]
+    },
+    {
+     "texte": "En France, les députés ont supprimé la reconduction de la surtaxe sur les bénéfices des grandes entreprises, un manque à gagner potentiel de 5 milliards d'euros en 2027. Le BHV Marais a demandé son placement en redressement judiciaire, et Washington met en garde l'UE contre des « subventions distorsives » après le prêt record de 3 milliards d'euros de la BEI à Airbus.",
+     "articles": [
+      {
+       "titre": "Budget 2027 : les députés suppriment une surtaxe sur les grandes entreprises qui devait rapporter 5 milliards d'euros en 2027",
+       "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/budget-2027-les-deputes-suppriment-une-surtaxe-sur-les-grandes-entreprises-qui-devait-rapporter-5-milliards-d-euros-en-2027_AD-202610280094.html",
+       "source": "BFM Business"
+      },
+      {
+       "titre": "Le BHV Marais demande son placement en redressement judiciaire, après des semaines de déni sur sa situation financière",
+       "url": "https://www.liberation.fr/economie/social/le-bhv-marais-demande-son-placement-en-redressement-judiciaire-apres-des-semaines-de-deni-sur-sa-situation-financiere-20261027_META34Y3Q5G4DB2ZN7ERZN5QUA/",
+       "source": "Libération Économie"
+      },
+      {
+       "titre": "Airbus a contracté un prêt record de 3 milliards d'euros en juin: le représentant américain au Commerce met en garde l'UE et ses \"subventions distorsives\"",
+       "url": "https://www.bfmtv.com/economie/entreprises/aeronautique/airbus-a-contracte-un-pret-record-de-3-milliards-d-euros-en-juin-le-representant-americain-au-commerce-met-en-garde-l-ue-et-ses-subventions-distorisives_AD-202610270090.html",
+       "source": "BFM Business"
       }
      ]
     }
    ]
   },
   "science": {
-   "titre": "Paléontologie, géophysique et santé dominent une actualité scientifique variée, des amphibiens marins du Trias à une étude sur la douleur menée sur 6 millions de personnes.",
+   "titre": "Santé, évolution et mathématiques : une IA d'OpenAI ébranle un principe de l'informatique vieux de 30 ans",
    "points": [
     {
-     "texte": "Des amphibiens prédateurs nageaient déjà en mer il y a 237 millions d'années, contredisant l'idée que leur peau perméable les excluait du milieu marin. En Chine, des chercheurs décrivent « D-rex », le plus grand champignon de son espèce connu, jusqu'à environ 50 cm de haut et plus de 2 kg, dont la lignée remonte à 65 millions d'années.",
+     "texte": "Sept types de cancers progressent fortement chez les moins de 50 ans dans plusieurs pays ; une équipe veut suivre 250 000 patients pour en comprendre les causes. Une vaste étude montre aussi que le cerveau des enfants autistes traite les visages différemment, et plus tôt qu'on ne le pensait, tandis que des chercheurs de McGill découvrent que les lymphocytes T peuvent « sentir » au toucher.",
      "articles": [
       {
-       "titre": "Predatory amphibians swam the seas 237 million years ago",
-       "url": "https://www.newscientist.com/article/2595507-predatory-amphibians-swam-the-seas-237-million-years-ago/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-       "source": "New Scientist"
+       "titre": "Forte hausse de 7 types de cancers chez les moins de 50 ans : 250 000 patients suivis pour trouver des réponses",
+       "url": "https://www.futura-sciences.com/sante/actualites/cancer-forte-hausse-7-types-cancers-chez-moins-50-ans-250-000-patients-suivis-trouver-reponses-138318/#xtor%3DRSS-8",
+       "source": "Futura"
       },
       {
-       "titre": "Chinese scientists discover “D-rex,” a giant fungus with roots stretching back 65 million years",
-       "url": "https://www.sciencedaily.com/releases/2026/10/261025073034.htm",
+       "titre": "The autistic brain processes faces differently than scientists thought",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261027063824.htm",
+       "source": "ScienceDaily"
+      },
+      {
+       "titre": "Scientists discover the immune system’s hidden sense of touch",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261026225617.htm",
        "source": "ScienceDaily"
       }
      ]
     },
     {
-     "texte": "La Terre change de forme de plus en plus vite, selon une nouvelle étude. Une éclipse solaire vieille de 2 700 ans, dont la localisation a été corrigée de huit kilomètres, livre de nouvelles informations sur la rotation de la Terre et l'activité passée du Soleil.",
+     "texte": "L'astéroïde qui a tué les dinosaures aurait favorisé l'essor des fourmis, avec l'aide de « gènes sauteurs » dans leur ADN. La forte salinité de la mer Morte, qui accélère son réchauffement et son rétrécissement, pourrait expliquer l'assèchement de la Méditerranée il y a 5,5 millions d'années.",
      "articles": [
       {
-       "titre": "La Terre change de forme, et de plus en plus vite : ce que les scientifiques viennent de découvrir",
-       "url": "https://www.futura-sciences.com/planete/actualites/terre-terre-change-forme-plus-plus-vite-ce-scientifiques-viennent-decouvrir-138835/#xtor%3DRSS-8",
-       "source": "Futura"
+       "titre": "The asteroid that killed the dinosaurs may have helped ants conquer the world",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261026225608.htm",
+       "source": "ScienceDaily"
       },
       {
-       "titre": "A 2,700-year-old solar eclipse just revealed something surprising about Earth",
-       "url": "https://www.sciencedaily.com/releases/2026/10/261025073055.htm",
-       "source": "ScienceDaily"
+       "titre": "Clues from the Dead Sea could explain ancient drying of the Mediterranean",
+       "url": "https://www.newscientist.com/article/2596000-clues-from-the-dead-sea-could-explain-ancient-drying-of-the-mediterranean/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "source": "New Scientist"
       }
      ]
     },
     {
-     "texte": "Une étude portant sur plus de 6 millions de personnes dans 118 pays révèle des différences de douleur selon l'âge et le sexe. D'autres travaux montrent que l'exercice régulier remodèle les nerfs qui contrôlent le cœur, et décrivent une dépression « circadienne » qui concernerait jusqu'à 25 % des personnes dépressives.",
+     "texte": "OpenAI aurait réfuté un principe central de l'informatique admis depuis 30 ans, un résultat qui imposerait de réécrire les manuels s'il est confirmé. Par ailleurs, les indices d'une vie émotionnelle chez les animaux, jusqu'aux abeilles, renouvellent la réflexion sur la conscience.",
      "articles": [
       {
-       "titre": "Douleur : une étude géante sur 6 millions de personnes révèle deux surprises majeures sur l'âge et le sexe",
-       "url": "https://www.futura-sciences.com/sante/actualites/douleur-douleur-etude-geante-6-millions-personnes-revele-deux-surprises-majeures-age-sexe-138735/#xtor%3DRSS-8",
-       "source": "Futura"
+       "titre": "AI refutes 30-year-old mathematical assumption in computer science",
+       "url": "https://www.newscientist.com/article/2596045-ai-refutes-30-year-old-mathematical-assumption-in-computer-science/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "source": "New Scientist"
       },
       {
-       "titre": "Exercise doesn't just strengthen your heart. It rewires it",
-       "url": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
-       "source": "ScienceDaily"
-      },
-      {
-       "titre": "Qu’est-ce que la dépression « circadienne », un nouveau type de dépression qui concernerait jusqu’à 25% des personnes dépressives ?",
-       "url": "https://www.futura-sciences.com/sante/actualites/depression-quest-ce-depression-circadienne-nouveau-type-depression-concernerait-jusqua-25-personnes-depressives-138726/#xtor%3DRSS-8",
-       "source": "Futura"
+       "titre": "The understanding that even bees have feelings is changing our view of consciousness",
+       "url": "https://www.newscientist.com/article/2593034-the-understanding-that-even-bees-have-feelings-is-changing-our-view-of-consciousness/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "source": "New Scientist"
       }
      ]
     },
     {
-     "texte": "Les éoliennes auraient tué près de 19 millions de chauves-souris aux États-Unis entre 1981 et 2024, des mesures existant pour réduire cette mortalité. Un test « oddball » montre que les macaques perçoivent moins la vue d'ensemble que les humains mais sont moins troublés par les images inversées.",
+     "texte": "Dans la vallée des Rois, de nouvelles mesures près de la tombe de Toutânkhamon révèlent une structure mystérieuse qui pourrait mener à celle de Néfertiti. À la COP17, la recherche de financements pour la nature contraste avec des dépenses 30 fois supérieures consacrées à sa destruction.",
      "articles": [
       {
-       "titre": "Wind turbines have killed 19 million bats in 40 years in the US",
-       "url": "https://www.newscientist.com/article/2595845-wind-turbines-have-killed-19-million-bats-in-40-years-in-the-us/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-       "source": "New Scientist"
+       "titre": "Toutânkhamon : un siècle après, une mystérieuse structure pourrait mener à la tombe tant recherchée de Néfertiti",
+       "url": "https://www.futura-sciences.com/sciences/actualites/nefertiti-toutankhamon-siecle-apres-mysterieuse-structure-pourrait-mener-tombe-tant-recherchee-nefertiti-138211/#xtor%3DRSS-8",
+       "source": "Futura"
       },
       {
-       "titre": "‘Oddball’ test lets us glimpse how monkeys see the world",
-       "url": "https://www.newscientist.com/article/2595841-oddball-test-lets-us-glimpse-how-monkeys-see-the-world/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-       "source": "New Scientist"
+       "titre": "À la COP17, on cherche des milliards pour sauver la nature… tout en dépensant 30 fois plus pour la détruire !",
+       "url": "https://www.futura-sciences.com/planete/actualites/biodiversite-cop17-on-cherche-milliards-sauver-nature-tout-depensant-30-fois-plus-detruire-138864/#xtor%3DRSS-8",
+       "source": "Futura"
       }
      ]
     }
    ]
   },
   "spatial": {
-   "titre": "La NASA met fin à la mission Swift après l'échec d'un sauvetage, pendant que l'Europe prépare l'après-ISS et que les lancements s'enchaînent.",
+   "titre": "La sonde Hera distingue pour la première fois les deux astéroïdes de Didymos, l'Europe renforce Galileo",
    "points": [
     {
-     "texte": "La NASA a officiellement mis fin à la mission de l'observatoire Swift, après qu'un satellite privé n'a pas réussi à rejoindre le télescope vieillissant en orbite.",
+     "texte": "La sonde de défense planétaire Hera de l'ESA a, pour la première fois, résolu séparément ses deux astéroïdes cibles, révélant la nature binaire du système Didymos. Des astronomes percent aussi les secrets d'un vestige de supernova en « collier de perles », observée il y a environ 850 ans, et de l'étoile « zombie » en son cœur.",
      "articles": [
       {
-       "titre": "NASA ends Swift space telescope mission after failed rescue attempt",
-       "url": "https://www.space.com/space-exploration/missions/nasa-ends-swift-space-telescope-mission-after-failed-rescue-attempt",
+       "titre": "First light: Hera resolves two asteroids instead of one",
+       "url": "https://www.esa.int/Space_Safety/Hera/First_light_Hera_resolves_two_asteroids_instead_of_one",
+       "source": "ESA"
+      },
+      {
+       "titre": "Astronomers discover the secrets of 'string of pearls' supernova relic and the zombie star at its heart",
+       "url": "https://www.space.com/astronomy/stars/astronomers-discover-the-secrets-of-string-of-pearls-supernova-relic-and-the-zombie-star-at-its-heart",
        "source": "Space.com"
       }
      ]
     },
     {
-     "texte": "Sans station spatiale propre et à l'approche de la fin de l'ISS, l'Europe cherche à garder son accès à l'orbite basse : l'ESA a signé un nouveau protocole avec Vast. Le satellite européen de surveillance des glaces CRISTAL, panneaux solaires intégrés, passe de l'assemblage à la phase d'essais.",
+     "texte": "L'ESA a étendu ses contrats pour construire quatre satellites Galileo de deuxième génération supplémentaires afin d'assurer la continuité de la constellation. Une start-up ukrainienne et GomSpace testent un satellite, lancé le 1er octobre, pour un futur réseau de communications sous contrôle ukrainien, et Craft Prospect lance le projet PERSEUS sur les communications optiques avec Fraunhofer CAP et Vector Photonics.",
      "articles": [
       {
-       "titre": "Après l'ISS, une nouvelle ère se dessine : voici où pourraient vivre les prochains astronautes européens",
-       "url": "https://www.futura-sciences.com/sciences/actualites/vols-habites-apres-iss-nouvelle-ere-dessine-voici-pourraient-vivre-prochains-astronautes-europeens-138314/#xtor%3DRSS-8",
-       "source": "Futura"
+       "titre": "ESA procures four new Galileo Second Generation satellites",
+       "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_procures_four_new_Galileo_Second_Generation_satellites",
+       "source": "ESA"
       },
       {
-       "titre": "Ice mission CRISTAL opens its wings",
-       "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Ice_mission_CRISTAL_opens_its_wings",
-       "source": "ESA"
+       "titre": "Ukrainian startup, GomSpace test satellite for future communications network",
+       "url": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/",
+       "source": "SpaceNews"
+      },
+      {
+       "titre": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
+       "url": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/",
+       "source": "SpaceNews"
       }
      ]
     },
     {
-     "texte": "Quatre lancements sont prévus cette semaine depuis les États-Unis et l'Inde, dont une Falcon 9 emportant 27 satellites Starlink depuis la côte Ouest ce mardi 27 octobre. Astranis a transformé son quatrième lancement en mission dédiée sur Falcon 9 en 2028 pour toute sa production de satellites Block 4.",
+     "texte": "Un Falcon 9 a décollé de la côte ouest (Space Launch Complex 4E) le mardi 27 octobre à 08h25 UTC avec 27 satellites Starlink (mission Starlink 15-16).",
      "articles": [
       {
-       "titre": "Launch Preview: Falcon 9 and GSLV rockets scheduled to launch",
-       "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102626/",
-       "source": "NASASpaceflight"
-      },
-      {
-       "titre": "West Coast Falcon 9 rocket to launch 27 Starlink satellites",
+       "titre": "West Coast Falcon 9 rocket launches 27 Starlink satellites",
        "url": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
        "source": "Spaceflight Now"
-      },
-      {
-       "titre": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
-       "url": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/",
-       "source": "SpaceNews"
       }
      ]
     },
     {
-     "texte": "Flexell Space crée une filiale française à Paris pour accompagner ses discussions de contrats et de production en série avec des clients européens. Côté observation, Perseverance livre une vue à 360° de la poussière à Neretva Vallis sur Mars, et l'iceberg antarctique A-81 a atteint la Géorgie du Sud.",
+     "texte": "Sur Mars, Curiosity se prépare à forer le site « Nazca » après la campagne de Basque Lakes. Sur Terre, l'astronaute analogue Michaela Musilova a mené des « sorties extravéhiculaires » simulées sous l'eau pour tester les protocoles de sécurité et de communication.",
      "articles": [
       {
-       "titre": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
-       "url": "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/",
-       "source": "SpaceNews"
-      },
-      {
-       "titre": "NASA’s Perseverance Views Dust at Neretva Vallis",
-       "url": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
+       "titre": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
+       "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
        "source": "NASA"
       },
       {
-       "titre": "A-81 Reaches South Georgia",
-       "url": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
-       "source": "NASA"
+       "titre": "How 'spacewalking' underwater made me feel like I was really in space",
+       "url": "https://www.space.com/space-exploration/human-spaceflight/how-spacewalking-underwater-made-me-feel-like-i-was-really-in-space",
+       "source": "Space.com"
       }
      ]
     }
    ]
   },
   "hotellerie": {
-   "titre": "Une vague de transactions marque l'hôtellerie, avec le rachat de Fletcher, première chaîne néerlandaise, par Sunday PropTech.",
+   "titre": "Best Western s'efface derrière WorldHotels, Hilton relève ses prévisions et les transactions se multiplient",
    "points": [
     {
-     "texte": "Sunday PropTech (Prism) acquiert 100 % de Fletcher Hotels, la plus grande chaîne hôtelière des Pays-Bas, et étend ainsi ses ambitions européennes.",
+     "texte": "BWH Hotels réunit ses plus de 4 000 hôtels et 18 marques sous la bannière WorldHotels à partir du 5 janvier 2027, avec un programme de fidélité unifié de 70 millions de membres et une nouvelle plateforme numérique. Après 80 ans, le nom Best Western s'efface pour monter en gamme et séduire une clientèle plus jeune.",
      "articles": [
       {
-       "titre": "News | Sunday PropTech acquires 100% of Fletcher, The Netherlands’ largest hotel firm",
-       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNjNVSlNDRExvSzloMzZuMXVKTlJIVEhDMWFPT1Zyd09uNWIycnN2LVcydFdFbVoxekNMYm5RSFlQaTNsanRCbVk2V2toM2lHaVMycHF1TEREem5kOEU2di1MVWdZQVlabzlIR1pIY29hcFlSODZjeTRYa0k4d2g4VjV3WF9JckdHa2NaZ2N6Q2ZqbUxuQ2xiRGtnazlKVGRJU01yWS0xUXEybFZfZ3E1RERPYm5JaE0?oc=5",
-       "source": "CoStar"
-      },
-      {
-       "titre": "HN Original: Prism Expands European Hotel Ambitions with Acquisition of Dutch Fletcher Hotels",
-       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSjgzYWdZbUg4czJIc1ZlQ0xlQXhzMTVTNkJKRmlRSklTZl9FUy1icGsxQWF4STNfMDBDSGluME1wWjdmTW9NMlBaRVRPeU9UWmgtZ0p3YlBJQ0lyclZZTWZxQXhXeVZjeG5qOGNja3lablNINkZrZTZmT2Ffd0piblEtOVA3ZXJiSzF0a1Y1akoySExWWG1pcUxIb2hSdEdSd0tnU0UzR2l3RjFDb0VIUWxYMWFoclNDZHRGbzB6R0dPdy1GVnc?oc=5",
+       "titre": "BWH® Hotels Unveils Enterprise Transformation, Uniting Global Portfolio Under WorldHotels™",
+       "url": "https://www.hospitalitynet.org/news/4135140/bwh-hotels-unveils-enterprise-transformation-uniting-global-portfolio-under-worldhotels",
        "source": "Hospitality Net"
       },
       {
-       "titre": "Sunday PropTech buys Fletcher Hotels, the Netherlands' largest chain",
-       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR2xpVTZkeDNacjdydzBDZWZlM3h6UW1lNHdCczE2c1ZVbE1OLXFyS1JnZlB1WV9MNU5wT2NTd01hbXhPbjhvalJ1aXE4QTlsRUJFY3kyeER2Z2R0cnFaX21xRG1DMVg4bFg4c2FfNmNHMnhfWjdHMFZ3ajdocGhtakF2LXd1dUFUZEl0aWJuYXhJdDlHeUg3Q3RfTmN0REJqLVE?oc=5",
-       "source": "Dealroom"
+       "titre": "BWH Hotels rebrands to WorldHotels in ‘comprehensive transformation’",
+       "url": "https://www.hoteldive.com/news/bwh-hotels-rebrands-to-worldhotels/872908/",
+       "source": "Hotel Dive"
+      },
+      {
+       "titre": "[Exclusif] Après 80 ans, Best Western s'efface derrière WorldHotels pour conquérir une nouvelle clientèle",
+       "url": "https://hospitality-on.com/fr/distribution/exclusif-apres-80-ans-best-western-sefface-derriere-worldhotels-pour-conquerir-une",
+       "source": "Hospitality ON"
       }
      ]
     },
     {
-     "texte": "Autres opérations : le propriétaire de l'hôtel du Cap-Eden-Roc rachète un domaine de 9 hectares au cap d'Antibes pour 155 millions d'euros, PERIAL acquiert Le Rosamundi à Saint-Ouen et monte son premier club deal hôtelier, Heartwood Collection reprend The Angel Hotel à Leamington Spa et The Cliff Hotel s'agrandit en rachetant la propriété voisine Idle Awhile.",
+     "texte": "Hilton relève sa prévision de RevPAR annuel après un troisième trimestre « solide » (RevPAR +5,8 % sur un an à l'échelle du réseau). Le groupe se présente comme une plateforme technologique, avec un nouveau directeur technique, un transfert vers le Nasdaq et des agents IA.",
      "articles": [
       {
-       "titre": "Une transaction à 155 millions d’euros : le propriétaire de l’hôtel du Cap-Eden-Roc rachète un immense domaine de 9 hectares au cap d’Antibes",
-       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNTVBNNy1oX1EyMlVTZndIWTdGbkNlaU4ySWdsRFNIRUM4eTdvT3NfcDM2RE4tQUw3d1RIMVd2Z3ZJaWljVS1hX3IteVlEcUNZem1FVnoyZkM3TGhNZGRkV1Y1RlVONDFMY1NxMWNwUzNIOHlLM1NYYm1QeG5NX2lRSWNOUkpRZUo5SUxnM2pPcER4c2FTODVnaEhlUXM4LXpqU1JMSWNTcEoyZkdDYmJLMHhYZ2FkRk9qOUVZVlc2N0Q0VXpuVURDT2tNUTdHb242a1hwZU0tcHBuNnNSWDNZelV5ZUhpREp1U0hQb2t4YjcwYU5rX1JnNDREZHNGbGJ5RTFjMEdxNklQWkVfemtSQUt6SG82M1oyRm9BZzNR?oc=5",
-       "source": "Nice-Matin"
+       "titre": "Hilton raises full-year RevPAR outlook after ‘strong’ Q3 results",
+       "url": "https://www.hoteldive.com/news/hilton-raises-full-year-revpar-outlook-after-strong-q3/872934/",
+       "source": "Hotel Dive"
       },
       {
-       "titre": "Investissement, Grand Paris | PERIAL acquiert Le Rosamundi à Saint-Ouen et structure son premier club deal hôtelier",
-       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNkhLY3h1blB0WEZzOG5weHNPdVR6SHVVdWdrZE5YMXYxSkZEY2t1ZWk3VDg4d0ZuT3B4UUVqWE5QcHEyS1AzM0tHdWVqVGlwQ3lDNVhkOTFZWm4xeTYtYW4xb25XT0dyajNBMmpqV2ZsUFFWNTNVd2lQNzlfbVRFWF9oTnJVSzNZb1E?oc=5",
+       "titre": "A New CTO, a Nasdaq Move and AI Agents: Hilton Makes Its Tech Pitch",
+       "url": "https://skift.com/2026/10/27/a-new-cto-a-nasdaq-move-and-ai-agents-hilton-makes-its-tech-pitch/",
+       "source": "Skift"
+      }
+     ]
+    },
+    {
+     "texte": "Transactions : Lieux d'Émotions reprend le Royal Rochebrune à Megève (63 chambres) ; le 1852 Hotel et le Town Square bar de Belfast, affichés à 3 millions de livres, ont été vendus par le Ringland Group ; le promoteur d'Ovation rachète l'hôtel Marriott Delta voisin, et The Cliff Hotel acquiert la propriété Idle Awhile.",
+     "articles": [
+      {
+       "titre": "Transaction, Megève | Lieux d'Émotions reprend le Royal Rochebrune, ensemble immobilier hôtelier de 63 chambres »",
+       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY2tMeWZiME5rbnl4bG9jZHFrNE8yVjI3TmFoZDZaci01eU9ZdUluT0ZzNEs2NUVuaGVRVUJYa0lXR3RyRDdWUDZCZERmY280eVhFdHR1UTFraVZnajBjcERxLTBNUVZiTXBfOXZLVDc0NzhrLWRuaDNzbXcyeUZSLU5yNzVQZFBqNkE?oc=5",
        "source": "La Tribune de l'Hôtellerie"
       },
       {
-       "titre": "Heartwood Collection Acquires The Angel Hotel, Leamington Spa",
-       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcFQ2d3lRdWRMaW9DRlptTGcyZXdDTFdoVEE0QS1iN1NxYnpMWEhZRVlCN1lCMlZrQTJTTDRSNFlxZ01vMEJSekJvSzdMTTlHbXBsUUxOSE5kY1NJWlA0YzhLZHJWemdDVWswblBNNHhqVXNhVXY4Y1E3Qlh6UnBlb2MtSU14VnF0bGl5UWxoS2U3Sjg?oc=5",
-       "source": "CLH News"
+       "titre": "‘We’ve built something very special’: Well-known Belfast bar and hotel with £3m price tag is sold",
+       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVmhYcmN3UUZ0RWE4RGNBTW1EaFZDejByazBSdWtQWGlxaU9TMlNsMWhuN2tySkc1MWZkT2tJMThjNHVMZnFyVUhjT0lwZEYxMW41dW5JQjN6SXhHekFDcmk4N3VzWWtkaEdXSWRtTURBWXg0T1VuY1EyWmJHeXFXQmxiQ1l4bmVRRVk2QjJldHVmSnJNZkdYTThVNmxxcWtxdDBvdU9wZ1JQOWFpR1BEdUtZdkJsSFNuZG5lOHFoelVXSDVhcTl5WXp4REx0ZUVRdnVTX1hZYXNYMmtzZExaM0t6QkZlVVM0?oc=5",
+       "source": "Belfast Telegraph"
+      },
+      {
+       "titre": "Ovation developer buys neighboring Marriott Delta Hotel",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaGw2cE51N3FZOS1RX1c0TWJ2dEVMNTlyeU5JcjI2U1hma3QxbnZzVFVBdko4NU1HZVZjSWJaY0FPNm8yaU82MGpjeHpjbTAtNXB0WEtUQlI4ZHFOZkJhSWZlMDFNeW9JWi1COTdpYUJMVHBNdnI1RGNodkQ1VHRNZDVxZHo4NUwzWTM4V1EwSVFOc3lUM1BkQnpCV2lYQQ?oc=5",
+       "source": "GrowthSpotter"
       },
       {
        "titre": "The Cliff Hotel acquires neighboring Idle Awhile property in expansion",
@@ -306,52 +316,37 @@
      ]
     },
     {
-     "texte": "En Espagne, les hôtels ont enregistré plus de 40,1 millions de nuitées en septembre 2026 (+1,7 %), tandis que le prix moyen par chambre occupée a progressé de 7,4 %, malgré le recul de la clientèle domestique. Accor publie un livre blanc sur l'évolution de la carte du tourisme européen à l'horizon 2036.",
+     "texte": "L'investissement hôtelier en Espagne atteint 3,3 milliards d'euros de janvier à septembre 2026 (+8,1 %, selon Colliers), Madrid attirant près d'un quart des montants. Aux États-Unis, l'extended stay représente 40 % du pipeline de construction et le luxe atteint des records (Lodging Econometrics) ; en Arabie saoudite, les promoteurs continuent de construire malgré la réduction des budgets des giga-projets.",
      "articles": [
       {
-       "titre": "Espagne : les prix hôteliers en forte hausse malgré le recul de la clientèle domestique",
-       "url": "https://hospitality-on.com/fr/hotellerie/espagne-les-prix-hoteliers-en-forte-hausse-malgre-le-recul-de-la-clientele-domestique",
+       "titre": "Espagne : 3,3 milliards d’euros investis dans l’hôtellerie, porté par les acheteurs locaux",
+       "url": "https://hospitality-on.com/fr/hotellerie/espagne-33-milliards-deuros-investis-dans-lhotellerie-porte-par-les-acheteurs-locaux",
        "source": "Hospitality ON"
       },
       {
-       "titre": "A travers son livre blanc, Accor redessine la carte du tourisme européen à l'horizon 2036",
-       "url": "https://hospitality-on.com/fr/loisirs/travers-son-livre-blanc-accor-redessine-la-carte-du-tourisme-europeen-lhorizon-2036",
-       "source": "Hospitality ON"
+       "titre": "Extended stay, upper-tier segments drove hotel construction in Q3",
+       "url": "https://www.hoteldive.com/news/hotel-construction-pipeline-q3-2026/872849/",
+       "source": "Hotel Dive"
+      },
+      {
+       "titre": "Saudi Giga Project Spending Shrinks. Hotel Developers Keep Building",
+       "url": "https://skift.com/2026/10/28/saudi-giga-project-spending-shrinks-hotel-developers-keep-building/",
+       "source": "Skift"
       }
      ]
     },
     {
-     "texte": "Chez Accor, le train de luxe La Dolce Vita du groupe Arsenale, commercialisé par Orient Express, a lancé son premier voyage international de Rome vers Istanbul. Marriott déploie avec LG une plateforme TV cloud dans ses chambres, et Travel + Leisure Co. ouvre son premier « Outpost » Eddie Bauer Adventure Club près d'Austin.",
+     "texte": "Distribution : Airbnb va imposer des numéros de téléphone temporaires aux grands hôtes et aux voyageurs, ce qui complique la conversion des clients en réservations directes. Sofitel Legend noue un partenariat mondial avec l'UNESCO, déployé d'abord au Metropole Hanoi.",
      "articles": [
       {
-       "titre": "La Dolce Vita du groupe Arsenale, commercialisée par Orient Express, s'élance de Rome vers Istanbul",
-       "url": "https://hospitality-on.com/fr/developpement/la-dolce-vita-du-groupe-arsenale-commercialisee-par-orient-express-selance-de-rome",
+       "titre": "Airbnb to Require Temporary Phone Numbers for Large Hosts and Guests",
+       "url": "https://skift.com/2026/10/27/airbnb-to-require-temporary-phone-numbers-for-large-hosts-and-guests/",
+       "source": "Skift"
+      },
+      {
+       "titre": "Sofitel Legend s’allie à l’UNESCO et fait de Hanoï sa vitrine",
+       "url": "https://hospitality-on.com/fr/culture/sofitel-legend-sallie-lunesco-et-fait-de-hanoi-sa-vitrine",
        "source": "Hospitality ON"
-      },
-      {
-       "titre": "Hotel Tech-in: Marriott’s guest room TV goes beyond entertainment",
-       "url": "https://www.hoteldive.com/news/marriott-entertainment-technology-platform-tv/850052/",
-       "source": "Hotel Dive"
-      },
-      {
-       "titre": "Travel + Leisure Co. expands Eddie Bauer Adventure Club to Texas Hill Country",
-       "url": "https://www.hoteldive.com/news/travel-leisure-co-expands-eddie-bauer-adventure-club-to-texas/856903/",
-       "source": "Hotel Dive"
-      }
-     ]
-    },
-    {
-     "texte": "Dans la distribution et le voyage, MakeMyTrip profite d'un ralentissement de l'aérien en Inde pour se diversifier au-delà des vols et des hôtels, et l'action JetBlue rebondit après la confirmation de ses objectifs de bénéfice pour 2027.",
-     "articles": [
-      {
-       "titre": "MakeMyTrip Uses an Air Travel Dip to Reach Beyond Flights",
-       "url": "https://skift.com/2026/10/26/makemytrip-uses-an-air-travel-dip-to-reach-beyond-flights/",
-       "source": "Skift"
-      },
-      {
-       "titre": "Beaten-Down JetBlue Shares Rebound as Carrier Says 2027 Profit Is on Track",
-       "url": "https://skift.com/2026/10/26/beaten-down-jetblue-shares-rebound-as-carrier-says-2027-profit-is-on-track/",
-       "source": "Skift"
       }
      ]
     }
