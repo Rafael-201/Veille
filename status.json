@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T05:44:52Z",
+ "generated_at": "2026-10-28T06:19:06Z",
  "sources": [
   {
    "name": "CNBC",
@@ -39,7 +39,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 35
+   "archived": 36
   },
   {
    "name": "BFM Business",
@@ -279,7 +279,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 15
+   "archived": 16
   },
   {
    "name": "Transactions · Europe (FR)",
@@ -319,7 +319,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 13
+   "archived": 12
   },
   {
    "name": "Transactions · Afrique (FR)",
@@ -359,7 +359,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 28
+   "archived": 29
   },
   {
    "name": "Marchés · Europe (FR)",
