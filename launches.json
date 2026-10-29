@@ -1,28 +1,6 @@
 {
- "generated_at": "2026-10-28T06:19:06Z",
+ "generated_at": "2026-10-29T05:50:59Z",
  "launches": [
-  {
-   "name": "Falcon 9 Block 5 | Starlink Group 15-16",
-   "net": "2026-10-27T07:25:51Z",
-   "status": "Success",
-   "status_label": "Launch Successful",
-   "provider": "SpaceX",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "mission_type": "Communications",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png"
-  },
-  {
-   "name": "Falcon 9 Block 5 | Starlink Group 15-18",
-   "net": "2026-10-30T04:02:00Z",
-   "status": "Go",
-   "status_label": "Go for Launch",
-   "provider": "SpaceX",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "mission_type": "Communications",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png"
-  },
   {
    "name": "GSLV Mk II | IRNSS-1L (NVS-03)",
    "net": "2026-10-30T18:21:00Z",
@@ -35,8 +13,41 @@
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk252_image_20240101090337.jpg"
   },
   {
+   "name": "Falcon 9 Block 5 | Starlink Group 15-18",
+   "net": "2026-10-31T03:48:00Z",
+   "status": "Go",
+   "status_label": "Go for Launch",
+   "provider": "SpaceX",
+   "pad": "Space Launch Complex 4E",
+   "location": "Vandenberg SFB, CA, USA",
+   "mission_type": "Communications",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png"
+  },
+  {
+   "name": "Electron | The Sea God Surveys (iQPS Launch 9)",
+   "net": "2026-11-02T08:45:00Z",
+   "status": "TBC",
+   "status_label": "To Be Confirmed",
+   "provider": "Rocket Lab",
+   "pad": "Unknown Pad",
+   "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+   "mission_type": "Earth Science",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
+  },
+  {
+   "name": "Kinetica 2 | SpaceSail Polar Group TBD?",
+   "net": "2026-11-03T00:10:00Z",
+   "status": "Go",
+   "status_label": "Go for Launch",
+   "provider": "CAS Space",
+   "pad": "Launch Area 140",
+   "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+   "mission_type": "Communications",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kinetica_2_firs_image_20260330153456.jpg"
+  },
+  {
    "name": "Falcon 9 Block 5 | USSF-432",
-   "net": "2026-11-02T01:56:00Z",
+   "net": "2026-11-03T01:42:00Z",
    "status": "Go",
    "status_label": "Go for Launch",
    "provider": "SpaceX",
@@ -46,26 +57,26 @@
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg"
   },
   {
-   "name": "Electron | The Sea God Surveys (iQPS Launch 9)",
-   "net": "2026-11-03T00:00:00Z",
-   "status": "TBD",
-   "status_label": "To Be Determined",
-   "provider": "Rocket Lab",
-   "pad": "Unknown Pad",
-   "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-   "mission_type": "Earth Science",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
+   "name": "Mir | Demo Flight",
+   "net": "2026-11-04T05:00:00Z",
+   "status": "TBC",
+   "status_label": "To Be Confirmed",
+   "provider": "Agency for Defense Development",
+   "pad": "ADD Offshore launch platform",
+   "location": "Sea Launch",
+   "mission_type": "Test Flight",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/south2520korea_image_20231204145331.png"
   },
   {
-   "name": "Falcon 9 Block 5 | Starlink Group 15-21",
-   "net": "2026-11-05T02:35:00Z",
-   "status": "Go",
-   "status_label": "Go for Launch",
-   "provider": "SpaceX",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "mission_type": "Communications",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png"
+   "name": "Ceres-2 | Unknown Payload",
+   "net": "2026-11-04T21:00:00Z",
+   "status": "TBC",
+   "status_label": "To Be Confirmed",
+   "provider": "Galactic Energy",
+   "pad": "Launch Area 95A",
+   "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+   "mission_type": "Unknown",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-2_illustr_image_20251210054657.png"
   },
   {
    "name": "Long March 12 | SatNet LEO Group TBD?",
@@ -77,17 +88,6 @@
    "location": "Wenchang Space Launch Site, People's Republic of China",
    "mission_type": "Communications",
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_20241128132937.jpg"
-  },
-  {
-   "name": "Electron | The Mountain God Rises (iQPS Launch 10)",
-   "net": "2026-11-10T00:00:00Z",
-   "status": "TBD",
-   "status_label": "To Be Determined",
-   "provider": "Rocket Lab",
-   "pad": "Unknown Pad",
-   "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-   "mission_type": "Earth Science",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
   }
  ]
 }
