@@ -1,37 +1,12 @@
 {
- "generated_at": "2026-10-30T06:20:49Z",
+ "generated_at": "2026-10-31T06:16:52Z",
  "auteur": "Claude",
  "rubriques": {
   "finance": {
-   "titre": "Les résultats des géants de la tech secouent Wall Street et l'Asie, tandis que la BCE et la BoJ restent au centre de la macroéconomie",
+   "titre": "La chute des valeurs technologiques américaines, minées par les craintes sur les dépenses en IA, se propage aux marchés asiatiques.",
    "points": [
     {
-     "texte": "Saison de résultats contrastée pour la tech américaine : Microsoft gagne 4 % grâce à une croissance de 48 % d'Azure, mais Intel chute de 21 % après des prévisions décevantes liées au ralentissement des PC. Alphabet déçoit malgré un doublement de ses revenus cloud, et Amazon recule après des résultats AWS modestes et une publicité en faible croissance.",
-     "articles": [
-      {
-       "titre": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
-       "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-       "source": "CNBC Résultats"
-      },
-      {
-       "titre": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
-       "url": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
-       "source": "CNBC Résultats"
-      },
-      {
-       "titre": "Why Alphabet’s stock could see its worst drop in years after the latest results",
-       "url": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
-       "source": "MarketWatch"
-      },
-      {
-       "titre": "Amazon’s stock drops — even in the face of a bold new cloud forecast",
-       "url": "https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories",
-       "source": "MarketWatch"
-      }
-     ]
-    },
-    {
-     "texte": "Les craintes autour des dépenses en IA font reculer les valeurs technologiques américaines, et la contagion touche l'Asie : les Bourses asiatiques baissent, la ruée vers les valeurs refuges soutient les obligations et le Kospi est de nouveau durement touché.",
+     "texte": "Les valeurs technologiques américaines ont reculé sur fond d'inquiétudes liées aux dépenses en intelligence artificielle ; la forte baisse de vendredi du Nasdaq ravive les comparaisons avec la bulle de 2000. Reddit a chuté de 29 %, sa pire séance, après des prévisions de ventes décevantes pour le quatrième trimestre, et S&P a abaissé la perspective de Meta à négative en raison de ses investissements massifs et de son flux de trésorerie.",
      "articles": [
       {
        "titre": "U.S. Tech Stocks Drop on AI Spending Concerns",
@@ -39,163 +14,163 @@
        "source": "WSJ"
       },
       {
-       "titre": "Asia Stocks Under Pressure, Haven Bid Boosts Bonds: Markets Wrap",
-       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWZRMVRrOG1xQ1NBUE55MXNIWTFyTFBfUDBwVnUwbDRHOHNibGNUazhpRVVJamItaGc5UndhUngwMTFOLUE1M3dscmdtSDBvWUJrNmoyWnFGZ2tBcm9VZjZ5MXcyQXFuSDZmWmE4WVlheXZBeTVTci1CXzFQMUxnMkpFRXBVTjh0SlI0N0hobUZzOHh3?oc=5",
-       "source": "Bloomberg.com"
+       "titre": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
+       "url": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
+       "source": "MarketWatch"
       },
       {
-       "titre": "Asian shares fall as Alphabet earnings miss drags Wall St futures lower",
-       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVFZISFg4c29oenZfNnluMm1ycWNNMlJZUFpTRFJNVVdXX1B0T1o2d1ZQZjlMS0NwNFV3ZnNRcEEycDVSeU5SRHlwZDBLMHBGQUNnOEpqNnMxZGMzam55QW1OSlR6NGFKM1Q3d0J2dEt0SkRacmRGQ0gyMl9IMHBkeEV0b082OWJlNkUtSDF0dGUyQWI0OHozLTVObw?oc=5",
-       "source": "Bilyonaryo Business"
+       "titre": "Reddit stock plunges 29% after weak outlook, wrapping its worst day ever",
+       "url": "https://www.cnbc.com/2026/10/30/reddit-stock-q3-earnings.html",
+       "source": "CNBC Résultats"
       },
       {
-       "titre": "Morning News Briefing: Wall Street Tech Sell-Off Hits Kospi Hard Again (October 30, 2026)",
-       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tMU83eG53djdkbDFkRjhuMnp4dlBNa0VtU29tbU9uX0xoRVFWcXJ1ajhFUW03VENHMHpScjBVVkU1Ry11dTJCek1mR1BpY01TZnBVenVuWEc1Q3I2SzJCZ3BlWkxaQzl5WmxmYTV30gFmQVVfeXFMT2JSejVNRDVQU054NlBrTUFXbDBUYWRzc01rclBtak1QNVJrN2N2d0FjTHlHNmw5ZGhvYnloSml3OTgtNzh4b0lTT29rXzZ6TGlkWlRERFZXTE9iUmNyV3lYYmVJZ2Jn?oc=5",
-       "source": "SBS 뉴스"
+       "titre": "Meta outlook revised downward by S&P on cash flow and capex concerns",
+       "url": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
+       "source": "CNBC"
       }
      ]
     },
     {
-     "texte": "Banques centrales : la BCE de Christine Lagarde a publié ses décisions de politique monétaire, et la Banque du Japon maintient ses taux en déclarant pour la première fois depuis 2013 que son objectif d'inflation sous-jacente de 2 % est atteint. Au Royaume-Uni, le chancelier John Healey défend son premier budget en prévenant de « décisions difficiles ».",
+     "texte": "La vente des valeurs technologiques a pesé sur l'Asie : le Kospi a perdu 4,4 %, entraîné par Samsung et SK Hynix. Les bourses du Golfe reculent sur les craintes liées au Yémen et à l'Iran, et le Bovespa brésilien a cédé 1,06 %.",
      "articles": [
       {
-       "titre": "Monetary policy decisions",
-       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
-       "source": "BCE"
+       "titre": "Asian stocks mostly lower, Kospi down 4.4%",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQUZIM0dRQnFtU3ZFdmJDRzJhdGpIQ212bDNOMlczRDBETnVBMDNab2thZ3BCVkhwVnZtMkNKYWFxLTk0SE9SeTFMcXF5TmhLeDI4NFhyS0EwWHpXR0RlUEo1NjBFWmJ2QVBUOVZUN2VqTVJSVERfTmdQcDVlMF9CTHgxUzdsOVJhem83UXhB?oc=5",
+       "source": "Breakingthenews.net"
       },
       {
-       "titre": "BOJ holds rates as underlying inflation aligns with 2% target for first time since 2013",
-       "url": "https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html",
-       "source": "CNBC"
+       "titre": "Korean stocks tumble as US tech selloff hammers Samsung, SK Hynix",
+       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXeFVKRE43QUh4YTQxaE84MXhYT0FKa0VZTTlDR2JscVI4Vy0yUjlGY0dHTVRmWG40YTNfdmpVMVUzby11NzJyemZUSl9kMG1EbWdldVhNSF9JZlMzTGRRNTdfdmw5Z1pCdXg5ZVh6ek05ZjczeERTcUFB?oc=5",
+       "source": "KED Global"
       },
       {
-       "titre": "Healey Defends UK Budget, Warns 'Tough Decisions' Ahead",
-       "url": "https://www.bloomberg.com/news/videos/2026-10-29/healey-defends-uk-budget-warns-hard-decisions-ahead",
+       "titre": "Gulf bourses retreat on Yemen, Iran war worries",
+       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0ydEp1NUlPUmNGUHlnT0l2cUV4RHZnUTVXbG1CbEF0bEdpazJTcVdZLThUWW5KbGxZbzdFQ3d6SlIxcEhKSlIzREhPV0FNNkpU0gFWQVVfeXFMT0liMzFDQlhLT2M1d09QQWZQdHhwelZEaXRTZnNtM29qQlRLTGZ6VUFSSVhGT09VQjVKclhSVGtTd0J5OFJoRjU1Yll2RUlqcU4teXdSTUE?oc=5",
+       "source": "Business Recorder"
+      },
+      {
+       "titre": "Brazil stocks lower at close of trade; Bovespa down 1.06%",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVWdjenQ3YlZaUm9JVndYVi1pVGdRY0lteXItRmx4NmEwaUttMXJhaEtSU1N3OFJzMVJMbWgtZWpxZGRXZ3pLOVAxLVJKa05kaUZrMmllUXZKb2xsVC14WUtON2NPbXZGUmV2YVJpQ244a1NoMGV5a2x5dE1tNEh5bEljcVgzc1hORjZRTjJXYUJIQkxCQUVSSXhMcjhoNnY4Z1hoOEJaUWExcmRsOWZBTg?oc=5",
+       "source": "Investing.com"
+      }
+     ]
+    },
+    {
+     "texte": "La Banque du Japon laisse son taux directeur à 1,25 %, au plus haut depuis 31 ans, juge sa cible d'inflation fixée en 2013 atteinte et accélère la vente de ses ETF, une décision bien accueillie par la Bourse de Tokyo. À Hong Kong, le secrétaire aux Finances Paul Chan estime que la croissance 2026 pourrait être la plus forte en cinq ans.",
+     "articles": [
+      {
+       "titre": "L'objectif avait été fixé en 2013: la Banque du Japon annonce que sa cible d'inflation est atteinte",
+       "url": "https://www.bfmtv.com/economie/international/l-objectif-avait-ete-fixe-en-2013-la-banque-du-japon-annonce-que-sa-cible-d-inflation-est-atteinte_AD-202610300158.html",
+       "source": "BFM Business"
+      },
+      {
+       "titre": "Japanese Stocks Signal Confidence Over Faster BOJ ETF Sales",
+       "url": "https://www.bloomberg.com/news/articles/2026-10-30/japanese-stocks-signal-confidence-over-faster-boj-etf-sales",
+       "source": "Bloomberg Markets"
+      },
+      {
+       "titre": "BOJ’s Faster ETF Sales May Help Takaichi’s Spending Plan",
+       "url": "https://www.bloomberg.com/news/articles/2026-10-31/boj-faster-etf-sales-may-help-takaichi-spending-plan-non-tax-revenue",
+       "source": "Bloomberg Markets"
+      },
+      {
+       "titre": "HK’s Chan Says 2026 Growth May Be Strongest in Five Years: RTHK",
+       "url": "https://www.bloomberg.com/news/articles/2026-10-31/hk-s-chan-says-2026-growth-may-be-strongest-in-five-years-rthk",
        "source": "Bloomberg Markets"
       }
      ]
     },
     {
-     "texte": "En Europe, la Bourse de Paris termine en hausse portée par les résultats d'entreprises, avec Renault en tête du CAC 40, Stellantis en hausse de 15 % et TotalEnergies profitant de la flambée de l'énergie. Amundi bat un record avec plus de 100 milliards d'euros de collecte nette en neuf mois, dont 45,6 milliards au troisième trimestre.",
+     "texte": "Fitch maintient la note A+ de la France mais abaisse sa perspective de stable à négative, citant la détérioration budgétaire et la hausse des taux d'emprunt. Crédit Agricole tient le cap au troisième trimestre grâce à la banque d'investissement, l'épargne et la gestion d'actifs, malgré le recul du crédit immobilier.",
      "articles": [
       {
-       "titre": "La Bourse de Paris termine en hausse, portée par les résultats d'entreprises",
-       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVzd1QmRqR2tQZjdrT01EZi16ei12ajNZaVJDdzlPd1htWDE1WmZ6cFJ2UzUxVlVpSDJncnFRbnlDU1BYa2dJaVZFSzd1MHk0Z1VEQ1NCbXBHY00zZ2tqWWo4MXZxN3RER1hVRWJ6YmhIOWl2WmhnSjJ1RVZhQ3JDNmNQc0JMRkh6OTFfV3l0WENSTVdPeUl1T1NGdUxJYzFvaTlvREdyUzdRWjBqaEVVMDI2cVg2c2FLNDZqSWVqamw1d1BULXRYcndncmlDaEdmS1pPdw?oc=5",
-       "source": "France 24"
+       "titre": "L'agence de notation Fitch maintient la note A+ de la France mais abaisse sa perspective de stable à négative",
+       "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/l-agence-de-notation-fitch-maintient-la-note-a-de-la-france-mais-abaisse-sa-perspective-de-stable-a-negative_AD-202610300942.html",
+       "source": "BFM Business"
       },
       {
-       "titre": "Renault en tête du CAC 40, TotalEnergies profite de la flambée des prix de l'énergie... Les infos bourse du 29 octobre 2026",
-       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMDNxZ054Ym5XVGstR2hVd3R1bWJnUW0tNUREZFBVMFZ6Tl8wX0lnTnpWdW1MTGs0TTZYcHd5eWVLcTkzUGVFYWluOTI1MzBVSEc1cC01SkszSUZoemNKVFNXM3QyR1BMWWhKc1JCS2czVV9tbzl3MW9hNkJ6TGRsc3NHM3ZSSDl4SWF6eFRXOUJGcWV6OVZfZEtVYUVwelJMVzdNUU9GODFsTm9yRWxYN09SRWZKNkM3U25qd0t5dnpIdENIeTBOdkpiTjJXTHdZbzE0c1J6eDdMOS13anVPM0tkSU1rb3pFTF9KLTFJMUlnUUVFc3hEN2RR?oc=5",
-       "source": "MoneyVox"
-      },
-      {
-       "titre": "Après le +15% de Stellantis, ces autres actions du CAC 40 pourraient aussi s’envoler",
-       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQa3VmdXF5cUJmNUw4NDBmVU5TblRRY3E4N1JKMVhPS3JtbTljUjRQYnRZU0hGSlV3bURnZ1d0QkI5RWFBNFNRUFZpME5oaWRLcDlYbGRRdnluSmpHN2h4THllM1IxZ1Z4UEJkN1hQb2locGtkVlQwMndFcnRYOHNpVXJKWXlXMTBRTFEwV1lqQndsWFU0dzg4S2RGVl9haV9UbEE1amNtVlY0ZGtkS2J1eHhBSGdaSGgyYnJ3OTVGUzRsdXZsQmNhNml6SklDd1BkNWc?oc=5",
-       "source": "Investing.com France"
-      },
-      {
-       "titre": "Amundi accélère sa collecte et franchit les 100 milliards d'euros en neuf mois",
-       "url": "https://www.lesechos.fr/finance-marches/gestion-actifs/amundi-accelere-sa-collecte-et-franchit-les-100-milliards-deuros-en-neuf-mois-2259730",
+       "titre": "Crédit Agricole tire son épingle du jeu au troisième trimestre malgré les vents contraires",
+       "url": "https://www.lesechos.fr/finance-marches/banque-assurances/credit-agricole-tire-son-epingle-du-jeu-au-troisieme-trimestre-malgre-les-vents-contraires-2260024",
        "source": "Les Echos"
       }
      ]
     },
     {
-     "texte": "Grandes opérations et chocs de marché : Binance estime à 6,3 milliards de dollars l'impact du plus gros piratage crypto de l'histoire et promet de couvrir les pertes ; Lumentum s'envole sur la perspective d'un rachat par Marvell ; Jio Platforms devient la deuxième entreprise la plus valorisée d'Inde après son introduction en Bourse ; General Motors passera au Nasdaq le 17 novembre.",
+     "texte": "Énergie et crypto : Chevron et Exxon atteignent des records historiques, portés par l'envolée des marges de raffinage après des frappes sur des raffineries en Russie et au Moyen-Orient. Binance, première plateforme crypto mondiale, a subi un piratage estimé à 6,3 milliards de dollars, attribué à un groupe nord-coréen, et promet de couvrir les pertes.",
      "articles": [
       {
-       "titre": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
-       "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-       "source": "CNBC"
+       "titre": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
+       "url": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
+       "source": "CNBC Résultats"
       },
       {
-       "titre": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
-       "url": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
-       "source": "MarketWatch"
+       "titre": "Cryptomonnaies : Binance victime d’une cyberattaque estimée à 6,3 milliards de dollars, elle promet de couvrir les pertes",
+       "url": "https://www.liberation.fr/economie/economie-numerique/la-plateforme-de-cryptomonnaies-binance-victime-dune-cyberattaque-estimee-a-63-milliards-de-dollars-20261030_WUZFAQCH4BFMZJ7MAMHHM7F2AA/",
+       "source": "Libération Économie"
       },
       {
-       "titre": "Billionaire Ambani cries tears of joy as Jio Platforms becomes the second most valued Indian firm",
-       "url": "https://www.cnbc.com/2026/10/29/ambani-billionaire-jio-ipo-india.html",
-       "source": "CNBC"
-      },
-      {
-       "titre": "General Motors Bids Farewell to 115-Year-Old Home, Moves to Nasdaq on Nov. 17 to Chase Tech-Stock Glow",
-       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1US2g0RU9MczY2NDduXy10Znh1bkRtSWwwNzRDdTR2aGdIMVB2UzBkX25FZXFSd3dNTm1UcnAzOXIwVFMtSkFNNmpSUzVzWmFMWTRxS190VGxNLXlCX1A5cmV1QTNNY0loMUJtMDJibEh5eVFpZFE?oc=5",
-       "source": "BigGo Finance"
+       "titre": "Estimated $6.3 Billion Hacked in Binance Security Breach",
+       "url": "https://www.bloomberg.com/news/videos/2026-10-30/estimated-6-3-billion-hacked-in-binance-security-breach-video",
+       "source": "Bloomberg Markets"
       }
      ]
     }
    ]
   },
   "science": {
-   "titre": "Santé du cerveau, exoplanètes et paléontologie se partagent l'actualité scientifique",
+   "titre": "Astronomie et origines de la vie dominent, entre brouillard primordial de l'Univers et crâne d'Homo sapiens vieux de 315 000 ans.",
    "points": [
     {
-     "texte": "Neurosciences : une étude sur près de 13 000 adultes associe la forte consommation d'édulcorants à un déclin cognitif 62 % plus rapide, soit environ 1,6 an de vieillissement cérébral supplémentaire. Des chercheurs identifient par ailleurs un signal cérébral affaibli qui pourrait relier plusieurs symptômes de la schizophrénie.",
+     "texte": "Une découverte du télescope Hubble remet en cause l'explication dominante de la sortie de l'Univers primitif d'un épais brouillard d'hydrogène, il y a environ 13 milliards d'années. Une vague de cartographies 3D révèle par ailleurs la nature dynamique du milieu interstellaire, longtemps vu comme un décor statique.",
      "articles": [
       {
-       "titre": "Six popular sugar substitutes linked to faster brain aging",
-       "url": "https://www.sciencedaily.com/releases/2026/10/261028234238.htm",
+       "titre": "Hubble reveals a stunning twist in how the universe emerged from darkness",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261029072113.htm",
        "source": "ScienceDaily"
       },
       {
-       "titre": "A single brain signal may explain schizophrenia's most puzzling symptoms",
-       "url": "https://www.sciencedaily.com/releases/2026/10/261028232659.htm",
-       "source": "ScienceDaily"
+       "titre": "A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy",
+       "url": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
+       "source": "Quanta Magazine"
       }
      ]
     },
     {
-     "texte": "Biologie et santé : chez la souris, l'inhalation de CO2 pourrait rétablir la capacité des nerfs à se régénérer, et une analyse portant sur plus de 143 000 personnes associe la consommation quotidienne de certains aliments à un risque d'hypertension réduit de 26 %.",
+     "texte": "Sur Mars, une nouvelle hypothèse attribue le climat chaud et humide d'autrefois à la rouille présente sous la surface.",
      "articles": [
       {
-       "titre": "Inhaling CO2 may rescue nerves’ ability to regrow",
-       "url": "https://www.newscientist.com/article/2596332-inhaling-co2-rescues-nerves-ability-to-regrow/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "titre": "Rusty crust made Mars warm and wet",
+       "url": "https://www.newscientist.com/article/2596726-rusty-crust-made-mars-warm-and-wet/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
        "source": "New Scientist"
+      }
+     ]
+    },
+    {
+     "texte": "Paléontologie : le visage d'un des plus anciens Homo sapiens connus, un crâne marocain daté de 315 000 ans longtemps pris pour un Néandertalien, a été reconstitué. Une vaste analyse des fossiles et des climats anciens suggère que les crocodiles ont survécu à l'astéroïde d'il y a 66 millions d'années grâce à leur préférence pour les milieux chauds.",
+     "articles": [
+      {
+       "titre": "Voici à quoi ressemblait l’un des plus anciens Homo sapiens connus il y a 315 000 ans",
+       "url": "https://www.futura-sciences.com/sciences/actualites/neandertaliens-voici-ressemblait-plus-anciens-homo-sapiens-connus-il-y-315-000-ans-k2m6-138926/#xtor%3DRSS-8",
+       "source": "Futura"
       },
       {
-       "titre": "Hypertension : une poignée de ces aliments par jour est associée à un risque réduit de 26 %",
-       "url": "https://www.futura-sciences.com/sante/actualites/hypertension-hypertension-poignee-ces-aliments-jour-associee-risque-reduit-26-138896/#xtor%3DRSS-8",
-       "source": "Futura"
+       "titre": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
+       "source": "ScienceDaily"
       }
      ]
     },
     {
-     "texte": "Astronomie : le télescope James-Webb observe autour de la très ancienne étoile TOI-561, âgée de 10 milliards d'années, une planète de lave à l'atmosphère inédite.",
+     "texte": "En physique, des chercheurs ont créé un univers miniature en laboratoire avec 24 000 atomes ultrafroids pour observer l'émergence du temps sans horloge. Des chercheurs analysent aussi déjà le piratage de cryptomonnaies, le plus important de l'histoire, réalisé en quelques minutes.",
      "articles": [
       {
-       "titre": "James-Webb révèle une planète de lave qui brille comme un miroir : ce qui se passe dans son atmosphère est du jamais vu !",
-       "url": "https://www.futura-sciences.com/sciences/actualites/exoplanete-james-webb-revele-planete-lave-brille-comme-miroir-ce-passe-son-atmosphere-jamais-vu-138922/#xtor%3DRSS-8",
-       "source": "Futura"
-      }
-     ]
-    },
-    {
-     "texte": "Paléontologie et évolution : une dent d'éléphant vieille de près de 700 000 ans découverte dans le nord d'Israël révèle un environnement luxuriant partagé avec les premiers humains, tandis qu'un dinosaure exceptionnel découvert en France doit être vendu dans quelques jours.",
-     "articles": [
-      {
-       "titre": "A 700,000-year-old elephant tooth reveals a lost world where early humans lived",
-       "url": "https://www.sciencedaily.com/releases/2026/10/261028232709.htm",
+       "titre": "Physicists created a tiny universe and watched time emerge without a clock",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261028234703.htm",
        "source": "ScienceDaily"
       },
       {
-       "titre": "Un dinosaure exceptionnel découvert en France va être vendu : derrière cette vente, une histoire révoltante",
-       "url": "https://www.futura-sciences.com/planete/actualites/dinosaure-dinosaure-exceptionnel-decouvert-france-va-etre-vendu-derriere-cette-vente-histoire-revoltante-138930/#xtor%3DRSS-8",
-       "source": "Futura"
-      }
-     ]
-    },
-    {
-     "texte": "Environnement et comportement animal : une alternative aux PFAS inspirée des plantes ne persiste pas dans l'environnement, et des puffins des Anglais subissent un décalage horaire lors de vols rapides au-dessus de l'Atlantique, qui les fait dévier de leur trajectoire.",
-     "articles": [
-      {
-       "titre": "Plant biology provides inspiration for PFAS replacement",
-       "url": "https://www.newscientist.com/article/2596564-plant-biology-provides-inspiration-for-pfas-replacement/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-       "source": "New Scientist"
-      },
-      {
-       "titre": "Birds can get jet lag on long, fast flights and then fly off course",
-       "url": "https://www.newscientist.com/article/2596253-birds-can-get-jet-lag-on-long-fast-flights-and-then-fly-off-course/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "titre": "How did the biggest crypto heist in history just happen?",
+       "url": "https://www.newscientist.com/article/2596706-how-did-the-biggest-crypto-heist-in-history-just-happen/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
        "source": "New Scientist"
       }
      ]
@@ -203,165 +178,135 @@
    ]
   },
   "spatial": {
-   "titre": "Une sortie extravéhiculaire historique renforce l'alimentation électrique de l'ISS",
+   "titre": "SpaceX boucle octobre avec son 700e lancement de Falcon 9 et achève les essais moteurs de Starship pour le vol 15.",
    "points": [
     {
-     "texte": "Anil Menon (NASA) et Joshua Kutryk (Agence spatiale canadienne) ont installé et déployé le 29 octobre, lors d'une sortie de sept heures, le septième des huit nouveaux panneaux solaires iROSA destinés à alimenter l'ISS jusqu'à sa retraite en 2030. Il s'agit de la 100e sortie extravéhiculaire américaine depuis la station.",
+     "texte": "SpaceX a lancé 27 satellites Starlink depuis Vandenberg (Californie) dans la nuit d'Halloween, lors de la mission Starlink 15-18, son 700e lancement de Falcon 9.",
      "articles": [
       {
-       "titre": "Spacewalking astronauts unfurl upgraded solar array to boost space station power",
-       "url": "https://spaceflightnow.com/2026/10/29/spacewalking-astronauts-unfurl-upgraded-solar-array-to-boost-space-station-power/",
+       "titre": "SpaceX closes out October with Halloween eve Falcon 9 launch, 700th Falcon 9 launch to date",
+       "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
        "source": "Spaceflight Now"
       },
       {
-       "titre": "Astronauts deploy solar array on 100th US spacewalk by International Space Station crew members",
-       "url": "https://www.space.com/space-exploration/international-space-station/100-us-spacewalks-from-the-iss-astronauts-deploy-new-solar-array-on-landmark-eva",
+       "titre": "Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California",
+       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-falcon-9-group-15-18-landing-ocisly",
        "source": "Space.com"
-      },
-      {
-       "titre": "As it happened: spacewalkers install new solar array",
-       "url": "https://spaceflightnow.com/2026/10/29/as-it-happened-spacewalkers-install-new-solar-array/",
-       "source": "Spaceflight Now"
       }
      ]
     },
     {
-     "texte": "Programme Artemis : le commandant d'Artemis II, Reid Wiseman, est nommé directeur adjoint du Jet Propulsion Laboratory de la NASA et vice-président associé de Caltech. Blue Origin vise un retour en vol d'ici fin 2026 et lorgne une sélection pour Artemis IV.",
+     "texte": "Pour le vol 15 de Starship, SpaceX a réalisé trois essais de mise à feu statique en trois jours et terminé tous les tests moteurs en huit jours.",
      "articles": [
       {
-       "titre": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
-       "url": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/",
-       "source": "NASA"
-      },
-      {
-       "titre": "Blue Origin attempts end of year return and eyes Artemis IV selection",
-       "url": "https://www.nasaspaceflight.com/2026/10/blue-origin-update-2/",
+       "titre": "SpaceX Completes Three Static Fires in Three Days for Flight 15",
+       "url": "https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/",
        "source": "NASASpaceflight"
       }
      ]
     },
     {
-     "texte": "Sciences planétaires : une carte de Mars identifie 13 sites dont la minéralogie et la chimie correspondent à Teghaza 001, l'une des plus anciennes météorites martiennes jamais trouvées sur Terre.",
+     "texte": "Puissances spatiales émergentes : l'Inde a mis en orbite le satellite de navigation NVS-03 sur une fusée GSLV, son quatrième lancement orbital de l'année, et la Turquie vise 2027 pour sa première mission en orbite lunaire, avant un atterrisseur.",
      "articles": [
       {
-       "titre": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
-       "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
-       "source": "NASA"
+       "titre": "India launches next-gen navigation satellite to orbit (video)",
+       "url": "https://www.space.com/space-exploration/launches-spacecraft/india-launches-nvs-03-navigation-satellite-gslv-rocket",
+       "source": "Space.com"
+      },
+      {
+       "titre": "Turkey aims for first Moon-orbiting mission in 2027",
+       "url": "https://spaceflightnow.com/2026/10/30/turkey-aims-for-first-moon-orbiting-mission-in-2027/",
+       "source": "Spaceflight Now"
       }
      ]
     },
     {
-     "texte": "Observation : Hubble et James-Webb ont observé la nébuleuse de la Tête de chat, une région de formation d'étoiles au sein de la nébuleuse de la Carène, à environ 7 500 années-lumière.",
+     "texte": "Industrie et défense : ESI Motion fournit l'électronique d'entraînement des panneaux solaires à Lockheed Martin pour des programmes de défense antimissile. L'ESA dresse son bilan d'octobre, avec l'entraînement de l'équipe du rover Rosalind Franklin dans le désert espagnol.",
      "articles": [
       {
-       "titre": "Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb",
-       "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb",
+       "titre": "ESI supplying solar array components to missile defense programs",
+       "url": "https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/",
+       "source": "SpaceNews"
+      },
+      {
+       "titre": "What happened this month at the European Space Agency? (October 2026)",
+       "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/What_happened_this_month_at_the_European_Space_Agency_October_2026",
        "source": "ESA"
+      }
+     ]
+    },
+    {
+     "texte": "Images d'Halloween : le télescope James-Webb dévoile en infrarouge moyen les structures de la nébuleuse de la Tête de chat.",
+     "articles": [
+      {
+       "titre": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+       "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+       "source": "NASA"
       }
      ]
     }
    ]
   },
   "hotellerie": {
-   "titre": "Le luxe porte les résultats de Hyatt, sur fond de cessions d'hôtels en série",
+   "titre": "Transactions et réductions de coûts rythment le secteur, avec la vente du Four Seasons Scottsdale pour 372 millions de dollars.",
    "points": [
     {
-     "texte": "Hyatt voit son RevPAR progresser de 7,2 % au troisième trimestre, tiré par le luxe et les États-Unis, et relève ses objectifs annuels, même si ses hôtels all inclusive reculent. Le groupe lance aussi sa marque StandardX en Amérique du Nord avec un établissement phare à Times Square.",
+     "texte": "Transactions : Sixth Street a acquis le Four Seasons Scottsdale (Arizona) auprès de Braemar pour 372 millions de dollars, tandis que Trailborn nomme un nouveau directeur financier. En France, Advenn (ex-groupe Télégramme, organisateur de la Route du Rhum) a racheté le Grand Bé, quatre étoiles de 55 chambres à Saint-Malo, sa première incursion dans l'hôtellerie.",
      "articles": [
       {
-       "titre": "Hyatt concrétise ses ambitions après un troisième trimestre soutenu par le luxe",
-       "url": "https://hospitality-on.com/fr/hotellerie/hyatt-concretise-ses-ambitions-apres-un-troisieme-trimestre-soutenu-par-le-luxe",
+       "titre": "Lodging Lowdown: Trailborn names new CFO, Wyndham Rewards expands with vacation rentals",
+       "url": "https://www.hoteldive.com/news/trailborn-names-new-cfo-wyndham-rewards-vacation-rentals-/873276/",
+       "source": "Hotel Dive"
+      },
+      {
+       "titre": "À Saint-Malo, l'organisateur de la Route du Rhum devient hôtelier avec le Grand Bé",
+       "url": "https://hospitality-on.com/fr/hotellerie/saint-malo-lorganisateur-de-la-route-du-rhum-devient-hotelier-avec-le-grand-be",
        "source": "Hospitality ON"
-      },
-      {
-       "titre": "Luxury drives Hyatt’s Q3 RevPAR growth above expectations",
-       "url": "https://www.hoteldive.com/news/hyatt-q3-2026-earnings/873205/",
-       "source": "Hotel Dive"
-      },
-      {
-       "titre": "Hyatt Raises Outlook, but Its All-Inclusives Lag",
-       "url": "https://skift.com/2026/10/29/hyatt-raises-outlook-but-its-all-inclusives-lag/",
-       "source": "Skift"
-      },
-      {
-       "titre": "Hyatt brings StandardX brand to North America with NYC flagship hotel",
-       "url": "https://www.hoteldive.com/news/hyatt-brings-standardx-brand-north-america-nyc-flagship-hotel/873156/",
-       "source": "Hotel Dive"
       }
      ]
     },
     {
-     "texte": "Autres résultats : le groupe munichois MHP Hotel AG affiche un chiffre d'affaires hôtelier de 56,6 millions d'euros au troisième trimestre (+25,1 %), avec un prix moyen de 233 euros (+3 %). La Compagnie des Alpes signe un chiffre d'affaires record de 1 433,2 millions d'euros (+2,6 %), et MGM Resorts publie des revenus et un Ebitda ajusté en baisse.",
+     "texte": "Marques et distribution : Hyatt et Hilton s'opposent sur l'usage du mot « Select » dans leurs noms de marques, tandis que Wyndham Rewards s'étend aux locations de vacances.",
      "articles": [
       {
-       "titre": "MHP Hotel AG : +25 % au troisième trimestre, tiré par le parc élargi",
-       "url": "https://hospitality-on.com/fr/hotellerie/mhp-hotel-ag-25-au-troisieme-trimestre-tire-par-le-parc-elargi",
-       "source": "Hospitality ON"
+       "titre": "Hyatt in Trademark Clash With Hilton Over ‘Select’ in Hotel Brand Names",
+       "url": "https://skift.com/2026/10/30/hyatt-in-trademark-clash-with-hilton-over-select-in-hotel-brand-names/",
+       "source": "Skift"
       },
       {
-       "titre": "Un exercice record pour la Compagnie des Alpes, mais des parcs de loisirs à l'épreuve de la météo",
-       "url": "https://hospitality-on.com/fr/hotellerie/un-exercice-record-pour-la-compagnie-des-alpes-mais-des-parcs-de-loisirs-lepreuve-de-la",
-       "source": "Hospitality ON"
-      },
-      {
-       "titre": "MGM Resorts amends deal with People Inc., shares Q3 results",
-       "url": "https://www.hoteldive.com/news/mgm-resorts-amends-people-deal-shares-q3-2026-earnings/873152/",
+       "titre": "Lodging Lowdown: Trailborn names new CFO, Wyndham Rewards expands with vacation rentals",
+       "url": "https://www.hoteldive.com/news/trailborn-names-new-cfo-wyndham-rewards-vacation-rentals-/873276/",
        "source": "Hotel Dive"
       }
      ]
     },
     {
-     "texte": "Transactions : les hôtels Crazy Bear sont vendus après une procédure d'administration au Royaume-Uni, un hôtel du centre de Portland est cédé bien en dessous de son prix de 2016, ARK Development rachète le Cambria Hotel de Columbia, Loci Capital et HHM cèdent The Islander Resort en Floride, et CasaGris acquiert un hôtel à Buenos Aires.",
+     "texte": "Réductions de coûts dans le tourisme : Disney supprime plus de 100 postes dans sa division parcs à thème, et Alaska Airlines va licencier 200 employés administratifs en prévoyant une perte en 2026 à cause du carburant.",
      "articles": [
       {
-       "titre": "Crazy Bear hotels sold out of administration",
-       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvbTFhRjdYMFVMNEtxWWtnZFVMVkJ0dUNDT0R1VlRjTVc1TW16V3RQSjVwYXQyaENTbEdyWkowTjJVdjBHQ09keFFPaHliUmJEaFF4VVJuaFIxdHpnUjhYRmhxbzFwTEF3QXZHNGlCN1dlRUE?oc=5",
-       "source": "The Caterer"
+       "titre": "Disney Cuts More Than 100 Jobs In Theme Park Division",
+       "url": "https://skift.com/2026/10/30/disney-job-cuts-experiences-theme-parks/",
+       "source": "Skift"
       },
       {
-       "titre": "Downtown Portland hotel sells at steep drop from 2016 price",
-       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSFh0ZVpKV095VG9qckN0a1FfMDlDb1I5UnFEd2ZlNllxTkRESUdwbmpUTTc2UXBzcFlGTnZYVXRZb1hPbDQtNmVQbkxKTjZHcU02OE9HVkhfN29WN2tDSk90YktkWkpRNmFhd3JkSlNVMGtEb21lbXdWMzZSZURUNXNSemhyREktb3piMU51VzFlUmg0ODc1czNGbzEtb1MyZW5YcktHQXI3d9IBvgFBVV95cUxNY1E5UU13WHM5OGxXNm5pclR0VFJDcVBIUkdrXzRHT3pvUElGVFJBRG15WXhiMnZkNFotVW5lci1kay0xdlRSQUlkS1RFS0hzYXFndlMzMWw5SUZONDdKNlRxcW41cEk3Vklvc0FrVkNoX2VfUjllZ2JuSE5tdDBjTjk5N2tLMHpQTzU4Q3pXekttWHhhZElGNVZIY2dMUFVEMU9YdjluY2lZeWdZYlFwY1ZzMFV4aDN3UUhUN1lR?oc=5",
-       "source": "OregonLive.com"
-      },
-      {
-       "titre": "ARK Development Buys Cambria Hotel in Columbia's Vista",
-       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2U1d0QwTW96ckFHWEE5NVpNNG1sQ3I2V1lleVhINmVQdVRodVJqYVhxTWlQLVY1YnZYLUlsRWp4VUpSR3FiUVdYTncyWDFvNjZ5cW1MUVJhckVaM25yYnFwU01Ob2pfVDBHZF9ZRVNrN2M0MzI3S2ZvTm4ySWcxTkp3clFubjM4QkZkRTlPME5GNWJ0Qk9VSXJ1YkY4eUp2NHFNUVVR?oc=5",
-       "source": "Hoodline"
-      },
-      {
-       "titre": "Loci Capital and HHM Hotels divests The Islander Resort in Florida, US",
-       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaEtJSzRqcjhhOGRuN2U5ZkpNZWdOelFfNWM0aVBtMnZSZWdDZl9RRWFxby03Zm85M0xMOEVNc3RzM2xpX0xMWGRRblVlQVlWbFM0SHRMWXQwclNYU3I1MlBoQWQ1U3A5RjBvLWRHdG1VaWhIemhhQmtaNmFtN2QxYnMyUQ?oc=5",
-       "source": "Hotel Management Network"
+       "titre": "Alaska Airlines to Lay Off 200 Employees as It Forecasts a Loss in 2026",
+       "url": "https://skift.com/2026/10/30/alaska-airlines-to-lay-off-200-employees/",
+       "source": "Skift"
       }
      ]
     },
     {
-     "texte": "En Suisse romande, le groupe Orllati rachète l'hôtel La Longeraie à Morges, qui ferme ses portes.",
+     "texte": "Demande sous pression : à Séville, les hôteliers redoutent des pertes après la collision de deux trains à grande vitesse qui a fait 69 morts le 28 octobre et coupé la liaison avec Madrid, même si les premières nuits résistent. À Paris, le tourisme paie le prix des perturbations du 17 octobre.",
      "articles": [
       {
-       "titre": "Orllati rachète l'hôtel La Longeraie à Morges et ferme ses portes",
-       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdkJpc0lwUXd6OENGclhXRzZJZTBXVEgwVktBQmZfWkRQWll6M21JbjFfdUp1d1l3TWlSUGs1V1NUdUUxTWZieFlTRzhORUVEaGh0U2JuTk9NRzFzdGdhZHVxOWhyQXRyRFZfa2lqSzYtMVR3SU83NnFDTzBSWFU1UjJBX1dXOF9qT1FtbGVabzRIMWtmSndCRFBaRGc0d1FqNVN5YWVuOG9TUWRqSlJyLXVn?oc=5",
-       "source": "20 Minuten"
-      }
-     ]
-    },
-    {
-     "texte": "Marques et marchés : Wyndham lance Homes & Havens pour concurrencer Marriott, l'Égypte mise sur un pipeline hôtelier composé à près de 90 % de chambres haut de gamme ou de luxe, et la Thaïlande continue d'ajouter chambres et vols malgré des perspectives d'arrivées affaiblies.",
-     "articles": [
-      {
-       "titre": "Wyndham Launches Homes & Havens to Take On Marriott",
-       "url": "https://skift.com/2026/10/29/wyndham-launches-homes-havens-to-take-on-marriott/",
-       "source": "Skift"
+       "titre": "Séville : les hôteliers redoutent le pire, les premières nuits résistent",
+       "url": "https://hospitality-on.com/fr/hotellerie/seville-les-hoteliers-redoutent-le-pire-les-premieres-nuits-resistent",
+       "source": "Hospitality ON"
       },
       {
-       "titre": "Egypt Has the Visitors. Now It Wants Them to Stay Longer and Spend More",
-       "url": "https://skift.com/2026/10/29/egypt-has-the-visitors-now-it-wants-them-to-stay-longer-and-spend-more/",
-       "source": "Skift"
-      },
-      {
-       "titre": "Thailand Keeps Building for Tourists Who May Not Come",
-       "url": "https://skift.com/2026/10/29/thailands-tourism-recovery-slows-its-hotels-and-airlines-keep-expanding/",
-       "source": "Skift"
+       "titre": "« Comment voulez-vous qu’on vende la France ? » : le tourisme paye le prix du chaos parisien du 17 octobre",
+       "url": "https://www.leparisien.fr/economie/comment-voulez-vous-quon-vende-la-france-le-tourisme-paye-le-prix-du-chaos-parisien-du-17-octobre-31-10-2026-JNN3S3GIFNFEVLNX64B2YKZH4I.php",
+       "source": "Le Parisien Économie"
       }
      ]
     }
