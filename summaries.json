@@ -1,71 +1,66 @@
 {
- "generated_at": "2026-10-31T06:16:52Z",
+ "generated_at": "2026-11-01T06:16:37Z",
  "auteur": "Claude",
  "rubriques": {
   "finance": {
-   "titre": "La chute des valeurs technologiques américaines, minées par les craintes sur les dépenses en IA, se propage aux marchés asiatiques.",
+   "titre": "La crainte d'une bulle de dépenses dans l'IA fait chuter la tech à Wall Street et en Asie, après les résultats des géants du numérique.",
    "points": [
     {
-     "texte": "Les valeurs technologiques américaines ont reculé sur fond d'inquiétudes liées aux dépenses en intelligence artificielle ; la forte baisse de vendredi du Nasdaq ravive les comparaisons avec la bulle de 2000. Reddit a chuté de 29 %, sa pire séance, après des prévisions de ventes décevantes pour le quatrième trimestre, et S&P a abaissé la perspective de Meta à négative en raison de ses investissements massifs et de son flux de trésorerie.",
+     "texte": "Les résultats des Big Tech et les prévisions des hyperscalers ont ravivé les craintes sur le financement de l'IA : le Nasdaq a perdu près de 8 % en trois séances et signe sa première série de trois semaines de baisse depuis mars, le Nasdaq 100 entrant à nouveau en correction. Les investisseurs se replient sur les valeurs défensives, et la perspective d'une introduction en Bourse d'Anthropic s'en trouve compliquée.",
      "articles": [
       {
-       "titre": "U.S. Tech Stocks Drop on AI Spending Concerns",
-       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkFuTEkyc1ZYSmVVcjRIZXVWeXNCbEpsUk9HOXJ1LTcxOWk2WnZjWkpreFp3am1kQ0tSWmtuaHNVYmMyb1ROTE43YlU0VGRad21XS3JyYmYyZlV5aWthaWJQMkJjcVRPUW41djFtem94X2cxWE9Qcm9qYjFmLW1nMHRtRnVRakRsVlg0cjl5U0w3QQ?oc=5",
-       "source": "WSJ"
+       "titre": "Panic Selling Sweeps US Stocks: Nasdaq Falls Nearly 8% Over Three Straight Sessions as AI Financing Worries and Midterms Take Center Stage",
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQVzk4aGxSTnhIZjNiM3U0N1NKV0cxUFN4YVkzRFV4UWg1UlVlQVkzQ3pLOTAtZ1prY0s0bms4X1BhcEhzaHhlVEE1MWtiMEx5cEoyMGw3NU9SU1FsWEFuSG5za0lBd24tVW1GU3A5bkxrRW04dXc?oc=5",
+       "source": "BigGo Finance"
       },
       {
-       "titre": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
-       "url": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
-       "source": "MarketWatch"
+       "titre": "Massive tech sell-off has Nasdaq 100 entering another correction",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSE1taW8wOXl3aHUyV1JteDdpNnFJZm04QVpOQnlnMXRJLUxKNUY2WVVIaHl1SjVBSnFMcnJSdnphWVNEaVkyU2FEekdnTjBrSTVKbGFka1AwUXgxUGVWX0xESzFHWGN5b20wZ0k1emlwX211LXJNN0w0Q1MzTnVmUA?oc=5",
+       "source": "Morning Brew"
       },
       {
-       "titre": "Reddit stock plunges 29% after weak outlook, wrapping its worst day ever",
-       "url": "https://www.cnbc.com/2026/10/30/reddit-stock-q3-earnings.html",
+       "titre": "Anthropic's path to the Nasdaq just got a lot bumpier",
+       "url": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
        "source": "CNBC Résultats"
       },
       {
-       "titre": "Meta outlook revised downward by S&P on cash flow and capex concerns",
-       "url": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
-       "source": "CNBC"
+       "titre": "Stocks started the week with promise but ended in despair. Our take on the big reversal",
+       "url": "https://www.cnbc.com/investingclub/2026/10/31/stocks-started-the-week-with-promise-but-ended-in-despair.html",
+       "source": "CNBC Résultats"
       }
      ]
     },
     {
-     "texte": "La vente des valeurs technologiques a pesé sur l'Asie : le Kospi a perdu 4,4 %, entraîné par Samsung et SK Hynix. Les bourses du Golfe reculent sur les craintes liées au Yémen et à l'Iran, et le Bovespa brésilien a cédé 1,06 %.",
+     "texte": "La vente des valeurs IA frappe aussi l'Asie : le Kospi a chuté de 206,92 points sous le poids des géants des puces et enregistre la septième plus forte baisse mensuelle de son histoire, tandis que Goldman Sachs abaisse sa prévision pour l'indice sud-coréen. Le Nikkei 225 se rapproche d'une zone de support clé.",
      "articles": [
       {
-       "titre": "Asian stocks mostly lower, Kospi down 4.4%",
-       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQUZIM0dRQnFtU3ZFdmJDRzJhdGpIQ212bDNOMlczRDBETnVBMDNab2thZ3BCVkhwVnZtMkNKYWFxLTk0SE9SeTFMcXF5TmhLeDI4NFhyS0EwWHpXR0RlUEo1NjBFWmJ2QVBUOVZUN2VqTVJSVERfTmdQcDVlMF9CTHgxUzdsOVJhem83UXhB?oc=5",
-       "source": "Breakingthenews.net"
+       "titre": "South Korea’s Kospi Plunges 206.92 Points As AI Sell-Off Hammers Chip Giants",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVkEzMUM1b1dOUlRrcTFIRGR5andpQ0lfQUVqaTZYSnhkSENVdTdBMGVCTGh0cGJ6VnpnSlAxeWtjNXdVYm9KZ3FaYndqVUhTZHdDVE9MUnhkN0VFNmhNdEFnYy13bHg2cEN5VGQtZDltaDFxQ1hLRWNMSUVuVDFTWl92a0Ryb3JSLWM4ZnJuUHllN3c3VkhMT1pMVmEzclcxTzhQVEVYdXFpRFVVZ1VZY0RqU2kteHFkZzN6RQ?oc=5",
+       "source": "BusinessToday Malaysia"
       },
       {
-       "titre": "Korean stocks tumble as US tech selloff hammers Samsung, SK Hynix",
-       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXeFVKRE43QUh4YTQxaE84MXhYT0FKa0VZTTlDR2JscVI4Vy0yUjlGY0dHTVRmWG40YTNfdmpVMVUzby11NzJyemZUSl9kMG1EbWdldVhNSF9JZlMzTGRRNTdfdmw5Z1pCdXg5ZVh6ek05ZjczeERTcUFB?oc=5",
-       "source": "KED Global"
+       "titre": "KOSPI Records Seventh-Largest Monthly Drop in History",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV2RBU1hQWEo3NlFOQmxhUkVzV0FOMVFXeUJtZE0tN0JPTU5FMnM1T00zQU9xcnM1RE5fNV9BOXpMS01vZElYZ2cxWktGSlZKYXQwNXJCMml4UVNfUlVlSWJrNkNCNC1QSld0S1p4ZVNXQzJOOWdmX0ZRelRja1V0SlNQeURCMUs3N1B1VzNB?oc=5",
+       "source": "조선일보"
       },
       {
-       "titre": "Gulf bourses retreat on Yemen, Iran war worries",
-       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0ydEp1NUlPUmNGUHlnT0l2cUV4RHZnUTVXbG1CbEF0bEdpazJTcVdZLThUWW5KbGxZbzdFQ3d6SlIxcEhKSlIzREhPV0FNNkpU0gFWQVVfeXFMT0liMzFDQlhLT2M1d09QQWZQdHhwelZEaXRTZnNtM29qQlRLTGZ6VUFSSVhGT09VQjVKclhSVGtTd0J5OFJoRjU1Yll2RUlqcU4teXdSTUE?oc=5",
-       "source": "Business Recorder"
+       "titre": "Goldman Sachs Downgrades KOSPI Forecast Amid Market Concerns",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT1pHcmRMU1lWa3k2aVoyMGFSM3g3MW9lR1lJRzc3MnBNeTZtbmxGYTVEdDdjTWtHSzBhT3BxcUpIR0sxVFoyN2xuZUdzajFmUDBnLWNjRGJ1bkFTZ3ZtWDZ3QjlJRzZnU3lzOUo0bExaNjNnZDR1dzEtT1FZWjhQYnM4NkdEaGhJajRkVDRMY0JDamJFaDhnQ0o4SlZ6RkF0?oc=5",
+       "source": "GuruFocus"
       },
       {
-       "titre": "Brazil stocks lower at close of trade; Bovespa down 1.06%",
-       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVWdjenQ3YlZaUm9JVndYVi1pVGdRY0lteXItRmx4NmEwaUttMXJhaEtSU1N3OFJzMVJMbWgtZWpxZGRXZ3pLOVAxLVJKa05kaUZrMmllUXZKb2xsVC14WUtON2NPbXZGUmV2YVJpQ244a1NoMGV5a2x5dE1tNEh5bEljcVgzc1hORjZRTjJXYUJIQkxCQUVSSXhMcjhoNnY4Z1hoOEJaUWExcmRsOWZBTg?oc=5",
-       "source": "Investing.com"
+       "titre": "Nikkei 225 Outlook: AI Wobbles Bring Key Support Zone Into View",
+       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUZtYzkyVE0wM1Z4YUpRNFI0MmVnei14S2xTWmQ5T3JpVHRQXzRpYUpPdzU1ZXkwekdhSHZvU1lNYm5sRVFSS3JMUW1BOHJRSi1pY1M4dEhvX052WTlOTllvdmprT1E5NHBNem5wU1A5TVMxT01JMTZ5RjJlV3ZTdzlQT0F5MWdMVDBUbnFxdmlQMW82MlBWS3lpcC1DbnJsMlZKTXJ2XzFQa1FISVUw?oc=5",
+       "source": "StoneX"
       }
      ]
     },
     {
-     "texte": "La Banque du Japon laisse son taux directeur à 1,25 %, au plus haut depuis 31 ans, juge sa cible d'inflation fixée en 2013 atteinte et accélère la vente de ses ETF, une décision bien accueillie par la Bourse de Tokyo. À Hong Kong, le secrétaire aux Finances Paul Chan estime que la croissance 2026 pourrait être la plus forte en cinq ans.",
+     "texte": "Côté macroéconomie en Asie-Pacifique, Hong Kong pourrait connaître en 2026 sa plus forte croissance depuis cinq ans selon Paul Chan, et la Banque du Japon accélère ses ventes d'ETF, ce qui pourrait aider à financer le programme de Sanae Takaichi. À l'inverse, les recettes des casinos de Macao reculent pour le cinquième mois d'affilée et le taux d'adjudication immobilière en Australie tombe à un plus bas de six ans.",
      "articles": [
       {
-       "titre": "L'objectif avait été fixé en 2013: la Banque du Japon annonce que sa cible d'inflation est atteinte",
-       "url": "https://www.bfmtv.com/economie/international/l-objectif-avait-ete-fixe-en-2013-la-banque-du-japon-annonce-que-sa-cible-d-inflation-est-atteinte_AD-202610300158.html",
-       "source": "BFM Business"
-      },
-      {
-       "titre": "Japanese Stocks Signal Confidence Over Faster BOJ ETF Sales",
-       "url": "https://www.bloomberg.com/news/articles/2026-10-30/japanese-stocks-signal-confidence-over-faster-boj-etf-sales",
+       "titre": "HK’s Chan Says 2026 Growth May Be Strongest in Five Years: RTHK",
+       "url": "https://www.bloomberg.com/news/articles/2026-10-31/hk-s-chan-says-2026-growth-may-be-strongest-in-five-years-rthk",
        "source": "Bloomberg Markets"
       },
       {
@@ -74,103 +69,108 @@
        "source": "Bloomberg Markets"
       },
       {
-       "titre": "HK’s Chan Says 2026 Growth May Be Strongest in Five Years: RTHK",
-       "url": "https://www.bloomberg.com/news/articles/2026-10-31/hk-s-chan-says-2026-growth-may-be-strongest-in-five-years-rthk",
+       "titre": "Macau Gaming Revenue Decline Extends Despite Golden Week Boost",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-01/macau-gaming-revenue-decline-extends-despite-golden-week-boost",
+       "source": "Bloomberg Markets"
+      },
+      {
+       "titre": "Australia Home Auction Clearance Rate Falls to Six-Year Low",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-01/australia-home-auction-clearance-rate-falls-to-six-year-low",
        "source": "Bloomberg Markets"
       }
      ]
     },
     {
-     "texte": "Fitch maintient la note A+ de la France mais abaisse sa perspective de stable à négative, citant la détérioration budgétaire et la hausse des taux d'emprunt. Crédit Agricole tient le cap au troisième trimestre grâce à la banque d'investissement, l'épargne et la gestion d'actifs, malgré le recul du crédit immobilier.",
+     "texte": "En France, les prix à la pompe doivent baisser de 10 à 12 centimes le litre dès le 1er novembre grâce à la libération de 10 millions de barils des stocks stratégiques ; TotalEnergies baisse ses prix et les stations indépendantes s'inquiètent. La Cour des comptes alerte par ailleurs sur l'impasse du financement de la Sécurité sociale.",
      "articles": [
       {
-       "titre": "L'agence de notation Fitch maintient la note A+ de la France mais abaisse sa perspective de stable à négative",
-       "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/l-agence-de-notation-fitch-maintient-la-note-a-de-la-france-mais-abaisse-sa-perspective-de-stable-a-negative_AD-202610300942.html",
+       "titre": "Carburants: des prix à la pompe en baisse dès ce dimanche 1er novembre",
+       "url": "https://www.bfmtv.com/economie/video-carburants-des-prix-a-la-pompe-en-baisse-des-ce-dimanche-1er-novembre_VN-202611010117.html",
        "source": "BFM Business"
       },
       {
-       "titre": "Crédit Agricole tire son épingle du jeu au troisième trimestre malgré les vents contraires",
-       "url": "https://www.lesechos.fr/finance-marches/banque-assurances/credit-agricole-tire-son-epingle-du-jeu-au-troisieme-trimestre-malgre-les-vents-contraires-2260024",
-       "source": "Les Echos"
+       "titre": "Prix du carburant : TotalEnergies baisse les prix, les stations indépendantes s'alarment",
+       "url": "https://www.bfmtv.com/economie/video-prix-du-carburant-total-energies-baisse-les-prix-les-stations-independantes-s-alarment_VN-202610310092.html",
+       "source": "BFM Business"
+      },
+      {
+       "titre": "La Sécu peut-elle faire faillite et arrêter de payer les retraites ou les allocations? C'est peu probable mais elle va vite devoir trouver une manière de se financer avant de tomber dans la crise",
+       "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/la-secu-peut-elle-faire-faillite-et-arreter-de-payer-les-retraites-ou-les-allocations-c-est-peu-probable-mais-elle-va-vite-devoir-trouver-une-maniere-de-se-financer-avant-de-tomber-dans-la-crise_AN-202611010089.html",
+       "source": "BFM Business"
       }
      ]
     },
     {
-     "texte": "Énergie et crypto : Chevron et Exxon atteignent des records historiques, portés par l'envolée des marges de raffinage après des frappes sur des raffineries en Russie et au Moyen-Orient. Binance, première plateforme crypto mondiale, a subi un piratage estimé à 6,3 milliards de dollars, attribué à un groupe nord-coréen, et promet de couvrir les pertes.",
+     "texte": "Ailleurs, le FTSE 100 progresse à 10 729,78 points, AstraZeneca et BT compensant la chute de NatWest, tandis que le Merval argentin cède 2,6 % et que la Bourse nigériane gagne 2 000 milliards de nairas en octobre. Dans la crypto, Binance affirme avoir couvert 90 % des 6,3 milliards de dollars perdus lors de son piratage et prévoit de rouvrir les retraits dimanche.",
      "articles": [
       {
-       "titre": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
-       "url": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
-       "source": "CNBC Résultats"
+       "titre": "FTSE 100 Rises to 10,729.78 as AstraZeneca and BT Offset NatWest's Slump",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON3BGRUY0N0kxM2RSdmwtUjgxaUVKOUY4eUNBRWoteVI2TjJuVVBLdW5FY3publNZdUJxQV95cjlHeWw1d2JncUtiY3JnMGdEbE9kX3pORGhySU9BbFM1NUVqelRia0JyOXZOdVE0VlZxUk1ld0UzbHZHS0dFQVpTRkhDRGhVRFIwMEF1R3hZTjNtbjhFeG5weHJfczZBbEJWcEVnRXhDYmJMSkVva1BBS2tR?oc=5",
+       "source": "BBN Times"
       },
       {
-       "titre": "Cryptomonnaies : Binance victime d’une cyberattaque estimée à 6,3 milliards de dollars, elle promet de couvrir les pertes",
-       "url": "https://www.liberation.fr/economie/economie-numerique/la-plateforme-de-cryptomonnaies-binance-victime-dune-cyberattaque-estimee-a-63-milliards-de-dollars-20261030_WUZFAQCH4BFMZJ7MAMHHM7F2AA/",
-       "source": "Libération Économie"
+       "titre": "Argentina’s Merval falls 2.6%, country risk rises to 787 — The Rio Times",
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNGFxaVdYQ1VibENpaEc3YzNHUWpIOEJ4YVRTY29TbHpkNlZCcTdZQ3RNZjRaWTkxenBuX29YdkFnZ3lPRHRNaFlTLU5oSVBzdE04ZFpzaC05Vi1JQ1hZV1JNOEFHcERDdmJYRnIya0VsaHZ4TEZ5M2FVZmc4QmxNRU1CbHQ0ckttYkptQkVnVXRQbEw3RjZ6MGZ5QTROMHhLWm1n?oc=5",
+       "source": "UA.NEWS"
       },
       {
-       "titre": "Estimated $6.3 Billion Hacked in Binance Security Breach",
-       "url": "https://www.bloomberg.com/news/videos/2026-10-30/estimated-6-3-billion-hacked-in-binance-security-breach-video",
-       "source": "Bloomberg Markets"
+       "titre": "Nigerian stocks gain N2 trillion in October as market cap hits N165 trillion",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS0lQVTJ2RnlJVUdDZ1JudUxHTExTWXVUTFFwaHJxN0RKd1VaOTh6OW0yXzlxUndwZ1JnM2pGOVpPSjlEbDBEUm9uSElnbGJ4OEt1cXBwUmxwWU1fUXI4UlRhb1VGc0Z5bHh3S2VrLWRLSWE0UjlVVkJVQ1hRN05JWFI2bUEwTWVpcVVId2ZKX2Zfa2dlc3ZIZTVvdy1WZmRsY2J0NkRXZ3dURWNmbno0b19wSQ?oc=5",
+       "source": "Nairametrics"
+      },
+      {
+       "titre": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+       "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+       "source": "CNBC"
       }
      ]
     }
    ]
   },
   "science": {
-   "titre": "Astronomie et origines de la vie dominent, entre brouillard primordial de l'Univers et crâne d'Homo sapiens vieux de 315 000 ans.",
+   "titre": "Physique des origines, botanique et archéologie : une actualité scientifique dominée par des découvertes fondamentales.",
    "points": [
     {
-     "texte": "Une découverte du télescope Hubble remet en cause l'explication dominante de la sortie de l'Univers primitif d'un épais brouillard d'hydrogène, il y a environ 13 milliards d'années. Une vague de cartographies 3D révèle par ailleurs la nature dynamique du milieu interstellaire, longtemps vu comme un décor statique.",
+     "texte": "Des physiciens avancent qu'un neutrino longtemps négligé pourrait expliquer pourquoi la matière a survécu au Big Bang, permettant l'existence des étoiles, des planètes et de la vie.",
      "articles": [
       {
-       "titre": "Hubble reveals a stunning twist in how the universe emerged from darkness",
-       "url": "https://www.sciencedaily.com/releases/2026/10/261029072113.htm",
+       "titre": "Scientists say a forgotten particle may explain why the universe exists",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm",
+       "source": "ScienceDaily"
+      }
+     ]
+    },
+    {
+     "texte": "Des chercheurs ont découvert que les arbres perçoivent leur propre forme et redressent leur tronc grâce à un bois spécialisé qui agit comme des muscles opposés.",
+     "articles": [
+      {
+       "titre": "Scientists discover the hidden “muscles” trees use to straighten themselves",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261030003006.htm",
+       "source": "ScienceDaily"
+      }
+     ]
+    },
+    {
+     "texte": "En archéologie, une fortification défensive vieille de 4 000 ans découverte au Maroc remet en cause ce que l'on savait des civilisations anciennes d'Afrique du Nord ; en Angleterre, l'origine des « Flèches du Diable » de Boroughbridge, dressées il y a près de 4 000 ans, est enfin éclaircie.",
+     "articles": [
+      {
+       "titre": "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm",
        "source": "ScienceDaily"
       },
       {
-       "titre": "A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy",
-       "url": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
-       "source": "Quanta Magazine"
-      }
-     ]
-    },
-    {
-     "texte": "Sur Mars, une nouvelle hypothèse attribue le climat chaud et humide d'autrefois à la rouille présente sous la surface.",
-     "articles": [
-      {
-       "titre": "Rusty crust made Mars warm and wet",
-       "url": "https://www.newscientist.com/article/2596726-rusty-crust-made-mars-warm-and-wet/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-       "source": "New Scientist"
-      }
-     ]
-    },
-    {
-     "texte": "Paléontologie : le visage d'un des plus anciens Homo sapiens connus, un crâne marocain daté de 315 000 ans longtemps pris pour un Néandertalien, a été reconstitué. Une vaste analyse des fossiles et des climats anciens suggère que les crocodiles ont survécu à l'astéroïde d'il y a 66 millions d'années grâce à leur préférence pour les milieux chauds.",
-     "articles": [
-      {
-       "titre": "Voici à quoi ressemblait l’un des plus anciens Homo sapiens connus il y a 315 000 ans",
-       "url": "https://www.futura-sciences.com/sciences/actualites/neandertaliens-voici-ressemblait-plus-anciens-homo-sapiens-connus-il-y-315-000-ans-k2m6-138926/#xtor%3DRSS-8",
+       "titre": "Il y a 4 000 ans, un choix étonnant a présidé à la construction des « pierres du Diable » : on comprend enfin lequel",
+       "url": "https://www.futura-sciences.com/sciences/actualites/histoire-il-y-4-000-ans-choix-etonnant-preside-construction-pierres-diable-on-comprend-enfin-lequel-138182/#xtor%3DRSS-8",
        "source": "Futura"
-      },
-      {
-       "titre": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
-       "url": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
-       "source": "ScienceDaily"
       }
      ]
     },
     {
-     "texte": "En physique, des chercheurs ont créé un univers miniature en laboratoire avec 24 000 atomes ultrafroids pour observer l'émergence du temps sans horloge. Des chercheurs analysent aussi déjà le piratage de cryptomonnaies, le plus important de l'histoire, réalisé en quelques minutes.",
+     "texte": "En médecine, des cliniciens demandent que le risque de réaction allergique à un antibiotique transmis par le sperme d'un partenaire figure sur la notice du médicament, après le cas grave d'une patiente.",
      "articles": [
       {
-       "titre": "Physicists created a tiny universe and watched time emerge without a clock",
-       "url": "https://www.sciencedaily.com/releases/2026/10/261028234703.htm",
-       "source": "ScienceDaily"
-      },
-      {
-       "titre": "How did the biggest crypto heist in history just happen?",
-       "url": "https://www.newscientist.com/article/2596706-how-did-the-biggest-crypto-heist-in-history-just-happen/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "titre": "Allergic reactions after sex should be listed as an antibiotic risk, experts say",
+       "url": "https://www.newscientist.com/article/2596737-allergic-reactions-after-sex-should-be-listed-as-an-antibiotic-risk-experts-say/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
        "source": "New Scientist"
       }
      ]
@@ -178,135 +178,80 @@
    ]
   },
   "spatial": {
-   "titre": "SpaceX boucle octobre avec son 700e lancement de Falcon 9 et achève les essais moteurs de Starship pour le vol 15.",
+   "titre": "La NASA précise le scénario d'Artemis III, tandis que Bételgeuse et le ciel de novembre retiennent l'attention.",
    "points": [
     {
-     "texte": "SpaceX a lancé 27 satellites Starlink depuis Vandenberg (Californie) dans la nuit d'Halloween, lors de la mission Starlink 15-18, son 700e lancement de Falcon 9.",
+     "texte": "L'administrateur de la NASA Jared Isaacman a détaillé l'architecture prévue pour Artemis III, avec une séquence de vérification en plusieurs lancements, les plans de secours et la priorité accordée à Blue Origin.",
      "articles": [
       {
-       "titre": "SpaceX closes out October with Halloween eve Falcon 9 launch, 700th Falcon 9 launch to date",
-       "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
-       "source": "Spaceflight Now"
-      },
-      {
-       "titre": "Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California",
-       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-falcon-9-group-15-18-landing-ocisly",
-       "source": "Space.com"
-      }
-     ]
-    },
-    {
-     "texte": "Pour le vol 15 de Starship, SpaceX a réalisé trois essais de mise à feu statique en trois jours et terminé tous les tests moteurs en huit jours.",
-     "articles": [
-      {
-       "titre": "SpaceX Completes Three Static Fires in Three Days for Flight 15",
-       "url": "https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/",
+       "titre": "Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority",
+       "url": "https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/",
        "source": "NASASpaceflight"
       }
      ]
     },
     {
-     "texte": "Puissances spatiales émergentes : l'Inde a mis en orbite le satellite de navigation NVS-03 sur une fusée GSLV, son quatrième lancement orbital de l'année, et la Turquie vise 2027 pour sa première mission en orbite lunaire, avant un atterrisseur.",
+     "texte": "Des images radio montrent l'atmosphère de la supergéante Bételgeuse en train de se remettre de son spectaculaire assombrissement, alors qu'une étoile compagne traverse ses couches externes.",
      "articles": [
       {
-       "titre": "India launches next-gen navigation satellite to orbit (video)",
-       "url": "https://www.space.com/space-exploration/launches-spacecraft/india-launches-nvs-03-navigation-satellite-gslv-rocket",
+       "titre": "Betelgeuse is haunted by a cosmic poltergeist tormenting the doomed star's atmosphere",
+       "url": "https://www.space.com/astronomy/stars/betelgeuse-is-haunted-by-a-cosmic-poltergeist-tormenting-the-doomed-stars-atmosphere",
        "source": "Space.com"
-      },
-      {
-       "titre": "Turkey aims for first Moon-orbiting mission in 2027",
-       "url": "https://spaceflightnow.com/2026/10/30/turkey-aims-for-first-moon-orbiting-mission-in-2027/",
-       "source": "Spaceflight Now"
       }
      ]
     },
     {
-     "texte": "Industrie et défense : ESI Motion fournit l'électronique d'entraînement des panneaux solaires à Lockheed Martin pour des programmes de défense antimissile. L'ESA dresse son bilan d'octobre, avec l'entraînement de l'équipe du rover Rosalind Franklin dans le désert espagnol.",
+     "texte": "Dans la nuit du 1er au 2 novembre, la Lune décroissante brille aux côtés de Jupiter, de Mars et de l'étoile Régulus dans la constellation du Lion, à l'est.",
      "articles": [
       {
-       "titre": "ESI supplying solar array components to missile defense programs",
-       "url": "https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/",
-       "source": "SpaceNews"
-      },
-      {
-       "titre": "What happened this month at the European Space Agency? (October 2026)",
-       "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/What_happened_this_month_at_the_European_Space_Agency_October_2026",
-       "source": "ESA"
-      }
-     ]
-    },
-    {
-     "texte": "Images d'Halloween : le télescope James-Webb dévoile en infrarouge moyen les structures de la nébuleuse de la Tête de chat.",
-     "articles": [
-      {
-       "titre": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
-       "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
-       "source": "NASA"
+       "titre": "The moon, Mars, and Jupiter shine in the heart of the Lion overnight on Nov. 1-2",
+       "url": "https://www.space.com/stargazing/the-moon-mars-and-jupiter-shine-in-the-heart-of-the-lion-overnight-on-nov-1-2",
+       "source": "Space.com"
       }
      ]
     }
    ]
   },
   "hotellerie": {
-   "titre": "Transactions et réductions de coûts rythment le secteur, avec la vente du Four Seasons Scottsdale pour 372 millions de dollars.",
+   "titre": "Les grandes transactions hôtelières dominent l'actualité, de la Californie à Barcelone et Zurich.",
    "points": [
     {
-     "texte": "Transactions : Sixth Street a acquis le Four Seasons Scottsdale (Arizona) auprès de Braemar pour 372 millions de dollars, tandis que Trailborn nomme un nouveau directeur financier. En France, Advenn (ex-groupe Télégramme, organisateur de la Route du Rhum) a racheté le Grand Bé, quatre étoiles de 55 chambres à Saint-Malo, sa première incursion dans l'hôtellerie.",
+     "texte": "Aux États-Unis, le Ritz-Carlton Laguna Niguel, établissement emblématique de Dana Point, a été vendu pour 600 millions de dollars.",
      "articles": [
       {
-       "titre": "Lodging Lowdown: Trailborn names new CFO, Wyndham Rewards expands with vacation rentals",
-       "url": "https://www.hoteldive.com/news/trailborn-names-new-cfo-wyndham-rewards-vacation-rentals-/873276/",
-       "source": "Hotel Dive"
-      },
-      {
-       "titre": "À Saint-Malo, l'organisateur de la Route du Rhum devient hôtelier avec le Grand Bé",
-       "url": "https://hospitality-on.com/fr/hotellerie/saint-malo-lorganisateur-de-la-route-du-rhum-devient-hotelier-avec-le-grand-be",
-       "source": "Hospitality ON"
+       "titre": "Dana Point landmark Ritz-Carlton, Laguna Niguel resort sells for $600 million",
+       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHJCd1VJcHFFOUQ3UlA5VlZ3ZDd5M21aM1J5bXVmVW1kcTNicWNBcXFzZXQ1aDhwRE5HYUkxMGZ0bnN2eWdHTnBHOFhFeUhieHJyYzJ3OW9rOGpZNVV5SHRkYy1VSTFqQ01NR3FjY2dQTFhFRXZGeDYwd2NYT0RJbTk1RFBXNEpONWNtb25FZFlyRHF4MXlpZ2xJZTAtb04wVWcxam9vd041ZW5HVGRXdmgzeklFY3dBU0E?oc=5",
+       "source": "Los Angeles Times"
       }
      ]
     },
     {
-     "texte": "Marques et distribution : Hyatt et Hilton s'opposent sur l'usage du mot « Select » dans leurs noms de marques, tandis que Wyndham Rewards s'étend aux locations de vacances.",
+     "texte": "En Espagne, RIU a racheté le Grand Hyatt Barcelona, qui deviendra un Riu Plaza en 2027.",
      "articles": [
       {
-       "titre": "Hyatt in Trademark Clash With Hilton Over ‘Select’ in Hotel Brand Names",
-       "url": "https://skift.com/2026/10/30/hyatt-in-trademark-clash-with-hilton-over-select-in-hotel-brand-names/",
-       "source": "Skift"
-      },
-      {
-       "titre": "Lodging Lowdown: Trailborn names new CFO, Wyndham Rewards expands with vacation rentals",
-       "url": "https://www.hoteldive.com/news/trailborn-names-new-cfo-wyndham-rewards-vacation-rentals-/873276/",
-       "source": "Hotel Dive"
+       "titre": "Grand Hyatt Barcelona racheté par RIU : un Riu Plaza en 2027",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWjBXY0xyMVJ5MDZUaGdUQ2kxUkQ5RzhsTTIyYzNVcDZRRGxQX3dJOG0zRkcxYy14Q3NXa05sbkxtY1c3dHNnV21QX1VIaHlHUlZpMVR3RFVZendzRXdNZkpzcGR5QXU5d0hQWjNuUlYtbVFMTjJLNjJCeDBVQ2hiVE5JU1c?oc=5",
+       "source": "La Revue des Hôtels"
       }
      ]
     },
     {
-     "texte": "Réductions de coûts dans le tourisme : Disney supprime plus de 100 postes dans sa division parcs à thème, et Alaska Airlines va licencier 200 employés administratifs en prévoyant une perte en 2026 à cause du carburant.",
+     "texte": "En Suisse, LFPI revient sur l'acquisition du Holiday Inn Zürich Messe et ses enjeux immobiliers.",
      "articles": [
       {
-       "titre": "Disney Cuts More Than 100 Jobs In Theme Park Division",
-       "url": "https://skift.com/2026/10/30/disney-job-cuts-experiences-theme-parks/",
-       "source": "Skift"
-      },
-      {
-       "titre": "Alaska Airlines to Lay Off 200 Employees as It Forecasts a Loss in 2026",
-       "url": "https://skift.com/2026/10/30/alaska-airlines-to-lay-off-200-employees/",
-       "source": "Skift"
+       "titre": "Suisse | LFPI : retour sur l'acquisition du Holiday Inn Zürich Messe et les enjeux immobiliers de l'opération",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWxST2FRSmdYM3ZOVXpQUzVQdzduWHFOTWsxa0ZuX0o4dGJMTG1iWlFGamZnaEtnRDI4QUNpQjZGeGlKS1NWaE1GTE1uVTlNOVpMZF9Rb2pCeHUxbGxEME1Lem5FMDJlQmM5ZEdsc1ZHclcyc00yZ1ROSXRKQk9zS0Uyd0Q4RGN1?oc=5",
+       "source": "La Tribune de l'Hôtellerie"
       }
      ]
     },
     {
-     "texte": "Demande sous pression : à Séville, les hôteliers redoutent des pertes après la collision de deux trains à grande vitesse qui a fait 69 morts le 28 octobre et coupé la liaison avec Madrid, même si les premières nuits résistent. À Paris, le tourisme paie le prix des perturbations du 17 octobre.",
+     "texte": "En Corée du Sud, LOTTE a finalisé la cession de son activité de location pour 1 310,5 milliards de wons, dont le produit doit renforcer les finances de sa branche hôtelière.",
      "articles": [
       {
-       "titre": "Séville : les hôteliers redoutent le pire, les premières nuits résistent",
-       "url": "https://hospitality-on.com/fr/hotellerie/seville-les-hoteliers-redoutent-le-pire-les-premieres-nuits-resistent",
-       "source": "Hospitality ON"
-      },
-      {
-       "titre": "« Comment voulez-vous qu’on vende la France ? » : le tourisme paye le prix du chaos parisien du 17 octobre",
-       "url": "https://www.leparisien.fr/economie/comment-voulez-vous-quon-vende-la-france-le-tourisme-paye-le-prix-du-chaos-parisien-du-17-octobre-31-10-2026-JNN3S3GIFNFEVLNX64B2YKZH4I.php",
-       "source": "Le Parisien Économie"
+       "titre": "LOTTE Completes Sale of Rental Business for KRW 1.3105 Trillion, Proceeds to Strengthen Hotel Finances",
+       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qeG1HSUN4eDdGei1CbkZ4MzBndDNRZWN3UHBfVGlMNHJUamh2M3lOSXB0V1ctTkZMOExhOHZUZ1B5aTJPcmxTeXFXSW5HclB2RFZyYw?oc=5",
+       "source": "더글로벌기빙뉴스"
       }
      ]
     }
