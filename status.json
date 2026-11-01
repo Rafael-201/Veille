@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T06:17:09Z",
+ "generated_at": "2026-11-01T06:09:11Z",
  "sources": [
   {
    "name": "CNBC",
@@ -9,7 +9,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 40
+   "archived": 43
   },
   {
    "name": "Bloomberg Markets",
@@ -19,7 +19,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 48
+   "archived": 51
   },
   {
    "name": "MarketWatch",
@@ -29,7 +29,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 34
+   "archived": 35
   },
   {
    "name": "Les Echos",
@@ -49,7 +49,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 47
+   "archived": 50
   },
   {
    "name": "BCE",
@@ -59,7 +59,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 28
+   "archived": 26
   },
   {
    "name": "CNBC Résultats",
@@ -69,7 +69,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 18
+   "archived": 20
   },
   {
    "name": "The Motley Fool",
@@ -79,7 +79,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 33
+   "archived": 36
   },
   {
    "name": "Le Parisien Économie",
@@ -89,7 +89,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 33
+   "archived": 36
   },
   {
    "name": "Libération Économie",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 27
+   "archived": 30
   },
   {
    "name": "Nature",
@@ -119,7 +119,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 63
+   "archived": 66
   },
   {
    "name": "Quanta Magazine",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 36
+   "archived": 37
   },
   {
    "name": "Futura",
@@ -149,7 +149,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 51
+   "archived": 54
   },
   {
    "name": "SpaceNews",
@@ -169,7 +169,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 23
+   "archived": 24
   },
   {
    "name": "Spaceflight Now",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 19
+   "archived": 16
   },
   {
    "name": "Space.com",
@@ -189,7 +189,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 52
+   "archived": 54
   },
   {
    "name": "ESA",
@@ -209,7 +209,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 40
+   "archived": 41
   },
   {
    "name": "Hospitality ON",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 19
+   "archived": 21
   },
   {
    "name": "Transactions · Amérique latine",
@@ -269,7 +269,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 16
+   "archived": 17
   },
   {
    "name": "Transactions · Europe",
@@ -279,7 +279,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 21
+   "archived": 22
   },
   {
    "name": "Transactions · Europe (FR)",
@@ -289,7 +289,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 15
+   "archived": 16
   },
   {
    "name": "Transactions · Moyen-Orient",
@@ -319,7 +319,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 16
+   "archived": 15
   },
   {
    "name": "Transactions · Afrique (FR)",
@@ -329,7 +329,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 10
+   "archived": 11
   },
   {
    "name": "Marchés · Amérique du Nord",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 43
+   "archived": 46
   },
   {
    "name": "Marchés · Amérique latine",
@@ -349,7 +349,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 35
+   "archived": 38
   },
   {
    "name": "Marchés · Europe",
@@ -359,7 +359,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 38
+   "archived": 39
   },
   {
    "name": "Marchés · Europe (FR)",
@@ -389,7 +389,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 45
+   "archived": 48
   },
   {
    "name": "Marchés · Afrique",
@@ -399,7 +399,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 38
+   "archived": 40
   }
  ]
 }

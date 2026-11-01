@@ -1,33 +1,11 @@
 {
- "generated_at": "2026-10-31T06:17:09Z",
+ "generated_at": "2026-11-01T06:09:11Z",
  "launches": [
   {
-   "name": "GSLV Mk II | IRNSS-1L (NVS-03)",
-   "net": "2026-10-30T18:21:00Z",
-   "status": "Success",
-   "status_label": "Launch Successful",
-   "provider": "Indian Space Research Organization",
-   "pad": "Satish Dhawan Space Centre Second Launch Pad",
-   "location": "Satish Dhawan Space Centre, India",
-   "mission_type": "Navigation",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv-f182fnvs-_image_20261030172350.jpeg"
-  },
-  {
-   "name": "Falcon 9 Block 5 | Starlink Group 15-18",
-   "net": "2026-10-31T04:04:34Z",
-   "status": "Success",
-   "status_label": "Launch Successful",
-   "provider": "SpaceX",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "mission_type": "Communications",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png"
-  },
-  {
    "name": "Electron | The Sea God Surveys (iQPS Launch 9)",
-   "net": "2026-11-02T16:00:00Z",
-   "status": "TBC",
-   "status_label": "To Be Confirmed",
+   "net": "2026-11-02T16:41:00Z",
+   "status": "Go",
+   "status_label": "Go for Launch",
    "provider": "Rocket Lab",
    "pad": "Unknown Pad",
    "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
@@ -88,6 +66,28 @@
    "location": "Xichang Satellite Launch Center, People's Republic of China",
    "mission_type": "Unknown",
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2_image_20230803100234.jpeg"
+  },
+  {
+   "name": "Long March 12 | SatNet LEO Group TBD?",
+   "net": "2026-11-05T21:15:00Z",
+   "status": "Go",
+   "status_label": "Go for Launch",
+   "provider": "China Aerospace Science and Technology Corporation",
+   "pad": "Commercial LC-2",
+   "location": "Wenchang Space Launch Site, People's Republic of China",
+   "mission_type": "Communications",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_20241128132937.jpg"
+  },
+  {
+   "name": "Falcon 9 Block 5 | Starlink Group 15-21",
+   "net": "2026-11-06T02:21:00Z",
+   "status": "Go",
+   "status_label": "Go for Launch",
+   "provider": "SpaceX",
+   "pad": "Space Launch Complex 4E",
+   "location": "Vandenberg SFB, CA, USA",
+   "mission_type": "Communications",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png"
   }
  ]
 }
