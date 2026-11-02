@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T06:08:42Z",
+ "generated_at": "2026-11-02T06:21:36Z",
  "sources": [
   {
    "name": "CNBC",
@@ -49,7 +49,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 52
+   "archived": 53
   },
   {
    "name": "BCE",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 22
+   "archived": 21
   },
   {
    "name": "Transactions · Amérique latine",
@@ -269,7 +269,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 16
+   "archived": 17
   },
   {
    "name": "Transactions · Europe",
@@ -319,7 +319,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 16
+   "archived": 18
   },
   {
    "name": "Transactions · Afrique (FR)",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 49
+   "archived": 48
   },
   {
    "name": "Marchés · Amérique latine",
@@ -349,7 +349,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 41
+   "archived": 42
   },
   {
    "name": "Marchés · Europe",
@@ -379,7 +379,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 33
+   "archived": 34
   },
   {
    "name": "Marchés · Asie-Pacifique",
