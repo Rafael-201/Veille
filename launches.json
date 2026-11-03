@@ -1,38 +1,27 @@
 {
- "generated_at": "2026-11-02T06:21:36Z",
+ "generated_at": "2026-11-03T06:16:18Z",
  "launches": [
   {
    "name": "Electron | The Sea God Surveys (iQPS Launch 9)",
    "net": "2026-11-02T16:41:00Z",
-   "status": "Go",
-   "status_label": "Go for Launch",
+   "status": "Success",
+   "status_label": "Launch Successful",
    "provider": "Rocket Lab",
-   "pad": "Unknown Pad",
+   "pad": "Rocket Lab Launch Complex 1A",
    "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
    "mission_type": "Earth Science",
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
   },
   {
-   "name": "Kinetica 2 | SpaceSail Polar Group TBD?",
-   "net": "2026-11-03T00:10:00Z",
-   "status": "Go",
-   "status_label": "Go for Launch",
+   "name": "Kinetica 2 | SpaceSail Polar Group #17",
+   "net": "2026-11-03T00:15:00Z",
+   "status": "Success",
+   "status_label": "Launch Successful",
    "provider": "CAS Space",
    "pad": "Launch Area 140",
    "location": "Jiuquan Satellite Launch Center, People's Republic of China",
    "mission_type": "Communications",
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kinetica_2_firs_image_20260330153456.jpg"
-  },
-  {
-   "name": "Falcon 9 Block 5 | USSF-432",
-   "net": "2026-11-04T01:28:00Z",
-   "status": "Go",
-   "status_label": "Go for Launch",
-   "provider": "SpaceX",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "mission_type": "Government/Top Secret",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg"
   },
   {
    "name": "Mir | Demo Flight",
@@ -79,15 +68,26 @@
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-2_illustr_image_20251210054657.png"
   },
   {
-   "name": "Electron | The Mountain God Rises (iQPS Launch 10)",
-   "net": "2026-11-10T00:00:00Z",
-   "status": "TBD",
-   "status_label": "To Be Determined",
-   "provider": "Rocket Lab",
-   "pad": "Unknown Pad",
-   "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-   "mission_type": "Earth Science",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
+   "name": "Falcon 9 Block 5 | USSF-432",
+   "net": "2026-11-07T00:46:00Z",
+   "status": "Go",
+   "status_label": "Go for Launch",
+   "provider": "SpaceX",
+   "pad": "Space Launch Complex 4E",
+   "location": "Vandenberg SFB, CA, USA",
+   "mission_type": "Government/Top Secret",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg"
+  },
+  {
+   "name": "Falcon 9 Block 5 | USSF-xxx (\"R-5\")",
+   "net": "2026-11-09T03:17:00Z",
+   "status": "TBC",
+   "status_label": "To Be Confirmed",
+   "provider": "SpaceX",
+   "pad": "Space Launch Complex 4E",
+   "location": "Vandenberg SFB, CA, USA",
+   "mission_type": "Government/Top Secret",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg"
   }
  ]
 }
