@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T06:16:19Z",
+ "generated_at": "2026-11-03T06:18:42Z",
  "indices": [
   {
    "symbol": "^GSPC",
@@ -115,9 +115,9 @@
    "symbol": "^HSI",
    "name": "Hang Seng",
    "region": "asie",
-   "last": 23449.67,
-   "change_pct": 0.24,
-   "month_pct": -2.18,
+   "last": 23420.15,
+   "change_pct": 0.11,
+   "month_pct": -2.3,
    "date": "2026-11-03",
    "currency": "HKD"
   },
@@ -125,8 +125,8 @@
    "symbol": "000001.SS",
    "name": "Shanghai Composite",
    "region": "asie",
-   "last": 3583.21,
-   "change_pct": -1.51,
+   "last": 3583.32,
+   "change_pct": -1.5,
    "month_pct": -6.74,
    "date": "2026-11-03",
    "currency": "CNY"
