@@ -1,67 +1,102 @@
 {
- "generated_at": "2026-11-02T06:21:16Z",
+ "generated_at": "2026-11-03T06:18:13Z",
  "auteur": "Claude",
  "rubriques": {
   "finance": {
-   "titre": "Les craintes autour de l'IA pèsent toujours sur les Bourses, à la veille des élections de mi-mandat américaines et des résultats d'Apple.",
+   "titre": "La correction des valeurs technologiques et de l'IA domine, sur fond de résultats contrastés des géants de la tech et de tensions avec l'Iran.",
    "points": [
     {
-     "texte": "Après le pire mois du Nasdaq depuis plus d'un an, la vague de ventes sur les valeurs liées à l'IA s'atténue, mais les marchés asiatiques restaient fragiles : le S&P/ASX 200 a clôturé en baisse de 0,58 % et le FTSE 100 démarre la semaine en recul avec la baisse du pétrole.",
+     "texte": "Le Nasdaq-100 est entré dans sa troisième correction de l'année, après le pire mois du Nasdaq depuis plus d'un an, même si la vague de ventes mondiale sur l'IA s'atténue. Bill Ackman (Pershing Square) estime que Wall Street pénalise les hyperscalers pour leurs dépenses d'infrastructure.",
      "articles": [
+      {
+       "titre": "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
+       "url": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories",
+       "source": "MarketWatch"
+      },
       {
        "titre": "Global AI sell-off eases after Nasdaq’s worst month in over a year",
        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT08zMXJZU1Fibm1jZjRGMXpfTWtSaGNCS1FDWEZXQ3hJTm5vVjQ1S212bVhKdm1BOEJGTUxBcTBnTzhlMERmY0plSkNjdmhwYVY3a3pnUG5XTWVNOEhUcEFaazd3cGl4cWJKUndXNFNZd3EtNGR4S0x2cFNJc19NazBiSVc?oc=5",
        "source": "Financial Times"
       },
       {
-       "titre": "Asian Stocks to Fall as Tech Rout Fuels AI Fears: Markets Wrap",
-       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUXhSWUZpNlU1UFZVSEtvY3QwQVB4T3FuYlpCT3lpaE05MThfMFFTZVZWWllFZDZDYkJFdTBIWEx1X1ZMVXlESFdaX3Noc2VSSW1QRHFzYzhPZkowLVNZeWR1N2dBN2hlLXY1VlJ3SHJNR3Ayc29JOXN4cXN3bklZQzN5bEctRER1aGp1eFdUVjhITWM0?oc=5",
-       "source": "Bloomberg"
+       "titre": "Bill Ackman's Pershing Square Says Wall Street Is 'Penalizing Hyperscalers' For Build-Out Costs, Ignoring Growth Potential",
+       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZFAwQTlqQjRBeXNBQlZDbGZaOGh5WkdsX1c2SU1PN3pfMjAtcThfTktYS2paVnlhWnliNWI0X0pPMEhraExkbVRsQ0NKTHRvb1J5d0pRb2NTUXJyZF9WTnpwYzlZQVRpQzBlY3dYcEZVVVpScUU3LWF5OC1zcVRNZktXZ1pyMGU5ZzdqQ21lWDNjRC1FbGtNWXNlZHJHWmZEYUpwNzBHM0JtTTBrckNoZ2JIMnpWVnZ0UnJyclN2QU81Q2NDaHVDZVdxSTNZaU1HakxpTW5Qay1vZFdjMDQ2cU05VkRXaXdKd01ZQnQ5bVFZNUhyaHpVdHlIZ3V0QQ?oc=5",
+       "source": "Stocktwits"
       },
       {
-       "titre": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.58%",
-       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX3RYcDZxWFNoM1lkWmpqWkdJazBPSU9maks5SUpmN01BSDBwZTJLcThuVWRQaDBSY05Yc2hUeFMyZlJiUDA3RFFNZ1VLbDcwUzdENWF6Xy1PYkNacG05d1p6VnZyc0NaeUgwbVVCTkRMajRXdWpLbmw2SlJjVHZJeXIyWk9RYXltT2RhM2JJNTNaOHo1U2xILUNMOHc3QzFJTUwycUI3TWUwd0M2X1RxSWFuZUx4NG8?oc=5",
-       "source": "Investing.com"
-      },
-      {
-       "titre": "FTSE 100 Starts The Week Lower As Oil Slides",
-       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RR05ULXhDeDlzMXUwNDUzbnJueGR3V2wwR3hKaHZmSUtSYzZpZER5VjdpQTRtZXBYUkZXdzRjNFVKcTZ6VS1uYkJtMWh2R1FRY0V4RGNaSFN1UXNuZmxnRndQSThfVVBMdFg5ZEhrUUpWRG8xRGtUaUMzcGY3Zw?oc=5",
-       "source": "Finimize"
+       "titre": "Nasdaq Slide Clouds Asian Open, Oil Falls on Iran: Markets Wrap",
+       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTGEyREpLdzRYM3VsY3NTclQ1Y2xud2pYNVl6Y0JhZ3RNczRVVjJ0aG43NmgyWkQ5SU85SmtVWGVCU0wySnBTdkhzZXR3R3RpMWloMWdlckxKM3BBUFB4VU9FbzhDQ2l2dm5xZlIwbFZJTHdJQVVyaU1Qc3djSmowcHdGMDNOVUIyMDdURnFwWWpUbmZN?oc=5",
+       "source": "Bloomberg.com"
       }
      ]
     },
     {
-     "texte": "En Corée du Sud, le KOSPI a enregistré la septième plus forte baisse mensuelle de son histoire et Goldman Sachs a abaissé sa prévision pour l'indice ; Séoul présente en parallèle un budget 2027 record, en hausse de 12,8 % à 820 900 milliards de wons, dont 21 300 milliards pour les semi-conducteurs, l'IA physique et les centres de données.",
+     "texte": "Palantir a vu ses revenus commerciaux bondir de 148 % à 984 M$, dépassant pour la première fois ses revenus publics (953 M$), mais l'action recule sur un ralentissement des contrats commerciaux américains. Apple profite d'un iPhone en plein essor mais son titre baisse face à la pénurie de mémoire et au ralentissement des services, pour le premier trimestre de son nouveau CEO John Ternus.",
      "articles": [
       {
-       "titre": "KOSPI Records Seventh-Largest Monthly Drop in History",
-       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV2RBU1hQWEo3NlFOQmxhUkVzV0FOMVFXeUJtZE0tN0JPTU5FMnM1T00zQU9xcnM1RE5fNV9BOXpMS01vZElYZ2cxWktGSlZKYXQwNXJCMml4UVNfUlVlSWJrNkNCNC1QSld0S1p4ZVNXQzJOOWdmX0ZRelRja1V0SlNQeURCMUs3N1B1VzNB?oc=5",
-       "source": "조선일보"
+       "titre": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
+       "url": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
+       "source": "CNBC Résultats"
       },
       {
-       "titre": "Goldman Sachs Downgrades KOSPI Forecast Amid Market Concerns",
-       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT1pHcmRMU1lWa3k2aVoyMGFSM3g3MW9lR1lJRzc3MnBNeTZtbmxGYTVEdDdjTWtHSzBhT3BxcUpIR0sxVFoyN2xuZUdzajFmUDBnLWNjRGJ1bkFTZ3ZtWDZ3QjlJRzZnU3lzOUo0bExaNjNnZDR1dzEtT1FZWjhQYnM4NkdEaGhJajRkVDRMY0JDamJFaDhnQ0o4SlZ6RkF0?oc=5",
-       "source": "GuruFocus"
+       "titre": "Here’s why Palantir’s stock is down despite a ‘bombastic’ quarter",
+       "url": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
+       "source": "MarketWatch"
       },
       {
-       "titre": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
-       "url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
+       "titre": "Apple’s iPhone business is booming. Here’s why the stock is falling anyway.",
+       "url": "https://www.marketwatch.com/story/apples-iphone-business-is-booming-heres-why-the-stock-is-falling-anyway-07de9fff?mod=mw_rss_topstories",
+       "source": "MarketWatch"
+      },
+      {
+       "titre": "Apple’s new earnings era begins at a critical time for Big Tech",
+       "url": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
+       "source": "MarketWatch"
+      }
+     ]
+    },
+    {
+     "texte": "Les États-Unis auraient frappé l'île iranienne de Qeshm, tandis que le pétrole recule. Saudi Aramco affiche un bénéfice trimestriel en hausse de 9 %, porté par ses raffineries, et le patron de Ryanair prévient que les billets pourraient augmenter jusqu'à 20 % l'an prochain à cause du carburant.",
+     "articles": [
+      {
+       "titre": "U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
+       "url": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
        "source": "CNBC"
+      },
+      {
+       "titre": "Nasdaq Slide Clouds Asian Open, Oil Falls on Iran: Markets Wrap",
+       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTGEyREpLdzRYM3VsY3NTclQ1Y2xud2pYNVl6Y0JhZ3RNczRVVjJ0aG43NmgyWkQ5SU85SmtVWGVCU0wySnBTdkhzZXR3R3RpMWloMWdlckxKM3BBUFB4VU9FbzhDQ2l2dm5xZlIwbFZJTHdJQVVyaU1Qc3djSmowcHdGMDNOVUIyMDdURnFwWWpUbmZN?oc=5",
+       "source": "Bloomberg.com"
+      },
+      {
+       "titre": "Saudi Aramco Profit Rises 9%",
+       "url": "https://www.bloomberg.com/news/videos/2026-11-03/saudi-aramco-profit-rises-9-video",
+       "source": "Bloomberg Markets"
+      },
+      {
+       "titre": "Ryanair CEO warns fares could rise by up to 20% next year",
+       "url": "https://www.cnbc.com/2026/11/02/ryanair-h1-earnings-iran-war-fuel-costs.html",
+       "source": "CNBC Résultats"
       }
      ]
     },
     {
-     "texte": "Les élections de mi-mandat américaines, qui débutent demain, et les chiffres de l'emploi aux États-Unis sont au centre de l'attention des investisseurs, qui y voient la clé de la suite pour le DAX comme pour le S&P 500.",
+     "texte": "La banque centrale australienne a relevé ses taux au plus haut depuis 18 ans, sa cinquième hausse de l'année. Les banques centrales ont acheté de l'or au rythme le plus rapide depuis fin 2024 (WGC), tandis qu'en Inde la hausse des taxes a porté les importations illégales d'or au plus haut depuis trois ans. Les marchés attendent les élections de mi-mandat américaines.",
      "articles": [
       {
-       "titre": "US midterm elections begin tomorrow: Can Trump’s likely defeat sparkle Sensex, Nifty? Here’s what analysts",
-       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQRlhNZE5VcENpa0RjWUMyU3U4ZDVyX2tMZ1ZxdVZmcGJWTHYyUkV6U3RjN0ZLSU1IbjhNc0d5V1IzS3cyMDNTTUJSVzRnTkVsWS1FTUM0OGhjLW5mSWp0VGZGaF9MSEd1SmJYX2ZIREhQRjd6SFJGTUZGeTRBTHpVN3poYmQ3SW4zakZ6cVRCeENNUnd4WGVRQ3BySXNsNHV4eS01NzZma095dksxdFFmOUFEWUZpWDFVMjRfRmxTNC1RTnZwUkNaNmJIcHpWeDVENWFPb25oRUxITmlXaU5ackFDMTdMdnVCbzZCbVJMQzFWTFVzNEdPT2xPRlZ5MzRjMl9wV2xJY3llYVXSAZACQVVfeXFMTXkzOWRJOTRQSGR5QmRMSUh0ejgxWlNYQjhkOGdPUThpSVdwcjJRTU4xdmxEQXI2aElWQU5CNFVDalRSTTdwZnFEbVBBUmVEbHNlOEV3RFIzUURhWG01azVZZWVFSVVLM2NaYnlQTnA2R19Odi1KNVZKOXRMdUZONlVzS0Y2R09TR0I0ZFFvQ1VIMjZJem0xSjFkZFYzdm9teUVybF9IMGVWdjF6anVsYXVoZXlaNjVyT0Y0M2czOHNiVDIwc241SjFGWjg3bHI3MU1LYXhwN3ZiZ0xTTUhZVWZLZS1FX3g4cUJMUE5ILXFKUHByb0ltcFA2VXFxRG1WcGV4YllRdW5IdmJkcmpiT0Q?oc=5",
-       "source": "The Economic Times"
+       "titre": "Australia hikes rates to 18-year high to fight inflation",
+       "url": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
+       "source": "CNBC"
       },
       {
-       "titre": "Further Dax Gains Hinge on US Midterm Elections and Jobs Data",
-       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2duYjN4MXZrNmltZjBZakwyT01QVVlRS0RvM0JDT0NsZnlwUlV6Rkp5SDR1WGR0M1oyQzFmTHExWEJXNW9UMjd5TXlKOXFEUVdCRXE3QzZJRjZTcXU3TFJDWkxWWXN5N0Utc3NvdkJaY3lUOGR4ZDQ0dkttTHNCT052U0xkMThHNy1vbW9DUkJrV2QtTmh4Z2UtdFo5WkM3Z29PZkhaWjM1M0s0RjZCMWZ1a0Y?oc=5",
-       "source": "marketscreener.com"
+       "titre": "Central Banks Buy Gold at Fastest Pace Since 2024, WGC Says",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-03/central-banks-buy-gold-fastest-pace-since-2024-wgc-bullion-precious-metal",
+       "source": "Bloomberg Markets"
+      },
+      {
+       "titre": "India’s Tax Hike Drives Illegal Gold Imports to Three-Year High",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-03/india-tax-hike-drives-illegal-gold-imports-to-three-year-high",
+       "source": "Bloomberg Markets"
       },
       {
        "titre": "S&P 500’s perfect midterm record faces a test in 2026",
@@ -71,27 +106,12 @@
      ]
     },
     {
-     "texte": "Côté résultats, Apple publie exceptionnellement un lundi, premier test pour le nouveau PDG John Ternus face à la flambée des prix de la mémoire ; chez Alphabet, les investissements ont dépassé 50 milliards de dollars sur le trimestre, poussant le flux de trésorerie disponible plus loin en territoire négatif.",
+     "texte": "Côté opérations, Kimberly-Clark rachète Kenvue pour une valeur d'entreprise proche de 49 Md$, et la reprise à 5,5 Md$ de la banque indienne IDBI par un groupe canadien suscite l'opposition des salariés. Binance a enregistré 3,64 Md$ de sorties nettes après un piratage de 6,3 Md$, attribué par Washington à la Corée du Nord, qui dément.",
      "articles": [
       {
-       "titre": "Apple’s new earnings era begins at a critical time for Big Tech",
-       "url": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
-       "source": "MarketWatch"
-      },
-      {
-       "titre": "Is Alphabet's Massive AI Spending a Problem? The CFO Just Revealed Everything Investors Need to Know in a Single Sentence.",
-       "url": "https://www.fool.com/investing/2026/11/02/is-alphabets-massive-ai-spending-a-problem-the-cfo/?source=iedfolrf0000001",
+       "titre": "Kimberly-Clark Acquires Kenvue. Here’s What Investors Need to Know Ahead of Its Nov. 5 Earnings Report.",
+       "url": "https://www.fool.com/investing/2026/11/03/kimberly-clark-acquires-kenvue-heres-what-investors-need-to-know-ahead-of-its-nov-5-earnings-report/?source=iedfolrf0000001",
        "source": "The Motley Fool"
-      }
-     ]
-    },
-    {
-     "texte": "Grandes opérations : un groupe mené par Blackstone rachète à une filiale de Mitsubishi une participation dans LNG Canada pour 3,1 milliards de dollars, tandis que la reprise de la banque indienne IDBI pour 5,5 milliards suscite l'opposition des salariés ; Binance a enregistré 3,64 milliards de dollars de sorties nettes après un piratage de 6,3 milliards attribué à la Corée du Nord.",
-     "articles": [
-      {
-       "titre": "Blackstone Leads $3.1 Billion Deal to Acquire LNG Canada Stake",
-       "url": "https://www.bloomberg.com/news/articles/2026-11-02/blackstone-leads-3-1-billion-deal-to-acquire-lng-canada-stake",
-       "source": "Bloomberg Markets"
       },
       {
        "titre": "Canada-India $5.5 billion bank takeover attracts opposition from workers, politicians",
@@ -104,73 +124,93 @@
        "source": "CNBC"
       },
       {
-       "titre": "BFM Crypto, la chronique : Binance, la Corée du Nord à l'origine de l'attaque - 02/11",
-       "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/bfm-crypto-la-chronique-binance-la-coree-du-nord-a-l-origine-de-l-attaque-02-11_EN-202611020136.html",
-       "source": "BFM Business"
+       "titre": "North Korea denies links to Binance hack as researchers trace stolen billions",
+       "url": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
+       "source": "CNBC"
       }
      ]
     }
    ]
   },
   "science": {
-   "titre": "La recherche contre le cancer domine, avec deux nouvelles pistes contre les tumeurs résistantes et le glioblastome.",
+   "titre": "Paléontologie et archéologie à l'honneur, avec des globules rouges de dinosaure préservés depuis 115 millions d'années.",
    "points": [
     {
-     "texte": "Des chercheurs ont renforcé l'action des cellules immunitaires contre les tumeurs en modifiant leur utilisation des graisses, une piste pour débloquer l'immunothérapie face aux cancers résistants ; à l'Université de Virginie, une approche expérimentale utilisant des ondes sonores ouvre une nouvelle stratégie contre le glioblastome.",
+     "texte": "Des globules rouges en 3D ont été retrouvés dans un os de dinosaure Aratasaurus vieux de 115 millions d'années, découvert au Brésil.",
      "articles": [
+      {
+       "titre": "Dinosaur red blood cells recovered from 115-million-year-old fossil",
+       "url": "https://www.newscientist.com/article/2596881-dinosaur-red-blood-cells-recovered-from-115-million-year-old-fossil/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "source": "New Scientist"
+      },
+      {
+       "titre": "Cette découverte extraordinaire avec un dinosaure nous rapproche-t-elle un peu de Jurassic Park ?",
+       "url": "https://www.futura-sciences.com/planete/actualites/paleontologie-cette-decouverte-extraordinaire-dinosaure-nous-rapproche-t-elle-peu-jurassic-park-139003/#xtor%3DRSS-8",
+       "source": "Futura"
+      }
+     ]
+    },
+    {
+     "texte": "L'analyse des cheveux et ongles de huit enfants incas momifiés montre qu'ils avaient reçu de la cocaïne et de l'alcool avant leur sacrifice. Par ailleurs, de la poussière de sédiments aide à retracer l'histoire génétique des Européens de la dernière période glaciaire.",
+     "articles": [
+      {
+       "titre": "Inca children were drugged before being sacrificed",
+       "url": "https://www.newscientist.com/article/2596878-inca-child-mummies-were-drugged-before-being-sacrificed/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "source": "New Scientist"
+      },
+      {
+       "titre": "Une poignée de poussière révèle les secrets génétiques des Européens de la dernière période glaciaire",
+       "url": "https://www.futura-sciences.com/sciences/actualites/homo-sapiens-poignee-poussiere-revele-secrets-genetiques-europeens-derniere-periode-glaciaire-139014/#xtor%3DRSS-8",
+       "source": "Futura"
+      }
+     ]
+    },
+    {
+     "texte": "En médecine, un médicament conçu pour les lésions de la moelle épinière répare les dommages de l'ADN et réduit l'inflammation cérébrale dans la maladie d'Alzheimer. Des chercheurs ont aussi renforcé l'action des cellules immunitaires contre des tumeurs résistantes en modifiant leur usage des graisses, et stimuler une zone du cerveau liée à l'effort améliore les performances au prix d'une fatigue accrue.",
+     "articles": [
+      {
+       "titre": "Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261102075806.htm",
+       "source": "ScienceDaily"
+      },
       {
        "titre": "Cancer : vers une immunothérapie « surpuissante » contre les tumeurs résistantes ?",
        "url": "https://www.futura-sciences.com/sante/actualites/cancer-cancer-vers-immunotherapie-surpuissante-tumeurs-resistantes-138736/#xtor%3DRSS-8",
        "source": "Futura"
       },
       {
-       "titre": "Scientists use sound waves to deliver a new attack on deadly brain cancer",
-       "url": "https://www.sciencedaily.com/releases/2026/10/261030003017.htm",
-       "source": "ScienceDaily"
-      }
-     ]
-    },
-    {
-     "texte": "Une étude de l'UCLA associe l'exposition prolongée à un pesticide courant à un risque de maladie de Parkinson multiplié par plus de 2,5 et décrit comment le produit endommage les cellules cérébrales.",
-     "articles": [
-      {
-       "titre": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
-       "url": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm",
-       "source": "ScienceDaily"
-      }
-     ]
-    },
-    {
-     "texte": "Selon Nature, la rougeole a fait un retour discret après la baisse des taux de vaccination provoquée par la perturbation des programmes de santé publique pendant la pandémie de Covid-19.",
-     "articles": [
-      {
-       "titre": "Measles made a stealthy return as another virus took the spotlight",
-       "url": "https://www.nature.com/articles/d41586-026-03387-3",
-       "source": "Nature"
-      }
-     ]
-    },
-    {
-     "texte": "Inspirés de la vis d'Archimède, des scientifiques ont conçu un moteur moléculaire qui tourne dans les deux sens grâce à l'électricité, et dont la rotation peut améliorer la conduction électrique.",
-     "articles": [
-      {
-       "titre": "Scientists shrink Archimedes’ screw to the size of a single molecule",
-       "url": "https://www.sciencedaily.com/releases/2026/10/261030002940.htm",
-       "source": "ScienceDaily"
-      }
-     ]
-    },
-    {
-     "texte": "En réalité virtuelle, des poissons néons à nez rouge se révèlent ne suivre qu'un seul voisin influent au sein du groupe ; côté innovation, une étiquette intelligente indiquant si un aliment est encore consommable vise à réduire le gaspillage.",
-     "articles": [
-      {
-       "titre": "Fish pay attention to one influential neighbour in virtual reality",
-       "url": "https://www.newscientist.com/article/2596645-fish-only-pay-attention-to-one-most-influential-neighbor-in-virtual-reality/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "titre": "Zapping part of the brain makes you think harder – at a cost",
+       "url": "https://www.newscientist.com/article/2596810-zapping-part-of-the-brain-makes-you-think-harder-at-a-cost/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
        "source": "New Scientist"
+      }
+     ]
+    },
+    {
+     "texte": "En physique, le LHC du CERN apporte des indices de matière similaire à celle du Big Bang dans des collisions de petits atomes, et une faille théorique pourrait permettre à des trous noirs tournant très vite de se scinder en deux.",
+     "articles": [
+      {
+       "titre": "Large Hadron Collider reveals evidence of Big Bang matter in surprisingly small collisions",
+       "url": "https://www.sciencedaily.com/releases/2026/10/261031221211.htm",
+       "source": "ScienceDaily"
       },
       {
-       "titre": "Un morceau de viande oublié dans un frigo : comment Pilar Granado en a fait une invention contre le gaspillage",
-       "url": "https://www.futura-sciences.com/sciences/actualites/batisseurs-demain-morceau-viande-oublie-frigo-pilar-granado-fait-invention-gaspillage-138439/#xtor%3DRSS-8",
+       "titre": "Scientists just found a loophole that could let black holes split in two",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261101010525.htm",
+       "source": "ScienceDaily"
+      }
+     ]
+    },
+    {
+     "texte": "La Chine permet désormais aux doctorants en médecine clinique d'obtenir leur diplôme sans thèse. Le télescope spatial Swift de la NASA, hors service, va se désintégrer dans l'atmosphère cette semaine.",
+     "articles": [
+      {
+       "titre": "Chinese PhD students in clinical medicine can graduate without a thesis — more degrees to follow",
+       "url": "https://www.nature.com/articles/d41586-026-03480-7",
+       "source": "Nature"
+      },
+      {
+       "titre": "Un satellite de la Nasa va retomber sur Terre cette semaine : faut-il s’inquiéter ?",
+       "url": "https://www.futura-sciences.com/sciences/actualites/telescope-spatial-satellite-nasa-va-retomber-terre-cette-semaine-faut-il-inquieter-139017/#xtor%3DRSS-8",
        "source": "Futura"
       }
      ]
@@ -178,95 +218,160 @@
    ]
   },
   "spatial": {
-   "titre": "NASA précise le déroulé d'Artemis III pendant que le télescope Swift s'apprête à retomber sur Terre.",
+   "titre": "Une semaine chargée en lancements, avec huit tirs prévus, et de nouveaux indices du télescope Webb sur la comète interstellaire 3I/ATLAS.",
    "points": [
     {
-     "texte": "L'administrateur de la NASA Jared Isaacman a détaillé l'architecture d'Artemis III, avec une séquence de vérification en plusieurs lancements, des scénarios de repli et une priorité donnée à Blue Origin.",
+     "texte": "Huit lancements sont attendus cette semaine, dont des Falcon 9 pour des missions de l'US Space Force et des satellites internet chinois. SpaceNews souligne que, malgré un record de lancements l'an dernier, les opérateurs de satellites manquent toujours de capacités d'accès à l'espace.",
      "articles": [
       {
-       "titre": "Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority",
-       "url": "https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/",
+       "titre": "Launch Preview: Falcon 9 to launch USSF missions, China to launch internet satellites",
+       "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-110226/",
        "source": "NASASpaceflight"
+      },
+      {
+       "titre": "How to Expand Reliable, Flexible Access to Space",
+       "url": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/",
+       "source": "SpaceNews"
       }
      ]
     },
     {
-     "texte": "Le télescope spatial Swift de la NASA va bientôt rentrer dans l'atmosphère ; le moment et le lieu exacts de sa chute restent incertains et sont surveillés de près.",
+     "texte": "Le télescope spatial James Webb livre de nouveaux indices sur les origines de la comète interstellaire 3I/ATLAS et sur les conditions de formation planétaire autour d'autres étoiles.",
      "articles": [
       {
-       "titre": "NASA's Swift space telescope is about to crash to Earth. Where will it fall?",
-       "url": "https://www.space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall",
+       "titre": "James Webb Space Telescope uncovers new clues about the origins of 'interstellar invader' comet 3I/ATLAS",
+       "url": "https://www.space.com/astronomy/asteroids/james-webb-space-telescope-uncovers-new-clues-about-the-origins-of-interstellar-invader-comet-3i-atlas",
        "source": "Space.com"
       }
      ]
     },
     {
-     "texte": "Des satellites militaires et civils observent les bolides qui traversent l'atmosphère terrestre, ce qui renforce les connaissances en défense planétaire et sur les impacts de débris.",
+     "texte": "ERMIS-3, CubeSat 8U de l'Université nationale et capodistrienne d'Athènes, a établi une liaison laser avec une station optique au sol, une opération complexe saluée par l'ESA.",
      "articles": [
       {
-       "titre": "Planetary defense: How military and civil satellites are watching fireballs to help keep Earth safe from space rocks",
-       "url": "https://www.space.com/stargazing/meteor-showers/planetary-defense-how-military-and-civil-satellites-are-watching-fireballs-to-help-keep-earth-safe-from-space-rocks",
-       "source": "Space.com"
+       "titre": "CubeSat achieves challenging laser link to ground",
+       "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/CubeSat_achieves_challenging_laser_link_to_ground",
+       "source": "ESA"
       }
      ]
     },
     {
-     "texte": "Image du jour : un long nuage observé sur Mars (APOD du 2 novembre), après les couleurs de la Lune la veille ; on rappelle aussi le lancement par l'URSS de la sonde Mars 1 le 1er novembre 1962.",
+     "texte": "La NASA célèbre les 65 ans du Johnson Space Center de Houston, dédié aux vols habités, et documente depuis l'espace une saison de tempêtes intense dans le Pacifique, avec le super typhon In-fa et les restes du typhon Champi qui ont frappé l'Alaska.",
      "articles": [
       {
-       "titre": "APOD: 2026 November 2 – A Long Cloud on Mars",
-       "url": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
+       "titre": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
+       "url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
        "source": "NASA"
       },
       {
-       "titre": "APOD: 2026 November 1 – Colors of the Moon",
-       "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
+       "titre": "The Pacific’s Busy Storm Season",
+       "url": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/",
        "source": "NASA"
-      },
-      {
-       "titre": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
-       "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-1-2026",
-       "source": "Space.com"
       }
      ]
     }
    ]
   },
   "hotellerie": {
-   "titre": "Les transactions font l'actualité, avec la vente de l'InterContinental de Miami pour environ 300 millions de dollars.",
+   "titre": "Les transactions dominent, de l'InterContinental Miami au rachat des hôtels de Dalata par Scandic, tandis que Marriott et Choice publient de solides résultats trimestriels.",
    "points": [
     {
-     "texte": "Un partenariat mené par Gencom a acquis l'InterContinental du centre-ville de Miami, 652 chambres, pour environ 300 millions de dollars.",
+     "texte": "Gencom rachète l'InterContinental de Miami pour environ 300 M$. Dans le Golfe, DAMAC acquiert le projet hôtelier d'Al Marjan Island, et le groupe émirati Al Habtoor se retire totalement du Liban en cédant hôtels et immobilier après plus de 1,7 Md$ de pertes.",
      "articles": [
       {
-       "titre": "Gencom-Led Partnership Acquires Downtown Miami’s 652-Room InterContinental Hotel",
-       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbkVYNzU1eXVlNEp3RmxXRXdzNndmRi04Q2RmRTVUdnJXTzV0a0toa3BxNHltV1l0Ykw3Zno3TDYwRkdYUFIxMUVxbERZYjJwTFJjeXVJTHRUSURZNVFGd1F6RzMtR0NxQkM1WlJNNjhMYmxIOTdpQzRBS1NKZGd1ZHZKWjEwd3ZzMnV5SGlocmtPY0Vxdmp3UkE5T0tGeDRpcTJUdGs2eHdLWjlGbG9JVmJNX0gtY1hGQmV2WDJCbG4wMXhVenpLcEtB?oc=5",
-       "source": "Luxury Travel Magazine"
+       "titre": "Gencom acquires iconic InterContinental Miami hotel",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHRCS2s0X3hoakZfaUhDZzZ0RURBajdPRnV1VkNOUzQ1cjlKTzB5ZXpjQ3FaajdKOUtUaWtyTmJxSzNjeEMxMVBWVTMtOU12ajh2ZHE1ajZkQ1dKeXdIZVVQTlliS0FoRS1uSnEwcnlKMEZTU0Q5c095MkFQVk9jdzRYTmk2UWo1X2Y0dVpB?oc=5",
+       "source": "Travel Daily Media"
       },
       {
        "titre": "Downtown Miami InterContinental Hotel Sells for About $300 Million",
        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdEZVSjdlRk5RaElUR01sX0hGZFdJbUg2elBpV3V3WlVyOFdScDU3b1loRHJIVkxKSW1LMjlnYmM4VmozOUpHaDEzRDJHVng3bERXNE9xdXU0cXlFcE5FamY1QzhqdEViM2xSbnZVYW9XdkhkR25lQS01Z0dwWTd3NGttYWhUMEJBZWQ1ZWVFM2xQNkd5TlF4M0wtWQ?oc=5",
        "source": "Hoodline"
+      },
+      {
+       "titre": "Al Marjan Island hotel project sold to DAMAC for reported fourfold return on equity",
+       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbmtfOXZFb2ltanZwVHVOX2ZNUWxUQ2E3amhwUFhMdlhFenAwWEZTWl9WXy1kQXZVQzJDT2NhLUV6YXJfREo5QUc2WWhweEU2SEVLemFudXdlTkMzQ1l4TDFENnpvZ1NqOG9TSzMwdEtHMWNCWmF1NWxlcHk1dGY5ZzVOeV9OVmowSWgyRHJqZ21TS1ZFWldLaTVESFpwLUZ0YVR0VkZzazh1YzVDZUhjRHd5TU93Zzhqd3dTdngwMTJTdnF3Tzlkejk5MUhtU0pHamVpc1pZZTRvbW12QkE?oc=5",
+       "source": "Zawya"
+      },
+      {
+       "titre": "UAE's Al Habtoor Group Fully Exits Lebanon, Sells Hotels and Real Estate After Losses Exceed $1.7 Billion",
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiemx2aVBjMG5tSGVoc1lsTnNwbHhkU05PZWxoVmNtSVRKaFR1bzU1b3VYLWgtSnhCQXk4T01xQ1hpN3BsWXdTUVUyVHNhS2U3Ym1ueVFMQTNtREk3b3k3QXlJb1diQU1MYTB1dzF3RmxJSHRVREE?oc=5",
+       "source": "BigGo Finance"
       }
      ]
     },
     {
-     "texte": "RIU Hotels acquiert son premier hôtel à Barcelone.",
+     "texte": "En Europe, Scandic Hotels a finalisé l'acquisition des activités hôtelières de Dalata, RIU acquiert son premier hôtel à Barcelone, l'Eccles Hotel de Glengarriff (Irlande) a été vendu et le boutique-hôtel The Brunswick passe au Holidayist Group.",
      "articles": [
+      {
+       "titre": "Scandic Hotels Group Completes Acquisition of Dalata’s Hotel Operations",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdFBtaXlLTGNaeGY0TVFtYlJJekg5Q2g5Z2lhYnRrMW9tSDR3ODQzS19VcFloZTVOYWdlMnVNUTZJSmxQenVHVjRMaUdYS3gtSUsybzc0UFhBazluNzBPcVBUcUNYY0VnaGdHamZkdFlfRjRIV0NTS2NPRE1MVTNqZzBldldraXltTGtjelFwTXVUdWtXRlA4TkFhSWtJeEhiSXdSTHlxbw?oc=5",
+       "source": "Hotel Online"
+      },
       {
        "titre": "RIU Hotels acquires first Barcelona hotel",
        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcjZRRUdvTHVrcUhhNG9MaGRYNS1NekVVNHM0WmNsMHVIdzMybl9IY1VycHdvaGFiX0g2ay1EY1VnM0YwcXQ4MUFkZ2IxVF9YazNWQ3hIZ0tBWkpqWHo5UUNTelptWTFrSnp0a0s0b1FVY2pwa1Z2QW5GUFJ6azVIZg?oc=5",
        "source": "Travel Daily Media"
+      },
+      {
+       "titre": "The Eccles Hotel Glengarriff In West Cork Is Sold",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTjBxTWlkdFlQUkZYUG96Wi1qTmdVeUdCSm9wMzlkaFZ1Z3FaeUh5NHczWVVsaHBnSHZ3d1ZWMVYyMHNvNDhwNmdGc1FCcU9pTHM0SnNYQy10endkcFJSM041UG1JdUJSVmZWcHZ6dlU4SUQ5UFZvQ2UtUmVZb3Y5Vnhxb3pxQmEzYmVFejFMa3pYbE5fWGt6bEdrcnAtQQ?oc=5",
+       "source": "Hospitality Ireland"
+      },
+      {
+       "titre": "The Brunswick boutique hotel sold to The Holidayist Group - CBRE Hotels",
+       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNckRodndDRmRjb1ZzRjJIb2NtdFZxLVVWRWdGOFhNTkJGNVhEMEhQM1djRG5PNWNUbjd4N1AzRWNOeFJuWVhDN3A0aUxlYTNoNkNOc2VlSkxHWElONXJIV1NNSFRlV3JhVXV4cjdVdzFyd0lib0x6MTU1LXl5eW1IVFM1ZHBHdEJIZkVQakN0NGFhY0Qwb0ZqYXpHbGlvM29keUVXLU5McGxZMWFEVEV1UnR6Vzk3MFZNWEVyQkJOYi00VFh1a0VzSkY2TQ?oc=5",
+       "source": "The Hotel Conversation"
       }
      ]
     },
     {
-     "texte": "À Aix-les-Bains, un hôtel du centre-ville racheté va voir ses chambres transformées en galeries d'art.",
+     "texte": "Marriott affiche au troisième trimestre un RevPAR solide et des gains en développement, portés par une demande « remarquablement robuste ». Choice Hotels voit son RevPAR américain progresser de 3,8 % sur un an et cite les séjours longue durée comme moteur de croissance.",
      "articles": [
       {
-       "titre": "Insolite. Elle rachète un hôtel dans le centre-ville d'Aix-les-Bains, les chambres vont devenir des galeries d’art",
-       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObUl4T0ZzMGh2Sk1zMXEtZ0dqTlZILUR4cm1ISV92YXBiY1Z1Nmw4a2s5Sl9HZ29ob0NBaXBRMjBFOUstS2NRVmtyenhtVDIzNENaM1lPbGM3cXFTUW8xR2p3RDJEMUVUM3E4ZFZTLUd2eDNJaVprbThIdTRhVHJrZEo1dG1WY09fWU15akJOb05YYlNMMU5pNF84MkprUncxaVJJOW9KbWFlekZXRGVxMjA0Z1ZNQXZKMlVkMkJSRDUzYmNjTk1sbHFkc0FGWVFBazlPeXVPb2tRVEhQNU5mWHZZQ2w?oc=5",
-       "source": "Le Dauphiné Libéré"
+       "titre": "Marriott saw strong RevPAR, development gains in Q3",
+       "url": "https://www.hoteldive.com/news/marriott-q3-2026-earnings/873422/",
+       "source": "Hotel Dive"
+      },
+      {
+       "titre": "Choice Hotels cites extended stay as ‘key growth driver’ in Q3",
+       "url": "https://www.hoteldive.com/news/choice-hotels-q3-2026-earnings/873485/",
+       "source": "Hotel Dive"
+      }
+     ]
+    },
+    {
+     "texte": "Dans le Golfe, les réservations de haute saison sont en suspens jusqu'après les élections de mi-mandat américaines, et le prix du kérosène continue de grimper selon le Skift Aviation Forum.",
+     "articles": [
+      {
+       "titre": "Gulf Hotels’ Peak Season Stalls as Travelers Wait Out the U.S. Midterms",
+       "url": "https://skift.com/2026/11/03/gulf-hotels-peak-season-stalls-as-travelers-wait-out-the-u-s-midterms/",
+       "source": "Skift"
+      },
+      {
+       "titre": "Skift Aviation Forum 2026: Five Decisions in the Room",
+       "url": "https://skift.com/2026/11/02/skift-aviation-forum-2026-five-decisions-in-the-room/",
+       "source": "Skift"
+      }
+     ]
+    },
+    {
+     "texte": "Côté distribution, Hyatt refond son programme Leverage pour les PME avec la technologie Spotnana, et S4BT lance avec Trevium et Pliant un Wallet mobile donnant accès à la carte virtuelle de réservation. Le salon EquipHotel se tient à Paris du 2 au 5 novembre.",
+     "articles": [
+      {
+       "titre": "Hyatt revamps program aimed at small and midsize businesses",
+       "url": "https://www.hoteldive.com/news/hyatt-revamps-hyatt-leverage-program-for-small-midsize-businesses/873434/",
+       "source": "Hotel Dive"
+      },
+      {
+       "titre": "« Aucune raison qu’un paiement hôtelier autorisé soit plus compliqué » : S4BT lance son Wallet",
+       "url": "https://hospitality-on.com/fr/distribution/aucune-raison-quun-paiement-hotelier-autorise-soit-plus-complique-s4bt-lance-son",
+       "source": "Hospitality ON"
+      },
+      {
+       "titre": "EquipHotel 2026 : quatre jours de rencontres au studio Hospitality ON",
+       "url": "https://hospitality-on.com/fr/hotellerie/equiphotel-2026-quatre-jours-de-rencontres-au-studio-hospitality",
+       "source": "Hospitality ON"
       }
      ]
     }
