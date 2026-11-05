@@ -1,42 +1,22 @@
 {
- "generated_at": "2026-11-04T06:18:02Z",
+ "generated_at": "2026-11-05T06:18:13Z",
  "auteur": "Claude",
  "rubriques": {
   "finance": {
-   "titre": "La victoire démocrate aux midterms américaines fait reculer les Bourses mondiales, surtout les valeurs technologiques liées à l'IA.",
+   "titre": "La large victoire des démocrates aux midterms américains secoue les marchés, entre craintes pour la tech et l'IA et rebond en Europe.",
    "points": [
     {
-     "texte": "Les démocrates remportent le Sénat et se rapprochent du contrôle de la Chambre. Les contrats à terme américains chutent et les Bourses européennes s'orientent à la baisse, les investisseurs craignant une régulation plus stricte pesant sur l'IA ; les tarifs douaniers et la guerre commerciale pourraient aussi évoluer.",
+     "texte": "Les démocrates ont remporté le Sénat et s'approchent du contrôle de la Chambre lors des midterms. La perspective d'une régulation plus stricte a pesé sur les valeurs technologiques et de l'IA : les contrats à terme américains ont reculé, les actions japonaises ont chuté et le Kospi a perdu 3,89 % avec des déclenchements de « sidecars » de vente en Corée du Sud.",
      "articles": [
       {
-       "titre": "Democrats win the Senate and close in on control of the House. Here’s what it means for your finances.",
-       "url": "https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories",
-       "source": "MarketWatch"
+       "titre": "U.S. midterm elections in pictures: Democrats' sweeping victories deliver rebuke to Trump",
+       "url": "https://www.cnbc.com/2026/11/04/us-midterm-elections-in-pictures-democrats-republicans-trump.html",
+       "source": "CNBC"
       },
       {
-       "titre": "US stock futures tumble as Democrats score key midterm election wins",
-       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0pDNnUzcXBvUE9TZGI1Y3EyYW5udGlWZVNwUGk0MHItSDFCYWprSEc4aGNoeXVWWkdweGs0ZzRBU0xSN0ZjcGVCLTJYMTFBWVhxbUM1U0lvYTUxNTBUaUg1aFQtamhsR0FISy1rUi0yN25oRmhYZy1iRUctWTFxLXpTNnF3NHYzbkhZVmxQUkRZQ2s0Q0I2RUFRa0pYYUJqZzRn0gGoAUFVX3lxTE1aNkcyZk4yNFF0Q2k3Y3V5QjN5ZEF2TE5EODFVZTB3VGtWUnVkLU9ZTlRER3JEdDA3ZC1EQXFjcDZWYkRhbHM5OXg4di1oRms4MndEbzRNbDE5UmJaV21JbTRGNV9FclJ0b0lNYjhONDdLbXlaSW9waEJfWVdwNkt2QTJjMkxRc05NeVNOOE80U0lRdW1ITTNHdm1ncV9yQUgyN1JMX1RPeA?oc=5",
-       "source": "Fox Business"
-      },
-      {
-       "titre": "European Stocks Set to Dip as Democrat Sweep Stokes AI Worries",
-       "url": "https://www.bloomberg.com/news/articles/2026-11-04/european-stocks-set-to-dip-as-democrat-sweep-stokes-ai-worries",
-       "source": "Bloomberg Markets"
-      },
-      {
-       "titre": "Midterms : quels changements pour la politique économique ?",
-       "url": "https://www.bfmtv.com/economie/video-midterms-quels-changements-pour-la-politique-economique_VN-202611040158.html",
-       "source": "BFM Business"
-      }
-     ]
-    },
-    {
-     "texte": "Repli marqué en Asie : le KOSPI coréen perd 3,89 % sous la pression des ventes étrangères, les actions japonaises reculent sur la tech et le dollar baisse. La veille, Paris, le SMI et les marchés européens avaient terminé en baisse, sur fond de frappes américaines en Iran et d'attente des élections.",
-     "articles": [
-      {
-       "titre": "KOSPI Falls 3.89% as Foreign Selling Pressure Mounts",
-       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWXZfb3RnampuSk8tdlduQjFvRnJlQzRFc2cwQXJsaEVqRHRldTB6dTFwdkV0eVdHb0tTVEd6aFJyN0VWbjNWNTN1d2c1RzgzRnVqWVp0N0piSGk2TTYtZExGMjJ1bGlOeTNuaHVrWkY2ZEgzSEZ0ejZUVXZWUDlqMHlCQ2ltaC1MdUU5eGl3?oc=5",
-       "source": "조선일보"
+       "titre": "Stock futures drop as Wall Street confronts the ‘blue tsunami’ threat to the AI boom",
+       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3ZnZlRJQm9TTnFUd19yM3hZeDFieUkwLW1lVHpSV1R4MW8zbmlTcEQyODA4bzZVS2o5bjFIdGVJNDZjZ2h4S0RiaTgtSHBEX216Y0czWGtfeERWY2REODZNUEhyclhqc1pCUTNfeUkweVAxdVNteXZmVTBNc2x0ZEcxZjBFSTl5VmdrVjNzVQ?oc=5",
+       "source": "NBC News"
       },
       {
        "titre": "Japanese Stocks Sink as US Midterm Results Hit Tech Shares",
@@ -44,24 +24,49 @@
        "source": "Bloomberg Markets"
       },
       {
-       "titre": "Asian stocks and dollar fall as Democrats gain ground in US midterms",
-       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTy1LVkxNS1UxNzNudndSRE82UUcxNk1RQUFiOXprUUJySTdGRnBFaFNWSHRmaklLbTZNazYyMFMwa2xfSDIzVDBZSmRCNVBXQ2FHaWZiZUJRb011SGlVdFBEWWpyajJUUXZkWUM0RlpiX2c2UExjLUpsZFFyZWdsdjQ2WmtiSzJfa0Q2cWhaTFM5QTNzVFoxdVFXeWVqc3BRVEJFVnh5dw?oc=5",
-       "source": "Euronews.com"
-      },
-      {
-       "titre": "Les marchés européens clôturent en baisse mardi, sur fond de frappes américaines en Iran et à l’approche des élections américaines",
-       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcUVEclJqc3lnU1N1NHI0a1R5MHlWVDZEa1FOQ2JiMGw0d2UxQklyTmE4LUJTdUtzeDdveTlxeG5zOEJERFd2RW1Ud2NIYl9HdkhNN183RTJ3bXZZQS1ycHRpaWhzYmFGRS15OVJmN3NwT1JXYm1zcnZkZEUzVUtpNzZlZmhDNExSSUNRbHREOHQ2MW5WcmFPaDg1d2xpTkRLSXBZVDdid0hOMkxJeUVOUkx6NjRlc253R1doTWthb0JSeVpHbjhhMV9DYzljNV9VRjFaWVFUYktlT0QySFV6bFlHLUI4N1drUVcwUWl0RQ?oc=5",
-       "source": "Zonebourse Suisse"
+       "titre": "KOSPI Falls 3.89% as Foreign Selling Pressure Mounts",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWXZfb3RnampuSk8tdlduQjFvRnJlQzRFc2cwQXJsaEVqRHRldTB6dTFwdkV0eVdHb0tTVEd6aFJyN0VWbjNWNTN1d2c1RzgzRnVqWVp0N0piSGk2TTYtZExGMjJ1bGlOeTNuaHVrWkY2ZEgzSEZ0ejZUVXZWUDlqMHlCQ2ltaC1MdUU5eGl3?oc=5",
+       "source": "조선일보"
       }
      ]
     },
     {
-     "texte": "Résultats trimestriels contrastés dans la tech : AMD bondit de 8 % avec un chiffre d'affaires data center presque doublé, Super Micro profite de la demande en serveurs IA, tandis que Palantir recule malgré un trimestre solide et qu'Apple baisse en dépit d'un iPhone en plein essor, pénalisé par la pénurie de mémoire.",
+     "texte": "Les places européennes ont ensuite nettement progressé : la Bourse de Paris a fini en forte hausse et le SMI a clôturé pour la première fois au-dessus de 15 000 points. Les actions asiatiques étaient attendues en hausse après le rebond de Wall Street, sur fond de recul du pétrole.",
      "articles": [
       {
-       "titre": "AMD stock jumps 8% on earnings as data center revenue nearly doubles",
-       "url": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+       "titre": "La Bourse de Paris en nette hausse après les \"midterms\"",
+       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSThFNlBWXzVzaGtlOWF2blpwbi1vRTEyaExoNmo1YXN4WEVfbmk5T1R5SFhHT05BVW1tcmJCYkxtMU5OR3AtN2xSVmNtNGdZV2ZvdThXQnNzd1NtUHVwRVJWTm1Ta1VDTF9OeW9Tb29BNm1YWEdPMUc5cXhuS2xpRER4ZnRnTkhKNUJCNGJ1TXpkb0U?oc=5",
+       "source": "lecourrier.vn"
+      },
+      {
+       "titre": "SMI: 1ère clôture à plus de 15'000 points",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYzhpWjgzTEZZdzM3QWR4ZDlUd0pIQXZpckczLUlqUDJFZ3JISmI5YW1vMWhTaHhKRm1uNTBZX1dtUklhYXJ3TWgzNVlMWG5BdDQ3ZmNmRjdtT1JOV0hISElUQzVUN2UxVGhPemFBYjZXclhaaFhpbHBOQ0hodVo5Q25IZ09tYzFy?oc=5",
+       "source": "Radio Lac"
+      },
+      {
+       "titre": "Shares advance after Wall Street rally following US midterm elections",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONUhhcWNUOHVNT2x2Wm1DTUhKVlhwejdIQ0FWeFlaT19pQzU3TU9Qb3g0YW9rQUc2Wmx0YXh4M21aaWdZWFJERGJnclJGblJ0dzlTREJGZGZ1REVIdGI4M2lMbjJXLW5yWmtqSGdGdnBsUGlFSTRuajdUTjJyRlAxLTFPaHhpUm13?oc=5",
+       "source": "Yahoo Finance UK"
+      },
+      {
+       "titre": "Asian Stocks to Rise as Oil Slides After US Vote: Markets Wrap",
+       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaHBnOEludEdwalhTMXRiLWFQbk9RRVVIVGYzY3cwZUk4TmxLY1hnZExZQTZBTExfR2l2TmpJNXUwRWUwc21Jd0EzZklqc2hCbnRta19OU1lQV2NTdjhuNUZxaGQwaHlBZG51eG44WXFxNTNuX1FRYVluOGdaTFptSWRFY3J1ZTdMTlFzY3VmYVhkbDJH?oc=5",
+       "source": "Bloomberg.com"
+      }
+     ]
+    },
+    {
+     "texte": "Saison des résultats contrastée dans la tech : Qualcomm recule de 7 % sur des prévisions faibles, la pénurie de mémoire pesant sur les smartphones, tandis qu'AMD et Super Micro progressent grâce à la demande liée à l'IA. Figma baisse malgré des résultats supérieurs aux attentes, les investisseurs s'inquiétant du coût de ses fonctionnalités d'IA.",
+     "articles": [
+      {
+       "titre": "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales",
+       "url": "https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html",
        "source": "CNBC Résultats"
+      },
+      {
+       "titre": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
+       "url": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
+       "source": "MarketWatch"
       },
       {
        "titre": "Super Micro’s stock pops as earnings show booming demand for AI servers",
@@ -69,143 +74,128 @@
        "source": "MarketWatch"
       },
       {
-       "titre": "Here’s why Palantir’s stock is down despite a ‘bombastic’ quarter",
-       "url": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
-       "source": "MarketWatch"
-      },
-      {
-       "titre": "Apple’s iPhone business is booming. Here’s why the stock is falling anyway.",
-       "url": "https://www.marketwatch.com/story/apples-iphone-business-is-booming-heres-why-the-stock-is-falling-anyway-07de9fff?mod=mw_rss_topstories",
-       "source": "MarketWatch"
+       "titre": "Figma sinks after earnings beat as company prioritizes long-term growth with AI changes",
+       "url": "https://www.cnbc.com/2026/11/04/figma-fig-q3-earnings-report-2026.html",
+       "source": "CNBC Résultats"
       }
      ]
     },
     {
-     "texte": "Énergie et grandes opérations : alors que les États-Unis ont frappé l'île iranienne de Qeshm, Saudi Aramco affiche un bénéfice trimestriel en hausse de 9 %, porté par ses raffineries et la hausse du pétrole liée à la guerre en Iran, et XRG (Abu Dhabi) rachète pour 1,45 milliard de dollars la participation de Shell dans un projet GNL australien. 3M s'engage à verser 7,35 milliards de dollars à plus de 100 000 victimes des PFAS.",
+     "texte": "En France, l'Assemblée nationale a rejeté à l'unanimité, le 4 novembre, la partie recettes du projet de loi de finances 2027, qui passe au Sénat. Une large intersyndicale appelle à la grève et à manifester ce 5 novembre pour les salaires et le coût de la vie.",
      "articles": [
       {
-       "titre": "U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
-       "url": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
-       "source": "CNBC"
-      },
-      {
-       "titre": "Saudi Aramco Profit Rises 9%",
-       "url": "https://www.bloomberg.com/news/videos/2026-11-03/saudi-aramco-profit-rises-9-video",
-       "source": "Bloomberg Markets"
-      },
-      {
-       "titre": "XRG to Buy Shell Australian LNG Plant Stake for $1.5 Billion",
-       "url": "https://www.bloomberg.com/news/articles/2026-11-03/abu-dhabi-state-oil-producer-xrg-buy-shell-stake-australian-natural-gas-project",
-       "source": "Bloomberg Markets"
-      },
-      {
-       "titre": "Un accord de 7,35 milliards de dollars: l'industriel américain 3M s'engage à dédommager plus de 100.000 plaignants victimes de contamination aux PFAS, les \"polluants éternels\"",
-       "url": "https://www.bfmtv.com/economie/entreprises/industries/un-accord-de-7-35-milliards-de-dollars-l-industriel-americain-3m-s-engage-a-dedommager-plus-de-100-000-plaignants-victimes-de-contamination-aux-pfas-les-polluants-eternels_AD-202611040167.html",
-       "source": "BFM Business"
-      }
-     ]
-    },
-    {
-     "texte": "Macroéconomie : la Banque de réserve d'Australie relève ses taux pour la cinquième fois cette année, à un plus haut de 18 ans. En France, la croissance patine et un rapport parlementaire propose des pistes pour réduire le prix des carburants. Ferrari relève ses prévisions 2026 après un trimestre supérieur aux attentes.",
-     "articles": [
-      {
-       "titre": "Australia hikes rates to 18-year high to fight inflation",
-       "url": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
-       "source": "CNBC"
-      },
-      {
-       "titre": "La croissance patine encore… Et il va falloir faire encore plus d’économies",
-       "url": "https://www.leparisien.fr/economie/la-croissance-patine-encore-et-il-va-falloir-faire-encore-plus-deconomies-03-11-2026-VJDDFEPCA5AXBGT5DR5ZELWPKQ.php",
-       "source": "Le Parisien Économie"
-      },
-      {
-       "titre": "Prix des carburants : le remue-méninges des députés pour réduire la facture à la pompe",
-       "url": "https://www.liberation.fr/economie/conso/prix-des-carburants-le-remue-meninges-des-deputes-pour-reduire-la-facture-a-la-pompe-20261103_WHU2O52B5BGC7DPNJGIXXRFZSI/",
+       "titre": "Budget 2027 : l’Assemblée nationale rejette à l’unanimité une copie budgétaire distordue et périmée",
+       "url": "https://www.liberation.fr/economie/budget-2027-a-lassemblee-nationale-le-rejet-attendu-dune-copie-budgetaire-distordue-et-perimee-20261104_D42ACMWWHBBZ5C45PUSPCKO6LI/",
        "source": "Libération Économie"
       },
       {
-       "titre": "Ferrari raises 2026 guidance after Q3 earnings beat",
-       "url": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
-       "source": "CNBC Résultats"
+       "titre": "France Braces for Marches and Strikes Amid Stalled Budget",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-05/france-braces-for-marches-and-strikes-amid-stalled-budget",
+       "source": "Bloomberg Markets"
+      },
+      {
+       "titre": "Mouvement social : ce 5 novembre, un rêve de grève générale ?",
+       "url": "https://www.liberation.fr/economie/social/mouvement-social-ce-5-novembre-un-reve-de-greve-generale-20261104_KS5D463DKFBP3HOUNIYDMB5YTI/",
+       "source": "Libération Économie"
+      }
+     ]
+    },
+    {
+     "texte": "Ailleurs, la Chine envisage une émission d'obligations souveraines en dollars et en yuans offshore dès ce mois-ci, le peso mexicain s'apprécie avant la décision de Banxico, Dubaï mène les gains dans le Golfe et l'huile de palme tombe au plus bas depuis juin sur des craintes de stocks en Malaisie.",
+     "articles": [
+      {
+       "titre": "China Mulls Dollar, Offshore Yuan Sovereign Bond Sale This Month",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-05/china-mulls-dollar-offshore-yuan-sovereign-bond-sale-this-month",
+       "source": "Bloomberg Markets"
+      },
+      {
+       "titre": "Mexican Peso climbs on Democratic sweep ahead of Banxico call",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeENYUG9mb21lMmZCcXVkMTk3ZkJwWnYtMHo5RmVnc1NMZFNqQ2ZaazAtZjA0ZXl0anUwLTEzWVVwWDhTTlk1R1hyVUxiR201ZWw4anp0Y1YwMHh1SHdiOHVkeXYwZzBkcFF0bFRJdlAwQ1VBdjZLbUZKZUlVN09idG1CY2FUemJjaGxNMGd4LUFEbVlEZUVKLU1KSjlnLVpFUWRQbmVNQQ?oc=5",
+       "source": "FXStreet"
+      },
+      {
+       "titre": "Mideast Stocks: Dubai leads Gulf gains as investors assess US midterm fallout and Iran standoff",
+       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdk5jS3FaejRsNjM0Nm93X2tGNEdBOE1rY21KTWZBUUROdjZ3Nk9mb0NjTXNfWWxPWkdUSW9aUFV5N3R0ay16MXF0TmtXSWdERG9ycGx4V0c5WUJkT1A2SktlZlFYRXA4TEw4V0dmSGNWY1psN19oYUx6d1NJSGx6aU5KNHRHakl6SVNjLW9QLWZKSHFtUUFqdFZkcFpGUEZ5QWNOX2pxbkYwaDFra09feVN4RGppMFpMbUw4LXczcHJseTZxQWpONUdtSl9yMzFMa1VIRi1CSVp2T3M?oc=5",
+       "source": "Zawya"
+      },
+      {
+       "titre": "Palm Oil Sinks to Lowest Since June as Stockpile Concerns Mount",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-04/palm-oil-sinks-to-lowest-since-june-as-stockpile-concerns-mount",
+       "source": "Bloomberg Markets"
       }
      ]
     }
    ]
   },
   "science": {
-   "titre": "Santé et physique fondamentale dominent, avec de nouvelles pistes contre Alzheimer et le cancer et des découvertes inattendues sur la matière primordiale et les trous noirs.",
+   "titre": "Archéologie et neurosciences dominent, avec des gravures préhistoriques d'au moins 19 000 ans en Espagne et une nouvelle hypothèse sur le croisement des connexions cerveau-corps.",
    "points": [
     {
-     "texte": "Alzheimer : un médicament initialement développé pour les lésions de la moelle épinière répare les dommages à l'ADN et réduit l'inflammation cérébrale, tandis qu'un matelas vibrant associé à des pilules libérant de l'oxyde nitrique favorise l'élimination d'une protéine liée à la maladie.",
+     "texte": "Dans une grotte espagnole très fréquentée, l'examen d'une paroi a révélé un ensemble spectaculaire de gravures rupestres d'au moins 19 000 ans. En Grande-Bretagne, Verica, souverain de l'âge du fer qui avait encouragé l'invasion romaine de Claude, était probablement une femme.",
      "articles": [
       {
-       "titre": "Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261102075806.htm",
-       "source": "ScienceDaily"
+       "titre": "Stunning collection of prehistoric engravings found in Spanish cave",
+       "url": "https://www.newscientist.com/article/2597300-stunning-collection-of-prehistoric-engravings-found-in-spanish-cave/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "source": "New Scientist"
       },
       {
-       "titre": "Vibrating mattress helps clear Alzheimer’s protein from the brain",
-       "url": "https://www.newscientist.com/article/2597081-vibrating-mattress-helps-clear-alzheimers-protein-from-the-brain/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "titre": "British Iron Age ‘king’ who prompted Roman invasion was probably a woman",
+       "url": "https://www.newscientist.com/article/2597465-british-iron-age-king-who-prompted-roman-invasion-was-probably-a-woman/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
        "source": "New Scientist"
       }
      ]
     },
     {
-     "texte": "Cancer et génétique : des chercheurs utilisent le monoxyde de carbone produit par les tumeurs pour fabriquer des médicaments à l'intérieur même des cellules cancéreuses ; l'édition génétique pourrait un jour remplacer des traitements à vie contre les maladies cardiaques, avec toutefois des réserves sur son caractère permanent.",
+     "texte": "Des scientifiques proposent que le croisement des connexions entre chaque hémisphère cérébral et le côté opposé du corps remonte à plus de 500 millions d'années, dans les systèmes visuels. Côté IA, des chercheurs injectent des « pensées » dans des modèles de langage pour tester leur capacité d'introspection.",
      "articles": [
       {
-       "titre": "Scientists trick cancer cells into making the drugs that kill them",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261101010552.htm",
+       "titre": "Scientists may have finally explained why our brains and bodies are cross-wired",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261103003146.htm",
        "source": "ScienceDaily"
       },
       {
-       "titre": "Gene editing could replace a lifetime of medication, but there's a catch",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261102202829.htm",
-       "source": "ScienceDaily"
+       "titre": "New Research Tests Whether AI Models Know Their Own Thoughts",
+       "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+       "source": "Quanta Magazine"
       }
      ]
     },
     {
-     "texte": "Physique et astrophysique : le LHC du CERN montre que même de petites collisions peuvent recréer l'état de la matière des premiers instants de l'Univers ; une faille théorique pourrait permettre à des trous noirs tournant très vite de se scinder en deux, et une étoile compagne, Siwarha, perturberait l'atmosphère de Bételgeuse.",
+     "texte": "En physique, une simple compression mécanique modifie fortement le magnétisme et le comportement électrique des altermagnets. Des chercheurs ont aussi simulé une Terre sans aucune vie afin d'aider à détecter la vie extraterrestre.",
      "articles": [
       {
-       "titre": "Large Hadron Collider reveals evidence of Big Bang matter in surprisingly small collisions",
-       "url": "https://www.sciencedaily.com/releases/2026/10/261031221211.htm",
+       "titre": "A tiny squeeze dramatically changes the magnetism of exotic materials",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261101010541.htm",
        "source": "ScienceDaily"
       },
       {
-       "titre": "Scientists just found a loophole that could let black holes split in two",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261101010525.htm",
-       "source": "ScienceDaily"
-      },
-      {
-       "titre": "A hidden star is plowing through Betelgeuse’s atmosphere, new evidence suggests",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261103003149.htm",
-       "source": "ScienceDaily"
-      }
-     ]
-    },
-    {
-     "texte": "Archéologie et génétique : de la poussière de sédiments révèle l'histoire génétique des Européens de la dernière période glaciaire, et un édifice égyptien enfoui depuis 2 600 ans dans le delta du Nil montre une maîtrise précoce de la géotechnique.",
-     "articles": [
-      {
-       "titre": "Une poignée de poussière révèle les secrets génétiques des Européens de la dernière période glaciaire",
-       "url": "https://www.futura-sciences.com/sciences/actualites/homo-sapiens-poignee-poussiere-revele-secrets-genetiques-europeens-derniere-periode-glaciaire-139014/#xtor%3DRSS-8",
-       "source": "Futura"
-      },
-      {
-       "titre": "Enfoui sous les boues du Nil depuis 2 600 ans, cet édifice égyptien révèle un savoir-faire étonnant des bâtisseurs de l’Antiquité",
-       "url": "https://www.futura-sciences.com/sciences/actualites/archeologie-enfoui-sous-boues-nil-depuis-2-600-ans-cet-edifice-egyptien-revele-savoir-faire-etonnant-batisseurs-antiquite-139042/#xtor%3DRSS-8",
+       "titre": "Ils ont recréé la Terre sans le moindre être vivant : leur objectif est de trouver la vie extraterrestre !",
+       "url": "https://www.futura-sciences.com/sciences/actualites/vie-extraterrestre-ils-ont-recree-terre-moindre-etre-vivant-leur-objectif-trouver-vie-extraterrestre-139045/#xtor%3DRSS-8",
        "source": "Futura"
       }
      ]
     },
     {
-     "texte": "Nucléaire : en Finlande, le stockage de déchets Onkalo, première structure conçue pour durer 100 000 ans, s'apprête à entrer en service.",
+     "texte": "Une étude avertit qu'une heure d'été permanente aux États-Unis imposerait au moins 2 milliards de trajets scolaires supplémentaires dans l'obscurité. Au large de la Floride, des plongeurs remontent un à un les pneus immergés en 1972 (jusqu'à 2 millions) pour créer un récif artificiel.",
      "articles": [
       {
-       "titre": "The nuclear waste repository in Finland designed to outlast modern civilisation",
-       "url": "https://www.newscientist.com/article/2595321-the-nuclear-repository-in-finland-designed-to-outlast-modern-civilisation/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "titre": "Permanent daylight saving time has a dark side, scientists warn",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261103003157.htm",
+       "source": "ScienceDaily"
+      },
+      {
+       "titre": "En 1972, des Floridiens immergent jusqu'à 2 millions de pneus pour créer un récif. 50 ans plus tard, des plongeurs les remontent un par un",
+       "url": "https://www.futura-sciences.com/planete/actualites/atlantique-1972-floridiens-immergent-jusqua-2-millions-pneus-creer-recif-50-ans-plus-tard-plongeurs-remontent-138867-prf21-138867/#xtor%3DRSS-8",
+       "source": "Futura"
+      }
+     ]
+    },
+    {
+     "texte": "Une brosse à dents dont les poils produisent de l'électricité en se pliant a montré des résultats prometteurs contre la plaque dentaire et l'inflammation des gencives.",
+     "articles": [
+      {
+       "titre": "Toothbrush that emits electricity may more effectively prevent gum disease",
+       "url": "https://www.newscientist.com/article/2597523-toothbrush-that-emits-electricity-may-more-effectively-prevent-gum-disease/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
        "source": "New Scientist"
       }
      ]
@@ -213,165 +203,145 @@
    ]
   },
   "spatial": {
-   "titre": "L'avenir du télescope Hubble, menacé par la traînée atmosphérique, et la rentrée de l'observatoire Swift occupent le devant de la scène.",
+   "titre": "Fin de mission pour le télescope Swift de la NASA, retombé sur Terre après l'échec de son sauvetage.",
    "points": [
     {
-     "texte": "La NASA sollicite l'industrie pour prolonger Hubble, en bonne santé mais freiné par l'atmosphère ; l'administrateur Jared Isaacman plaide pour un rehaussement de l'orbite afin d'éviter une rentrée incontrôlée et de préserver la science.",
+     "texte": "L'observatoire Neil Gehrels Swift de la NASA, chasseur de sursauts gamma, est rentré dans l'atmosphère mercredi 4 novembre au-dessus de l'ouest de l'Indonésie, après près de 22 ans en orbite. Un vaisseau privé devait le remonter sur une orbite plus haute il y a trois mois.",
      "articles": [
       {
-       "titre": "NASA asks industry for ideas about saving Hubble Space Telescope",
-       "url": "https://www.space.com/astronomy/hubble-space-telescope/nasa-asks-industry-for-ideas-about-saving-hubble-space-telescope",
-       "source": "Space.com"
-      },
-      {
-       "titre": "Avoiding an uncontrolled reentry; boost Hubble and keep the science – Isaacman",
-       "url": "https://www.nasaspaceflight.com/2026/11/uncontrolled-reentry-boost-hubble-science-isaacman/",
-       "source": "NASASpaceflight"
-      }
-     ]
-    },
-    {
-     "texte": "L'observatoire Neil Gehrels Swift de la NASA doit rentrer dans l'atmosphère ce mercredi 4 novembre vers 3 h 30 (heure de l'Est) après plus de vingt ans en orbite, selon la Space Force américaine.",
-     "articles": [
-      {
-       "titre": "NASA’s Neil Gehrels Swift Observatory to burn up this week after more than two decades in space",
-       "url": "https://spaceflightnow.com/2026/11/03/nasas-neil-gehrels-swift-observatory-to-burn-up-this-week-after-two-decades-in-space/",
+       "titre": "NASA’s Neil Gehrels Swift Observatory reenters over Western Indonesia",
+       "url": "https://spaceflightnow.com/2026/11/04/nasas-neil-gehrels-swift-observatory-reenters-over-western-indonesia/",
        "source": "Spaceflight Now"
-      }
-     ]
-    },
-    {
-     "texte": "Exploration et recherche : la mission européenne Hera, première de l'ESA consacrée à la défense planétaire, arrive auprès de son astéroïde cible en novembre ; des collisions d'étoiles dans l'Univers primitif pourraient expliquer les « Little Red Dots » observés par James Webb.",
-     "articles": [
-      {
-       "titre": "10 asteroid mysteries that Hera will explore",
-       "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/10_asteroid_mysteries_that_Hera_will_explore",
-       "source": "ESA"
       },
       {
-       "titre": "Ancient star collisions could explain mysterious Little Red Dots and 'impossible' black holes",
-       "url": "https://www.space.com/astronomy/stars/ancient-star-collisions-could-explain-mysterious-little-red-dots-and-impossible-black-holes",
+       "titre": "NASA's Swift space telescope crashes back to Earth after failed rescue attempt",
+       "url": "https://www.space.com/space-exploration/missions/nasa-swift-space-telescope-crashes-to-earth",
        "source": "Space.com"
       }
      ]
     },
     {
-     "texte": "Station spatiale : les trois astronautes américains à bord de l'ISS ont voté aux élections de mi-mandat ; l'astronaute canadien Joshua Kutryk a effectué une sortie extravéhiculaire le 29 octobre.",
+     "texte": "La NASA a dévoilé son nouvel avion expérimental X-70 Fractal lors de l'UP.Summit au Kennedy Space Center, une plateforme de recherche en vol très adaptable.",
      "articles": [
       {
-       "titre": "Voting in space: NASA astronauts cast ballots from International Space Station",
-       "url": "https://www.space.com/space-exploration/international-space-station/voting-in-space-nasa-astronauts-cast-ballots-from-international-space-station",
-       "source": "Space.com"
-      },
-      {
-       "titre": "Astronaut and Earth",
-       "url": "https://www.nasa.gov/image-article/astronaut-and-earth/",
+       "titre": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+       "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
        "source": "NASA"
       }
      ]
     },
     {
-     "texte": "Industrie : le tchèque Spacemanic et le belge Simera Sense s'associent pour une solution satellitaire duale, et Airbus présente DETUMBLER, un dispositif de stabilisation passive des satellites hors d'usage.",
+     "texte": "Dans une proclamation le soir des élections, Donald Trump a déclaré la « supériorité spatiale américaine pour l'éternité », affirmant le droit des États-Unis à développer et coloniser le système solaire sous la loi américaine.",
      "articles": [
       {
-       "titre": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
-       "url": "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/",
-       "source": "SpaceNews"
-      },
+       "titre": "Trump declares 'American space superiority for all eternity' in election night proclamation",
+       "url": "https://www.space.com/space-exploration/trump-declares-american-space-superiority-for-all-eternity-in-new-white-house-proclamation",
+       "source": "Space.com"
+      }
+     ]
+    },
+    {
+     "texte": "Grâce aux observations atmosphériques de l'ExoMars Trace Gas Orbiter, mission européenne et russe, des chercheurs ont trouvé de possibles indices d'activité volcanique sur Mars.",
+     "articles": [
       {
-       "titre": "DETUMBLER: Airbus’ Passive Spin Stabilization Solution",
-       "url": "https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/",
-       "source": "SpaceNews"
+       "titre": "Trace Gas Orbiter discovers potential evidence of volcanic activity on Mars via atmospheric observations",
+       "url": "https://www.nasaspaceflight.com/2026/11/tgo-volcanic-activity/",
+       "source": "NASASpaceflight"
       }
      ]
     }
    ]
   },
   "hotellerie": {
-   "titre": "Gencom multiplie les acquisitions de luxe, avec le Rosewood London et l'InterContinental Miami, dans une semaine riche en transactions hôtelières.",
+   "titre": "Gencom rachète le Rosewood London, sa première acquisition hôtelière de luxe en Europe, sur fond de nombreuses transactions.",
    "points": [
     {
-     "texte": "Gencom entre sur le marché européen en rachetant le Rosewood London, avec l'investissement de White Bridge Capital, et acquiert aussi l'InterContinental Miami (653 clés) auprès de Strategic Hotels & Resorts.",
+     "texte": "L'investisseur Gencom acquiert le Rosewood London, hôtel de 308 chambres au centre de Londres, sa première opération dans l'hôtellerie de luxe en Europe.",
      "articles": [
       {
-       "titre": "News | Gencom enters European hotel market with acquisition of Rosewood London",
-       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM0J3YVIxbkFjc3k2RV9vWEJWY3Vael8tZXJFOXhqeEhaclJlTGFJUWl0ZlFvdG5WSl94dHR5U2V1WlBBRW1ldG1zS1NYTUJEQjV0cmVoVm16Q2syOTIzYy1laHR2QlVDdDRwdnRudnJrM2RMMkVCbmZlRnVYWV9adkk5LVN4SXI1akhSNjZHQ3VNTjQ0VVFwVXY3TlhKWUJSaU1TemZEUHVJQWxfUXZhTjdpTQ?oc=5",
-       "source": "CoStar"
+       "titre": "Gencom acquiert le Rosewood London et étend sa présence en réalisant sa première acquisition d'un hôtel de luxe en Europe",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LZk5fdHVLWC1ScnZleWxkcjd4Yl81RzgxdUE1dXhrZm5rNkY1ZTdIampMaGNvZzl6bW5wNVZwZ3pwX0JSaXZ5dEd4WHd4UTlqU0g2QmhnbHB6azdFUEJJS2NVMm41UXM?oc=5",
+       "source": "Business Wire"
       },
       {
-       "titre": "White Bridge Capital Invests in Gencom’s Acquisition of Rosewood London",
-       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS3lYOG9kNjJVVlVzeF9xZ1I0WlVZQ2lhblQ3ZDl4eTJtN195b2RVSXNqbzZHcUF5dGtleklrMC1OUGp3Q2JUMzlFWVFaY0JJNHNxV1Q2M3E0R05vc0dsb1BHRmVvME9FNHVKdEFxTkVINU5vcUdiR1ZpMlFkTVJGOFNhdHh0U1F5SUhwenZkVXJfTTVXT3VoSWRueTU5UHNJS0VBXzBzVXpjX0lMUFE?oc=5",
+       "titre": "308-Key Rosewood London Hotel Sold",
+       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZV0JQVEhlNzBhV09udkc5Y2RCS293aXdlUy1sS0RuQVJXaVdmRkZ4bjVJbk1nSGJ6aTZ2NnVtNU1pZUdwSWtlZ1FySnc5S0sxUlh2ZllVbk15YWR3NmNVNFVB?oc=5",
+       "source": "Hotel News Resource"
+      },
+      {
+       "titre": "Rosewood London racheté par Gencom : ce que l'on sait",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xdm9KZjdsNDhtLXRLVnNKcDdMaTNQZTZnLVZfSUpiM1Z0Q1pZN1ZVUmhOVExMc3ZvdURObVNFV2RGWU9LMmhVRDRmbzJYSHc2V3RkMzY5VFlYTmwwdmZEMDNvMmhpVkowMGNNZEZZMXBnUQ?oc=5",
+       "source": "La Revue des Hôtels"
+      }
+     ]
+    },
+    {
+     "texte": "Host Hotels & Resorts achète deux hôtels à Brooklyn et Plano pour 374 millions de dollars. Scandic a finalisé le rachat des activités hôtelières de Dalata pour 500 millions d'euros (57 hôtels, 12 500 chambres, marques Clayton et Maldron), dépassant 320 hôtels dans 11 marchés. Le Groupe JGS reprend l'Hôtel Cap-aux-Pierres à l'Isle-aux-Coudres.",
+     "articles": [
+      {
+       "titre": "Host Hotels & Resorts Acquires Brooklyn and Plano Hotels for $374 Million",
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOHZBTC12YkVGQlB1M253SlJObENNZVdQSE53TXc2c3kyRFd0aXpQZGl1c014NXVzenJVcTctaW1wbDA2c2VhcDRIQndzTms3QnN1VkZCRmFLczlJcVJTUldFblRJRHpROUFrR0xYR21HSGdZbV9OSFJoMF9wZGlYSEZBRFJ0c1A5SDUtTUVXaWJ5RmtDX3ljcjBOMFdlRXl4MnlHTTZCRnFVdzdoMkE?oc=5",
        "source": "citybiz"
       },
       {
-       "titre": "Gencom acquires InterContinental Miami from Strategic Hotels & Resorts",
-       "url": "https://www.hoteldive.com/news/gencom-acquires-intercontinental-miami-from-strategic-hotels-resorts/873568/",
-       "source": "Hotel Dive"
+       "titre": "Scandic Hotels Group Completes Acquisition of Dalata’s Hotel Operations",
+       "url": "https://www.hospitalitynet.org/news/4135277/scandic-hotels-group-completes-acquisition-of-dalatas-hotel-operations",
+       "source": "Hospitality Net"
+      },
+      {
+       "titre": "Le Groupe JGS fait l'acquisition de l'Hôtel Cap-aux-Pierres à l'Isle-aux-Coudres.",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbzhvemlQMThfaXB6bVJ4bWhMeTVjbTNERFg5VnJsb2xDTHVFUlhVX0RJdGF4Uk5FQ25aMFJ1eUhydjI4a0hlazVNQ2I5cUtDT1VuMTJaLUZtYVhqZDlUNjVwdWN3OTdVRnZhM3NPaHdHekstSWMtLW9NUVpyY05oRHB3dUpjZ2dnSkdEcDdzS095UzJWemdXaHF6Sm1oRlpIYTBMYWV4dXhUWnpQVHBJbVJlUXdlQ2M?oc=5",
+       "source": "Média Photos Charlevoix"
       }
      ]
     },
     {
-     "texte": "Autres transactions : RIU achète l'hôtel Princesa Sofia, son premier à Barcelone, Braemar finalise la vente du Four Seasons Resort Scottsdale, M&G Real Estate acquiert le Motel One de Bruxelles et l'Eccles Hotel de Glengarriff (Irlande) est cédé.",
+     "texte": "Côté distribution, Expedia mise sur la publicité dans Muse de Meta et les AI Overviews de Google, tandis que Booking.com parie que les voyageurs chercheront avec l'IA mais réserveront chez lui. Sonesta ajoute les resorts-casinos de Boyd Gaming à sa plateforme de distribution, et Trip.com bâtit une offre autour des concerts.",
      "articles": [
       {
-       "titre": "RIU Acquires Barcelona’s Landmark Hotel Princesa Sofia, Expanding Riu Plaza Portfolio",
-       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0VOaEtqckFlU0Vjb014UG9jNmI0bFpFM2R2SUppN245ZUZiTEZtMzBTVTBIZ3ZWcFE2QU1kaGJ6SnpvT1ZuSzlqR25HQnVBVWgxenJTc3hWcGFPSV9idnNLQXBoVFFoRnlUa0taXzBJNl9YcUhNR0huU0VSb3ZQRl9lSHZBdUZpa3R2SjYyUEdYTGQ0emRSTEFXN1VPc1RSWDROQld3Z2Z1UThFZko2NkFwTUUyMkpM?oc=5",
-       "source": "Hotel Online"
-      },
-      {
-       "titre": "BRAEMAR HOTELS & RESORTS ANNOUNCES CLOSING ON SALE OF FOUR SEASONS RESORT SCOTTSDALE",
-       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXNTSlBqNHRtdkNrU25pZEhPUDN0aFJUNERsUVVObEJkWVlsUk4tM1R4Tk53VWZwTVZ3S1dNbHNFWVZreWRvb2xFd3lBVUU0OVZrVXFyS09JOXdhSXpSenBhV1IwcFhONkRNYjNMRU1aZGFKTDU3dXBueDFWTTBGejhEaXBZQkMwRHBxVFBhU2JudUlRQUtOV2tJVkROb1ItN1BXQg?oc=5",
-       "source": "Yahoo Finance"
-      },
-      {
-       "titre": "Investissement | M&G Real Estate acquiert le Motel One de Bruxelles sécurisé par un bail de longue durée",
-       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSjdPZndYSXBnLWdHYTFqeUY4R1RPVFU2UHMxc3NzS1BWR1h5UXIwRHQxdTg4aExHMlFKcG45VnF3OHl1amViMEtmVUJXSmJqUDlKc3YxT0YtaG9uX09ON2dkR1YtaGRkeHhxSTNnMEJma0lIMmhONk9LYXp0TkxNcnY0Z2ZiUXlMN3c?oc=5",
-       "source": "La Tribune de l'Hôtellerie"
-      },
-      {
-       "titre": "The Eccles Hotel Glengarriff In West Cork Is Sold",
-       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTjBxTWlkdFlQUkZYUG96Wi1qTmdVeUdCSm9wMzlkaFZ1Z3FaeUh5NHczWVVsaHBnSHZ3d1ZWMVYyMHNvNDhwNmdGc1FCcU9pTHM0SnNYQy10endkcFJSM041UG1JdUJSVmZWcHZ6dlU4SUQ5UFZvQ2UtUmVZb3Y5Vnhxb3pxQmEzYmVFejFMa3pYbE5fWGt6bEdrcnAtQQ?oc=5",
-       "source": "Hospitality Ireland"
-      }
-     ]
-    },
-    {
-     "texte": "Distribution : Booking passe une charge d'un milliard de dollars liée à un possible accord avec la FTC et décrit un marché du voyage « mitigé », tout en misant sur la confiance et le paiement face aux assistants IA.",
-     "articles": [
-      {
-       "titre": "Booking Takes $1 Billion Hit Over Possible FTC Settlement, Sees ‘Mixed’ Travel Market",
-       "url": "https://skift.com/2026/11/03/booking-takes-1-billion-hit-over-possible-ftc-settlement-sees-mixed-travel-market/",
+       "titre": "Expedia Expects Attractive Deals From Meta’s Muse and Google’s AI Overviews",
+       "url": "https://skift.com/2026/11/04/expedia-expects-attractive-deals-from-metas-muse-and-googles-ai-overviews/",
        "source": "Skift"
       },
       {
        "titre": "Booking.com Bets Travelers Will Research With AI but Book With It",
        "url": "https://skift.com/2026/11/03/booking-com-bets-travelers-will-research-with-ai-but-book-with-it/",
        "source": "Skift"
-      }
-     ]
-    },
-    {
-     "texte": "Marchés : dans le Golfe, la haute saison hôtelière est en suspens en attendant l'issue des midterms américaines, certains opérateurs ne prévoyant pas de vraie reprise avant fin 2027.",
-     "articles": [
+      },
       {
-       "titre": "Gulf Hotels’ Peak Season Stalls as Travelers Wait Out the U.S. Midterms",
-       "url": "https://skift.com/2026/11/03/gulf-hotels-peak-season-stalls-as-travelers-wait-out-the-u-s-midterms/",
+       "titre": "Sonesta brings Boyd Gaming casino resorts to distribution platform",
+       "url": "https://www.hoteldive.com/news/sonesta-boyd-gaming-distribution-loyalty-strategic-affiliation/873701/",
+       "source": "Hotel Dive"
+      },
+      {
+       "titre": "Trip.com Group Builds a Bigger Travel Business Around Concerts",
+       "url": "https://skift.com/2026/11/04/trip-com-group-builds-a-bigger-travel-business-around-concerts/",
        "source": "Skift"
       }
      ]
     },
     {
-     "texte": "Nominations et ouvertures : chez Starhotels, Francesco Brunetti devient Deputy CEO & Asset Director et Marco Gilardi arrive de Minor Hotels ; Placemakr ouvre à Tempe son deuxième apart-hôtel en Arizona, sous la marque Apartments by Hilton.",
+     "texte": "Le Fairmont New Orleans ouvre comme 100e hôtel de la marque, dans l'ancien Bank of New Orleans. Le Radisson Blu Sheffield (154 chambres) devient le deuxième hôtel « net zéro » vérifié de Radisson au Royaume-Uni.",
      "articles": [
       {
-       "titre": "Starhotels renforce sa direction avec Francesco Brunetti et Marco Gilardi",
-       "url": "https://hospitality-on.com/fr/hotellerie/starhotels-renforce-sa-direction-avec-francesco-brunetti-et-marco-gilardi",
-       "source": "Hospitality ON"
+       "titre": "Fairmont New Orleans opens as brand’s 100th hotel",
+       "url": "https://www.hoteldive.com/news/fairmont-new-orleans-hotel-opens/873661/",
+       "source": "Hotel Dive"
       },
       {
-       "titre": "Placemakr opens second apart-hotel property in Arizona",
-       "url": "https://www.hoteldive.com/news/placemakr-opens-second-apart-hotel-property-arizona/873577/",
-       "source": "Hotel Dive"
+       "titre": "Radisson Blu Sheffield devient le deuxième hôtel « net zéro » vérifié du groupe au Royaume-Uni",
+       "url": "https://hospitality-on.com/fr/hotellerie/radisson-blu-sheffield-devient-le-deuxieme-hotel-net-zero-verifie-du-groupe-au-royaume",
+       "source": "Hospitality ON"
+      }
+     ]
+    },
+    {
+     "texte": "En France, créer un hôtel n'a jamais été aussi exigeant : chambres autorisées en recul de 24 %, chantiers 20 % plus chers qu'en 2019 et cinq ans de l'idée à l'ouverture, selon les échanges à EquipHotel.",
+     "articles": [
+      {
+       "titre": "Foncier rare, argent cher : l'investissement hôtelier change de forme sans changer de cap",
+       "url": "https://hospitality-on.com/fr/investisseurs/foncier-rare-argent-cher-linvestissement-hotelier-change-de-forme-sans-changer-de-cap",
+       "source": "Hospitality ON"
       }
      ]
     }
