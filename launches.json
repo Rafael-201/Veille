@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-05T06:50:11Z",
+ "generated_at": "2026-11-06T06:16:15Z",
  "launches": [
   {
-   "name": "Long March 2C | Unknown Payload",
-   "net": "2026-11-05T16:00:00Z",
-   "status": "Go",
-   "status_label": "Go for Launch",
+   "name": "Long March 2C | Yaogan 51-07 to 09",
+   "net": "2026-11-05T15:58:00Z",
+   "status": "Success",
+   "status_label": "Launch Successful",
    "provider": "China Aerospace Science and Technology Corporation",
    "pad": "Launch Complex 3 (LC-3/LA-1)",
    "location": "Xichang Satellite Launch Center, People's Republic of China",
-   "mission_type": "Unknown",
+   "mission_type": "Government/Top Secret",
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2_image_20230803100234.jpeg"
   },
   {
@@ -79,15 +79,15 @@
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25202d_image_20190222031211.jpeg"
   },
   {
-   "name": "Falcon 9 Block 5 | USSF-317",
-   "net": "2026-11-13T04:23:00Z",
-   "status": "Go",
-   "status_label": "Go for Launch",
+   "name": "Starship | Flight 15",
+   "net": "2026-11-13T00:00:00Z",
+   "status": "TBD",
+   "status_label": "To Be Determined",
    "provider": "SpaceX",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "mission_type": "Government/Top Secret",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg"
+   "pad": "Orbital Launch Pad 2",
+   "location": "SpaceX Starbase, TX, USA",
+   "mission_type": "Test Flight",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20260724044615.jpg"
   }
  ]
 }
