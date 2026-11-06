@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T06:16:15Z",
+ "generated_at": "2026-11-06T06:18:20Z",
  "sources": [
   {
    "name": "CNBC",
@@ -236,10 +236,10 @@
    "cat": "hotellerie",
    "topic": null,
    "url": "https://www.hospitalitynet.org/news/global.xml",
-   "ok": false,
-   "count": 0,
-   "error": "TimeoutError: The read operation timed out",
-   "archived": 41
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 44
   },
   {
    "name": "Skift",
@@ -289,7 +289,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 23
+   "archived": 24
   },
   {
    "name": "Transactions · Moyen-Orient",
@@ -349,7 +349,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 52
+   "archived": 53
   },
   {
    "name": "Marchés · Europe",
