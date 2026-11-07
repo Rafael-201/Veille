@@ -1,102 +1,117 @@
 {
- "generated_at": "2026-11-06T06:17:57Z",
+ "generated_at": "2026-11-07T06:17:27Z",
  "auteur": "Claude",
  "rubriques": {
   "finance": {
-   "titre": "Krach de la tech américaine : le Nasdaq chute de 5,5 % au lendemain des midterms, l'Europe résiste",
+   "titre": "La déroute des valeurs de l'IA, partie de Wall Street, se propage aux Bourses mondiales et fait plonger la Corée du Sud.",
    "points": [
     {
-     "texte": "Wall Street a subi sa pire séance depuis avril 2025 : le Nasdaq a plongé de 5,5 %, emporté par les valeurs liées à l'IA, Nvidia et Qualcomm reculant de plus de 9 % sur fond de craintes de ralentissement après les élections de mi-mandat.",
+     "texte": "Le Nasdaq a chuté de 5,5 % dans une vague de ventes sur les valeurs de l'IA qui a effacé des milliers de milliards de dollars à Wall Street. Le mouvement s'est étendu vendredi aux places d'Asie et d'Europe : le Hang Seng a perdu 315,12 points, la Bourse de Paris a fini dans le rouge et la Bourse suisse a été rattrapée par la tempête.",
      "articles": [
-      {
-       "titre": "AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day since April 2025",
-       "url": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
-       "source": "CNBC Résultats"
-      },
       {
        "titre": "Global AI stock selloff wipes trillions off Wall Street as Nasdaq plunges 5.5%",
        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGI5MjJENmg1LVoyTlhGaUkxbGx1T0tiVEFQaXY0WllhazA3ZkIxQTBqSFdKRFkzQld6UHhJdThGdC03Ri1XMUhSM2h3NC1MTHFlX0lQa1JOZWZaOWFHcW1nNTdGUlBsaDZ4dDFWWHQtaWRHNzBmNVZ1ZnNvaVQ0bUxLQTJXX3RkUnNCUUNqRnYwb01kbnJna2JVaC1pbTI0RE5DUG10b3luamRIU0ZTdFJOSWFGZlJJ?oc=5",
        "source": "Gulf Business"
+      },
+      {
+       "titre": "Les doutes américains sur l'IA bousculent les Bourses asiatiques et européennes",
+       "url": "https://www.lesechos.fr/finance-marches/marches-financiers/les-doutes-americains-sur-lia-font-plonger-les-bourses-dasie-2261443",
+       "source": "Les Echos"
+      },
+      {
+       "titre": "Global Tech Rout Drags Hang Seng 315.12 Points Lower",
+       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOaW8wVTQxTDJjYV9wdlBXTVdYQjFjM3pRSnM3Ty03WGozRFJpa1lDdkQtUTRXWHV1TzZlTHBIVDVpcko5bC02RUQyZUVJcVktV0tKLVNTUUF5YTJaOFNTUHR3NUZqS3dGVGJiN2JLVW9Fb3JWZjh2VG00R1ZORmlQRFhBS21zamZLeUFHUUpyYjhRWHMyRENRalp6U3ZHQjFNMWYtdWZ6RXNYQWdnbVBXRVJ1Y2RRTzFpLXhsbDN6OUhNR015dTlybFlXdnFxRy1VLVJUSDRiSk1ocl9kcWpxTG93UW5kSWxZZzI1RTlkbXZpeUZvWW5WWmZiTmw4WlJwVjdZWHJ0NXdsUVl2c2pabmNMTFFZTmM4MnVFNlVn?oc=5",
+       "source": "BusinessToday Malaysia"
+      },
+      {
+       "titre": "La Bourse de Paris termine dans le rouge dans un climat d'aversion pour le risque",
+       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRm5qSVVscUZvMXpBdllJcWRSaFFpemlTV21OMWVWbTE1Q0ZJcFV6Y25zbGtHOElWUm9ZWUlHZi1HWmsydkZ6eGtaQzFkbzRRNWNvdllOanJQN1lDaDJaYzBaYlR0c0tmSUN0dU11RkFnZW85dmNkRUhVRWViQWxSZE9WUXVwYkNwbmZ4MXdPaHRZeDB0eVhrZHpqZlZDTWRSU19Ya2ZQQmw1WWRYdm1Kek1VaXp3WHJJZ3ZCcS1HenBDcTFHRzRiTGJfSjJ6b0NDV01qR0VkM2ZVVWFURTk2WHktV09ZVlpxb1IwUGQ0RzRRSHlQQlHSAfYBQVVfeXFMTUZuaklVbHFGbzF6QXZZSXFkUmhRaXppU1dtTjFlVm0xNUNGSXBVemNuc2xrRzhJVlJvWVlJR2YtR1prMnZGenhrWkMxZG80UTVjb3ZZTmpyUDdZQ2gyWmMwWmJUdHNLZklDdHVNdUZBZ2VvOXZjZEVIVUVlYkFsUmRPVlF1cGJDcG5meDF3T2h0WXgwdHlYa2R6amZWQ01kUlNfWGtmUEJsNVlkWHZtSnpNVWl6d1hySWd2QnEtR3pwQ3ExR0c0YkxiX0oyem9DQ1dNakdFZDNmVVVhVEU5Nlh5LVdPWVZacW9SMFBkNEc0UUh5UEJR?oc=5",
+       "source": "Boursorama"
       }
      ]
     },
     {
-     "texte": "La vente s'est propagée en Asie : le Kospi a déclenché un mécanisme « sidecar » avec la chute des valeurs des puces, le Nikkei a fini en baisse de 1,79 % et les valeurs IA de Chine et de Hong Kong ont glissé. L'Inde, dont le Nifty 50 a gagné près de 9 % en un mois, apparaît comme un refuge.",
+     "texte": "En Corée du Sud, la cotation a été suspendue après une chute de plus de 8 % du Kospi, passé sous les 5 000 points. Le fonds de pension national NPS est critiqué pour ses achats limités et l'opposition met en cause le gouvernement pour les pertes des retraites.",
      "articles": [
       {
-       "titre": "LIVE: Kospi triggers sidecar as chip stocks sink after U.S. midterms",
-       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUGZHQVNVekV5aWN1WUVfYUFZUFk2NkxZR0RYM01FQlhvR0VEaGxON0NwNXg1WjB1U0llaU5Cd1dzMEM4TnhRNVdtanY1eTcyZWVLTTNvX0VCUjNrS0dZZ3hqN1ZWM2luU0UySXBxV2R0YlBSWkhjSjE5V2NRUl9BakM3dDdRVS1FazU3TG02NnNHZlVqQXNIeGZfMGRSVmFLcXRCY0xnQWR1UUY2WUxuNTN6YXlnV2wtc1E?oc=5",
+       "titre": "South Korea halts trading as KOSPI plunges over 8%",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTWJxcm5jekstQ1BSdUxkRDRya2pkd1Q3TWJFTFRIemJSekFxdnVGdjVDQmlrVS1oTnMtY21SaXlzbW00MTRJSVd2TTVMMEFNWUpyZ0ItTndlNDJ3dnE0RWpNbmdzQzdzOUxmclJ1SDZUb0czU0RvNVUxYjBodnBfMG1QMWxQY1p2U21PTHp3?oc=5",
+       "source": "IntelliNews"
+      },
+      {
+       "titre": "South Korea's KOSPI Breaks Below 5,000; 'Korean Dr. Doom' Kim Young-ik Says \"This Isn't the Bottom Yet\"",
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9heEhaTVNrZk01dk9nRzloQnRfd2NLbGcwYThuQlJndFJYTFIweG1NOWh1ZWZTZ05iNFVFbmdjdVc3OGRVR3dBUFNOVnF5U2lHamJNZElKazFSY0dEU3BjNlQyZDN2WU1HcUZYeTdlLThLUmJaLXc?oc=5",
+       "source": "BigGo Finance"
+      },
+      {
+       "titre": "NPS faces scrutiny as limited buying fails to cushion Kospi sell-off",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQblNwOENzRW53VmNxU0h0UTRMa1lZOVJwc2FJM2VaSVNyR0VzeDZFblp3Zmh0TWhmREJGUVRoSGVRTU9EcHB1UmZGNWxtdzdDYWxCdUpxbjVRX3hNTGJsQ1diRFhYWUNuSmpsWDV5WVVMMW9fYzJONzFJVFhmcTFzenUtU09qOUNRYkhJam9SM0stdkRIS3FRaHZmeWVZb1lkSkxSUmlicWl6S2RMSTVpQ1ZxNkRLeXV5X2dqeg?oc=5",
        "source": "Korea JoongAng Daily"
       },
       {
-       "titre": "Le Nikkei finit en baisse de 1,79%",
-       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSWRIaEY0Nm1KZURVOEN3MW9LcVlrRzZCcXl3VlYwSm9fbzYzaGVNZUlzQ2VDY1gzWUFDb3BYaVcxMjBHU2Z5emtoOXlULXBYQVBkTjFERFdRUUF2VGV3Zm5rY1o5ZHVuTm1oX1EtbzY3VUJ0Zk56ZzJKckFwN2FrNm9rTG41b3g3ZFRsZlVOZ1QwdlNYRnFacGdDdm1ya3JPeFJ1MV9n?oc=5",
-       "source": "Investir Les Echos"
+       "titre": "Opposition Criticizes Government Over Stock Market Crash, Pension Losses",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMHFSV0hlZVZ5UF9QWDBfSVNsYjV1MVhQazZtQnk5d2RmcHBrb19IakFHRmZlbW5TNXFvMWRpNTF6MjJpamRCV0NYVVM1Y04xRXZhcGkyWFhYT0I3dms0STFpX1hrUTRvVFJjSWdyRnFZZTM3TmpHNXRVSDFDWEMzalpoVkN0My11?oc=5",
+       "source": "조선일보"
+      }
+     ]
+    },
+    {
+     "texte": "Aux États-Unis, les démocrates ont remporté la majorité à la Chambre et au Sénat lors des élections de mi-mandat, et Donald Trump a annoncé que Stephen Miller remplacera Susie Wiles comme chef de cabinet. L'incertitude électorale a pesé sur les marchés européens, tandis que la dette émise pour les centres de données IA a pénalisé le marché obligataire ; OpenAI assure qu'il continuera d'investir.",
+     "articles": [
+      {
+       "titre": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
+       "url": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
+       "source": "CNBC"
       },
       {
-       "titre": "China And Hong Kong AI Stocks Slide After Nasdaq Tech Selloff",
-       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRnl2anNxbmpBMnRNc2ZuRFplSkdUQWREQ05mSDU2d0gzMU5NRXNjMDVGcXRoX0dtd0o4cmtyWFpmdXpXZUJEdEw2QS1Td2xNZUF1VWR1bEJObUhzblp6aFVRUFlfY2VubjBIcUNXWlRTbXRPd3Roemd1YkhEYmI2eHlJR2pVcGVENmVlX1Y1OXV5Ujdm?oc=5",
-       "source": "Finimize"
+       "titre": "Les marchés européens sous pression : \"L'incertitude des élections de mi-mandat américaines a déclenché un vaste mouvement\"",
+       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNMVhfaV9OWmx4ZjZBWkRORHZWNlA4YzU4M0V0MEsyWTBEUE9UOWxiM3ZhbW8tYmpNTWNKeFVhVndSODlRVUtYb0RhUXRTTklVYmxuZjNrSldPbDVqdzRrXzdWQjFqZElTSEpTM0VORFVUX2p6Rmc1NEl2NkVNbHE3UnZVdGNqNURNVFV1b1pqeFo4REpqLVQ3NXo4VXJkTHZYM2hrQ21wSEZicVdybmRkQXhWd3JTd1BOUXgwZXRIN3NxcThENFNQcWlNekFxUl9vckwyOGZxTzBneUc0OEdRSGNBcVVrc1VNdUhOcUNpb1MwWl9HQXJnYnk3a0VzNFF1Z0dwc1FFdk1kNmRNYmQtbWE5eml6Wi1uZV9oOGxjdmlwYTJJZGNR?oc=5",
+       "source": "La Libre.be"
       },
       {
-       "titre": "India as an AI hedge? The country's stocks could see robust inflows as markets globally tank",
-       "url": "https://www.cnbc.com/2026/11/06/india-ai-tech-hedge-nifty50.html",
+       "titre": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
+       "url": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
+       "source": "MarketWatch"
+      },
+      {
+       "titre": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+       "url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
        "source": "CNBC"
       }
      ]
     },
     {
-     "texte": "En Europe, le CAC 40 a résisté au décrochage de la tech américaine, porté notamment par l'envolée d'Air France-KLM, tandis que les autres places européennes ont clôturé en baisse jeudi.",
+     "texte": "Côté résultats, Rheinmetall a plongé de 16 % après avoir réduit pour la deuxième fois en trois mois ses prévisions 2026, en raison de retards de projets militaires allemands. Moderna relève au contraire sa prévision de croissance du chiffre d'affaires 2026 à 15-25 %, Axon tombe à un plus bas de deux ans après un chiffre d'affaires trimestriel décevant, et le Bovespa brésilien a gagné 1,34 % porté par les publications.",
      "articles": [
       {
-       "titre": "Le CAC 40 a résisté au décrochage de la tech américaine",
-       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUE2S2R6bXRBdHhtbWxHTklDemlNcFdmWko4NkRxLXNFS2ZGSGVCQVJqNGNJaU9JU2N1MnE3Z3hDa1RZWk9OOVZJU2NYTzMtV3lRclo2M2F6aVktTU1FeVZZZXA3cmpKcl9lQkNSR0YwdW5tcTlDSm5yYktoR040SHRHOWU3ZklYWTlrR2VyaEhWTEU?oc=5",
-       "source": "Radio Monaco"
+       "titre": "Rheinmetall shares plunge 16% after outlook cut as military contracts stall",
+       "url": "https://www.cnbc.com/2026/11/05/rheinmetall-stock-outlook-sales-germany.html",
+       "source": "CNBC Résultats"
       },
       {
-       "titre": "Le CAC 40 résiste, Air France-KLM s'envole : le journal de la bourse du jeudi 5 novembre",
-       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQzRrQzFPX1BUQ0tsMk1BQS1pb0Z6eVlobmxxWlVCN0E5bTZTR0JHZGt2aERGSVItd0dPS2VoLWJRZFNwLTVHTXA3WE5QdU5DTm95Ym5FQkNOOW9XWUs4Rld2X1QzM1pTSENzWFhUdUZETDRXcm9WcGtiY0RqX01WVENiLV9iSWdWUHNRT2lpWUtNQ3JfMkhVMGVLazRUWGV1UjZkRU9hSHdESnlEU3pRM2ZwNmg1MlZ5ZDNOVEJzYXY3c2E4WXlZVFFNRllHVVE?oc=5",
-       "source": "MoneyVox"
+       "titre": "Moderna raises 2026 outlook as CEO says newer vaccines are gaining traction",
+       "url": "https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html",
+       "source": "CNBC Résultats"
       },
       {
-       "titre": "European stocks close lower Thursday",
-       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXd0WkxzNm9IWkFpc1BUcTZhaDIwNTNVdm9yMFFMZjNRaXNEQVpnc0NCSmNIdHFWb1d2WUIwWGJ5U2ljbXJkTFAzcTBGUnAxZHhiRnFob0VBSnFuc0d0MW9WNEsxRW9qay1MRVJrcU93NURDdl91dWd6ZzNHbmZZc1pkU0EzcVZodGRqQVNWZWt4Nm5K?oc=5",
-       "source": "巴士的報"
+       "titre": "Axon Plunged To a 2-Year Low. Here's Why It Could Be a Golden Buying Opportunity",
+       "url": "https://www.fool.com/investing/2026/11/07/axon-plunged-to-a-2-year-low-here-s-why-it-could-be-a-golden-buying-opportunity/?source=iedfolrf0000001",
+       "source": "The Motley Fool"
+      },
+      {
+       "titre": "Brazil stocks higher at close of trade; Bovespa up 1.34%",
+       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRFpYY1luNXdpWWdqYXBsX1V3OTFhV2VZWVFFWEs1ZUJYYldYZFhUMmRVTmZmSlJiMkZWRmEzZHV1UWhWUVFWdU5YbUd1TEZ0Z1FjbmJHN2lpMEdzV3M0UFh3YTY2d29iN2kzc2dHZ3RyM3UzeVBPbHhRRnpkcUdjMm9iZmhRd2ExRXJ5VnJ3azBVR1lKNzE0eFhrVnpPbmMzcmhkdWFMUl90TXJEbTdv?oc=5",
+       "source": "Investing.com"
       }
      ]
     },
     {
-     "texte": "Côté entreprises : Qualcomm souffre de la perte des commandes d'Apple et du coût de la mémoire ; le « neocloud » IREN annonce le report à début 2027 de 4 milliards de dollars de revenus annualisés ; AppLovin rebondit après des résultats jugés « clairement positifs » ; Kimberly-Clark progresse après un trimestre meilleur que prévu.",
+     "texte": "Sur le plan macroéconomique, la banque centrale chinoise a prolongé à deux ans sa série d'achats d'or, alors que le métal a perdu près de 7 % en octobre, sous les 4 000 dollars l'once. Le Canada présente un budget « Maîtres chez nous » pour réduire sa dépendance aux États-Unis, et au Paraguay le président Santiago Peña a démissionné après l'insolvabilité d'Ueno Bank, qui a gelé les avoirs de trois millions de clients.",
      "articles": [
       {
-       "titre": "Qualcomm’s stock falls as twin forces pressure sales",
-       "url": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
-       "source": "MarketWatch"
-      },
-      {
-       "titre": "Neocloud IREN says $4 billion in annualized revenue being delayed due to customer request",
-       "url": "https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html",
-       "source": "CNBC Résultats"
-      },
-      {
-       "titre": "This year’s worst-performing S&P 500 stock is finally seeing some major relief",
-       "url": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
-       "source": "MarketWatch"
-      },
-      {
-       "titre": "Here's where we stand on Kimberly-Clark shares after a better-than-feared quarter",
-       "url": "https://www.cnbc.com/investingclub/2026/11/05/heres-where-we-stand-on-kimberly-clark-shares-after-a-better-than-feared-quarter.html",
-       "source": "CNBC Résultats"
-      }
-     ]
-    },
-    {
-     "texte": "Macro et opérations : la Banxico a surpris par une baisse de taux qui fait chuter le peso mexicain ; le Canada présente un budget « Maîtres chez nous » centré sur l'énergie, l'IA et la défense ; aux Émirats, l'IPO de DIP Holding a levé 529 millions de dollars, sursouscrite environ quatre fois.",
-     "articles": [
-      {
-       "titre": "Banxico's surprise rate cut sends Mexican Peso sliding as easing bets grow",
-       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb0Z6TFA1VWpMSGdyYjBwSW9BY0loaFJGSlZGWWJvc21yaHN4QmVWMDZrZ0hrN3FLaTdnWWdya052bC0zci1YRGt0cmpKNkRsODdBTndjTlZqZGNYZ282d2lPdVcwNzhfU1FZVXJEZm5hZjBKd0hJb0FfbFNmT1Y5OEZQNlRERkRORmgzRFBuWGhfbGNvZm5PTERTejRqM2pudG8yVXNXQkxOTGV0TzZVQThxZ2Y1Q3Q4NWZYdTFtOU12Rk85d1ExRWhoRVA0Zw?oc=5",
-       "source": "www.tmgm.com"
+       "titre": "China Extends Gold-Buying Streak to Two Years as Prices Drop",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-07/china-extends-gold-buying-streak-to-two-years-as-prices-drop",
+       "source": "Bloomberg Markets"
       },
       {
        "titre": "Énergie, IA, défense... Tirant les leçons de la politique de Trump, le Canada dévoile un budget baptisé \"Maîtres chez nous\" pour renforcer son \"indépendance économique\" vis-à-vis des États-Unis",
@@ -104,234 +119,264 @@
        "source": "BFM Business"
       },
       {
-       "titre": "DIP Holding: IPO More or Less 4 Times Oversubscribed",
-       "url": "https://www.bloomberg.com/news/videos/2026-11-05/dip-holding-ipo-more-or-less-4-times-oversubscribed-video",
-       "source": "Bloomberg Markets"
+       "titre": "Trois millions de clients privés de leur argent : cet immense scandale bancaire qui a fait tomber le président du Paraguay",
+       "url": "https://www.lesechos.fr/finance-marches/banque-assurances/comment-un-scandale-bancaire-a-fait-tomber-le-president-du-paraguay-2261645",
+       "source": "Les Echos"
       }
      ]
     }
    ]
   },
   "science": {
-   "titre": "Évolution humaine et archéologie à l'honneur : dents de 400 000 ans et plus ancienne preuve d'usage du cannabis",
+   "titre": "Santé du cerveau, découvertes astronomiques et fossiles exceptionnels dominent l'actualité scientifique.",
    "points": [
     {
-     "texte": "Des dents vieilles de 400 000 ans suggèrent qu'une espèce humaine ancienne, longtemps considérée comme une impasse évolutive, aurait joué un rôle plus important dans l'histoire de l'évolution humaine.",
+     "texte": "Moins de quatre minutes d'activité physique intense par jour, comme porter des courses lourdes ou courir après un bus, pourraient diviser par deux le risque de démence. Une autre étude, menée sur plus de 8 000 personnes suivies pendant 24 ans, relie le poids à la vitesse du déclin de la mémoire.",
      "articles": [
       {
-       "titre": "400,000-year-old teeth reveal a stunning twist in human evolution",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261102202836.htm",
-       "source": "ScienceDaily"
-      }
-     ]
-    },
-    {
-     "texte": "Dans une tombe scythe de Sibérie, des composés psychoactifs retrouvés dans un cheveu fournissent la plus ancienne preuve directe d'usage du cannabis comme drogue, il y a 2 800 ans.",
-     "articles": [
-      {
-       "titre": "Tomb in Siberia reveals humans were using cannabis 2800 years ago",
-       "url": "https://www.newscientist.com/article/2597653-tomb-in-siberia-reveals-humans-were-using-cannabis-2800-years-ago/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "titre": "Less than 4 minutes of vigorous exercise a day could halve your dementia risk",
+       "url": "https://www.newscientist.com/article/2597936-less-than-4-minutes-of-vigorous-exercise-a-day-could-half-your-dementia-risk/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
        "source": "New Scientist"
+      },
+      {
+       "titre": "Votre poids pourrait influencer la vitesse à laquelle votre mémoire décline : ce que révèlent 24 ans de suivi",
+       "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-votre-poids-pourrait-influencer-vitesse-laquelle-votre-memoire-decline-ce-revelent-24-ans-suivi-139101/#xtor%3DRSS-8",
+       "source": "Futura"
       }
      ]
     },
     {
-     "texte": "Santé : des chercheurs relient l'accumulation de protéines liées à Alzheimer à des ondes cérébrales perturbées pendant le sommeil profond et à la perte de mémoire ; une nouvelle analyse estime que les bénéfices sanitaires et économiques des vaccins contre le covid pourraient être deux fois supérieurs aux 38 000 milliards de dollars estimés pour leur première année.",
+     "texte": "Grâce à une nouvelle méthode, des astrophysiciens ont fait apparaître une exoplanète cachée dans l'éclat de son étoile sur des observations du télescope James-Webb. Par ailleurs, la barrière magnétique censée protéger la Terre des électrons énergétiques venus du Soleil se révèle « fissurée ».",
      "articles": [
       {
-       "titre": "Scientists discover mysterious “lonely” brain waves linked to memory loss",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261101010556.htm",
+       "titre": "Le télescope James-Webb rend visible une exoplanète cachée avec une technique qui pourrait en dévoiler beaucoup d'autres !",
+       "url": "https://www.futura-sciences.com/sciences/actualites/astronomie-telescope-james-webb-rend-visible-exoplanete-cachee-technique-pourrait-devoiler-beaucoup-autres-139098/#xtor%3DRSS-8",
+       "source": "Futura"
+      },
+      {
+       "titre": "La barrière impénétrable qui protège la Terre des électrons tueurs du Soleil est « fissurée » !",
+       "url": "https://www.futura-sciences.com/sciences/actualites/soleil-barriere-impenetrable-protege-terre-electrons-tueurs-soleil-fissuree-139013/#xtor%3DRSS-8",
+       "source": "Futura"
+      }
+     ]
+    },
+    {
+     "texte": "Des traces chimiquement confirmées de sang ont été retrouvées dans des os de dinosaure vieux de 115 millions d'années, remettant en cause les idées sur la durée de conservation des molécules biologiques. En Caroline du Nord, des chercheurs ont identifié l'espèce de coléoptère dont les larves, longues de jusqu'à cinq pouces, détruisent les racines des myrtilliers. Futura revient aussi sur la découverte, en 1994 près de Sydney, d'un arbre que l'on ne connaissait qu'à l'état fossile.",
+     "articles": [
+      {
+       "titre": "Scientists just found dinosaur blood that survived 115 million years",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
        "source": "ScienceDaily"
       },
       {
-       "titre": "The economic benefits of the covid vaccines may be double what we thought",
-       "url": "https://www.newscientist.com/article/2597704-the-economic-benefits-of-the-covid-vaccines-may-be-twice-as-high-as-we-thought/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-       "source": "New Scientist"
+       "titre": "Five-inch-long beetle larvae are quietly destroying blueberry roots",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261103003200.htm",
+       "source": "ScienceDaily"
+      },
+      {
+       "titre": "En 1994, un garde forestier descend dans un canyon près de Sydney. Il tombe sur un arbre qu'on ne connaissait qu'à l'état de fossile",
+       "url": "https://www.futura-sciences.com/planete/actualites/canyon-1994-garde-forestier-descend-canyon-pres-sydney-il-tombe-arbre-quon-ne-connaissait-qua-etat-fossile-prf21-138873/#xtor%3DRSS-8",
+       "source": "Futura"
       }
      ]
     },
     {
-     "texte": "Technologie : une nouvelle membrane permet de séparer le pétrole brut à température ambiante en utilisant le pétrole lui-même pour former des canaux de filtration microscopiques, une piste pour le raffinage.",
+     "texte": "En physique, un aimant à peine plus large qu'un cheveu est devenu l'un des objets tournant le plus vite jamais créés, utile pour la physique fondamentale et les technologies quantiques. Un théorème quantique porte aussi un nouveau coup à la conception de la réalité défendue par Einstein.",
      "articles": [
       {
-       "titre": "Scientists discover that a clogged filter could revolutionize oil refining",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
-       "source": "ScienceDaily"
+       "titre": "Record-breaking, fast-spinning magnet could help uncover new physics",
+       "url": "https://www.newscientist.com/article/2597816-record-breaking-fast-spinning-magnet-could-help-uncover-new-physics/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "source": "New Scientist"
+      },
+      {
+       "titre": "A Strange Quantum Theorem Has Killed Einstein’s Reality",
+       "url": "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/",
+       "source": "Quanta Magazine"
+      }
+     ]
+    },
+    {
+     "texte": "Côté climat, une boucle de rétroaction entre sols secs et hautes pressions pourrait amplifier les chaleurs extrêmes et expliquer pourquoi l'Europe subit des canicules record plus tôt que ne le prévoyaient les modèles.",
+     "articles": [
+      {
+       "titre": "An unexpected feedback loop may be driving mega heatwaves",
+       "url": "https://www.newscientist.com/article/2597676-an-unexpected-feedback-loop-may-be-driving-mega-heatwaves/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "source": "New Scientist"
       }
      ]
     }
    ]
   },
   "spatial": {
-   "titre": "L'ISS achève sa modernisation électrique et Blue Origin dévoile un troisième étage pour New Glenn",
+   "titre": "AST SpaceMobile se lance dans les lanceurs lourds pendant que SpaceX enchaîne les vols et prépare Starship.",
    "points": [
     {
-     "texte": "Lors d'une sortie dans l'espace jeudi 5 novembre, Joshua Kutryk et Anil Menon ont installé le huitième et dernier panneau solaire iROSA de la Station spatiale internationale, bouclant un effort de cinq ans pour renforcer son alimentation électrique.",
+     "texte": "AST SpaceMobile, opérateur de la constellation Bluebird, annonce son propre lanceur lourd, Blacklift, avec un premier vol visé en 2028, et un contrat de moteurs de 1,3 milliard de dollars avec Firefly Aerospace pour l'équiper.",
      "articles": [
       {
-       "titre": "Spacewalkers complete five-year effort to upgrade space station power supply",
-       "url": "https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/",
+       "titre": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket",
+       "url": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/",
        "source": "Spaceflight Now"
       },
       {
-       "titre": "'We got it done!' Spacewalking astronauts finish installing next-gen ISS solar arrays",
-       "url": "https://www.space.com/space-exploration/international-space-station/we-got-it-done-spacewalking-astronauts-finish-installing-next-gen-iss-solar-arrays",
+       "titre": "AST SpaceMobile announces new 'Blacklift' rocket, targets 2028 launch debut",
+       "url": "https://www.space.com/space-exploration/launches-spacecraft/ast-spacemobile-announces-new-blacklift-rocket-targets-2028-launch-debut",
+       "source": "Space.com"
+      }
+     ]
+    },
+    {
+     "texte": "SpaceX a lancé le 6 novembre depuis Vandenberg une mission classifiée pour l'US Space Force, probablement des satellites basés sur Starshield ; c'était son 125e décollage de 2026.",
+     "articles": [
+      {
+       "titre": "SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (photos)",
+       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432",
        "source": "Space.com"
       },
+      {
+       "titre": "Falcon 9 launches from California on classified mission for U.S. Space Force",
+       "url": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
+       "source": "Spaceflight Now"
+      }
+     ]
+    },
+    {
+     "texte": "Le vol 15 de Starship, avec une double tentative de récupération du Booster 22 et du Ship 42, est prévu au plus tôt le 13 novembre et attend le feu vert de la FAA. Stoke Space étudie l'extension de son site de Cap Canaveral pour un second pas de tir Nova.",
+     "articles": [
+      {
+       "titre": "Starship Flight 15, a dual catch attempt, awaits FAA green light",
+       "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/",
+       "source": "NASASpaceflight"
+      },
+      {
+       "titre": "Stoke Space evaluating expansion of Cape site for second Nova pad",
+       "url": "https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/",
+       "source": "NASASpaceflight"
+      }
+     ]
+    },
+    {
+     "texte": "Les astronautes de l'ISS ont installé le dernier panneau solaire iROSA, achevant la mise à niveau électrique de la station vieillissante. Hubble a publié une nouvelle image de l'amas d'étoiles Messier 30.",
+     "articles": [
       {
        "titre": "ISS astronauts install final iROSA solar panel to augment aging ISS power systems",
        "url": "https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/",
        "source": "NASASpaceflight"
-      }
-     ]
-    },
-    {
-     "texte": "Blue Origin, par la voix de son PDG Dave Limp, a présenté le GS3, un troisième étage pour sa fusée New Glenn, ainsi qu'un nouveau moteur de booster baptisé Northstar.",
-     "articles": [
-      {
-       "titre": "Blue Origin unveils New Glenn GS3 third stage and Northstar booster engine",
-       "url": "https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/",
-       "source": "NASASpaceflight"
       },
       {
-       "titre": "Blue Origin announces 3rd stage for its powerful New Glenn rocket —and a new engine",
-       "url": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-announces-3rd-stage-for-its-powerful-new-glenn-rocket-and-a-new-engine",
-       "source": "Space.com"
-      },
-      {
-       "titre": "Blue Origin reveals new kick stage, engines for its New Glenn rockets",
-       "url": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/",
-       "source": "Spaceflight Now"
-      }
-     ]
-    },
-    {
-     "texte": "CesiumAstro a bouclé une levée de fonds de série D de 730 millions de dollars menée par Janus Henderson, pour une valorisation supérieure à 4,5 milliards, et dévoile sa constellation de satellites Synchronicity après le succès de sa mission Element-1.",
-     "articles": [
-      {
-       "titre": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
-       "url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/",
-       "source": "SpaceNews"
-      }
-     ]
-    },
-    {
-     "texte": "La Terre a capturé une nouvelle mini-lune, QQ8, qui restera en orbite jusqu'à Noël ; côté européen, Amorim Cork Solutions fournit son matériau de protection thermique à base de liège à la mission DRACO de l'ESA.",
-     "articles": [
-      {
-       "titre": "Earth has captured a new mini moon — but it won't stick around for long",
-       "url": "https://www.space.com/astronomy/earth/earth-has-captured-a-new-mini-moon-but-it-wont-stick-around-for-long",
-       "source": "Space.com"
-      },
-      {
-       "titre": "Cork Takes the Heat So DRACO’s Data Can Survive",
-       "url": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/",
-       "source": "SpaceNews"
+       "titre": "M30’s Sparkling Stars",
+       "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
+       "source": "NASA"
       }
      ]
     }
    ]
   },
   "hotellerie": {
-   "titre": "Vague de transactions hôtelières et Airbnb en forte croissance misent sur l'IA",
+   "titre": "Une semaine riche en transactions, de Rosewood London aux hôtels de Pandox, et des résultats trimestriels en hausse chez Marriott et Choice.",
    "points": [
     {
-     "texte": "Grandes transactions aux États-Unis : Braemar a finalisé la vente du Four Seasons Resort Scottsdale pour 372 millions de dollars, et Host Hotels a acquis des hôtels à Brooklyn et à Plano pour 374 millions de dollars.",
+     "texte": "Gencom rachète le Rosewood London à CTF Holdings, Host Hotels & Resorts acquiert le 1 Hotel Brooklyn Bridge et le Renaissance Plano, Pandox cède sept hôtels scandinaves et AMTD Digital vend quatre hôtels à TGE pour 209,8 millions de dollars.",
      "articles": [
       {
-       "titre": "Braemar Closes $372 Million Sale of Four Seasons Resort Scottsdale",
-       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdldlbGJZWm1MYUg3N2hRTG9CQkNPYm1xcG4wcDhqNXlYcEpJZDhXWFBtNFYzcWt1TGZZTjlyLURZLWZkdW95LU5ReEZrRkJvWnp5OEI4N0otSW5vSHNEbTRScHI3N0twUWhQZV9VUjVtc0txbHFEVXZaUTJfWlRCSTN0ZUVZMU1Xc2VRNlpyQUpUV3RnZGV3RXRQQlB6Y1px?oc=5",
-       "source": "Hotel Online"
+       "titre": "Mayer Brown Advises CTF Holdings on Sale of Rosewood London Hotel to Gencom",
+       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTVpyVHFQcEoyakpXRnlpcHUxWFM1R0hBRkJTamFKMUYtdmZlblFRRUdTNUNWRVlXME5RQkUydG9xWHc3aWVOS3dGUlB0Q3BsTmd1NHQwM3NFUFllRjlpRjk2U3cxMThITjR4eTZrYmdoZ1pSTjNMQ1V1aEZaaEJQdHQ0Y05GZmRSSW1xc1BjWEZlMjk2bWxKenVFMXkyTjlQOTVlMjlFUGFLQ01VbVgySmNDWFhDSlRzTGc?oc=5",
+       "source": "Mayer Brown"
       },
       {
-       "titre": "Host Hotels Acquires Brooklyn, Plano Hotels for $374M",
-       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc1Z3R2lGN2lIMmZLVGRQVnpoRjNyZ1NvVzNfY05aMzdSV1Y3bHFkY2RYeEVERXJhT1FYUGlWUVljYVpteHhDcmZBcUJpb1BJMlRFY09YbndqRVY2X1JKdlBCUFN0eFo1X1JNSl9fWnhOMjBvbS1ycFRHRWNlRzFnUWFxR2h5ZldWMURhZGhsVFBYUmZE?oc=5",
-       "source": "CommercialSearch"
+       "titre": "Host Hotels & Resorts buys 1 Hotel Brooklyn Bridge, Renaissance Plano",
+       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTXpzdnpweDZoSGVuUFRCYXhEb1M1ejRLNVg4T3NqS195T1IyTHpieHhvQV9qVUxBN1RNZDVKMThZVy1uZVFEemdFTWhjUjFpekJIZ0t3Y0FyWjJMeUg1OTJYOTlaVEozaG5wYWNHcm92RWV4dDJUOUJ6S1NRM0c3WU1oZzFCUQ?oc=5",
+       "source": "Hotel Dive"
+      },
+      {
+       "titre": "Pandox Sells Seven Scandinavian Hotels",
+       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd2JNVTdRUTEwUWhNdFJzUi1IUFpWZ25Pb1BCbDFmSTVOb2ZzWWhyNmtnX2hfMWV1NS0xN3h4bmwzdVExQ2MtdTdsQklvY05fOW5oLVE0RVdFUk1WbUVWZFlGTnYyRnNWa2phaWR4NGFMYzUxbmpPTVktN1k2RlNkV1lRUVdVQVY1M0MtVg?oc=5",
+       "source": "THP News"
+      },
+      {
+       "titre": "AMTD Digital cède quatre hôtels à TGE pour 209.766.000$",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMkVuYURkWl9PNkFNUEkwMDg1MUN6QUc3bnRRVWNXQmdqVi1jV1lfanhYN0xMUVlEamkxSk1wX1NFSndXazJoYjU1MW1uU01JNkdIVmRHWDRCNEY5Z2JRVmIyeDhUZTFvY3piUlM3Z3hXSUVDcUtodG5JT01OaU9XaXhnUnNUeG1UWDB3akVRN2pDM3BoTFF6WldGSzFKcTlCVGQxaHc0dWN2dVI0?oc=5",
+       "source": "Investing.com France"
       }
      ]
     },
     {
-     "texte": "En Europe, IHM rachète le Lyon Marriott Hotel Cité Internationale à Lavorel Hotels, dont SOHOMA reprend la gestion ; Gencom, après l'acquisition du Rosewood London, prévoit d'étendre son portefeuille de luxe en Europe.",
+     "texte": "Au Maroc, Actif Capital I cède l'Aqua Mirage Marrakech, resort de 550 chambres, à un investisseur international, sans que le prix soit dévoilé. Au Royaume-Uni, Brakspear reprend The Stroud Hotel pour ses Honeycomb Houses, et aux États-Unis deux hôtels de London (Kentucky) ont été vendus 19,1 millions de dollars.",
      "articles": [
       {
-       "titre": "Transaction | IHM acquiert le Lyon Marriott Hotel Cité Internationale, SOHOMA en reprend la gestion",
-       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbHhjQVU1NVBTMjBRcTlJOTdaWEVnX29aaWdMWmRFTnVwVC1WOUM0Y3p3Y0VYVDl5ZjVJV0dqZ2NQWDRZZkhmOU9HNWxhQ1F2b2x6R2tCTDVTcFBUTmtTcmU0MlhfUmdSVTBoeWFqZ042VGlhX0NyTDJxcFpZTlRnZVBFa0o3ZlE?oc=5",
+       "titre": "Maroc | Actif Capital I cède l’Aqua Mirage Marrakech, un resort de 550 chambres, à un investisseur international",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUXNfT1A0YWxGaktTeDlLY19IN3NHbmt6eGNEdmVMMnI3cHZlUk5NYjBnblBNVW4yWi1tal9TbXJlSW9IaXl4NHlqTzlVUi12c3d1WUVzelo2c3dHU3VNT3N6V3R4b3hnUGIySVFNNjhTVERKbmhHM1RkNWd2N3ZQaVV3MWd2RGkwN0ZGX1pTRTJ4QQ?oc=5",
        "source": "La Tribune de l'Hôtellerie"
       },
       {
-       "titre": "IHM rachète le Marriott Lyon Cité Internationale à Lavorel Hotels",
-       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSjFnU085VTFUUS1HNFF2SmhtWFUyWnFhczBkMnp2LXhlLU5NaWU0Zmh1SkIwbXI1ak1lTkViSG5ONUFfb3h1OWdoRE9YYVA1alIxUTR4T2pHZXFkaHJyb0VKQi05UHUyczM2NVl0MFBuR0QxTk55VmIxZkI5cnlEYnY2WGxFaXJneTU0U3pPNTdfVFZlR0pUbUE3TWJwdG5QV3RhX1V3eHBKeUliLUZTMklWU0Qxem53?oc=5",
-       "source": "Lyon Entreprises [LE]"
+       "titre": "Un hôtel de 550 chambres vendu à Marrakech : ni le prix ni le nom de l'acheteur ne sont dévoilés",
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUE12cTd1MUFIT3U4NTZfMm41VGpDNmF6MTRzQjBBZ0FtLXFoUUpZal9jd2dob1FwRk1IcEloX3dVTUhFTUNPNWFvdE50QVNNM1dMSnFuUTBoNXFOblA3S2hQWTJCTXY0Tll2SFRJM1dQVnZsVERPaFNSRkFCdHRpWXZhTHNNamxkRUE5UDFlOFBMRXQ2bVE?oc=5",
+       "source": "Bladi.net"
       },
       {
-       "titre": "Gencom plots European growth following first luxury buy in region",
-       "url": "https://www.hoteldive.com/news/gencom-european-growth-rosewood-london-acquisition/873849/",
-       "source": "Hotel Dive"
+       "titre": "Brakspear expands Honeycomb Houses with acquisition of The Stroud Hotel",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSWJ5THBuYmtfNW81ZE1vY19tM0lYT1ppNlJZLU5UbHAxVmpTcHZTa2R2WTJOMG82dm5VOHBobG5XM1NZN0Q5MzkwXzZqYVpYODZaaWJoVWdIOElEdFA2clhHOWMxdzg1R3VsRlItTzNuclRvWlRKOUdYTHRvRGxOVHg0R1EzbnFJMW5EZjQ0a3FUc3BWUlFwVXZnT01TQ3BxR1dncHl1bw?oc=5",
+       "source": "British Guild of Beer Writers"
       },
       {
-       "titre": "Gencom Acquires Rosewood London in Major Luxury Hotel Deal",
-       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ2FGM010SFdudGtWRDlGdnc5Y19iUjNvT2RoZzRSRlBnRWxHODg3UFRIVUZCRmk4MzFsRDYtQjl5ejZZSkxnLVllMTVnOFFSS2RYVnVCbGEzcFZpYm1DTDlxRnNIWlZpV29sUGE3dzJxSFU5em8tLURXNE5OcnRhb2xtaTFNUmtrdEI2b0JiZHF6YnRVa2p6WTlrcjRGT1Atd01z?oc=5",
-       "source": "Rus Tourism News"
+       "titre": "Huff, Niehaus & Associates, Inc. Arranges $19.1 Million Sale of Two London, Kentucky Hotels",
+       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TV2ZtcGdEcDNVeE81QzUzcHB1N3RDWmVjb1dzTzVSRzNIX3lpc1kxMkdHVjBkNnZfZkJ4MEtCaUtpVFg1UngwdU5ySFVSYW5zXzFCRHhMSnRLWGJrT3BZTWJn?oc=5",
+       "source": "Hotel News Resource"
       }
      ]
     },
     {
-     "texte": "Au Royaume-Uni, Brakspear acquiert The Stroud Hotel et porte Honeycomb Houses à 13 établissements ; en Inde, Sunday PropTech s'étend à l'est avec le rachat d'un hôtel de 89 chambres à Kolkata.",
+     "texte": "Marriott relève ses objectifs après un RevPAR mondial en hausse de 6,5 % au troisième trimestre, porté par les États-Unis et l'Asie-Pacifique, l'Europe restant stable. Choice Hotels affiche +3,8 % de RevPAR aux États-Unis, relève ses objectifs et rachète une plateforme de voyage en camping-car, tandis que Wynn publie des baisses généralisées et conclut un accord avec les grévistes d'Encore Boston Harbor.",
      "articles": [
       {
-       "titre": "Brakspear Acquires The Stroud Hotel as Honeycomb Houses Expands to 13 Sites",
-       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeVlkbFRiQWVMNlY3bHB6RTRRZ2lrY0x1bzhYOHM0clduUy1icHpiZHViMGtWcHJlSl9mY1FOcHhZZXB0VGlZZ0lNdkpRcFlrNmtWRXc3R3hmOGREVThoZkU3Z3JRVThFS0loR0xXT2pIdEMzd041TTRPN190U0NBSGxfLXM3NHJDYWZLU2J5dVRFRlJfY1o3M2tUUFp6ejE5ZVZidk10STBhM1FUS01BeFNBM2cyLWE0QV94TlA0em13S245anc?oc=5",
-       "source": "Hospitality & Catering News"
-      },
-      {
-       "titre": "Sunday PropTech Expands into East with Acquisition of 89-Room Hotel in Kolkata",
-       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT0M1cmlkc2xvM2xfbE1uU1lxOHM2MnRoXzBXc01hd2xCV19UNng2eUpoRG1FMXlTMEVUcGw2U2hrWF9YVjFzTkt1N3YxczA1dWt6RFlaUWZobG8yMW1Bb0lDNFp5U1lDU3BlLVhLZTVNbzgtYjBuT2plSDdxLThObUJQRURVcmt5V0RsYlB3d21lbkxGekk2OG1RMmw5cGdnRXJfT3RSbDI3QTM4VEx1eXRSTGt0ZS1YdHpJUGM4clBuTzRK0gHEAUFVX3lxTFBPQzVyaWRzbG8zbF9sTW5TWXE4czYydGhfMFdzTWF3bEJXX1Q2eDZ5SmhEbUUxeVMwRVRwbDZTaGtYX1hWMXNOS3U3djFzMDV1a3pEWVpRZmhsbzIxbUFvSUM0WnlTWUNTcGUtWEtlNU1vOC1iMG5PamVIN3EtOE5tQlBFRFVya3lXRGxiUHd3bWVuTEZ6STY4bVEybDlwZ2dFcl9PdFJsMjdBMzhUTHV5dFJMa3RlLVh0eklQYzhyUG5PNEo?oc=5",
-       "source": "HospiBuz"
-      }
-     ]
-    },
-    {
-     "texte": "Distribution : Airbnb affiche sa croissance de chiffre d'affaires la plus rapide en trois ans et entend couvrir « chaque vertical du voyage » avec des agents IA spécialisés, mais les candidats qu'il soutenait ont perdu à Los Angeles ; Trip.com Group bâtit une offre autour des concerts.",
-     "articles": [
-      {
-       "titre": "Airbnb Outpaces Rivals With Its Fastest Revenue Growth in 3 Years",
-       "url": "https://skift.com/2026/11/05/airbnb-outpaces-rivals-with-its-fastest-revenue-growth-in-3-years/",
-       "source": "Skift"
-      },
-      {
-       "titre": "Airbnb CEO: Our Specialized AI Agents Will Handle ‘Every Vertical in Travel’",
-       "url": "https://skift.com/2026/11/05/airbnb-ceo-our-specialized-ai-agents-will-handle-every-vertical-in-travel/",
-       "source": "Skift"
-      },
-      {
-       "titre": "Airbnb-Backed Candidates Lose in LA, a Setback in Push to Loosen Rental Rules",
-       "url": "https://skift.com/2026/11/05/raman-la-mayor-impact-airbnb-olympics/",
-       "source": "Skift"
-      },
-      {
-       "titre": "Trip.com Group Builds a Bigger Travel Business Around Concerts",
-       "url": "https://skift.com/2026/11/04/trip-com-group-builds-a-bigger-travel-business-around-concerts/",
-       "source": "Skift"
-      }
-     ]
-    },
-    {
-     "texte": "Chez les opérateurs, Marriott mise sur l'IA et son programme Bonvoy, tandis qu'un rapport de l'American Hotel & Lodging Association estime que l'IA libère les employés pour davantage d'interaction avec les clients ; Accor met en avant sa vision d'une hospitalité plus durable à Saint-Malo.",
-     "articles": [
-      {
-       "titre": "Marriott focuses on AI, loyalty as tech enhances experiences",
-       "url": "https://www.hoteldive.com/news/marriott-focuses-ai-loyalty-tech-enhances-experiences/873571/",
-       "source": "Hotel Dive"
-      },
-      {
-       "titre": "AI enables hospitality workers to focus on human interaction: report",
-       "url": "https://www.hoteldive.com/news/artificial-intelligence-hotel-implementation-human-touch/873851/",
-       "source": "Hotel Dive"
-      },
-      {
-       "titre": "À Saint-Malo, Accor déploie sa vision d'une hospitalité plus durable",
-       "url": "https://hospitality-on.com/fr/hotellerie/saint-malo-accor-deploye-sa-vision-dune-hospitalite-plus-durable",
+       "titre": "Marriott relève ses objectifs après un troisième trimestre à +6,5 % de RevPAR",
+       "url": "https://hospitality-on.com/fr/hotellerie/marriott-releve-ses-objectifs-apres-un-troisieme-trimestre-65-de-revpar",
        "source": "Hospitality ON"
+      },
+      {
+       "titre": "Choice Hotels réalise ses perspectives de RevPAR et rachète une plateforme de voyage en camping-car",
+       "url": "https://hospitality-on.com/fr/hotellerie/choice-hotels-realise-ses-perspectives-de-revpar-et-rachete-une-plateforme-de-voyage-en",
+       "source": "Hospitality ON"
+      },
+      {
+       "titre": "Wynn reaches deal with striking Boston union workers, posts Q3 results",
+       "url": "https://www.hoteldive.com/news/wynn-encore-boston-harbor-workers-agreement-q3-2026-earnings/873989/",
+       "source": "Hotel Dive"
+      }
+     ]
+    },
+    {
+     "texte": "Remington nomme un directeur technique et Hersha cède le Hilton de Boston ; Embergrove Hospitality Group reprendra la gestion de l'historique Hotel Pattee, dans l'Iowa, le 1er décembre. Wynn maintient septembre 2027 pour le premier casino-resort des Émirats, mais décidera en février de la forme de l'ouverture en raison de la guerre entre les États-Unis et l'Iran.",
+     "articles": [
+      {
+       "titre": "Lodging Lowdown: Remington names CTO, Hersha sells Boston Hilton",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMkZxYThpVWIwZ0FsU3JjZkZIQ0dXaXZjeXdNTzY5MWdqYS02STd6ZENOZE9BVzN3TndmZkMxY1lDdnMxSGpnSjREbjlVNU1JZk1GUUxkV2padnRudlU4NnFmbFkxd1FhU2tha3Vod2FnWVRFSVhrcGlmeFhhLXlTaVpsLXk5TURmNHVEbERB?oc=5",
+       "source": "Hotel Dive"
+      },
+      {
+       "titre": "Embergrove Hospitality Group to Manage Historic Hotel Pattee in Perry, Iowa",
+       "url": "https://www.hospitalitynet.org/news/4135324/embergrove-hospitality-group-to-manage-historic-hotel-pattee-in-perry-iowa",
+       "source": "Hospitality Net"
+      },
+      {
+       "titre": "Wynn Holds UAE Casino Date but Weighs How to Open Amid War",
+       "url": "https://skift.com/2026/11/06/wynn-holds-uae-casino-date-but-weighs-how-to-open-amid-war/",
+       "source": "Skift"
+      }
+     ]
+    },
+    {
+     "texte": "Dans la distribution, MakeMyTrip prend une participation dans Quick Ride pour s'étendre aux trajets quotidiens alors que son activité aérienne ralentit. Le tourisme arrive à la COP31 avec de nombreux engagements climatiques mais peu de preuves partagées de leurs résultats.",
+     "articles": [
+      {
+       "titre": "MakeMyTrip Buys Into Daily Commutes With Quick Ride Stake",
+       "url": "https://skift.com/2026/11/06/makemytrip-buys-into-daily-commutes-with-quick-ride-stake/",
+       "source": "Skift"
+      },
+      {
+       "titre": "Tourism Heads to COP31 Wanting Results, Not More Pledges",
+       "url": "https://skift.com/2026/11/06/tourism-heads-to-cop31-wanting-results-not-more-pledges/",
+       "source": "Skift"
       }
      ]
     }
