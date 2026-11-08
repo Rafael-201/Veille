@@ -1,27 +1,16 @@
 {
- "generated_at": "2026-11-07T06:17:44Z",
+ "generated_at": "2026-11-08T06:04:26Z",
  "launches": [
   {
-   "name": "Ceres-2 | 4 satellites",
-   "net": "2026-11-06T23:37:00Z",
+   "name": "Soyuz 2.1b/Fregat | Glonass-K1? (Kosmos 2621?)",
+   "net": "2026-11-07T13:30:00Z",
    "status": "Success",
    "status_label": "Launch Successful",
-   "provider": "Galactic Energy",
-   "pad": "Launch Area 95A",
-   "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-   "mission_type": "Earth Science",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-2_y3_lift_image_20261107010855.jpg"
-  },
-  {
-   "name": "Falcon 9 Block 5 | USSF-432",
-   "net": "2026-11-07T00:48:42Z",
-   "status": "Success",
-   "status_label": "Launch Successful",
-   "provider": "SpaceX",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "mission_type": "Government/Top Secret",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg"
+   "provider": "Russian Space Forces",
+   "pad": "43/3 (43L)",
+   "location": "Plesetsk Cosmodrome, Russian Federation",
+   "mission_type": "Navigation",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg"
   },
   {
    "name": "Long March 12 | SatNet LEO Group TBD?",
@@ -68,17 +57,6 @@
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25202d_image_20190222031211.jpeg"
   },
   {
-   "name": "Starship | Flight 15",
-   "net": "2026-11-13T00:00:00Z",
-   "status": "TBD",
-   "status_label": "To Be Determined",
-   "provider": "SpaceX",
-   "pad": "Orbital Launch Pad 2",
-   "location": "SpaceX Starbase, TX, USA",
-   "mission_type": "Test Flight",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20260724044615.jpg"
-  },
-  {
    "name": "Falcon 9 Block 5 | USSF-317",
    "net": "2026-11-13T04:23:00Z",
    "status": "Go",
@@ -88,6 +66,28 @@
    "location": "Vandenberg SFB, CA, USA",
    "mission_type": "Government/Top Secret",
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg"
+  },
+  {
+   "name": "Vulcan VC6L | Amazon Leo (LV-01)",
+   "net": "2026-11-13T17:54:00Z",
+   "status": "Go",
+   "status_label": "Go for Launch",
+   "provider": "United Launch Alliance",
+   "pad": "Space Launch Complex 41",
+   "location": "Cape Canaveral SFS, FL, USA",
+   "mission_type": "Communications",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg"
+  },
+  {
+   "name": "Starship | Starlink Group 31-2 (Starship Flight 15)",
+   "net": "2026-11-13T22:45:00Z",
+   "status": "TBC",
+   "status_label": "To Be Confirmed",
+   "provider": "SpaceX",
+   "pad": "Orbital Launch Pad 2",
+   "location": "SpaceX Starbase, TX, USA",
+   "mission_type": "Communications",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20260724044615.jpg"
   }
  ]
 }
