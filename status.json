@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T06:19:45Z",
+ "generated_at": "2026-11-10T07:21:33Z",
  "sources": [
   {
    "name": "CNBC",
@@ -69,7 +69,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 36
+   "archived": 37
   },
   {
    "name": "The Motley Fool",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 51
+   "archived": 52
   },
   {
    "name": "Nature",
@@ -149,7 +149,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 81
+   "archived": 82
   },
   {
    "name": "SpaceNews",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 63
+   "archived": 64
   },
   {
    "name": "Hotel Dive",
@@ -239,7 +239,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 50
+   "archived": 51
   },
   {
    "name": "Skift",
@@ -289,7 +289,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 27
+   "archived": 26
   },
   {
    "name": "Transactions · Moyen-Orient",
@@ -329,7 +329,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 14
+   "archived": 15
   },
   {
    "name": "Marchés · Amérique du Nord",
@@ -399,7 +399,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 62
+   "archived": 64
   }
  ]
 }
