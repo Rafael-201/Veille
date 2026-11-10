@@ -1,20 +1,9 @@
 {
- "generated_at": "2026-11-09T06:34:48Z",
+ "generated_at": "2026-11-10T06:18:13Z",
  "launches": [
   {
-   "name": "Long March 12 | SatNet LEO Group 29",
-   "net": "2026-11-08T20:24:00Z",
-   "status": "Success",
-   "status_label": "Launch Successful",
-   "provider": "China Aerospace Science and Technology Corporation",
-   "pad": "Commercial LC-2",
-   "location": "Wenchang Space Launch Site, People's Republic of China",
-   "mission_type": "Communications",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_20241128132937.jpg"
-  },
-  {
    "name": "Falcon 9 Block 5 | USSF-627",
-   "net": "2026-11-10T03:03:00Z",
+   "net": "2026-11-11T02:49:00Z",
    "status": "Go",
    "status_label": "Go for Launch",
    "provider": "SpaceX",
@@ -46,15 +35,15 @@
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25202d_image_20190222031211.jpeg"
   },
   {
-   "name": "Falcon 9 Block 5 | USSF-317",
-   "net": "2026-11-13T04:23:00Z",
+   "name": "Kuaizhou 11 | Unknown Payload",
+   "net": "2026-11-12T19:50:00Z",
    "status": "Go",
    "status_label": "Go for Launch",
-   "provider": "SpaceX",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "mission_type": "Government/Top Secret",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg"
+   "provider": "ExPace",
+   "pad": "Launch Area 95A",
+   "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+   "mission_type": "Unknown",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kuaizhou_11_lif_image_20240520155835.jpg"
   },
   {
    "name": "Vulcan VC6L | Amazon Leo (LV-01)",
@@ -77,6 +66,17 @@
    "location": "SpaceX Starbase, TX, USA",
    "mission_type": "Communications",
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20260724044615.jpg"
+  },
+  {
+   "name": "Falcon 9 Block 5 | USSF-317",
+   "net": "2026-11-14T04:09:00Z",
+   "status": "Go",
+   "status_label": "Go for Launch",
+   "provider": "SpaceX",
+   "pad": "Space Launch Complex 4E",
+   "location": "Vandenberg SFB, CA, USA",
+   "mission_type": "Government/Top Secret",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg"
   },
   {
    "name": "Electron | The Mountain God Rises (iQPS Launch 10)",
