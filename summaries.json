@@ -1,127 +1,137 @@
 {
- "generated_at": "2026-11-10T06:19:24Z",
+ "generated_at": "2026-11-11T06:23:01Z",
  "auteur": "Claude",
  "rubriques": {
   "finance": {
-   "titre": "Les chiffres du commerce chinois et le rebond des marchés après la vague de ventes sur l'IA dominent l'actualité financière.",
+   "titre": "L'inflation américaine plus forte que prévu ravive la crainte d'un resserrement de la Fed, tandis que l'espoir d'une fin du conflit avec l'Iran soutient les Bourses et fait reculer le pétrole.",
    "points": [
     {
-     "texte": "Chine : les exportations ont bondi de 35,2 % sur un an en octobre et l'excédent commercial a dépassé 1 000 milliards de dollars sur l'année, dont 105 milliards en octobre. L'excédent avec l'UE atteint 311 milliards de dollars en dix mois (+29 %), tandis que l'inflation des prix à la production grimpe à 5,7 %, au plus haut depuis plus de quatre ans.",
+     "texte": "Une inflation américaine supérieure aux attentes a provoqué une vente des Treasuries et alimenté les paris sur une hausse plus agressive des taux de la Fed ; les rendements des obligations japonaises ont suivi. Wall Street a reculé, les investisseurs se tournant vers les valeurs défensives, et le Bovespa brésilien a perdu 0,52 % sur fond d'inquiétudes sur les taux.",
      "articles": [
       {
-       "titre": "China’s monthly imports grow at fastest pace in five years as surplus crosses $1 trillion in 2026",
-       "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
+       "titre": "Japan Government Bond Yields Jump, Tracking Treasury Selloff",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-11/japan-government-bond-yields-jump-tracking-treasury-selloff",
+       "source": "Bloomberg Markets"
+      },
+      {
+       "titre": "Asian Shares Mostly Rise on AI Chip Demand Despite Wall Street's Retreat on Inflation Data",
+       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYVpEVGNiSkU4MzQzVkxMbVd0NC14djV5ZWRiQTI3TVJURHh5eHA0U3NYZEV4azN6VF9KeDVuYXViMzcwWGlWdmJKcVpMVFJybXNweC0zSDZvVl9aRkxXSnIxVVplLUoxQmZXMm1lekNPM2lVaGxWekhZMmQ0M19HWExZdzlNOUcyZkJsTEQ0OElaMTM3WkVVLUpFYzBna0lsa0ZZdnp6THpoejl0aUxxU1hwOW13TXBRNWxyRHlDMFkwdXlURWVZOHR5aUw1dTRteTl3SmhhMUlobjNqOVY0?oc=5",
+       "source": "U.S. News & World Report"
+      },
+      {
+       "titre": "Investors pivot to defensive stocks as markets enter a ‘state of alert’",
+       "url": "https://www.cnbc.com/2026/11/11/tech-selloff-defensive-pivot.html",
        "source": "CNBC"
       },
       {
-       "titre": "311 milliards de dollars en 10 mois: l'excédent commercial de la Chine avec l'UE s'envole de 29% depuis le début de l'année",
-       "url": "https://www.bfmtv.com/economie/international/311-milliards-de-dollars-en-10-mois-l-excedent-commercial-de-la-chine-avec-l-ue-s-envole-de-29-depuis-le-debut-de-l-annee_AV-202611100154.html",
-       "source": "BFM Business"
-      },
-      {
-       "titre": "Asian stocks rally on US tech rebound; China trade surplus hits $105B in October",
-       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdENSZ056RVpLRUM3Z1JSVTNYd1VhekI2YUR5SGNVVmdTSXJ0c3R1OVJ2Z3o1S2piSWZucTdVcmZfdHluLXZyNEtoeVhldEFxMm5OdEppUmZEcVVraXNaTm1la0lWUUJHdF9VSHBNUzlaQmhEcFhmaFhacDlHd3pwNmVzcERma1ZmcEd2NVVFSEJqWktWV0F1RWJxUkppMlRneWpVV180WGMyR0hIcGdGaWFaY0p6QjQ?oc=5",
-       "source": "Seeking Alpha"
-      },
-      {
-       "titre": "China wholesale inflation hits highest in more than four years as consumer measure slows",
-       "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
-       "source": "CNBC"
+       "titre": "Ibovespa ends November 10 down 0.52% as rate concerns return",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRG1CX0hKYUpqNWhrNzQ5STFhT3pnOXN4S0RPUmtsVEphdmkxX0tHYm43WG52NzNxRlZNb0RSQjNUdHNfWVJJNkdTYnp5V1JzbmtrSTBaNjZGQTJBbVJqaTRTZ0FBb24yT0pwLUN4YlZqNV9Edzg2dHJxSUlFQ1VsMjB2clU3NUdFQkZRQVJEME85MW1KbWI1ZW9ONXdwVTd4MkdLdVdkeG14TG4zRTZuZHpqRUVqUWllbG5STDhR?oc=5",
+       "source": "ad-hoc-news.de"
       }
      ]
     },
     {
-     "texte": "Les Bourses asiatiques rebondissent dans le sillage de Wall Street après la vague de ventes sur l'IA, emmenées par le Taiex taïwanais, et le pétrole recule sur des espoirs de désescalade avec l'Iran. TSMC publie des ventes d'octobre en forte hausse, tandis que le scandale d'espionnage visant Nvidia met son PDG Jensen Huang sous pression.",
+     "texte": "Donald Trump a affirmé que la guerre avec l'Iran prendrait fin « assez bientôt » et minimisé la perspective de nouvelles frappes. Le pétrole s'est détendu, les Bourses du Golfe ont clôturé en hausse et le principal armateur saoudien fait transiter des pétroliers par Ormuz en coordination avec l'armée américaine.",
      "articles": [
       {
-       "titre": "Asian stocks today: Markets rally as Wall Street rebounds, oil prices ease on Iran de-escalation hopes",
-       "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxORldoZ2FRUDJsV2dHTGVzVlZHWXJVdlI3dHYxa2E5TzBhOHMxWGRkbFVWaUs4YlNTa0VOMHd4a1p6azdCSTZ0bW5tUjI5UEYwUjBLaEtjdmlJZ1oweDlVWlNaY2p0ZTBEaWJZZU9tSVpKM2xkWWl6V1VOQUpZbDJPOEZLSkpYX19wVjdUSVhqeWJIMkRJQTBYd05RZDBEbWpyVzJydWhvNGRpSmFzYjRybkRUUkE4Vzc5LVZKUXB6aUJEa3N2OEJpcFIyc3owcTFRUU1zYW9nRGp0YkU1Qk4yT29oMkIwUmgxQmVuRFlBckptTU45a3pfdmpBX0xPLWlQTkpfTThYWXNvcmJPa2ZkNGQzUGJEbXZ0U3Zpa2dmZ9IBpAJBVV95cUxQeE52QTh5bnh0anZWR3dLbGg1UFY1dmQyUDdkazVMb2w1QjN2WGhnSGxqa09CNmd6NVNmdWEzLXlUVi1FNkdiNUlkYVVwbXNNOU5SQzAtb3otU1hXZFpGbWZYTE5Qc1FaWmdHb3lKOWlzenRlYzhBWHN1Zm1VSDJxNUF2ZU4tRmpVZ3Zpc255V0YxVWFOUzN0eFBTTUVLOHhaZVRIRGY4MDZXd3lMdDRWQ3hpTWVoUDJVSzAxRVZ2X1dqak01YWZmRl9uM1h2QVhIVVBlc08zNW5TNjNlX3JIX05QRVpFYnUwaXFkUnVpb054QW8xZVpnVk1iWFRBbFVBTkdzUjJqVmZaMFNha0FYanU4UkZBRnQ1d3FlR0lSalRMWi1E?oc=5",
-       "source": "The Times of India"
+       "titre": "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
+       "url": "https://www.cnbc.com/2026/11/10/trump-iran-war-hormuz-.html",
+       "source": "CNBC"
       },
       {
-       "titre": "Asian stocks rebounds after AI sell-off, Taiwan’s Taiex leads gains",
-       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGtDSTU3WUZRMmQxcDBaQU9tQy13Y29xd0NINlJ6OWFybHR6ckx0VmNTcmRHbEJTMmstYXdKRS1hVkk5Zzl2OWYyQXRIOHhNMUdELVJ4T25JRC1CYzJtbDVPMnRubDBwV0ZKN3dBbHpheWYyYkhRa2hROURkZV82RDMwUnBmYmY0SE43WnpYWlo3alhrbDVENlpXN1V1NElVOW41TGUxSmNhWHRX?oc=5",
-       "source": "FXStreet"
+       "titre": "Asian Stocks Rise, Oil Eases on Hopes for Iran Conflict Resolution",
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZTl4RFBiVmtuZ2J2V1pkS3I0QlRTbWl2NF9aSnBDMG93anZFVEhpU0FHTEJiVGVUYnJzM1RibGZ6cEdja3NVZ1czeUtGeG5oMDV5X2o0bnVaQTAtZTNqQWtITG9kS2pXTy1zMnJXdTF0UFlKc2lCLUhmdW5DY3puWFN2dEVuNDNZcFBzTGdTY0tDNnJ3bzk2MkcyOWNXLVFkVVJTNks2bnhtMmNOUHc?oc=5",
+       "source": "WSJ"
+      },
+      {
+       "titre": "Mideast Stocks: Gulf stocks close higher as Trump dials back Iran strike talk",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONEI0cXBMLU5qWDZVWWZMWWJ0R092dmhVQWlHb0NOMnBKc3hxd1FTR0NVbTNod2lDTi11OVBuVU40bGJZTG9kLXozbmVUa2JuQkpndVB1SE5GRDJOeGcyTnpob2pTcXFqTi0yc29Qa2NhRXhqdXZnQUtFbUp6QVhobjN2eUtQZFJUa1JVSWQ5RWpfVHlEdWhzSE1XUVZSSFA1RkNjSXNyOGItdWJReGprTW4yeW9FNjdGOF9reWFHUWFRTlk?oc=5",
+       "source": "Zawya"
+      },
+      {
+       "titre": "Saudi Oil Tanker Firm Crossing Hormuz With US Coordination",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-10/saudi-oil-tanker-firm-crossing-hormuz-with-us-coordination",
+       "source": "Bloomberg Markets"
+      }
+     ]
+    },
+    {
+     "texte": "Rebond marqué en Asie et en Europe : le Sensex indien a gagné 1 142 points, à un plus haut de huit mois, avec le retour des investisseurs étrangers, le KOSPI a bondi de 4 % au-dessus de 5 200 points, l'ASX 200 approche d'un record et le CAC 40 atteint un plus haut de deux mois.",
+     "articles": [
+      {
+       "titre": "Sensex jumps 1,142 points to eight-month high as FIIs return, crude stays soft",
+       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUXc0ekxRNTVkWU1aa1ZEeHMzUnZaR2tVS3lTdDNWbHluT2VWTE5YeWJ4b3Ffc0dENGluanZtVXEteHVBSENLZjdWbEREemhxWEFIQkE2Nk83bjBKQTRiS05CazBoeVNCcC1EODVMRHUyZF9hcnVJLTdXX2NKaXdINkJhOVpDUUNyQUM0dtIBmgFBVV95cUxPTmF1ZDRRU2d3WTRiTFdhODVuVG4wNjlnX2dtOGJMa2dHWDY5aUxCRDdrQVIzbi1mTl9fUUNqLTNCZWxqWGtsOHk4OUszSUdYYnFDaTJQLUNqTVdmWVpXZE0yWTdlcmJmSVRmdnFVSFpwSjRTN2RFY280bllUVlM5blpHSktoakpKNEFLT1NNS00zUWxHc3NTYzJ3?oc=5",
+       "source": "Daily Pioneer"
+      },
+      {
+       "titre": "Foreign, institutional investors pour 1.3 trillion won into stocks, driving KOSPI up 4% above 5,200",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lemxxLVlQQWMwaU1abzk2N1JCdGlOLWRDZDVhUkR3UmN5bHZOcjFTUHBFa3pHWl83X2F6VUtwQ2VKNVVLTjcxSEtNdE5WZWc2dHVJS251N2F5MmtSYnMzbFAzZHhucWxUMTd3Mw?oc=5",
+       "source": "머니투데이"
+      },
+      {
+       "titre": "ASX 200 Nears A Fresh High As Miners And Tech Lead",
+       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNFBWM3FPOVFBQ3JTVlFSVmNBT2t2SFdvQ1FWU0ppWUJIYzJaaTZBc0Zhb21kc0JTLWRPME9JX245cUVZN2dHaWF3LWg5WWw5STNvejZhR2pkb2tQdkM0SWViZ2ZJenFjRlhCNkNYTnVIYWt5bHVrUmp1eG0wZG4xWTFoU05fQQ?oc=5",
+       "source": "Finimize"
+      },
+      {
+       "titre": "Le CAC 40 au plus haut depuis 2 mois : ces actions pourraient grimper jusqu’à +45%",
+       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWGhRZEhWejdjOUc4T1RGZVY4S09HbDZfYXpOMjE0ZGR3X3lKZlF6UjRIX09LcmxIVWQzS3lOT2QzelNTZ2FQalhJTl9Za3lDWkI4allLbUxKSUROejBielhNanQ2RXRSbDYxRVY1R0pqTTZBY2xHRTZ0ZFZ2b3ZfblhIQmdmOTdERGdNVkFaWWU1cVpNa3lOYW1DbENSSlBlNTBET1JNX1UyMHBYOU1uaDVWQ2dfQ0VWVFp1YXdzbG9ZVXlxbHN1QmxYREkzU2M?oc=5",
+       "source": "Investing.com France"
+      }
+     ]
+    },
+    {
+     "texte": "Dans la tech et l'IA, CoreWeave a dépassé les attentes de chiffre d'affaires, relevé ses prévisions et annoncé 9 milliards de dollars de prépaiements, ce qui a fait bondir l'action. SoftBank a en revanche essuyé une perte nette de 7 milliards de dollars au deuxième trimestre, plombée par la chute des valeurs technologiques, tandis que les ventes d'octobre de TSMC ont bondi.",
+     "articles": [
+      {
+       "titre": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
+       "url": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+       "source": "CNBC Résultats"
+      },
+      {
+       "titre": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
+       "url": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
+       "source": "MarketWatch"
+      },
+      {
+       "titre": "SoftBank swings to $7 billion net loss in second quarter as tech selloff weighs on results",
+       "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
+       "source": "CNBC Résultats"
       },
       {
        "titre": "TSMC's October sales jump as global chip boom rolls on",
        "url": "https://www.cnbc.com/2026/11/10/tsmcs-october-sales-.html",
        "source": "CNBC"
-      },
-      {
-       "titre": "«C’est 50-50 !» : après le scandale d’espionnage chez Nvidia, son PDG, Jensen Huang, peut-il rester ?",
-       "url": "https://www.liberation.fr/economie/economie-numerique/cest-50-50-apres-le-scandale-despionnage-chez-nvidia-son-pdg-jensen-huang-peut-il-rester-20261110_YXNDSG5ZGFAPZM5J5OB53JFI4Y/",
-       "source": "Libération Économie"
       }
      ]
     },
     {
-     "texte": "En Europe, la France devrait échapper à la récession en fin d'année et pourrait renouer avec la croissance. La succession de Christine Lagarde à la BCE approche de son dénouement, Klaas Knot, soutenu par la France, faisant partie des deux favoris ; la Bourse de Paris attend l'inflation américaine.",
+     "texte": "En France, le taux de chômage est resté quasiment stable à 8,2 % au troisième trimestre selon l'Insee, et le pays devrait éviter la récession en fin d'année. L'économiste en chef de la BCE, Philip Lane, a exclu toute intervention en faveur de la dette française et toute reprise des achats d'actifs.",
      "articles": [
+      {
+       "titre": "Chômage : le taux quasiment stable à 8,2 % au troisième trimestre, selon l’Insee",
+       "url": "https://www.leparisien.fr/economie/chomage-le-taux-quasiment-stable-a-82-au-troisieme-trimestre-selon-linsee-10-11-2026-KLZTGSCY6JG5VDF6BZH5Q7YYSY.php",
+       "source": "Le Parisien Économie"
+      },
       {
        "titre": "La France échappe à la récession en cette fin d’année",
        "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-la-france-echappe-a-la-recession-en-cette-fin-d-annee_VN-202611100164.html",
        "source": "BFM Business"
       },
       {
-       "titre": "Qui pour succéder à Christine Lagarde ?",
-       "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-qui-pour-succeder-a-christine-lagarde_VN-202611090182.html",
-       "source": "BFM Business"
-      },
-      {
-       "titre": "CAC 40: La Bourse de Paris devrait ouvrir en hausse, focalisée sur l'inflation américaine",
-       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVi1wM0pKWkZWQkNtMWR3UEZaY2ROV0NkeVlNVWxSM0VIQkNhaW5WamVFaG16amZiZnZnMHlPU1ZfSVZvT0lVajBfd0VKZW9CY1p1MjRmem9mdDZEVVVQeHNWRnlGcTZzM184N0puaWcweG5oS3h0Q2hTMWdzOEdqNnBYcVZVZEdlOC0tc2FYX3c1QWxEQlU4bFpoM2JrVlQzaVl6M3FRZkphYVhES0lGSVhQa2RGMF9SVk9F?oc=5",
-       "source": "ABC Bourse"
-      }
-     ]
-    },
-    {
-     "texte": "Grandes opérations : Crédit Agricole propose de fusionner ses activités italiennes avec Banco BPM pour créer la troisième banque italienne. En Allemagne, la vente d'ebm-papst à Madison Air pour 5,1 milliards d'euros marque l'ouverture du Mittelstand aux fusions-acquisitions, et Citi obtient une licence de courtage en Chine.",
-     "articles": [
-      {
-       "titre": "« Crédit Agricole a attendu que le fruit tombe de l'arbre » : comment la banque a avancé ses pions en Italie",
-       "url": "https://www.lesechos.fr/finance-marches/banque-assurances/credit-agricole-a-attendu-que-le-fruit-tombe-de-larbre-comment-la-banque-a-avance-ses-pions-en-italie-2261950",
+       "titre": "« Le problème doit être réglé à Paris » : l'économiste en chef de la BCE exclut toute intervention en faveur de la dette française",
+       "url": "https://www.lesechos.fr/finance-marches/marches-financiers/le-probleme-doit-etre-regle-a-paris-leconomiste-en-chef-de-la-bce-exclut-toute-intervention-en-faveur-de-la-dette-francaise-2262132",
        "source": "Les Echos"
-      },
-      {
-       "titre": "En Allemagne, les joyaux du Mittelstand commencent à céder aux sirènes du M&A",
-       "url": "https://www.lesechos.fr/finance-marches/ma/en-allemagne-les-joyaux-du-mittelstand-commencent-a-ceder-aux-sirenes-du-ma-2261961",
-       "source": "Les Echos"
-      },
-      {
-       "titre": "Citi's Fraser: China License Gives Bank Edge on Rivals",
-       "url": "https://www.bloomberg.com/news/videos/2026-11-10/citi-s-fraser-china-license-gives-bank-edge-on-rivals-video",
-       "source": "Bloomberg Markets"
-      }
-     ]
-    },
-    {
-     "texte": "Résultats : Adnoc Gas dépasse les attentes avec 1,34 milliard de dollars de bénéfice net au 3e trimestre ; Paramount Skydance détaille 6 milliards de dollars d'économies prévues ; Lucid manque les attentes de Wall Street et étend son prêt auprès du fonds souverain saoudien.",
-     "articles": [
-      {
-       "titre": "Adnoc Gas CFO: Still Exploring Opportunities in Fujairah",
-       "url": "https://www.bloomberg.com/news/videos/2026-11-10/adnoc-gas-cfo-still-exploring-opportunities-in-fujairah-video",
-       "source": "Bloomberg Markets"
-      },
-      {
-       "titre": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
-       "url": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
-       "source": "CNBC Résultats"
-      },
-      {
-       "titre": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
-       "url": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
-       "source": "CNBC Résultats"
       }
      ]
     }
    ]
   },
   "science": {
-   "titre": "Le CERN met en évidence une désintégration de particule extrêmement rare, recherchée depuis 40 ans.",
+   "titre": "Le CERN met en évidence une désintégration de particule rarissime traquée depuis 40 ans, tandis que la paléontologie et la recherche biomédicale livrent plusieurs découvertes.",
    "points": [
     {
-     "texte": "Le CERN a trouvé des indices d'une désintégration de particule qui ne se produit qu'environ une fois sur 10 milliards, au terme de plus de 40 ans de recherche, en s'aidant de l'IA pour analyser les données du LHC, actuellement à l'arrêt pour travaux.",
+     "texte": "Le CERN a trouvé des preuves d'une désintégration de particule qui ne se produit qu'environ une fois sur 10 milliards, au terme d'une recherche de plus de 40 ans. Côté quantique, de nouveaux travaux suggèrent que la correction des erreurs des ordinateurs quantiques pourrait être plus compliquée que prévu.",
      "articles": [
       {
        "titre": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
@@ -129,29 +139,29 @@
        "source": "ScienceDaily"
       },
       {
-       "titre": "Après 40 ans de recherche, le Cern entrouvre grâce à l'IA la porte du mystérieux « zeptoverse »",
-       "url": "https://www.futura-sciences.com/sciences/actualites/physique-apres-40-ans-recherche-cern-entrouvre-grace-ia-porte-mysterieux-zeptoverse-139179/#xtor%3DRSS-8",
-       "source": "Futura"
+       "titre": "Correcting quantum computer errors may be more complicated than expected",
+       "url": "https://www.newscientist.com/article/2598161-correcting-quantum-computer-errors-may-be-more-complicated-than-expected/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "source": "New Scientist"
       }
      ]
     },
     {
-     "texte": "Climat : les émissions mondiales de CO2 devraient baisser de 0,4 % en 2026, en partie à cause de la hausse des prix du pétrole liée aux perturbations du détroit d'Ormuz. Une étude montre aussi que la « neige marine » la plus collante transporte jusqu'à six fois plus de carbone vers les profondeurs océaniques.",
+     "texte": "Des fossiles découverts en Thaïlande révèlent un rongeur géant d'environ 30 kg (66 livres), Yakamys sirindhornae, vieux de 34 millions d'années, et en Chine un amphibien marin cuirassé de 237 millions d'années.",
      "articles": [
       {
-       "titre": "Global carbon emissions set to fall in 2026 due to Iran energy shock",
-       "url": "https://www.newscientist.com/article/2598130-global-carbon-emissions-fall-in-2026-due-to-iran-energy-shock/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-       "source": "New Scientist"
+       "titre": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
+       "source": "ScienceDaily"
       },
       {
-       "titre": "Hidden climate superpower: Why some ocean “snow” carries six times more carbon",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261105224558.htm",
+       "titre": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm",
        "source": "ScienceDaily"
       }
      ]
     },
     {
-     "texte": "Neurosciences : certains signes précoces de la maladie d'Alzheimer pourraient apparaître en dehors du cerveau, selon des travaux sur des systèmes miniatures de cellules humaines. Des chercheurs ont aussi identifié une voie dopaminergique intestin-cerveau qui explique comment on apprend à aimer les saveurs amères comme le café.",
+     "texte": "En santé, des systèmes miniatures de cellules humaines suggèrent que certains signes précoces d'Alzheimer apparaissent hors du cerveau ; une étude indique que le jeûne pourrait aider l'intestin à récupérer après une radiothérapie ; et chaque espèce de moustique serait attirée par sa propre combinaison d'odeurs, de substances et de bactéries cutanées.",
      "articles": [
       {
        "titre": "Alzheimer’s may have early warning signs outside the brain",
@@ -159,23 +169,33 @@
        "source": "ScienceDaily"
       },
       {
-       "titre": "Scientists finally discover why we learn to love bitter coffee",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
+       "titre": "Et si le jeûne permettait de mieux supporter la radiothérapie ? Une étude révèle un mécanisme étonnant dans l’intestin",
+       "url": "https://www.futura-sciences.com/sante/actualites/cancer-colorectal-si-jeune-permettait-mieux-supporter-radiotherapie-etude-revele-mecanisme-etonnant-intestin-139236/#xtor%3DRSS-8",
+       "source": "Futura"
+      },
+      {
+       "titre": "Scientists discover why some mosquitoes love you and others don't",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261106174541.htm",
        "source": "ScienceDaily"
       }
      ]
     },
     {
-     "texte": "Santé : la cryothérapie (bains glacés, douches froides) pourrait être pire que l'absence de traitement pour la récupération après l'effort, et un essai chez des adultes prédiabétiques associe la consommation quotidienne de deux fruits à une meilleure dilatation des artères en huit semaines.",
+     "texte": "Pour atteindre l'objectif d'électrification porté par la présidence de la COP31, le monde devra quadrupler son rythme, mais la baisse du coût des renouvelables pourrait le rendre accessible.",
      "articles": [
       {
-       "titre": "Cold therapy may be worse than doing nothing for post-exercise recovery",
-       "url": "https://www.newscientist.com/article/2598085-cold-therapy-may-be-worse-than-doing-nothing-for-post-exercise-recovery/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "titre": "What is the electrification target at COP31 and can countries meet it?",
+       "url": "https://www.newscientist.com/article/2598177-what-is-the-electrification-target-at-cop31-and-can-countries-meet-it/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
        "source": "New Scientist"
-      },
+      }
+     ]
+    },
+    {
+     "texte": "Le gouvernement français accuse l'Iran d'être à l'origine d'une cyberattaque d'une ampleur inédite qui a saboté plus de 700 supermarchés en octobre.",
+     "articles": [
       {
-       "titre": "Ces deux fruits consommés tous les jours pourraient améliorer la santé de vos artères en 8 semaines",
-       "url": "https://www.futura-sciences.com/sante/actualites/diabete-prediabete-ces-deux-fruits-consommes-chaque-jour-pourraient-ameliorer-sante-vos-arteres-8-semaines-139185/#xtor%3DRSS-8",
+       "titre": "« Une campagne inédite par son ampleur et son niveau d’agressivité » contre la France : ce que révèle la cyberattaque iranienne",
+       "url": "https://www.futura-sciences.com/tech/actualites/cyberattaque-campagne-inedite-son-ampleur-son-niveau-agressivite-france-ce-revele-cyberattaque-iranienne-139242/#xtor%3DRSS-8",
        "source": "Futura"
       }
      ]
@@ -183,164 +203,169 @@
    ]
   },
   "spatial": {
-   "titre": "Une semaine chargée en lancements, avec Starship, Vulcan et Electron au programme.",
+   "titre": "SpaceX prépare le vol 15 de Starship et une tentative de double récupération, pendant que la NASA précise l'avenir du SLS.",
    "points": [
     {
-     "texte": "Sept fusées de quatre pays doivent décoller cette semaine, dont Starship de SpaceX, Vulcan d'ULA et Electron de Rocket Lab.",
+     "texte": "SpaceX a installé le booster Super Heavy du vol 15 de Starship sur le pas de tir pour un test de pressurisation, en vue d'un lancement prévu vendredi 13 novembre avec une tentative historique de double récupération.",
      "articles": [
       {
-       "titre": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
-       "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
+       "titre": "SpaceX moves Starship Flight 15 booster to launch pad for 'squeeze test' ahead of epic double-catch attempt (photos)",
+       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-starship-flight-15-booster-to-launch-pad-for-squeeze-test-ahead-of-epic-double-catch-attempt-photos",
+       "source": "Space.com"
+      }
+     ]
+    },
+    {
+     "texte": "L'administrateur de la NASA Jared Isaacman a détaillé la décision de standardiser le Space Launch System et sa trajectoire jusque dans les années 2030.",
+     "articles": [
+      {
+       "titre": "Isaacman lays out SLS path to the 2030s",
+       "url": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
        "source": "NASASpaceflight"
       }
      ]
     },
     {
-     "texte": "De nouveaux travaux suggèrent que les « Little Red Dots » observés par le télescope James Webb pourraient abriter des trous noirs primordiaux nés à l'époque du Big Bang.",
+     "texte": "Les deux petits satellites de la mission ESCAPADE de la NASA sont en route vers Mars après des survols de la Terre, près d'un an après leur lancement. Voyager 1 se trouvera le 18 novembre à un jour-lumière de la Terre, soit plus de 25,9 milliards de kilomètres.",
      "articles": [
       {
-       "titre": "Are the James Webb Space Telescope's mysterious Little Red Dots actually tiny black holes left over from the Big Bang era?",
-       "url": "https://www.space.com/astronomy/black-holes/are-the-james-webb-space-telescopes-mysterious-little-red-dots-actually-tiny-black-holes-left-over-from-the-big-bang-era",
-       "source": "Space.com"
-      }
-     ]
-    },
-    {
-     "texte": "Le trou dans la couche d'ozone a atteint son maximum de 2026 : il se classe septième plus grand en superficie en 48 ans de mesures, mais moins profond que d'autres grands trous enregistrés.",
-     "articles": [
-      {
-       "titre": "Ozone Hole Reaches Its 2026 Maximum",
-       "url": "https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/",
-       "source": "NASA"
-      }
-     ]
-    },
-    {
-     "texte": "Jupiter et Mars seront en rapprochement spectaculaire le 15 novembre dans la constellation du Lion. Sur Mars, le rover Curiosity a consacré plusieurs sols à recharger ses batteries avant de reprendre sa route.",
-     "articles": [
-      {
-       "titre": "Jupiter and Mars are set for a breathtaking close approach later this week: Here's how to see it",
-       "url": "https://www.space.com/stargazing/jupiter-and-mars-are-set-for-a-breathtaking-close-approach-later-this-week-heres-how-to-see-it",
-       "source": "Space.com"
+       "titre": "ESCAPADE on its way to Mars after Earth flybys",
+       "url": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/",
+       "source": "SpaceNews"
       },
       {
-       "titre": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
-       "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/",
+       "titre": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+       "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
        "source": "NASA"
       }
      ]
     },
     {
-     "texte": "Un rapport de la Computer & Communications Industry Association met en avant le potentiel de la connectivité par satellite pour étendre l'accès à Internet et soutenir la croissance économique.",
+     "texte": "Kratos et Seagate Space ont signé un accord de long terme pour développer des capacités de lancement mobile en mer destinées aux missions de sécurité nationale.",
      "articles": [
       {
-       "titre": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
-       "url": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/",
+       "titre": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
+       "url": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/",
        "source": "SpaceNews"
+      }
+     ]
+    },
+    {
+     "texte": "Des astronomes ont résolu le mystère d'une exoplanète qui avait « disparu » après sept ans d'observations.",
+     "articles": [
+      {
+       "titre": "A distant exoplanet mysteriously vanished from sight. Astronomers just discovered why",
+       "url": "https://www.space.com/astronomy/exoplanets/a-distant-exoplanet-mysteriously-vanished-from-sight-astronomers-just-discovered-why",
+       "source": "Space.com"
       }
      ]
     }
    ]
   },
   "hotellerie": {
-   "titre": "Une salve de transactions hôtelières et l'alliance entre Accor et Hard Rock marquent l'actualité du secteur.",
+   "titre": "L'activité transactionnelle domine, menée par le rachat du Ritz-Carlton Half Moon Bay par l'Université de Californie, sur fond de partenariat Accor–Hard Rock et de RevPAR américain en hausse.",
    "points": [
     {
-     "texte": "Transactions en Europe : Gencom réalise sa première acquisition d'un hôtel de luxe en Europe, Travail Hospitality rachète le Hilton Dublin Airport en confiant la gestion à Valor Hospitality, Asif Aziz acquiert un îlot de la City pour une conversion hôtelière de 200 millions de livres, et Brakspear ajoute The Stroud Hotel à Honeycomb Houses.",
+     "texte": "L'Université de Californie a acheté le Ritz-Carlton de Half Moon Bay pour 193 millions de dollars, qui restera un hôtel. EOS Investors acquiert le Hyatt Centric Faneuil Hall et fait son entrée à Boston, deux hôtels de London (Kentucky) ont été vendus 19,1 millions de dollars et Criterion rachète New London House pour une conversion en hôtel de 500 chambres.",
      "articles": [
       {
-       "titre": "Gencom Makes Its First European Luxury Hotel Acquisition",
-       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObDdyYXpobWdVaVF3UXQ5cUFqV0hYV2pRcWZtV0FOdTl0VG9xMThnYjBVSzZjTGJUeVNFdWtTdHNveW5wX0dIMExhdzAwLXdzYzd1d2RaNU5mTE9qb3haTGdXMGFkN01aVENmWEM5VFBISlN0YmFYTXpGalFXWnZubXVqMTh3T1pyeG84VWt1bmRhUndsNjF3?oc=5",
-       "source": "Connect CRE"
+       "titre": "University of California buys luxury Ritz-Carlton hotel for $193M",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWWJsNTR3Y2pmMnVUSExrV1FCOFhqUXpUdHAzcHpTdF82cWxuS3RST2xYR3AxVEV2T1lNZzkyLTE2UzlvSHNsT2tLX0d3Rk9xVTJSU2JzZVZMcVlsNDFsZlo4dUNBSmM1UUZMa0FISGw5QmtCVms3eDBYVGNhX3NBVEo0c1diaVpnaHlESEZBWFc5aWFWa3FzbmN5MXBuYTZrdndBZFNVNzJGNE5NQWZ4RG55Y0ZTTExwQk41ZTFn?oc=5",
+       "source": "USA Today"
       },
       {
-       "titre": "TRAVAIL HOSPITALITY ACQUIRES HILTON DUBLIN AIRPORT AND NAMES VALOR HOSPITALITY AS MANAGEMENT PARTNER",
-       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb2hSVEU2a29DNkx5M3A1b2RHTmhDWnM3QUZSVkNQMzhOTk5zVVNfemJsVUN1S085b09xSVpDRVE1Wm5LSXY4YVVFQWM5SHBsTGdCX1hIdXFsUkE1cEwzQnpGdWpWZE9rSW5NbXBvbjZzSU1tYXR3QUM1VTNrR3VtdFhrRkZKeF9jZHE1eVgxTjkxYzBpYnZ2VFkwN2hWVGRwYmRueVFxaDJOTGpneHVpNkgzbDc2VkhNRVlSTTNsNW5NNW50ZlZxai1iazI?oc=5",
-       "source": "The Hotel Magazine"
+       "titre": "EOS Investors Acquires Hyatt Centric Faneuil Hall Boston, Marking Firm’s Entry Into Boston",
+       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVVRndlM2ZUN1bDUwTF9ZaGdWSzE3Y3NoRFVvRGJRODU0djBISXFFLWxfNjNhcE1SUy1MRWRPSTh1ZWhsblRGcWoxWExrZ0lHTmlHRE9xbWlIbkRnRVNiOWZLZ1drRnFpRXpwZGphVjdsaXZDZEpSQ3ZkLVZXYmQ3RzdOMW9pcW42SWJWUjFHQjB4WFU3Sk9Ea3hzUEFxVTVSNC1qUDhxQzVsall0SnVqV2M5T2oxa1hFXzRzOFgyVQ?oc=5",
+       "source": "Hotel Online"
       },
       {
-       "titre": "Asif Aziz buys City block for £200m hotel conversion",
-       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb2NVTWpKNU1KQVZWTjVBRnZ6MURDYlMzRHhxVTJZN2hUR1I2bzlVUjJVdndGbkJ1Z2dvaDFaOERud01xZ0dnWjRyeDFFc1dCZGxLWlUtY1pZYWpQQndVb3JFR1FpRVFJYzNfVlQ3RXp5OUpsVzFnS1pjLVYxMWhIN2JkenRPTU11aWdUUUZGNm15QQ?oc=5",
-       "source": "Green Street News"
+       "titre": "Two hotels in London, KY, sold for $19.1M",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1va2V0Q3c0eU9zbWEzeU85aTdCZlpVSFJ6YkRucjJyb1drZEcwS0pMdFQtTEt6TVd0ZW5jQ01oV09BY0hhT1hNZ3JWMXQ5bXdZNWtma2paZnd3V2w1Y0JraVJONDh0QmVIbVVQZEZaaUFYVDA?oc=5",
+       "source": "hotelbusiness.com"
       },
       {
-       "titre": "Brakspear Expands Honeycomb Houses with Acquisition of The Stroud Hotel",
-       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOUp2alVsRFVybTBHbVBzMEhGQzlpbUJrLUg2bFRtT1F5TkgxWElfa0JlUDU5aWpkQy00SkF4MHR3ZXd2RUlVN044aTMtNnY3OXFMUjA3Qk9qN0pTS0dPbjhPT2JBRTJPbHpWaEtpREpMa01fV0oxUjdhZXF3VjlKSFoxNmxmWkhYUlVJUXh3OVNheEJPeWYzbkdYdmZXN1Bzenc?oc=5",
-       "source": "CLH News"
+       "titre": "Criterion snaps up New London House for 500-room hotel conversion",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa2w2SlVabkw1ZU8tQkFKTHJ0Z2lJMTYwd3h1TVk4ZHZ5c3p2WngwSDltRjY5cjQ3dXd3X0FJU2FIQktLTDVZcmRLYUpWd01IY0J3ZWItUjQ3WEc1NmlnckxkVzVGVTV1OHMxNkhpQmRCM0wzX09DREFQaHo2NnBGVUtLTUZFSUoxQ3ljdDNYWTl3SDVYYTJUUDBKMld1RUZK?oc=5",
+       "source": "Property Week"
       }
      ]
     },
     {
-     "texte": "Ailleurs, Playboy va acquérir un hôtel de Miami Beach pour en faire un club privé, l'Université de Californie achète un resort cinq étoiles sur la côte du comté de San Mateo, et le coréen Paradise Co indique que les discussions sur un hôtel à Jeju se poursuivent sans décision.",
+     "texte": "Dans les Cotswolds, quatre hôtels de luxe et un pub ont été cédés lors d'une opération majeure ; à New York, un magnat de l'hôtellerie du Queens a acquis un terrain hôtelier à Long Island City pour 12,4 millions de dollars, et en Jamaïque le Cliff Hotel s'agrandit en rachetant un resort voisin.",
      "articles": [
       {
-       "titre": "Playboy to acquire Miami Beach hotel for private club as it plans move from LA",
-       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObHBfZHFUdGJDOWV4Y0loanNUSXM1OWtPcnMwVllxS0xWVTJ4d25aTVRzclI5MUJOMjY0Ti10ZVZkR3R4U0U4aUdaaE93RXhXMkNrRDhKbldBVnlfWG9Na1hPM3ZTOUtwZ2p0Q1dvTnhaUnd4NVB4bUJiODJMSkFOYmdZajl4cUJFWEF1TXUwN2MySm9zeEMyMUtjUkRxRnVoNHc?oc=5",
-       "source": "The Real Deal"
+       "titre": "Four luxury hotels and pub in Cotswolds sold in major deal",
+       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcmp6QktVMmNVUU91ZUVlMnBMdy14Z21XUWxkcmp4bHZDQ3duWmR6eUFiemkzZFhjNlViYXVxYkw4S1NJZlg4Tnl3a3c0ck1MVXVzOVViZVF0aUNHZWFncDk1U3FBQ2RJSmFVUDAxTEVsN1ZsVFJwamNvaVp3NFRSRUQ1Qi03UFV0QUl4SmhOaVdlZnA3ZDB3?oc=5",
+       "source": "Oxford Mail"
       },
       {
-       "titre": "UC system buys five-star luxury hotel resort on San Mateo County coast",
-       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUEEtMmJpSzQ5VllHRUdZRWZHOGJYdElPcWhyY3lTUllia05yYTVQOVBfbi1WOUpHTHVlbVluRzR5WnQ4NzZvR2dJTGFpR05hbVNVQk40dlRkZDhyTkpTcXpiX25FVVZ0dnhPLUNJeXBXcGJvRFVfS2pwSzVrSXlkRWpkNGFCdncydTNQaTdyTjgtZm9OSy13V1FpejRpNlpwb05YSDJnWTdVbDhh?oc=5",
-       "source": "The Mercury News"
+       "titre": "Queens hospitality mogul acquires Long Island City hotel site for $12.4M",
+       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaUFKTHRRSWNKTVdsMHZDRkpuUXp1V3VNVmUtT3hoR2s3dW85X2w1cktVTG9yOVZOb2NQOTdiN2kwNVhCSEYtaDJaV28wdFQ5NjFoZlZXazNWX0RtYldMNld1bW83MVBGc0pEWVNrTkVWYjVmWnYyNmk5MUtPMGgyY1VFN0FkOUotN0NsczMtNGpuMF9mY2J3OTdncGF3cGpJSm9WVjUzTkw5TXNUYXM3dUJOaG9qLWJM?oc=5",
+       "source": "Crain's New York Business"
       },
       {
-       "titre": "Korea’s Paradise Co says no decision made on Jeju hotel acquisition with talks ongoing",
-       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUGRUY3cxdDBuQVI0bGRwTkJvWE9XQzB4eDdweXZFemhxWnhUQkZ5RU1UbDZLOG5DMnZVc2tlY3Nma1pvcE9aVDVkMkpHaGZWY0lTc0lQdUFTRkFwRHhrRlN0MHE5bkdKMlRFa01BQmRCM2QzN2JUWmFPdDZsbzdlMndvTHAxRG1ONHB1dG9Cc094b1g5STUzTVAxWGt2ZEl5TVdIaWluTEZrMm1XZU5MOWZJM21xZw?oc=5",
-       "source": "IAG – Inside Asian Gaming"
+       "titre": "Jamaica's Cliff Hotel expands with the purchase of a neighbor resort",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV1UxdDRuSGJKUWdHamltUkdHSWZlSHNaeWtIUTk3NzMxdzhMelFLZWRDN2JSV0xNakYxUzVSQjFZeWpET1dURFE4QzU0dmwwTExLd2RoaGlRRVVqWk90Ty11YUxIZUpqVVVBdnVkbDZXX0l1RXRUbmdMTlM1UzZMd1E1N1laY01UV0p0VVVldDZvb3NNMHZveFZlNGZQckp3MGF2S1BER3JiemtuQ25CdmlTTQ?oc=5",
+       "source": "Travel Weekly"
       }
      ]
     },
     {
-     "texte": "Distribution et fidélité : Accor et Hard Rock International signent un partenariat mondial couvrant fidélité, distribution et développement international. Hilton ouvre ses points aux croisières Explora Journeys et aux campements AutoCamp, et Expedia a consacré 676 millions de dollars à trois acquisitions en neuf mois, signe d'un appétit pour le B2B.",
+     "texte": "Accor et Hard Rock ont noué un partenariat sur la fidélité et la distribution, qui doit élargir le réseau de distribution de Hard Rock et accélérer son développement mondial. Hotelogix intègre son PMS cloud à Zoho Books pour les hôtels indépendants et de milieu de gamme en Inde.",
      "articles": [
       {
-       "titre": "Accor ajoute les marques de Hard Rock International à sa plateforme de distribution et de développement",
-       "url": "https://hospitality-on.com/fr/developpement/accor-ajoute-les-marques-de-hard-rock-international-sa-plateforme-de-distribution-et",
+       "titre": "Accor, Hard Rock enter partnership on loyalty, distribution",
+       "url": "https://www.hoteldive.com/news/accor-hard-rock-enter-partnership-loyalty-distribution/874251/",
+       "source": "Hotel Dive"
+      },
+      {
+       "titre": "Hotelogix and Zoho Books Partner to Deliver a Connected Operations and Finance Platform for Hotels",
+       "url": "https://www.hospitalitynet.org/news/4135396/hotelogix-and-zoho-books-partner-to-deliver-a-connected-operations-and-finance-platform-for-hotels",
+       "source": "Hospitality Net"
+      }
+     ]
+    },
+    {
+     "texte": "Nominations et gouvernance : Hyatt nomme Danny Miles directeur du digital et des systèmes d'information, Lucile Rannou prend la direction de l'Hôtel California Paris Champs-Élysées (réouverture attendue en 2027), et les actionnaires de Whitbread ont rejeté à 83,4 % l'entrée au conseil d'un associé de l'activiste Corvex.",
+     "articles": [
+      {
+       "titre": "Hyatt taps in new chief digital and information officer",
+       "url": "https://www.hoteldive.com/news/Hyatt-new-chief-digital-information-officer/874232/",
+       "source": "Hotel Dive"
+      },
+      {
+       "titre": "Lucile Rannou en charge de l'Hôtel California Paris Champs-Élysées",
+       "url": "https://hospitality-on.com/fr/hotellerie/lucile-rannou-en-charge-de-lhotel-california-paris-champs-elysees",
        "source": "Hospitality ON"
       },
       {
-       "titre": "Croisières, glamping, Parc des Princes : la fidélité sort désormais de la chambre",
-       "url": "https://hospitality-on.com/fr/hotellerie/croisieres-glamping-parc-des-princes-la-fidelite-sort-desormais-de-la-chambre",
+       "titre": "Whitbread écarte largement l'activiste Corvex de son conseil",
+       "url": "https://hospitality-on.com/fr/hotellerie/whitbread-ecarte-largement-lactiviste-corvex-de-son-conseil",
        "source": "Hospitality ON"
-      },
-      {
-       "titre": "Expedia’s $676 Million in Acquisitions Points to More B2B Buying",
-       "url": "https://skift.com/2026/11/09/expedias-676-million-in-deals-points-to-more-b2b-buying/",
-       "source": "Skift"
       }
      ]
     },
     {
-     "texte": "Chiffres : Meliá affiche 1 707 millions d'euros de chiffre d'affaires sur neuf mois (+7,3 %), mais un bénéfice en recul de 47,4 % en raison de sa sortie de Cuba. Au Moyen-Orient, la reprise des chaînes hôtelières marque le pas à l'approche de la haute saison, sans remise en cause de leurs plans de développement.",
+     "texte": "Le RevPAR américain de Marriott, Hilton, Hyatt et d'autres a progressé sur un an au troisième trimestre. À l'inverse, l'occupation hôtelière de Séville a perdu près de 13 points après l'accident ferroviaire d'Urda, la reprise des chaînes au Moyen-Orient cale à l'approche de la haute saison, et les États-Unis perdent du terrain face au Japon selon Brand USA.",
      "articles": [
       {
-       "titre": "Meliá : l'activité progresse, le bénéfice presque divisé par deux par la sortie de Cuba",
-       "url": "https://hospitality-on.com/fr/hotellerie/melia-lactivite-progresse-le-benefice-presque-divise-par-deux-par-la-sortie-de-cuba",
+       "titre": "Inside hotel companies’ widespread growth in Q3 2026",
+       "url": "https://www.hoteldive.com/news/hotel-earnings-trends-q3-2026/874238/",
+       "source": "Hotel Dive"
+      },
+      {
+       "titre": "Deux semaines après Urda, l'occupation hôtelière de Séville perd près de 13 points",
+       "url": "https://hospitality-on.com/fr/hotellerie/deux-semaines-apres-urda-loccupation-hoteliere-de-seville-perd-pres-de-13-points",
        "source": "Hospitality ON"
       },
       {
        "titre": "Hotel Chains’ Middle East Recovery Stalls as Peak Season Arrives",
        "url": "https://skift.com/2026/11/10/hotel-chains-middle-east-recovery-stalls-as-peak-season-arrives/",
        "source": "Skift"
-      }
-     ]
-    },
-    {
-     "texte": "Tendances : les voyageurs restent désireux de partir pour les fêtes malgré la hausse des coûts, 57 % prévoient un voyage « Un-Adulting » d'ici 2027 selon Expedia, et un audit de Skift sur 50 grands sites de voyage montre que peu orientent les robots d'IA.",
-     "articles": [
-      {
-       "titre": "2026 holiday travel preview: Trip goers stretch budgets, turn to tech",
-       "url": "https://www.hoteldive.com/news/2026-holiday-travel-preview/874086/",
-       "source": "Hotel Dive"
       },
       {
-       "titre": "Exploring Un-Adulting as Adults Seek to Be Kids Again",
-       "url": "https://www.hospitalitynet.org/news/4135369/exploring-un-adulting-as-adults-seek-to-be-kids-again",
-       "source": "Hospitality Net"
-      },
-      {
-       "titre": "Dear Robot: How Travel Is (and Isn’t) Talking to AI",
-       "url": "https://skift.com/2026/11/09/dear-robot-how-travel-is-and-isnt-talking-to-ai/",
+       "titre": "Japan Is Closing in on the U.S. as High Costs and Politics Deter Travelers, Brand USA Says",
+       "url": "https://skift.com/2026/11/10/brand-usa-top-destination-closing-gap/",
        "source": "Skift"
       }
      ]
