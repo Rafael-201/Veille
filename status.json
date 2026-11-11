@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T06:23:21Z",
+ "generated_at": "2026-11-11T06:26:08Z",
  "sources": [
   {
    "name": "CNBC",
@@ -119,7 +119,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 79
+   "archived": 78
   },
   {
    "name": "Quanta Magazine",
