@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T06:18:22Z",
+ "generated_at": "2026-11-12T07:14:22Z",
  "launches": [
   {
    "name": "Long March 2D | CAS Pathfinder-1",
@@ -15,8 +15,8 @@
   {
    "name": "Falcon 9 Block 5 | USSF-627",
    "net": "2026-11-12T04:36:30Z",
-   "status": "In Flight",
-   "status_label": "Launch in Flight",
+   "status": "Success",
+   "status_label": "Launch Successful",
    "provider": "SpaceX",
    "pad": "Space Launch Complex 4E",
    "location": "Vandenberg SFB, CA, USA",

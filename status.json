@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T06:18:21Z",
+ "generated_at": "2026-11-12T07:14:22Z",
  "sources": [
   {
    "name": "CNBC",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 55
+   "archived": 56
   },
   {
    "name": "Nature",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 34
+   "archived": 35
   },
   {
    "name": "Transactions · Asie-Pacifique",
@@ -319,7 +319,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 26
+   "archived": 24
   },
   {
    "name": "Transactions · Afrique (FR)",
@@ -329,7 +329,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 14
+   "archived": 13
   },
   {
    "name": "Marchés · Amérique du Nord",
@@ -379,7 +379,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 57
+   "archived": 58
   },
   {
    "name": "Marchés · Asie-Pacifique",
@@ -399,7 +399,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 69
+   "archived": 70
   }
  ]
 }
