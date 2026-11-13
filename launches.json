@@ -1,39 +1,6 @@
 {
- "generated_at": "2026-11-12T07:14:22Z",
+ "generated_at": "2026-11-13T06:17:00Z",
  "launches": [
-  {
-   "name": "Long March 2D | CAS Pathfinder-1",
-   "net": "2026-11-11T11:41:00Z",
-   "status": "Success",
-   "status_label": "Launch Successful",
-   "provider": "China Aerospace Science and Technology Corporation",
-   "pad": "Launch Area 94 (SLS-2 / 603)",
-   "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-   "mission_type": "Technology",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25202d_image_20190222031211.jpeg"
-  },
-  {
-   "name": "Falcon 9 Block 5 | USSF-627",
-   "net": "2026-11-12T04:36:30Z",
-   "status": "Success",
-   "status_label": "Launch Successful",
-   "provider": "SpaceX",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "mission_type": "Government/Top Secret",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg"
-  },
-  {
-   "name": "Kuaizhou 11 | Unknown Payload",
-   "net": "2026-11-12T19:50:00Z",
-   "status": "Go",
-   "status_label": "Go for Launch",
-   "provider": "ExPace",
-   "pad": "Launch Area 95A",
-   "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-   "mission_type": "Unknown",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kuaizhou_11_lif_image_20240520155835.jpg"
-  },
   {
    "name": "Vulcan VC6L | Amazon Leo (LV-01)",
    "net": "2026-11-13T17:54:00Z",
@@ -57,19 +24,30 @@
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20260724044615.jpg"
   },
   {
+   "name": "Soyuz 2.1b/Fregat-M | MKA Kinosputnik, KOEN and others",
+   "net": "2026-11-14T00:50:00Z",
+   "status": "Go",
+   "status_label": "Go for Launch",
+   "provider": "Russian Federal Space Agency (ROSCOSMOS)",
+   "pad": "Cosmodrome Site 1S",
+   "location": "Vostochny Cosmodrome, Siberia, Russian Federation",
+   "mission_type": "Technology",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg"
+  },
+  {
    "name": "Electron | The Mountain God Rises (iQPS Launch 10)",
    "net": "2026-11-14T05:30:00Z",
    "status": "Go",
    "status_label": "Go for Launch",
    "provider": "Rocket Lab",
-   "pad": "Unknown Pad",
+   "pad": "Rocket Lab Launch Complex 1A",
    "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
    "mission_type": "Earth Science",
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
   },
   {
    "name": "Falcon 9 Block 5 | USSF-317",
-   "net": "2026-11-15T03:55:00Z",
+   "net": "2026-11-18T03:14:00Z",
    "status": "Go",
    "status_label": "Go for Launch",
    "provider": "SpaceX",
@@ -88,6 +66,28 @@
    "location": "Vandenberg SFB, CA, USA",
    "mission_type": "Government/Top Secret",
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg"
+  },
+  {
+   "name": "Long March 2D | Unknown Payload",
+   "net": "2026-11-18T22:50:00Z",
+   "status": "Go",
+   "status_label": "Go for Launch",
+   "provider": "China Aerospace Science and Technology Corporation",
+   "pad": "Launch Complex 9",
+   "location": "Taiyuan Satellite Launch Center, People's Republic of China",
+   "mission_type": "Unknown",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25202d_image_20190222031211.jpeg"
+  },
+  {
+   "name": "Long March 8A | SatNet LEO Group TBD?",
+   "net": "2026-11-20T11:00:00Z",
+   "status": "TBC",
+   "status_label": "To Be Confirmed",
+   "provider": "China Aerospace Science and Technology Corporation",
+   "pad": "Commercial LC-1",
+   "location": "Wenchang Space Launch Site, People's Republic of China",
+   "mission_type": "Communications",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_launch_2_image_20251206093107.jpeg"
   }
  ]
 }
