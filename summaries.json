@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-12T06:18:07Z",
+ "generated_at": "2026-11-13T06:18:19Z",
  "auteur": "Claude",
  "rubriques": {
   "finance": {
-   "titre": "L'avenir de Jensen Huang à la tête de Nvidia secoue les valeurs de l'IA, tandis que CoreWeave rassure avec ses résultats",
+   "titre": "L'affaire Jensen Huang fait vaciller Nvidia et pèse sur les valeurs de l'IA, tandis que les places européennes résistent.",
    "points": [
     {
-     "texte": "Le conseil d'administration de Nvidia s'est réuni jusque dans la soirée pour décider du sort de son PDG Jensen Huang, qui a reconnu une liaison avec une femme soupçonnée par le renseignement américain d'être une espionne chinoise. L'action a chuté de 8 % après la clôture, entraînant les contrats à terme sur le Nasdaq et les Bourses asiatiques ; Elon Musk a dit qu'il serait « honoré » d'embaucher Jensen Huang.",
+     "texte": "Nvidia traverse une crise de gouvernance : après l'aveu d'une liaison par Jensen Huang, le conseil d'administration s'est réuni jusque tard dans la soirée pour décider de son sort, et CNBC fait état de sa démission. Le titre a chuté de 8 % après la clôture sur des informations d'éviction et file vers sa plus longue série de baisses hebdomadaires depuis 2012, avec 1 600 milliards de dollars de capitalisation envolés.",
      "articles": [
       {
        "titre": "Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening",
@@ -19,173 +19,188 @@
        "source": "MarketWatch"
       },
       {
-       "titre": "Asian shares mostly slip as Nvidia’s troubles weigh on AI stocks, despite a rally on Wall St",
-       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVFFiZmRWVmxZNDlVRnR1NHVQNkprRUhWMnNLMHFLWC1qdGljTm9ON2Z3U2FuXzNUcjRwRmNqMFZVemE4TVA1RVhRdl9paUtyMXJoYWhHbVl5d1FfNWZIZTVVU0IwcDQ0eHlnWGxxWEFhZjdkVko1a1hwY25XWE9uc3Q0MkIyaHpCWkNuZk05SGs1ck5DTFV4ZktQNWo?oc=5",
-       "source": "AP News"
+       "titre": "Nvidia on track for longest weekly losing streak since 2012 as market value sinks by $1.6 trillion",
+       "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+       "source": "CNBC"
+      },
+      {
+       "titre": "Affaire Nvidia : le siège du PDG Jensen Huang de plus en plus éjectable",
+       "url": "https://www.liberation.fr/economie/economie-numerique/affaire-nvidia-le-siege-du-pdg-jensen-huang-de-plus-en-plus-ejectable-20261112_DIS6XEQVLRGE7ILCGHBLC4Z3ZM/",
+       "source": "Libération Économie"
+      }
+     ]
+    },
+    {
+     "texte": "La succession est ouverte : le conseil cherche un nouveau PDG et quatre noms circulent, tandis qu'Elon Musk se dit prêt à embaucher Jensen Huang. Le cabinet Wachtell, Lipton et l'ex-procureur Joon Kim mènent l'enquête interne ; pour Futurum, la menace sur les parts de marché de Nvidia reste limitée.",
+     "articles": [
+      {
+       "titre": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
+       "url": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
+       "source": "MarketWatch"
       },
       {
        "titre": "Elon Musk says it would be an 'honor' to hire Nvidia's Jensen Huang",
        "url": "https://www.cnbc.com/2026/11/12/elon-musk-jensen-huang-nvidia-tesla.html",
        "source": "CNBC"
-      }
-     ]
-    },
-    {
-     "texte": "CoreWeave a dépassé les attentes de chiffre d'affaires au troisième trimestre et relevé ses prévisions : l'action a bondi de plus de 24 %, sa meilleure séance depuis avril 2025. Le groupe prévoit 9 milliards de dollars de prépaiements et son PDG Mike Intrator a annulé son programme de cession d'actions.",
-     "articles": [
-      {
-       "titre": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
-       "url": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
-       "source": "CNBC Résultats"
       },
       {
-       "titre": "CoreWeave soars more than 24% for best day since April 2025 after strong Q3 report",
-       "url": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
-       "source": "CNBC Résultats"
-      },
-      {
-       "titre": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
-       "url": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
-       "source": "MarketWatch"
-      },
-      {
-       "titre": "CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program",
-       "url": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
-       "source": "CNBC Résultats"
-      }
-     ]
-    },
-    {
-     "texte": "Une inflation américaine plus forte que prévu alimente les paris sur une hausse des taux de la Fed : les rendements obligataires japonais ont grimpé dans le sillage des Treasuries, et le dollar australien est tombé à son plus bas depuis janvier. Les investisseurs se replient vers les valeurs défensives au détriment de la tech.",
-     "articles": [
-      {
-       "titre": "Japan Government Bond Yields Jump, Tracking Treasury Selloff",
-       "url": "https://www.bloomberg.com/news/articles/2026-11-11/japan-government-bond-yields-jump-tracking-treasury-selloff",
-       "source": "Bloomberg Markets"
-      },
-      {
-       "titre": "Aussie Falls to Lowest Since January on RBA Slowdown, AI Fears",
-       "url": "https://www.bloomberg.com/news/articles/2026-11-12/aussie-falls-to-lowest-since-january-on-rba-slowdown-ai-fears",
-       "source": "Bloomberg Markets"
-      },
-      {
-       "titre": "Investors pivot to defensive stocks as markets enter a ‘state of alert’",
-       "url": "https://www.cnbc.com/2026/11/11/tech-selloff-defensive-pivot.html",
+       "titre": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
+       "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
        "source": "CNBC"
+      },
+      {
+       "titre": "Limited Threat to Nvidia’s Market Share: Futurum's Bulk",
+       "url": "https://www.bloomberg.com/news/videos/2026-11-12/limited-threat-to-nvidia-s-market-share-futurum-s-bulk-video",
+       "source": "Bloomberg Markets"
       }
      ]
     },
     {
-     "texte": "En Europe, le CAC 40 a terminé en hausse, au plus haut depuis fin août, porté par STMicroelectronics et Schneider Electric et par les espoirs d'une valorisation relevée d'Anthropic pour son entrée en Bourse ; le SMI a défendu la barre des 15 000 points. En Inde, le Sensex a gagné 1 142 points, à un plus haut de huit mois, avec le retour des investisseurs étrangers.",
+     "texte": "Les marchés encaissent le choc : les Bourses asiatiques ont reculé puis amorcé un rebond prudent, le Kospi passant de 5 500 points en séance aux 5 260 avec 620 milliards de wons de ventes nettes étrangères, et le Nikkei cédant 0,71 %. En Europe, la Bourse de Paris a fini en légère hausse et le SMI zurichois dans le vert ; les émergents visent leur première semaine de hausse depuis septembre.",
      "articles": [
       {
-       "titre": "Cac 40 : L'IA rebondit en Bourse grâce notamemnt aux espoirs autour d'un relèvement de la valorisation cible d'Anthropic pour son entrée à Wall Street, le CAC 40 termine en hausse",
-       "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPTzg3d283b2pocUxnMWo0X25Bd2xUNmNSeXFJUWtuU3RFNWJPVnAySGFtYU9JN1pYNVNNeXk5N0d4bWpSTklFZ1Nuekw3RnFkT1p6WUswd2owNXhpeEpQbWtkVnZjQmM4WDhiN2ZheUFOeGZMS3lDQzNfeE5ZSkRnNE9LZ1gtUjkzYW5BOS1scm9KUkgzR3E3SUViQmlvSEx1YUJGMjJ3elV4MHZGY0sxY1EteWI4SncyTHJrWmNHRGJvTUhidHF1YnF5VGl3SEhoNEsyal9LNllQNVRCbURWNDFtczBqakVNT2NPVG9oN09rU0tublJDRkhweEZnOF9kenl6S1BXdlhwTjFoM01tSVpHTTRyZDQzalA5N0NkejluTFB2THNNUUdZdXBuV3lBeHdzYkpIN2tsdGZBTFN1eExsWnpYTXJhY0RVUGVBbXl2VmFzU0xnaDk3ZFJYMDhDNkFuM05n?oc=5",
-       "source": "BFM Bourse"
+       "titre": "Asia Stocks Stage Tentative Rebound as Nvidia Uncertainty Lingers",
+       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWHdvWlI3NzgxYVZmZGoxT0taeTh6dmJKRklCMW1tc2Q3Vm9XV2o4ZlU0amFrZ1BXcFRxOXB5STZCMmE1NzhVa25RSGRLN0xtWEZSVTZkUS1pbHBCM0s2OEZUMHlFLUc2WHVLdnNtYlozdXoxdzFSMG9IM0ZVd3o2WjJ6V01JQkdtbThUbUc3WVFTV0p6ZzBsTHJoT1hMVlAzdUFMVXdKUzM?oc=5",
+       "source": "WSJ"
       },
       {
-       "titre": "STMicroelectronics et Schneider Electric signent les plus fortes progressions d'un Cac 40 au plus haut depuis la fin août",
-       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOMWtUQU93ZzliZ1BBOExGbWh6dU5zOS1tWEFJYnBhd1NZOFBNTVNhRkNVSV83cjExdXdVSkJnRm5USFkyWHBhTGNnLVBpNk5OTk96ZF8tUUkwb2UtLU95YWRzRk9jRW90QlZRQUU1b19GZkNrN1cwVHBZRkZvVlkxV0JDazZaT090LUdJXzhtNGVuVl96TmwzTV9mQkJIVHRtRDdFa1BQVWU3X0NzaElfS3loRmVnWHkzenpyMHJNSjdoT3BiLTlsUG9JeFMweWxTeDQ1b2F2T0tYeEdJRXJscHBESUJWNmFtRVppQWNYSGJKbDItR2l0WU9LNjJzYTgtN1FhTkJNbk41Z3o1cmdYZ1dyc0k?oc=5",
-       "source": "Investir Les Echos"
+       "titre": "KOSPI Hits 5,500 Intraday, Then Slides to the 5,260s; Foreign Investors Net Sell 620 Billion Won [fn Afternoon Market Update]",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVS0U1c0Z0SV9WZXNObm40Ul8zTUp0Uy1nak9wb0t2OWFQVTNvcDZjTVpUNGlxMWJ2cnpjUVJIbHg4NTBMc0J6ekY5cTRKNGVHcHBKVlJuYW8?oc=5",
+       "source": "파이낸셜뉴스"
       },
       {
-       "titre": "Le SMI défend avec succès la barre des 15.000",
-       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUUx2ZUJ0NkNNcTViOVdBamNTdVVvWnNHVE9pOFZ3clEySW9ENzdFY2NGSnRHVjVaMTY5a1ZvbEIzVjN1RUoxbFJvaHRsVTRzMnVhMTE5Q3RuUFZkb0prN0w1eC1HTXpEdkk0NndneFJoTG9GcVllVVdKM1R0OENxcUctdFFjSEVz?oc=5",
-       "source": "agefi.com"
+       "titre": "Bourse Zurich: le SMI résiste au choc Nvidia et clôture dans le vert",
+       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUmt3el9rbEhuNGlJZHFNLXN4WlRFNFMwS0FUWnU0UHgtZ3pmNy1Ha1pqOWRBR1VXTlJvQzB4dHU0WFZicnBaZkZGN1ZRUUhSUXV5U04yNFI4NHNxc0xNcmpMY1RGUWxDWF9udW9mQzAzMnNzYldCeGtydjB1dXhqR2RNclBQS2tvY19YVmoxelZrVEZGLXBuN3ZVQXdlVmp5YWZIektVRWZOZmVTZU5MOTZkdEotR0xtSmJVckZuNHpYLVhib25Z?oc=5",
+       "source": "Zonebourse"
       },
       {
-       "titre": "Sensex jumps 1,142 points to eight-month high as FIIs return, crude stays soft",
-       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUXc0ekxRNTVkWU1aa1ZEeHMzUnZaR2tVS3lTdDNWbHluT2VWTE5YeWJ4b3Ffc0dENGluanZtVXEteHVBSENLZjdWbEREemhxWEFIQkE2Nk83bjBKQTRiS05CazBoeVNCcC1EODVMRHUyZF9hcnVJLTdXX2NKaXdINkJhOVpDUUNyQUM0dtIBmgFBVV95cUxPTmF1ZDRRU2d3WTRiTFdhODVuVG4wNjlnX2dtOGJMa2dHWDY5aUxCRDdrQVIzbi1mTl9fUUNqLTNCZWxqWGtsOHk4OUszSUdYYnFDaTJQLUNqTVdmWVpXZE0yWTdlcmJmSVRmdnFVSFpwSjRTN2RFY280bllUVlM5blpHSktoakpKNEFLT1NNS00zUWxHc3NTYzJ3?oc=5",
-       "source": "Daily Pioneer"
+       "titre": "EM Stocks Eye First Weekly Gain Since September as Tech Rebounds",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-13/em-stocks-eye-first-weekly-gain-since-september-as-tech-rebounds",
+       "source": "Bloomberg Markets"
       }
      ]
     },
     {
-     "texte": "Côté conjoncture, 70 % des dirigeants de TPE/PME ayant un projet d'investissement envisagent de le reporter ou de l'annuler en raison de l'incertitude politique, contre 59 % au troisième trimestre. Aux États-Unis, Children's Place se déclare en faillite avec 881 millions de dollars de dette, tandis qu'en Afrique du Sud Vodacom approche son record en Bourse après un bond de son bénéfice semestriel.",
+     "texte": "Côté résultats, Cerebras bondit de 17 % après un chiffre d'affaires supérieur aux attentes et un accord avec Microsoft, tandis que Nebius chute de 16 % sur des perspectives faibles et des investissements 2026 en hausse. Les acteurs de l'IA ont accumulé plus de 2 000 milliards de dollars de nouvelle dette ou quasi-dette en deux ans ; en Allemagne, les groupes du DAX augmentent leurs bénéfices malgré la crise automobile.",
      "articles": [
+      {
+       "titre": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+       "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+       "source": "CNBC Résultats"
+      },
+      {
+       "titre": "Nebius falls 16% as company expects increased 2026 capex spend, issues weak outlook",
+       "url": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html",
+       "source": "CNBC Résultats"
+      },
+      {
+       "titre": "Les acteurs de l’intelligence artificielle ont accumulé plus de 2000 milliards de dollars de nouvelle dette ou quasi-dette",
+       "url": "https://www.liberation.fr/economie/economie-numerique/les-acteurs-de-lintelligence-artificielle-ont-accumule-plus-de-2000-milliards-de-dollars-de-nouvelle-dette-ou-quasi-dette-20261113_PAONIGXAERETBB26PLYZ3FHXDY/",
+       "source": "Libération Économie"
+      },
+      {
+       "titre": "DAX companies boost profits despite auto crisis",
+       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU1VpRGM4YmNDa2VtVktOUkhaN3FlYmJ1U3JmTjNfTlRsa29PQ28tV1lMdWthWFpCX0hFOWxaZ1B3SjN0ZnhQdEJBRmh3RDJBOE5lakVtd0lPMzdlYkV3MFBmanFVa1hrT2gzOFJrb2ZLYUhPUXZHUThlbWxmb09aSXBZRTBjdktnc21CMWtmUHNHMUdSazU2MFVELWNZVnpqZGc?oc=5",
+       "source": "marketscreener.com"
+      }
+     ]
+    },
+    {
+     "texte": "En Europe, la France et l'Allemagne négocient en coulisses la succession de Christine Lagarde à la BCE, avec un Néerlandais et un Espagnol en lice. En France, le « risque France » pèse sur les banques malgré des résultats solides, et 70 % des dirigeants de TPE/PME ayant un projet d'investissement envisagent de le reporter ou de l'annuler.",
+     "articles": [
+      {
+       "titre": "À Bruxelles, la France et Berlin négocient en coulisses pour préparer la succession de Christine Lagarde",
+       "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/a-bruxelles-la-france-et-berlin-negocient-en-coulisses-pour-preparer-la-succession-de-christine-lagarde_AD-202611130188.html",
+       "source": "BFM Business"
+      },
+      {
+       "titre": "Un Néerlandais, un Espagnol et un jeu d’influence entre la France et l’Allemagne pour régler la succession de Christine Lagarde à la BCE",
+       "url": "https://www.leparisien.fr/economie/un-neerlandais-un-espagnol-et-un-jeu-dinfluence-entre-la-france-et-lallemagne-pour-regler-la-succession-de-christine-lagarde-a-la-bce-13-11-2026-XZC7NWRS2NEFFKLER4S5DCXDZA.php",
+       "source": "Le Parisien Économie"
+      },
+      {
+       "titre": "« Elles cherchent à convaincre les investisseurs qu'elles ne sont pas strictement françaises » : comment les banques naviguent au coeur du « risque France »",
+       "url": "https://www.lesechos.fr/finance-marches/banque-assurances/elles-cherchent-a-convaincre-les-investisseurs-quelles-ne-sont-pas-strictement-francaises-comment-les-banques-naviguent-au-coeur-du-risque-france-2262451",
+       "source": "Les Echos"
+      },
       {
        "titre": "\"L'impact de l'incertitude politique dépasse désormais celui du Covid\": les TPE/PME suspendent ou annulent en masse leurs projets d'investissement",
        "url": "https://www.bfmtv.com/economie/entreprises/l-impact-de-l-incertitude-politique-depasse-desormais-celui-du-covid-les-tpe-pme-suspendent-ou-annulent-en-masse-leurs-projets-d-investissement_AD-202611120182.html",
        "source": "BFM Business"
-      },
-      {
-       "titre": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
-       "url": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
-       "source": "MarketWatch"
-      },
-      {
-       "titre": "Vodacom Share Price JSE Approaches R186 Record as Vodacom Reports Half-Year Profit Surge Boosted by Safaricom",
-       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbGdtZWo3akhDbnJmQ3ZZby1DZHFJTXZzRWE0V2JKcG9QbzZkcHBkN2tlZlVHT1ZRRWdxU2NEZVZTdTR3UmtEVWFEUl81TUwydDFmNGMxUGc4Mml4bm5ZWWR2RVNVSTRaaDZsSS1HOG5waUsyMnBQa3JxQnhCVkVDVFA1dms0aWZLSjlackh2clRxcHFqQm9mQ0EyTVJ0VE1IVi1zSXIyb0pOS25TeTMwU3g5bG1WTFkxUmdDS1ZSb1BTQjZMR3FDRDJ5d0hqeDVBVkpiYkg5N3pMMml4bFJ5MlE1akN5Rlk?oc=5",
-       "source": "FXLeaders"
       }
      ]
     }
    ]
   },
   "science": {
-   "titre": "Des origines de l'Univers aux fossiles géants, l'actualité scientifique est dominée par l'astrophysique et la paléontologie",
+   "titre": "Des avancées en IA et en neurosciences côtoient des découvertes sur la vie, de Mars aux origines de la chimie du vivant.",
    "points": [
     {
-     "texte": "Baptisée Lumina, une nouvelle simulation sur supercalculateur reconstitue les 2 premiers milliards d'années de l'Univers et sa sortie de l'âge sombre cosmique. La sonde Parker Solar Probe de la NASA a montré que les champs magnétiques turbulents inversent leur sens de rotation à très petite échelle.",
+     "texte": "Une preuve assistée par l'IA a démontré rigoureusement que les ordinateurs quantiques n'offriraient pas d'avantage majeur pour toute une classe de problèmes mathématiques, confirmant une conjecture très influente.",
      "articles": [
       {
-       "titre": "A massive new simulation reveals how the universe emerged from darkness",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm",
-       "source": "ScienceDaily"
-      },
-      {
-       "titre": "NASA’s Parker Solar Probe discovers a hidden pattern in the Sun’s chaotic magnetic fields",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261109205411.htm",
-       "source": "ScienceDaily"
-      }
-     ]
-    },
-    {
-     "texte": "Plusieurs découvertes paléontologiques : un rongeur géant d'une trentaine de kilos, Yakamys sirindhornae, vivait en Thaïlande il y a 34 millions d'années ; un amphibien marin cuirassé a été mis au jour en Chine dans des fossiles de 237 millions d'années ; et les premiers animaux sortis de l'eau, il y a près de 380 millions d'années, avaient un cou étonnamment rigide.",
-     "articles": [
-      {
-       "titre": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
-       "source": "ScienceDaily"
-      },
-      {
-       "titre": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm",
-       "source": "ScienceDaily"
-      },
-      {
-       "titre": "Scientists discover that necks didn't evolve for the reason we thought",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261108233101.htm",
-       "source": "ScienceDaily"
-      }
-     ]
-    },
-    {
-     "texte": "En biologie et santé, un anticoagulant a limité les dégâts du cartilage et soulagé la douleur arthrosique chez l'animal ; une étude suggère que le jeûne aiderait l'intestin à mieux récupérer après une radiothérapie ; et chaque espèce de moustique serait attirée par sa propre combinaison d'odeurs, de molécules et de bactéries de la peau.",
-     "articles": [
-      {
-       "titre": "Blood-thinning drug limits cartilage damage and relieves osteoarthritis pain",
-       "url": "https://www.newscientist.com/article/2598488-blood-thinning-drug-limits-cartilage-damage-and-relieves-osteoarthritis-pain/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "titre": "AI confirms a long-suspected limit on quantum computers’ advantages",
+       "url": "https://www.newscientist.com/article/2598418-ai-confirms-a-long-suspected-limit-on-quantum-computers-advantages/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
        "source": "New Scientist"
-      },
-      {
-       "titre": "Et si le jeûne permettait de mieux supporter la radiothérapie ? Une étude révèle un mécanisme étonnant dans l’intestin",
-       "url": "https://www.futura-sciences.com/sante/actualites/cancer-colorectal-si-jeune-permettait-mieux-supporter-radiotherapie-etude-revele-mecanisme-etonnant-intestin-139236/#xtor%3DRSS-8",
-       "source": "Futura"
-      },
-      {
-       "titre": "Scientists discover why some mosquitoes love you and others don't",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261106174541.htm",
-       "source": "ScienceDaily"
       }
      ]
     },
     {
-     "texte": "Côté environnement, deux « polluants éternels » PFAS interdits reculent nettement dans les rivières anglaises, mais leurs substituts, peu étudiés, commencent à apparaître. Un épisode de super El Niño va par ailleurs perturber les courants-jets et influencer la météo pendant des mois.",
+     "texte": "En médecine, une approche fondée sur l'IA rend plus précise la vision bionique expérimentale chez un homme aveugle porteur d'un implant cérébral. Par ailleurs, le croisement d'images médicales et de 100 000 dossiers de patients révèle un lien inattendu entre la graisse brune et la dépression.",
      "articles": [
       {
-       "titre": "Some PFAS chemicals are declining in English rivers but others are appearing",
-       "url": "https://www.newscientist.com/article/2598571-some-pfas-chemicals-are-declining-in-english-rivers-but-others-are-appearing/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "titre": "AI-powered bionic eye breakthrough could help the blind see again",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
+       "source": "ScienceDaily"
+      },
+      {
+       "titre": "« Ce qui nous a le plus surpris… » : 100 000 dossiers médicaux révèlent un lien inattendu entre graisse et dépression",
+       "url": "https://www.futura-sciences.com/sante/actualites/sante-mentale-ce-nous-plus-surpris-100-000-dossiers-medicaux-revelent-lien-inattendu-graisse-depression-139214/#xtor%3DRSS-8",
+       "source": "Futura"
+      }
+     ]
+    },
+    {
+     "texte": "Le rover Perseverance de la NASA a confirmé la présence de carbone organique complexe juste sous la surface d'anciennes roches martiennes. Quanta Magazine lance une série sur les origines de la vie, où une nouvelle génération de chercheurs repense le passage de la chimie à la biologie.",
+     "articles": [
+      {
+       "titre": "NASA’s Perseverance confirms a key ingredient for life hidden in ancient Mars rocks",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm",
+       "source": "ScienceDaily"
+      },
+      {
+       "titre": "A New Era for the Dawn of Life",
+       "url": "https://www.quantamagazine.org/a-new-era-for-the-dawn-of-life-20261112/",
+       "source": "Quanta Magazine"
+      },
+      {
+       "titre": "The Evolving Story of How Chemistry Became Biology",
+       "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+       "source": "Quanta Magazine"
+      }
+     ]
+    },
+    {
+     "texte": "Des chercheurs de l'université de Tübingen ont montré que les corbeaux prennent des décisions visuelles deux fois plus vite que les humains et les singes. Pour la première fois, un robot a assemblé seul une structure en orbite, une antenne radio, sans l'aide d'astronautes.",
+     "articles": [
+      {
+       "titre": "Crows can make decisions twice as fast as humans, scientists discover",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm",
+       "source": "ScienceDaily"
+      },
+      {
+       "titre": "A robot has assembled a structure in space for the first time",
+       "url": "https://www.newscientist.com/article/2598576-a-robot-has-assembled-a-structure-in-space-for-the-first-time/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "source": "New Scientist"
+      }
+     ]
+    },
+    {
+     "texte": "Climat : alors que la COP31 montre peu d'enthousiasme pour la sortie des énergies fossiles, la chute des coûts des renouvelables apparaît comme le vrai moteur de la transition. Un « super El Niño » devrait perturber les courants-jets et la météo pendant des mois.",
+     "articles": [
+      {
+       "titre": "Economics, not climate summits, will dictate the net-zero transition",
+       "url": "https://www.newscientist.com/article/2598706-economics-not-climate-summits-will-dictate-the-net-zero-transition/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
        "source": "New Scientist"
       },
       {
@@ -194,194 +209,149 @@
        "source": "Futura"
       }
      ]
-    },
-    {
-     "texte": "Sur les origines de la vie, des cycles métaboliques auto-entretenus, qui fabriquent et dégradent des molécules complexes, pourraient avoir joué un rôle clé dans l'apparition du vivant.",
-     "articles": [
-      {
-       "titre": "How a Metabolic Spark Could Have Jump-Started Life",
-       "url": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
-       "source": "Quanta Magazine"
-      }
-     ]
     }
    ]
   },
   "spatial": {
-   "titre": "SpaceX enchaîne les missions secrètes pour la Space Force pendant que la NASA relance le retour d'échantillons martiens",
+   "titre": "SpaceX tente aujourd'hui une première historique : le rattrapage des deux étages de Starship.",
    "points": [
     {
-     "texte": "SpaceX a lancé le 11 novembre depuis la Californie une mission classifiée pour la Space Force américaine, la deuxième en six jours.",
+     "texte": "Le vol 15 de Starship, prévu ce 13 novembre après 14 vols complets, doit tenter pour la première fois de rattraper à la fois le lanceur et le vaisseau, une manœuvre inédite dans l'histoire spatiale.",
+     "articles": [
+      {
+       "titre": "Starship Flight 15 to attempt first catch of both stages",
+       "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+       "source": "NASASpaceflight"
+      },
+      {
+       "titre": "Watch SpaceX attempt a historic Starship launch and double-catch landing today (Nov. 13)",
+       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-historic-double-catch-starship-test-flight-today-watch-it-live",
+       "source": "Space.com"
+      }
+     ]
+    },
+    {
+     "texte": "Les lancements se multiplient : SpaceX a lancé depuis la Californie une mission classifiée pour la US Space Force, la deuxième en six jours, et le Vulcan d'ULA s'apprête à revenir en vol avec sa première charge utile Amazon Leo.",
      "articles": [
       {
        "titre": "SpaceX launches 2nd mystery mission for US Space Force in 6-day span (photos)",
        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-2nd-mystery-mission-for-us-space-force-in-6-day-span-photos",
        "source": "Space.com"
-      }
-     ]
-    },
-    {
-     "texte": "La NASA lance une nouvelle initiative de retour d'échantillons martiens (Mars Sample Return), baptisée Perseverance Sample Retrieval Architecture. Son administrateur Jared Isaacman a détaillé la standardisation du lanceur SLS et sa trajectoire jusqu'aux années 2030.",
-     "articles": [
-      {
-       "titre": "NASA kick-starts a fresh push to bring Mars samples home",
-       "url": "https://www.space.com/astronomy/mars/nasa-kick-starts-a-fresh-push-to-bring-mars-samples-home",
-       "source": "Space.com"
       },
       {
-       "titre": "Isaacman lays out SLS path to the 2030s",
-       "url": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
+       "titre": "ULA’s Vulcan set to return to flight with first Amazon Leo payload",
+       "url": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
        "source": "NASASpaceflight"
       }
      ]
     },
     {
-     "texte": "Une commission du Sénat américain s'apprête à faire avancer les nominations du directeur financier et de l'inspecteur général de la NASA.",
+     "texte": "Côté industrie, AST SpaceMobile se dit capable de développer son propre lanceur réutilisable en deux ans malgré le scepticisme du secteur. En Espagne, UARX Space a déployé le véhicule de transfert orbital OSSIE-D lors de son vol inaugural, une étape pour l'industrie spatiale du pays.",
      "articles": [
       {
-       "titre": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
-       "url": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/",
-       "source": "SpaceNews"
-      }
-     ]
-    },
-    {
-     "texte": "Sur Mars, le rover Curiosity achève sa campagne de forage au site « Nazca ».",
-     "articles": [
-      {
-       "titre": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
-       "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/",
-       "source": "NASA"
-      }
-     ]
-    },
-    {
-     "texte": "Dans l'industrie, Horizon Microtechnologies, sélectionnée par l'ESA Phi-Lab, accélère l'industrialisation de sa fabrication additive micro-métallisée en vue d'une production à l'échelle des constellations ; Moog célèbre les 25 ans de l'anneau ESPA, adaptateur pionnier du covoiturage spatial.",
-     "articles": [
-      {
-       "titre": "Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push",
-       "url": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/",
+       "titre": "AST SpaceMobile presses case for developing own launch vehicle",
+       "url": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
        "source": "SpaceNews"
       },
       {
-       "titre": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare",
-       "url": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/",
+       "titre": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
+       "url": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/",
        "source": "SpaceNews"
+      }
+     ]
+    },
+    {
+     "texte": "En astronomie, un « imposteur de supernova » qui intriguait les astronomes depuis 15 ans s'explique par un trou noir ou une étoile à neutrons caché qui se nourrit d'une étoile massive instable.",
+     "articles": [
+      {
+       "titre": "This supernova impostor baffled astronomers for 15 years — until they found a hidden black hole feeding on an unstable star",
+       "url": "https://www.space.com/astronomy/black-holes/this-supernova-impostor-baffled-astronomers-for-15-years-until-they-found-a-hidden-black-hole-feeding-on-an-unstable-star",
+       "source": "Space.com"
       }
      ]
     }
    ]
   },
   "hotellerie": {
-   "titre": "Une actualité riche en transactions hôtelières, des deux côtés de l'Atlantique, sur fond de demande internationale en berne",
+   "titre": "Les acquisitions et l'expansion des marques dominent, tandis que le Golfe mise sur la clientèle locale.",
    "points": [
     {
-     "texte": "Aux États-Unis, EOS Investors a acquis le Hyatt Centric de Boston, DSH Hotel Advisors a vendu pour 18,5 millions de dollars le Holiday Inn Express & Suites Jacksonville – Town Center (99 chambres) et Ari a acheté un hôtel en Floride pour 13 millions de dollars.",
+     "texte": "Transactions : le système universitaire UC rachète le Ritz-Carlton de Half Moon Bay pour 193 millions de dollars, et Travail Hospitality acquiert le Hilton Dublin Airport avant sa conversion sous l'enseigne voco. Scandic, qui a repris le 2 novembre les 57 hôtels de l'irlandais Dalata, dépasse les 320 hôtels et affiche un troisième trimestre en progression de 7,9 %.",
      "articles": [
       {
-       "titre": "EOS Investors acquires Hyatt Centric in Boston",
-       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa1hjZDJINm5ZYkY4dmE1QkwzWXdnNVZxUHFWY1E5cHJJdVZsdnhjekFoNmZIX2pOdGo4VWdLbHFFWnhKV1VLelVySk15c0w5Q095cWJRRHU0eVpWeS1JZ2dFMG5NOVYxQm9WZ0VLV1p5QjFBYy1VSEkwS1dWUTNBSDBBWlczRlpHbnc?oc=5",
+       "titre": "UC system buys Ritz-Carlton hotel in Half Moon Bay for $193 million",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XRk1hYjlKWlJhc0dWanJySU5TVUF0Z3RaLTduMDh3OTlndkd2MTRBeUJ5NFkxN0RkaE5YdXJ4aVItR3FQcGlBdldDMVczOTczWGlwZUEwNmZ3YkVXdElXNDdiU0pzeVdCdTFmcDNFeDZ2UWPSAXNBVV95cUxQTWRfZElqYnRNUU9MV01WOVJxSk04TDFSbko0X3lXUlQ0Y1hIckFpMFZoQjYtaVNTNGR0N2s3ZXc2R0RZOGRBblVXbkRVWmcxOGozemwzQkNpWUUyTDZET0xaMi1SRUl2ZEhkTm5WbTltcE9v?oc=5",
+       "source": "Sacramento Bee"
+      },
+      {
+       "titre": "Travail Hospitality Acquires Hilton Dublin Airport Ahead of voco Rebrand",
+       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb0kyeFNuajJMVG9VcEZfMlE0RE5sQmM5cWxLWGNUOGdVSjV5N21aRnFYcktsZFNGMzBYZ25CQUpiU1l2MDFGc1JfVjhSUTJ1VHRLaXdxSGdyMEZ5M2MyUmRGbXNoTms1NFN2N3J2UWNSMDRDS2tZLUthYjdSeUtQdEpERGNlZk1USndZaHVMT1dMZ3ZPREs4bEZTRC1tc1AtdHhPdzRwZENNUHIxSjRHWHQ0aTBjTjc5elVnTGNrQjNadw?oc=5",
+       "source": "Hospitality & Catering News"
+      },
+      {
+       "titre": "Scandic s'étend à l'Europe du Nord-Ouest après Dalata : 320 hôtels et un chantier d'intégration de deux à trois ans",
+       "url": "https://hospitality-on.com/fr/hotellerie/scandic-setend-leurope-du-nord-ouest-apres-dalata-320-hotels-et-un-chantier-dintegration",
+       "source": "Hospitality ON"
+      }
+     ]
+    },
+    {
+     "texte": "Développement des marques : voco (IHG) franchit le cap des 50 hôtels ouverts en Europe avec 26 projets supplémentaires, Mama Shelter ouvre son premier établissement d'Amérique latine à Mexico le 1er décembre 2026, et l'Elysée New York rouvre après rénovation comme vaisseau amiral de Wunderkind Hotels & Resorts.",
+     "articles": [
+      {
+       "titre": "voco franchit le cap des 50 hôtels ouverts en Europe",
+       "url": "https://hospitality-on.com/fr/hotellerie/voco-franchit-le-cap-des-50-hotels-ouverts-en-europe",
+       "source": "Hospitality ON"
+      },
+      {
+       "titre": "Mama Shelter débute en Amérique latine avec Mexico City",
+       "url": "https://hospitality-on.com/fr/hotellerie/mama-shelter-debute-en-amerique-latine-avec-mexico-city",
+       "source": "Hospitality ON"
+      },
+      {
+       "titre": "Manhattan’s Elysée New York set to reopen after monthslong renovation",
+       "url": "https://www.hoteldive.com/news/elysee-new-york-reopens-after-renovation/874557/",
        "source": "Hotel Dive"
-      },
-      {
-       "titre": "DSH Hotel Advisors Announces $18.5 Million Sale of Award-Winning 99-Room Holiday Inn Express & Suites Jacksonville - Town Center",
-       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPYzVLeHJzMjZzaWo3elpzako1dUlaV1VWZkhLaHR6ajItSVhZZHZrU0pnXzUtek82SjQ5am9fMlJhcGpwQS1YNkZtcm8zU0lsUWxDQnh3TUp2UWxzYnNkMXdpcXFXUjhoYjBIR1Q0alZILU90NG5JRllWY0U2d0pUQlJRQ2dtWWctbl9ua1VqMllGUTNRV1BVanJfX1gtSVRnQlFyUHAwSlBKRnpXc1Q5SVBMTGllMVJ2dGFpNGwyQ3NOa2l5MFFUUjdGakcyVWVIaFYyaTJDNUtfVlkwbkEteG9XRW9hQjUtU0lGZ01GVk1JZU54NGtWM3pZdFlPWnd3ZzlBNVpNWU9oc2NFR1E?oc=5",
-       "source": "PR Newswire"
-      },
-      {
-       "titre": "Ari buys Florida hotel for $13M",
-       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MVFZBS2dOeDYtbmVRMUxMMlFOREVEWUN3bmw4N1BPcDF4N1Jmd0JWNmkwNmk0YkJKT0txdjRRd1JCRlFjWlY1ZGRkZDl2c0pYT1dKNGdYT3NVLXd0Y29SQmRSUzBsSU9kU2kzb09aLS10dw?oc=5",
-       "source": "Asian Hospitality"
       }
      ]
     },
     {
-     "texte": "En Europe, Pandox cède un hôtel à Stockholm pour 644 millions de couronnes, Prism rachète Fletcher Hotels, Zedwell acquiert New London House pour une conversion de 509 chambres, et The Pig de Studland passe aux mains d'un fonds de private equity.",
+     "texte": "Aux États-Unis, le RevPAR des hôtels a progressé de 11 % en septembre selon CoStar, la plus forte hausse depuis 2023, porté par la demande loisirs, le calendrier des fêtes et le retour des groupes d'affaires.",
      "articles": [
       {
-       "titre": "Pandox cède un hôtel à Stockholm pour 644 millions de couronnes",
-       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWm81OUp1cGVCeVlIdFM3WHEtNTdSX3VpalRLNmp0XzBfcWxwRENYWC1jT1I0OGtsc3hQa3VPcURtRE1PNFB1MFp6YUhwUHJEaVd3VnVjSV9tX3l5Qm83S2FXQ0I1UU41cHY4VXhNZGpkM2NEMl9VVnRZM1pINGFJa2JLWGQzZndZd2lBaktEcjRheVU5d1ZvYjdKLXhIeGxiZmZEZU92Tm5hUnJvcnY1T1VWWTVLU1hDdmROaGhYSFk?oc=5",
-       "source": "Zonebourse Suisse"
-      },
-      {
-       "titre": "Prism Buys Fletcher Hotels",
-       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jS3d0dlRuaEtIbTVwaFBRY0x6RUE2UjAtU2ZmUFJONUdQVDlmLU1XcXJ3SlZLNGgyVDNvNjYtaWhwYjMzc2c4cWE1UTRtbENSMjBRRjFlUkh0TW4zWlh2SElhcWEwdFhDT3NHdkQ3UF9iZlZQS3pjZWtDYmk?oc=5",
-       "source": "THP News"
-      },
-      {
-       "titre": "Zedwell Hotels acquires New London House for 509-room conversion",
-       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY1FxM0lrUUhoMkZPU040WUNCd09rWkY5czVfeDdobkhhQi1qUW9WZlh5YnctVTRqS21yT3pMTi14Y3RFWmJuM05CNHB1cGxnWFFVOFZ1T21XVVBZVnFJYkNpbXktZXVaYWROT2ZwV1YyLVVSVWxEQjI3WGJpYVRYMU1UdGs5cThkX1lZ?oc=5",
-       "source": "Boutique Hotel News"
-      },
-      {
-       "titre": "The Pig Hotel at Studland sold to private equity group",
-       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaTlwcFhTVEh6dmhQVnhROFY0RUNsSTJEdUpUbFc5Wng1dDUta3Y4T1VuMXNaaTNweHNoV3VZbEd6WG54YzlUVEI5VzhudUVkTHJrT0Q3YWQwZm5SWXA3dzVJZU5jcFlkS3FsYnc5UFVYSDZKOGFLVklVUUtqNEJ0YXhwT3VtMzA?oc=5",
-       "source": "Swanage News"
-      }
-     ]
-    },
-    {
-     "texte": "Braemar s'est officiellement séparé d'Ashford pour devenir une foncière (REIT) autogérée, avec une nouvelle équipe dirigeante et un nouveau conseil, et a obtenu un refinancement de 358 millions de dollars pour quatre hôtels de luxe. Le PDG de Host Hotels & Resorts a cédé pour 16,7 millions de dollars d'actions.",
-     "articles": [
-      {
-       "titre": "Braemar officially splits from Ashford, transitions to self-managed REIT",
-       "url": "https://www.hoteldive.com/news/braemar-splits-from-ashford-becomes-self-managed-reit/874422/",
+       "titre": "US hotels saw 11% RevPAR uptick in September, highest increase since 2023: CoStar",
+       "url": "https://www.hoteldive.com/news/us-hotels-september-revpar-highest-increase-since-2023/874487/",
        "source": "Hotel Dive"
-      },
-      {
-       "titre": "Braemar Hotels Secures $358 Million Refinancing for Four Luxury Properties",
-       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZzAxUFhUamRPT0VzRXZtY2pxelNXbG1KLUxEeEROSmxuMmw4NktodTFqYW9IVzk3SzZ4cTV3X3A4ZFZNNHd2V2REUE1oZDQ2TVJsXzFEWWk3UVFfVzFvd3dyTXBLcEVtN2FiOEY2U1BiRnZneTBra0F5MV93d21UbE1OaU51TDRFRFZic2N6ZWIwRW1LZ3UwVTQ0U1dDNU4wOFk3VUFwYlZNUHFoT2h1cHh0RDlEYkE?oc=5",
-       "source": "Rus Tourism News"
-      },
-      {
-       "titre": "Le PDG de Host Hotels & Resorts cède des actions pour 16,7 millions $",
-       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNamktZ0NrWHdmQUJ2elJBeGhHTldoOF9VRk95c211SVBMWUtYUklqcHN2UWdSZ01jQVBqNkhtSTlMWGt6a1UtVi1tbk5McUVsUHFiZ0s2SnZzNVp0c0JtWjFQYmt4SFRiNW5LZXh1dnRYbkJfdUZDT1ZNSlF5Zkd2Sy1KMDM3bDVXSU5vZ0ktZ2JMOS1ZcTZqejczbEk3TjMwai04MTJ1LV9WMG5UZ1p3NDNqU1l3WjBnRnFTTmJCTDd2Y1NFQjlQYUlR?oc=5",
-       "source": "Investing.com France"
       }
      ]
     },
     {
-     "texte": "Au Moyen-Orient et en Asie, les hôtels de Mantis dans le Golfe ne servent plus qu'une clientèle locale à cause de la guerre, l'aéroport de Ras Al Khaimah mise sur le resort-casino de Wynn, et les réservations pour le Nouvel An 2027 aux Émirats dépassent 100 000 dirhams la nuit. Dusit entre au Myanmar, à Yangon, via des contrats de gestion.",
+     "texte": "Au Moyen-Orient, les promoteurs saoudiens poursuivent leurs chantiers malgré les attaques qui découragent les visiteurs étrangers, et Mantis continue de construire dans le Golfe où ses hôtels ne servent plus qu'une clientèle locale. Aux Émirats, les réservations du Nouvel An 2027 s'envolent, certaines chambres dépassant 100 000 dirhams la nuit.",
      "articles": [
+      {
+       "titre": "Saudi Hotel Builders Keep Going as Attacks Scare Off Foreign Visitors",
+       "url": "https://skift.com/2026/11/12/saudi-hotel-builders-keep-going-as-attacks-scare-off-foreign-visitors/",
+       "source": "Skift"
+      },
       {
        "titre": "Mantis Keeps Building in Gulf as Demand Shrinks to Locals",
        "url": "https://skift.com/2026/11/11/mantis-keeps-building-in-the-gulf-as-demand-shrinks-to-locals/",
        "source": "Skift"
       },
       {
-       "titre": "Ras Al Khaimah Airport Courts Wynn’s Jet Set but Waits on Airlines",
-       "url": "https://skift.com/2026/11/11/ras-al-khaimah-airport-courts-wynns-jet-set-but-waits-on-airlines/",
-       "source": "Skift"
-      },
-      {
        "titre": "Over Dh100,000 per night, sold-out rooms: NYE 2027 bookings soar in UAE",
        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNajlSMGdnVG1sWEJUY2hkN0RpWWxLZWY5Vm1VY2xQOWNMQ2JoUjh0QkFnUHZhOEEyWVE4anllNnZGZ0gxSDAzVXlsb19nTktwVUowNDhTMFJ2RFVWN0tzVHhQN3pBdlpYc3lmcWdDSy1tbXROcG41UkQtSkFXZjJlT19wTUdYUWR6NzNQNFl3ZjVVa1lKcnFrR3o3NVpsbkM3S1F30gGrAUFVX3lxTE93bWR0bXJTTXBBMzZUX2lhUmxDclYtaDFTX2FmQmJLOUQwd1lVQWtMVFlaeVQxVlVNTGpmLTVnZnB6UFNxVkVXX293VXJjRjI1OU5TNGliOFJjclA3LTU1bWJqMG5oMnphZGRVQ0lvMFZaQnlveXpSc2dpMVo3VlYzUVdObmNUSHB3ZzFkZ2gyTkRiY2NFSU1na0lCVjctWG9TNWE2YlBPY1NzRQ?oc=5",
        "source": "Khaleej Times"
-      },
-      {
-       "titre": "Dusit Takes Low-Risk Bet on Yangon as Others Retreat",
-       "url": "https://skift.com/2026/11/11/dusit-takes-low-risk-bet-on-yangon-as-others-retreat/",
-       "source": "Skift"
       }
      ]
     },
     {
-     "texte": "Côté chiffres, les dépenses des visiteurs internationaux aux États-Unis devraient reculer de 11 milliards de dollars en 2026 (-6,3 %), selon l'U.S. Travel Association. À Paris, le prix moyen hôtelier a progressé de près de 19 % autour du match de NFL ; les opérateurs réunis par Otelier signalent un ralentissement des groupes, un GOPPAR réel en baisse et des coûts en hausse.",
+     "texte": "En Asie, le groupe thaïlandais Dusit entre au Myanmar, à Yangon, alors que d'autres se retirent, en limitant son risque via des contrats de gestion sur des hôtels existants.",
      "articles": [
       {
-       "titre": "International visitor spending to fall by $11B in 2026: forecast",
-       "url": "https://www.hoteldive.com/news/international-visitor-spending-decline-2026/874327/",
-       "source": "Hotel Dive"
-      },
-      {
-       "titre": "NFL: À Paris comme à Madrid, le gameday tire les performances hôtelières",
-       "url": "https://hospitality-on.com/fr/evenements/nfl-paris-comme-madrid-le-gameday-tire-les-performances-hotelieres",
-       "source": "Hospitality ON"
-      },
-      {
-       "titre": "'Everything is Finance’ and 5 More Takeaways From Otelier Optimize 2026",
-       "url": "https://www.hospitalitynet.org/opinion/4135428/everything-is-finance-and-5-more-takeaways-from-otelier-optimize-2026",
-       "source": "Hospitality Net"
+       "titre": "Dusit Takes Low-Risk Bet on Yangon as Others Retreat",
+       "url": "https://skift.com/2026/11/11/dusit-takes-low-risk-bet-on-yangon-as-others-retreat/",
+       "source": "Skift"
       }
      ]
     }
