@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T06:17:00Z",
+ "generated_at": "2026-11-13T06:18:35Z",
  "indices": [
   {
    "symbol": "^GSPC",
@@ -105,9 +105,9 @@
    "symbol": "^N225",
    "name": "Nikkei 225",
    "region": "asie",
-   "last": 61084.43,
-   "change_pct": 0.44,
-   "month_pct": -9.88,
+   "last": 61095.03,
+   "change_pct": 0.45,
+   "month_pct": -9.86,
    "date": "2026-11-13",
    "currency": "JPY"
   },
@@ -115,9 +115,9 @@
    "symbol": "^HSI",
    "name": "Hang Seng",
    "region": "asie",
-   "last": 23650.15,
-   "change_pct": -1.49,
-   "month_pct": -2.86,
+   "last": 23638.16,
+   "change_pct": -1.54,
+   "month_pct": -2.9,
    "date": "2026-11-13",
    "currency": "HKD"
   },
@@ -125,9 +125,9 @@
    "symbol": "000001.SS",
    "name": "Shanghai Composite",
    "region": "asie",
-   "last": 3629.27,
-   "change_pct": -0.73,
-   "month_pct": -4.51,
+   "last": 3627.71,
+   "change_pct": -0.77,
+   "month_pct": -4.56,
    "date": "2026-11-13",
    "currency": "CNY"
   },
