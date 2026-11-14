@@ -1,22 +1,11 @@
 {
- "generated_at": "2026-11-13T06:48:02Z",
+ "generated_at": "2026-11-14T06:16:40Z",
  "launches": [
   {
-   "name": "Vulcan VC6L | Amazon Leo (LV-01)",
-   "net": "2026-11-13T17:54:00Z",
-   "status": "Go",
-   "status_label": "Go for Launch",
-   "provider": "United Launch Alliance",
-   "pad": "Space Launch Complex 41",
-   "location": "Cape Canaveral SFS, FL, USA",
-   "mission_type": "Communications",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg"
-  },
-  {
    "name": "Starship | Starlink Group 31-2 (Starship Flight 15)",
-   "net": "2026-11-13T22:45:00Z",
-   "status": "TBC",
-   "status_label": "To Be Confirmed",
+   "net": "2026-11-13T22:47:36Z",
+   "status": "In Flight",
+   "status_label": "Launch in Flight",
    "provider": "SpaceX",
    "pad": "Orbital Launch Pad 2",
    "location": "SpaceX Starbase, TX, USA",
@@ -25,9 +14,9 @@
   },
   {
    "name": "Soyuz 2.1b/Fregat-M | MKA Kinosputnik, KOEN and others",
-   "net": "2026-11-14T00:50:00Z",
-   "status": "Go",
-   "status_label": "Go for Launch",
+   "net": "2026-11-14T01:16:00Z",
+   "status": "In Flight",
+   "status_label": "Launch in Flight",
    "provider": "Russian Federal Space Agency (ROSCOSMOS)",
    "pad": "Cosmodrome Site 1S",
    "location": "Vostochny Cosmodrome, Siberia, Russian Federation",
@@ -37,8 +26,8 @@
   {
    "name": "Electron | The Mountain God Rises (iQPS Launch 10)",
    "net": "2026-11-14T05:30:00Z",
-   "status": "Go",
-   "status_label": "Go for Launch",
+   "status": "In Flight",
+   "status_label": "Launch in Flight",
    "provider": "Rocket Lab",
    "pad": "Rocket Lab Launch Complex 1A",
    "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
@@ -46,19 +35,19 @@
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
   },
   {
-   "name": "Falcon 9 Block 5 | USSF-317",
-   "net": "2026-11-18T03:14:00Z",
+   "name": "Vulcan VC6L | Amazon Leo (LV-01)",
+   "net": "2026-11-14T17:32:30Z",
    "status": "Go",
    "status_label": "Go for Launch",
-   "provider": "SpaceX",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "mission_type": "Government/Top Secret",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg"
+   "provider": "United Launch Alliance",
+   "pad": "Space Launch Complex 41",
+   "location": "Cape Canaveral SFS, FL, USA",
+   "mission_type": "Communications",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg"
   },
   {
-   "name": "Falcon 9 Block 5 | USSF-266",
-   "net": "2026-11-18T16:49:00Z",
+   "name": "Falcon 9 Block 5 | USSF-317",
+   "net": "2026-11-18T03:14:00Z",
    "status": "Go",
    "status_label": "Go for Launch",
    "provider": "SpaceX",
@@ -88,6 +77,17 @@
    "location": "Wenchang Space Launch Site, People's Republic of China",
    "mission_type": "Communications",
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_launch_2_image_20251206093107.jpeg"
+  },
+  {
+   "name": "Falcon 9 Block 5 | NROL-136",
+   "net": "2026-11-21T12:30:00Z",
+   "status": "Go",
+   "status_label": "Go for Launch",
+   "provider": "SpaceX",
+   "pad": "Space Launch Complex 4E",
+   "location": "Vandenberg SFB, CA, USA",
+   "mission_type": "Government/Top Secret",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_on_slc_image_20241024165956.jpg"
   }
  ]
 }
