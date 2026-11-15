@@ -1,49 +1,16 @@
 {
- "generated_at": "2026-11-14T06:26:45Z",
+ "generated_at": "2026-11-15T06:16:26Z",
  "launches": [
   {
-   "name": "Starship | Starlink Group 31-2 (Starship Flight 15)",
-   "net": "2026-11-13T22:47:36Z",
-   "status": "In Flight",
-   "status_label": "Launch in Flight",
-   "provider": "SpaceX",
-   "pad": "Orbital Launch Pad 2",
-   "location": "SpaceX Starbase, TX, USA",
-   "mission_type": "Communications",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20260724044615.jpg"
-  },
-  {
-   "name": "Soyuz 2.1b/Fregat-M | MKA Kinosputnik, KOEN and others",
-   "net": "2026-11-14T01:16:00Z",
-   "status": "In Flight",
-   "status_label": "Launch in Flight",
-   "provider": "Russian Federal Space Agency (ROSCOSMOS)",
-   "pad": "Cosmodrome Site 1S",
-   "location": "Vostochny Cosmodrome, Siberia, Russian Federation",
-   "mission_type": "Technology",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg"
-  },
-  {
-   "name": "Electron | The Mountain God Rises (iQPS Launch 10)",
-   "net": "2026-11-14T05:30:00Z",
-   "status": "In Flight",
-   "status_label": "Launch in Flight",
-   "provider": "Rocket Lab",
-   "pad": "Rocket Lab Launch Complex 1A",
-   "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-   "mission_type": "Earth Science",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
-  },
-  {
    "name": "Vulcan VC6L | Amazon Leo (LV-01)",
-   "net": "2026-11-14T17:32:30Z",
+   "net": "2026-11-15T17:11:30Z",
    "status": "Go",
    "status_label": "Go for Launch",
    "provider": "United Launch Alliance",
    "pad": "Space Launch Complex 41",
    "location": "Cape Canaveral SFS, FL, USA",
    "mission_type": "Communications",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg"
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_on__image_20261114102518.jpeg"
   },
   {
    "name": "Falcon 9 Block 5 | USSF-317",
@@ -88,6 +55,39 @@
    "location": "Vandenberg SFB, CA, USA",
    "mission_type": "Government/Top Secret",
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_on_slc_image_20241024165956.jpg"
+  },
+  {
+   "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
+   "net": "2026-11-23T00:00:00Z",
+   "status": "TBD",
+   "status_label": "To Be Determined",
+   "provider": "Arianespace",
+   "pad": "Ariane Launch Area 4",
+   "location": "Guiana Space Centre, French Guiana",
+   "mission_type": "Communications",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260618063419.jpg"
+  },
+  {
+   "name": "Falcon 9 Block 5 | USSF-266",
+   "net": "2026-11-23T16:04:00Z",
+   "status": "Go",
+   "status_label": "Go for Launch",
+   "provider": "SpaceX",
+   "pad": "Space Launch Complex 4E",
+   "location": "Vandenberg SFB, CA, USA",
+   "mission_type": "Government/Top Secret",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg"
+  },
+  {
+   "name": "Soyuz 2.1b | Progress MS-36 (97P)",
+   "net": "2026-11-24T05:03:00Z",
+   "status": "TBC",
+   "status_label": "To Be Confirmed",
+   "provider": "Russian Federal Space Agency (ROSCOSMOS)",
+   "pad": "31/6",
+   "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
+   "mission_type": "Resupply",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg"
   }
  ]
 }
