@@ -1,43 +1,58 @@
 {
- "generated_at": "2026-11-15T06:17:52Z",
+ "generated_at": "2026-11-16T06:18:26Z",
  "auteur": "Claude",
  "rubriques": {
   "finance": {
-   "titre": "Wall Street reprend des couleurs malgré la démission du patron de Nvidia, tandis que le bitcoin poursuit sa glissade",
+   "titre": "Le ralentissement chinois, la crise de gouvernance chez Nvidia et la chute du bitcoin pèsent sur les marchés en ce début de semaine.",
    "points": [
     {
-     "texte": "Le S&P 500 se rapproche de nouveau de son record après un repli de 500 points et sa plus forte hausse quotidienne en près de sept mois ; Dow, S&P 500 et Nasdaq terminent la semaine en hausse, même si Wall Street reste partagée sur une éventuelle bulle de l'IA. La démission cette semaine de Jensen Huang, PDG de Nvidia, continue d'alimenter l'actualité, des responsables américains indiquant que Donald Trump n'abordera pas le sujet lors de son voyage en Chine.",
+     "texte": "La croissance chinoise s'est affaiblie sur tous les fronts en octobre : production industrielle, ventes au détail et investissement ont manqué les attentes. BofA juge qu'une nouvelle détérioration de la demande intérieure pourrait appeler un assouplissement. Pékin a par ailleurs confirmé un sommet Xi-Trump-Poutine, attendu sur la non-prolifération nucléaire, le Moyen-Orient et le commerce.",
      "articles": [
       {
-       "titre": "S&P 500 Forecast: Index Poised to Retest Record High in November After 500-Point Pullback, Biggest Daily Gain in Nearly Seven Months",
-       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM3hPZWx5b0RTdkJabGJjQks3TFpfRHR0NVVlekFQN3gtOXFCU2ZJeE9xd25yNUFEdUpXMkp6LWdVV0ZnVnZNdzJMNUdjUHJCeHY4T0pZLXphUDNldXNsRE5KdjBMRHRjTnhiWGxRVXBXNDNSaUQ2WTlJX0Q2V0MzMHRvTGw5Tk00bWdtcmxmdlRySWlibHp0NzVUaER6TzEtdGJkNVpEYkdzdGRKT2Q4Tk9fUmM?oc=5",
-       "source": "TradingKey"
+       "titre": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+       "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+       "source": "CNBC"
       },
       {
-       "titre": "US Stock Market Weekly Wrap: Dow, S&P 500, Nasdaq Rise",
-       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR3RvWWxLd0oyWkN2aVBFYThtVFY0M0p5UjdlS0NGNElrWW5zbWtQNWF1UnpYNUIxVV9XcnZYcndaQVdSczlZeWJZMDBJUjFYUWJLTjRXdVdKNVlXQTFKanI1Z2ZEUXRPTDd4SmtKcEZCNzBTOERaZEdFN2EzdTV3alFYZE80eWo0R3R1MXNtRUE5RDVDNnQ3Q0NXeHdLY1dFdXVkMDZPaW1LOHF3a3MzZmpsbU9fTFBWTVUxNXIydnE5b0FnQTJsM2EteE4wZw?oc=5",
-       "source": "HDFC Sky"
+       "titre": "Fall in China Demand May Signal Need for Easing: Analyst",
+       "url": "https://www.bloomberg.com/news/videos/2026-11-16/fall-in-china-demand-may-signal-need-for-easing-analyst-video",
+       "source": "Bloomberg Markets"
       },
       {
-       "titre": "Is the US Stock Selloff Over? Wall Street Debates AI Bubble as S&P 500, Chip Stocks Diverge for 2027",
-       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVGdqcnZNZERIazEwcm10Uk93ajhCX3Z6Q20tODVLMXdzSDRvRGh1Zk5OaWFHZ2c0bWx4RjVjYk4xN01wNDBiUHlpUTFqUlJNbkhrRThuMUdGd2RjX3FzcWZmT1ZkbVJlTUxoVXFjQXU3TWpPQUdKcnkxUlFxNkRIeU5Wd19SdWFWTGpXY0RUbWd0S0dWX25WMEhBMTRtZDgtbzVPTmoxZjFWbVI5cVBwcURXWGYzWVUyR2JlN1FMalQyZkVuZ2M5V3RjN0FkSTBCd0duZmdnNlpOOTFH?oc=5",
-       "source": "TradingKey"
-      },
-      {
-       "titre": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
-       "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+       "titre": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
+       "url": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
        "source": "CNBC"
       }
      ]
     },
     {
-     "texte": "Les obligations d'entreprises américaines, aux rendements proches de 6 %, profitent de la volatilité des actions après le « drame Nvidia ». À l'inverse, le bitcoin poursuit un repli prolongé qui le rapproche de ses plus bas de l'année, et le président du régulateur boursier chinois met en garde contre un risque de réévaluation globale des actifs sur fond de tensions géopolitiques.",
+     "texte": "Chez Nvidia, les appels au retour de Jensen Huang, qui a démissionné de la direction, se multiplient parmi les dirigeants de la tech et de grands actionnaires ; le scandale rappelle le poids du groupe dans le S&P 500. À Séoul, les résultats de Nvidia sans Huang sont scrutés alors que le KOSPI recule, que l'encours des prêts sur marge atteint un plus haut de quatre ans et que des produits ELS indexés sur le KOSPI arrivent à échéance sur fond de repli des semi-conducteurs.",
      "articles": [
       {
-       "titre": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
-       "url": "https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly",
-       "source": "Bloomberg Markets"
+       "titre": "Tech world's calls for Jensen Huang to return to Nvidia are growing",
+       "url": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
+       "source": "CNBC"
       },
+      {
+       "titre": "A big chunk of your 401(k) is likely invested in Nvidia",
+       "url": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
+       "source": "MarketWatch"
+      },
+      {
+       "titre": "Margin Loan Balances Hit 4-Year High Amid KOSPI Decline",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZktjZ0puRzZNLWs4WjhHZDFuUm5ZWEFodVF2TzhieUd4UWNNVmlUYjd2REltSE94LXVyci1PUTJCVy1hZ2M1dVpWdVlfYWpibTEtMTZST1BURkhEeTZSVl9HOUFkU0MydkJzZlI4bFJ4VWg0b0dFT0NDRk9RWktrdTNnYXhhbFhOTFVnX0VB?oc=5",
+       "source": "조선일보"
+      },
+      {
+       "titre": "South Korea's High-Yield ELS Sold at KOSPI 9000 Level Come Due Next Month; Semiconductor Slump Raises Principal-Loss Alarms",
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DMEJuM0ItalVfOUJNWW5ocTVIRWFQc3VTd0pjZklURmltUllINlJHSFVyY2ZwUG8xYzlDd1dkY24zT3R1bTRDU0NfZm5iY2hTQ0ZRYkEyN2dMWlQzZUpIaXhNR0UyZ0tKUVJxSzE0TnU0Y1JrQmc?oc=5",
+       "source": "BigGo Finance"
+      }
+     ]
+    },
+    {
+     "texte": "Le bitcoin poursuit sa baisse et se rapproche de ses plus bas de l'année, éprouvant même les investisseurs les plus convaincus. Côté Wall Street, le S&P 500 est jugé en position de retester son record de novembre après un repli de 500 points suivi de sa plus forte hausse quotidienne depuis près de sept mois.",
+     "articles": [
       {
        "titre": "Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless",
        "url": "https://www.bloomberg.com/news/articles/2026-11-15/crypto-s-slow-motion-selloff-leaves-traders-weary-and-hopeless",
@@ -49,59 +64,29 @@
        "source": "Investor's Business Daily"
       },
       {
-       "titre": "China’s Market Regulator Warns of Global Asset Repricing Risks",
-       "url": "https://www.bloomberg.com/news/articles/2026-11-14/china-s-market-regulator-warns-of-global-asset-repricing-risks",
+       "titre": "S&P 500 Forecast: Index Poised to Retest Record High in November After 500-Point Pullback, Biggest Daily Gain in Nearly Seven Months",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM3hPZWx5b0RTdkJabGJjQks3TFpfRHR0NVVlekFQN3gtOXFCU2ZJeE9xd25yNUFEdUpXMkp6LWdVV0ZnVnZNdzJMNUdjUHJCeHY4T0pZLXphUDNldXNsRE5KdjBMRHRjTnhiWGxRVXBXNDNSaUQ2WTlJX0Q2V0MzMHRvTGw5Tk00bWdtcmxmdlRySWlibHp0NzVUaER6TzEtdGJkNVpEYkdzdGRKT2Q4Tk9fUmM?oc=5",
+       "source": "TradingKey"
+      }
+     ]
+    },
+    {
+     "texte": "Opérations : MTN, premier opérateur mobile d'Afrique, négocie le rachat de la totalité de Telkom SA via une offre en numéraire et en actions. EQT prévoit d'investir jusqu'à 30 % de ses 30 milliards de dollars de liquidités disponibles au Japon, où il voit une vague d'opportunités de retraits de cote.",
+     "articles": [
+      {
+       "titre": "MTN in Talks to Buy Telkom in South African Cash, Share Deal",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-16/mtn-holds-talks-to-buy-south-africa-s-telkom-in-cash-share-deal",
+       "source": "Bloomberg Markets"
+      },
+      {
+       "titre": "EQT Sees “Wave” of Take-Private Opportunities in Japan",
+       "url": "https://www.bloomberg.com/news/videos/2026-11-16/eqt-sees-wave-of-take-private-opportunities-in-japan-video",
        "source": "Bloomberg Markets"
       }
      ]
     },
     {
-     "texte": "En Asie, le recul du KOSPI s'accompagne d'encours de prêts sur marge au plus haut depuis quatre ans et fait craindre des pertes en capital sur des produits structurés ELS liés aux semi-conducteurs. FTSE Russell retire 14 actions indonésiennes de ses indices mondiaux, tandis qu'en Inde le Sensex et le Nifty enchaînent une troisième semaine de hausse portée par les achats des investisseurs étrangers.",
-     "articles": [
-      {
-       "titre": "Margin Loan Balances Hit 4-Year High Amid KOSPI Decline",
-       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZktjZ0puRzZNLWs4WjhHZDFuUm5ZWEFodVF2TzhieUd4UWNNVmlUYjd2REltSE94LXVyci1PUTJCVy1hZ2M1dVpWdVlfYWpibTEtMTZST1BURkhEeTZSVl9HOUFkU0MydkJzZlI4bFJ4VWg0b0dFT0NDRk9RWktrdTNnYXhhbFhOTFVnX0VB?oc=5",
-       "source": "조선일보"
-      },
-      {
-       "titre": "South Korea's High-Yield ELS Sold at KOSPI 9000 Level Come Due Next Month; Semiconductor Slump Raises Principal-Loss Alarms",
-       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DMEJuM0ItalVfOUJNWW5ocTVIRWFQc3VTd0pjZklURmltUllINlJHSFVyY2ZwUG8xYzlDd1dkY24zT3R1bTRDU0NfZm5iY2hTQ0ZRYkEyN2dMWlQzZUpIaXhNR0UyZ0tKUVJxSzE0TnU0Y1JrQmc?oc=5",
-       "source": "BigGo Finance"
-      },
-      {
-       "titre": "FTSE Russell Removes 14 Indonesian Stocks from Global Indexes",
-       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR05BSGRVTWdUMHYyeWFpTU9wMEN4WF9zTU1IQ1o4YlRpelpjTmFNOEVBY2pybnhoejBTWngzZUpDa2xLVF9mWFFqV2JSa0UzaTRlVXhyMXA5NHJza0lfS1o0WDFPZnRjSi1kYm51dWZieUN6UEViX3JUNTJkeHMtSXE0cDJMbUdia3FpN3VSaWNWY3J4ZWFoRVNR?oc=5",
-       "source": "Tempo.co English"
-      },
-      {
-       "titre": "Sensex, Nifty Gain for Third Straight Week as FIIs Buy",
-       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOFA0ckZudHU4QmNFMWo2bFU4dEQtY3BDZ2tWNmVCaWxmVGplY3VocWZLMlNoRUJZeGIxaDg3QUZnNHBNTE9PdDl2bWVNc3FqRVFUeDdrdHFiX0k1d1laNjNNdFp5dVQ3S0cycFJtNHYtOWNCbnF6QXAzUHdUcDU5eEJQZDQ4cnpBNnRSZVJhX0xlSFhHUDhYWUt4QlZYemQ5aDR1VEMzSUdLTEprTDhUcVFUOHNKOEM5OHVNdktKQTBMdWJHRmRXVzBlS2JxSDYxSFhpdXpndVNVNi05X0RmVTNPQnhhZw?oc=5",
-       "source": "HDFC Sky"
-      }
-     ]
-    },
-    {
-     "texte": "Côté opérations, le rapprochement entre Schneider Electric et l'américain PTC promet à la banque Evercore une commission record, au-delà de 100 millions d'euros. Les Echos révèlent que les pirates ayant attaqué le Crédit Mutuel Arkéa sont passés par un prestataire de logiciels de conformité, et détaillent une fraude au président à 115 millions d'euros menée à l'aide de l'IA.",
-     "articles": [
-      {
-       "titre": "Mariage entre Schneider Electric et l'américain PTC : un jackpot record promis aux banquiers d'Evercore",
-       "url": "https://www.lesechos.fr/finance-marches/ma/mariage-entre-schneider-electric-et-lamericain-ptc-un-jackpot-record-promis-aux-banquiers-devercore-2262647",
-       "source": "Les Echos"
-      },
-      {
-       "titre": "EXCLUSIF - Cyberattaque : ce prestataire externe par lequel les hackeurs ont accédé au coffre-fort d'Arkéa",
-       "url": "https://www.lesechos.fr/finance-marches/banque-assurances/exclusif-cyberattaque-ce-prestataire-externe-par-lequel-les-hackeurs-ont-accede-au-coffre-fort-darkea-2262670",
-       "source": "Les Echos"
-      },
-      {
-       "titre": "« Nous devons vous associer à un dossier sur lequel nous travaillons » : quand « Rocky Balboa » orchestrait sa fraude au président à 115 millions d'euros",
-       "url": "https://www.lesechos.fr/finance-marches/marches-financiers/nous-devons-vous-associer-a-un-dossier-sur-lequel-nous-travaillons-quand-rocky-balboa-orchestrait-sa-fraude-au-president-a-115-millions-deuros-2262641",
-       "source": "Les Echos"
-      }
-     ]
-    },
-    {
-     "texte": "En France, la hausse du Smic prévue au 1er décembre inquiète les employeurs, certains voyant leurs frais de personnel passer de 30 à 35 %. Le coût des pillages en marge des manifestations de l'automne devrait dépasser le milliard d'euros, un record qui pousse les assureurs à durcir leurs conditions ; à la pompe, le sans-plomb repasse sous les deux euros, avec des prix environ 20 centimes plus bas qu'il y a quinze jours.",
+     "texte": "En France, la hausse du Smic prévue au 1er décembre inquiète les employeurs, tandis que le gouvernement chiffre à environ 1 milliard d'euros les mesures pour les bas salaires de la fonction publique (350 euros brut par an). Les assureurs, face à des pillages et dégradations dont le coût devrait dépasser le milliard d'euros, envisagent de durcir leurs conditions ; le Crédit Mutuel Arkéa a été piraté via un prestataire externe de logiciels de conformité.",
      "articles": [
       {
        "titre": "\"Nos frais de personnels sont passés de 30 à 35%, des franchisés ferment...\": boulangeries Ange, savonnerie artisanale, fabricant de compresseur... Ces patrons qui s'alarment de la hausse du Smic et des charges",
@@ -109,124 +94,144 @@
        "source": "BFM Business"
       },
       {
+       "titre": "Le gouvernement chiffre à environ 1 milliard d’euros les gestes pour les bas salaires",
+       "url": "https://www.liberation.fr/economie/social/le-gouvernement-chiffre-a-environ-1-milliard-deuros-les-gestes-pour-les-bas-salaires-20261115_SWSZRZNYERBULLREF3KQ7I5XUY/",
+       "source": "Libération Économie"
+      },
+      {
        "titre": "Pillages et dégradations: les assureurs prêts à durcir leurs conditions",
        "url": "https://www.bfmtv.com/economie/video-pillages-et-degradations-les-assureurs-prets-a-durcir-leurs-conditions_VN-202611150079.html",
        "source": "BFM Business"
       },
       {
-       "titre": "Carburants: le prix du sans-plomb passe enfin sous la barre des deux euros",
-       "url": "https://www.bfmtv.com/economie/video-carburants-le-prix-du-sans-plomb-passe-enfin-sous-la-barre-des-deux-euros_VN-202611140089.html",
-       "source": "BFM Business"
+       "titre": "EXCLUSIF - Cyberattaque : ce prestataire externe par lequel les hackeurs ont accédé au coffre-fort d'Arkéa",
+       "url": "https://www.lesechos.fr/finance-marches/banque-assurances/exclusif-cyberattaque-ce-prestataire-externe-par-lequel-les-hackeurs-ont-accede-au-coffre-fort-darkea-2262670",
+       "source": "Les Echos"
       }
      ]
     }
    ]
   },
   "science": {
-   "titre": "Des signes précoces d'Alzheimer aux crânes des premiers rois d'Égypte, la recherche éclaire passé et santé",
+   "titre": "Un vaccin ARN personnalisé contre le mélanome marque une étape historique, au milieu d'avancées en médecine, en archéologie et en planétologie.",
    "points": [
     {
-     "texte": "Des chercheurs de Johns Hopkins montrent que deux régions cérébrales liées à la mémoire et aux émotions pourraient se réduire jusqu'à dix ans avant les premières pertes de mémoire dues à la maladie d'Alzheimer. Une autre équipe américaine a étudié l'influence de la nuit précédente, et de l'air de la chambre, sur les pics de glycémie d'adultes prédiabétiques.",
+     "texte": "Un vaccin ARN « sur mesure » contre le mélanome réduit de 42 % le risque de récidive ou de décès, une étape qualifiée d'historique dans la lutte contre le cancer de la peau.",
      "articles": [
       {
-       "titre": "Alzheimer’s may start shrinking two brain regions years before memory loss",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
-       "source": "ScienceDaily"
-      },
-      {
-       "titre": "Diabète : comment l’air de votre chambre pourrait jouer sur vos pics de sucre",
-       "url": "https://www.futura-sciences.com/sante/actualites/diabete-diabete-air-votre-chambre-pourrait-jouer-vos-pics-sucre-139291/#xtor%3DRSS-8",
+       "titre": "Cancer de la peau : ce vaccin ARN « sur mesure » réduit de 42 % le risque de rechute ou de décès",
+       "url": "https://www.futura-sciences.com/sante/actualites/cancer-cancer-peau-ce-vaccin-arn-mesure-reduit-42-risque-rechute-deces-k2m6-139292/#xtor%3DRSS-8",
        "source": "Futura"
       }
      ]
     },
     {
-     "texte": "Le réexamen de 46 crânes vieux de 5 000 ans issus des tombes des premiers rois d'Égypte révèle chez 18 d'entre eux des blessures à la tête potentiellement mortelles. En République tchèque, une pierre qui soutenait une grange s'est révélée être un moule à pointes de lance de plus de 3 000 ans.",
+     "texte": "Deux pistes médicales : un modèle mathématique suggère que la vitamine C pourrait empêcher la formation de composés potentiellement cancérigènes dans l'estomac après la consommation de nitrates et nitrites ; un médicament contre l'ostéoporose a bloqué l'accumulation minérale dans la colonne vertébrale de poissons-zèbres, après la découverte d'un lien génétique avec la dégénérescence spinale.",
      "articles": [
       {
-       "titre": "5,000-year-old skulls reveal a disturbing secret of ancient Egypt's first kings",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261112025540.htm",
+       "titre": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
        "source": "ScienceDaily"
       },
       {
-       "titre": "Pendant des années, une pierre a soutenu sa grange. C'était un moule à pointes de lance vieux de plus de 3 000 ans",
-       "url": "https://www.futura-sciences.com/sciences/actualites/archeologie-pendant-annees-pierre-soutenu-grange-cetait-moule-pointes-lance-vieux-plus-3-000-ans-139262/#xtor%3DRSS-8",
+       "titre": "A common osteoporosis drug blocked spinal damage in a surprising new study",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
+       "source": "ScienceDaily"
+      }
+     ]
+    },
+    {
+     "texte": "Au Danemark, un squelette vieux d'environ 6 000 ans, l'« homme de Rødhals », appartenait à un individu qui a vécu l'arrivée de l'agriculture, selon des indices sur son alimentation.",
+     "articles": [
+      {
+       "titre": "Skeleton found in Denmark came from man who witnessed the arrival of farming",
+       "url": "https://www.newscientist.com/article/2598961-skeleton-found-in-denmark-was-from-man-who-witnessed-the-arrival-of-farming/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "source": "New Scientist"
+      }
+     ]
+    },
+    {
+     "texte": "De nouvelles simulations suggèrent que des conditions extrêmes à l'intérieur d'Uranus et de Neptune expliqueraient leurs champs magnétiques fortement inclinés, une énigme depuis le passage de Voyager 2 dans les années 1980.",
+     "articles": [
+      {
+       "titre": "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm",
+       "source": "ScienceDaily"
+      }
+     ]
+    },
+    {
+     "texte": "Climat et industrie : le flux dominant qui se confirme sur la France annonce un hiver 2026-2027 particulier, tandis que le chercheur-entrepreneur Alexandre Duval mise sur l'IA pour concevoir des molécules destinées à une industrie plus propre.",
+     "articles": [
+      {
+       "titre": "Météo de l’hiver : ce flux dominant qui se confirme en France annonce une saison très particulière",
+       "url": "https://www.futura-sciences.com/planete/actualites/meteorologie-meteo-hiver-ce-flux-dominant-confirme-france-annonce-saison-tres-particuliere-139315/#xtor%3DRSS-8",
        "source": "Futura"
-      }
-     ]
-    },
-    {
-     "texte": "Des signatures chimiques dans des dents fossilisées suggèrent que certains dinosaures consommaient des algues et d'autres ressources marines il y a plus de 100 millions d'années. En Nouvelle-Zélande, un recensement par drone montre que l'une des populations de gorfous huppés, espèce menacée, est restée stable tandis qu'une autre a chuté de plus de 40 %.",
-     "articles": [
-      {
-       "titre": "Dinosaurs may have been eating seaweed 100 million years ago",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm",
-       "source": "ScienceDaily"
       },
       {
-       "titre": "Scientists discover a bizarre paradox among endangered penguins",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261112230458.htm",
-       "source": "ScienceDaily"
-      }
-     ]
-    },
-    {
-     "texte": "En physique, des scientifiques ont observé dans le graphène des électrons franchissant des bandes d'énergie interdites, certaines transitions se produisant avec une probabilité de 100 %.",
-     "articles": [
-      {
-       "titre": "Scientists capture electrons making seemingly impossible quantum jumps",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm",
-       "source": "ScienceDaily"
+       "titre": "Alexandre Duval, ou comment l'IA conçoit des molécules pour rendre l’industrie plus propre",
+       "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-alexandre-duval-ia-concoit-molecules-rendre-industrie-plus-propre-138273/#xtor%3DRSS-8",
+       "source": "Futura"
       }
      ]
     }
    ]
   },
   "spatial": {
-   "titre": "SpaceX rattrape pour la première fois l'étage supérieur de Starship, un tournant pour la réutilisation des fusées",
+   "titre": "L'échec du lanceur Vulcan de ULA, avec 40 satellites Amazon Leo à bord, domine l'actualité spatiale.",
    "points": [
     {
-     "texte": "Lors du vol d'essai 15 de Starship, le 14 novembre, SpaceX a pour la première fois rattrapé l'étage supérieur de sa méga-fusée sur son site de Starbase, au Texas. C'était aussi la première tentative de récupérer à la fois le booster Super Heavy et l'étage supérieur, une étape vers la « réutilisation rapide » des fusées.",
+     "texte": "ULA a subi le premier échec complet de son histoire : sa nouvelle fusée lourde Vulcan a connu une défaillance dimanche pendant l'ascension, entraînant la perte de 40 satellites Internet Amazon Leo.",
      "articles": [
       {
-       "titre": "'Now everything changes': SpaceX catches Starship upper stage for 1st time ever (video)",
-       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14",
-       "source": "Space.com"
-      },
-      {
-       "titre": "SpaceX catches upper stage of Starship rocket in historic first",
-       "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
-       "source": "CNBC"
-      },
-      {
-       "titre": "SpaceX launches Starship in key test flight of massive rocket",
-       "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
-       "source": "CNBC"
-      },
-      {
-       "titre": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
-       "url": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
-       "source": "MarketWatch"
+       "titre": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
+       "url": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
+       "source": "Spaceflight Now"
       }
      ]
     },
     {
-     "texte": "La capture du booster par les « baguettes » de la tour a en revanche été annulée, et SpaceX enquête toujours sur les raisons de cet abandon.",
+     "texte": "Les astronomes restent convaincus que la « Blaze Star » T CrB, dans la Couronne boréale, entrera en éruption prochainement.",
      "articles": [
       {
-       "titre": "Why did Starship Flight 15 booster abort 'chopsticks' landing catch? SpaceX still investigating (video)",
-       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video",
+       "titre": "Why hasn't the 'Blaze Star' exploded yet? Astronomers weigh in on what to expect",
+       "url": "https://www.space.com/stargazing/why-hasnt-the-blaze-star-exploded-yet-astronomers-weigh-in-on-what-to-expect",
        "source": "Space.com"
+      }
+     ]
+    },
+    {
+     "texte": "La comète 220P/McNaught, devenue des milliers de fois plus brillante cet été, aurait été disloquée par des gaz qui s'en échappaient.",
+     "articles": [
+      {
+       "titre": "How escaping gases ripped apart a comet and caused it to become thousands of times brighter",
+       "url": "https://www.space.com/astronomy/comets/how-escaping-gases-ripped-apart-a-comet-and-caused-it-to-become-thousands-of-times-brighter",
+       "source": "Space.com"
+      }
+     ]
+    },
+    {
+     "texte": "Le télescope Webb montre la formation d'étoiles et ses jets dans NGC 7129, image astronomique du jour de la NASA. Observée depuis l'espace, la glace proche du sommet du Puncak Jaya, en Indonésie, n'est plus qu'en plaques éparses trop petites pour s'écouler comme un glacier.",
+     "articles": [
+      {
+       "titre": "APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb",
+       "url": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/",
+       "source": "NASA"
+      },
+      {
+       "titre": "The Last Ice on Puncak Jaya",
+       "url": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/",
+       "source": "NASA"
       }
      ]
     }
    ]
   },
   "hotellerie": {
-   "titre": "Les transactions hôtelières dominent, de Miami Beach à Rome",
+   "titre": "Peu d'actualité ce week-end dans l'hôtellerie : une acquisition à Miami Beach et des signaux mitigés sur la demande de voyage.",
    "points": [
     {
-     "texte": "Playboy rachète un hôtel à Miami Beach, où le groupe prévoit d'ouvrir un club.",
+     "texte": "Playboy rachète un hôtel à Miami Beach et prévoit d'y ouvrir un club.",
      "articles": [
       {
        "titre": "Playboy buys Miami Beach hotel, plans club",
@@ -236,22 +241,27 @@
      ]
     },
     {
-     "texte": "À Rome, l'ancien siège des communistes italiens, racheté par un futur député de la Ligue, devient un hôtel de luxe facturé jusqu'à 4 000 euros la nuit.",
+     "texte": "Demande : selon l'AAA, des prix de l'essence plus élevés mettent fin à la série de records de déplacements pour Thanksgiving aux États-Unis. En Inde, la réforme des visas lève un obstacle pour les visiteurs étrangers, mais ne suffira pas à atteindre l'objectif de 100 millions de touristes.",
      "articles": [
       {
-       "titre": "Le bâtiment avait été racheté par un futur député du parti d'extrême droite La Ligue: à Rome, l'ancien siège des communistes italiens se transforme en hôtel de luxe à 4.000 euros la nuit",
-       "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOaWZacVVJYjhyV0llaG5zRmlvN1Rjd1duQ1lIN013dGZiM0JtZHdiRUdpY0FnOEdzM05XYi1KbGpKaktxRjFaWW5kRkZHTHNWSThwZWNubjJ3NGItRDExckc3M3VjbGlLMU5rM0g5dXBYNml2SklXOHg3ZnAtZ1FKZG1tYnhNUmJ1Z3VyNF9wTkhvSllESFJBOVR4LUZZWVliRGZ6UnZYX1V5N3o0ckZnZmd5M3JhaDBzalU5aV9HX3pEcF9UVC1mSThNM0U3QVZrLWRLN0JsWFZIeFZiY3hXU0VnZE96Q2RNYVRlbUx6R2RxYVdCdjZIVmltc1dnVk1HUkp1LXZqQ0Z5VmxneldzeDdUMktpbldGLTBSOGdtTDVrakhDb0M5UjhpVGZXdl9wcGE1WndzYVNqaTVGZ0NROGMwTE5PWGpORmx3Q0M4dzJSUQ?oc=5",
-       "source": "BFM"
+       "titre": "Higher Fuel Prices Snap Record Thanksgiving Travel Streak, Says AAA",
+       "url": "https://skift.com/2026/11/16/thanksgiving-travel-decline-aaa/",
+       "source": "Skift"
+      },
+      {
+       "titre": "India’s Visa Overhaul Fixes the Easy Part of Its Tourism Problem",
+       "url": "https://skift.com/2026/11/16/indias-visa-overhaul-fixes-the-easy-part-of-its-tourism-problem/",
+       "source": "Skift"
       }
      ]
     },
     {
-     "texte": "L'action Marriott International est scrutée après la cession par un administrateur d'une participation de 5 millions de dollars.",
+     "texte": "À Boulogne-Billancourt, l'île Seguin, ancienne usine Renault fermée en 1992 puis rasée, se reconvertit en « Pointe des Arts ».",
      "articles": [
       {
-       "titre": "Marriott International stock in focus after director sells $5 million stake",
-       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNekhsQTRwN3VZNWlMdTdzNUNyOXJuX0wxM3ZhallwSnpQakcySktjUnRGRTVsZGc1RWVMNTY3aEVBZ0JDQUxYdExvVjZYUXdJOGdac3RrSkJ1Vm96YTZOcmh1U3BwQjFldzlTTllzbEhOYWhJQXp0WmxSNllUT1doMTlxQmFVc091ZFFfMWozekpzcWcwT3JLWDRqaGcwZHJnaHJBVlUwMFBjc3JNUU1xNG1Pa1oyQWFyY2NjcmNtQ2hPWTk0NzU2eDhIOFBxSXhBdDM0?oc=5",
-       "source": "ad-hoc-news.de"
+       "titre": "Île Seguin, de la forteresse Renault à la Pointe des Arts",
+       "url": "https://hospitality-on.com/fr/hotellerie/ile-seguin-de-la-forteresse-renault-la-pointe-des-arts",
+       "source": "Hospitality ON"
       }
      ]
     }
