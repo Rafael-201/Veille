@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T06:18:48Z",
+ "generated_at": "2026-11-16T06:32:54Z",
  "sources": [
   {
    "name": "CNBC",
@@ -166,9 +166,9 @@
    "cat": "spatial",
    "topic": null,
    "url": "https://www.nasaspaceflight.com/feed/",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 403: Forbidden",
+   "ok": true,
+   "count": 3,
+   "error": null,
    "archived": 27
   },
   {
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 42
+   "archived": 43
   },
   {
    "name": "Transactions · Amérique latine",
@@ -349,7 +349,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 68
+   "archived": 69
   },
   {
    "name": "Marchés · Europe",
@@ -369,7 +369,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 74
+   "archived": 73
   },
   {
    "name": "Marchés · Moyen-Orient",
