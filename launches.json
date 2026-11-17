@@ -1,17 +1,6 @@
 {
- "generated_at": "2026-11-16T06:32:54Z",
+ "generated_at": "2026-11-17T06:16:24Z",
  "launches": [
-  {
-   "name": "Vulcan VC6L | Amazon Leo (LV-01)",
-   "net": "2026-11-15T17:40:30Z",
-   "status": "Failure",
-   "status_label": "Launch Failure",
-   "provider": "United Launch Alliance",
-   "pad": "Space Launch Complex 41",
-   "location": "Cape Canaveral SFS, FL, USA",
-   "mission_type": "Communications",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_on__image_20261114102518.jpeg"
-  },
   {
    "name": "Long March 2D | Unknown Payload",
    "net": "2026-11-18T22:50:00Z",
@@ -88,6 +77,17 @@
    "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
    "mission_type": "Resupply",
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg"
+  },
+  {
+   "name": "Long March 12 | SatNet LEO Group TBD?",
+   "net": "2026-11-24T07:00:00Z",
+   "status": "TBC",
+   "status_label": "To Be Confirmed",
+   "provider": "China Aerospace Science and Technology Corporation",
+   "pad": "Commercial LC-2",
+   "location": "Wenchang Space Launch Site, People's Republic of China",
+   "mission_type": "Communications",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_20241128132937.jpg"
   }
  ]
 }
