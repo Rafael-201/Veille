@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T06:16:23Z",
+ "generated_at": "2026-11-17T06:18:02Z",
  "sources": [
   {
    "name": "CNBC",
@@ -286,10 +286,10 @@
    "cat": "hotellerie",
    "topic": "transactions",
    "url": "https://news.google.com/rss/search?q=h%C3%B4tel+%28rach%C3%A8te+OR+rachat+OR+acquiert+OR+cession+OR+c%C3%A8de+OR+vendu+OR+%22acquisition%22%29+when%3A7d&hl=fr&gl=FR&ceid=FR%3Afr",
-   "ok": true,
-   "count": 3,
-   "error": null,
-   "archived": 34
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests",
+   "archived": 33
   },
   {
    "name": "Transactions · Moyen-Orient",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 34
+   "archived": 35
   },
   {
    "name": "Transactions · Asie-Pacifique",
@@ -326,20 +326,20 @@
    "cat": "hotellerie",
    "topic": "transactions",
    "url": "https://news.google.com/rss/search?q=h%C3%B4tel+%28rachat+OR+acquiert+OR+cession+OR+rach%C3%A8te%29+%28Maroc+OR+S%C3%A9n%C3%A9gal+OR+%22C%C3%B4te+d%27Ivoire%22+OR+Tunisie+OR+Afrique%29+when%3A30d&hl=fr&gl=FR&ceid=FR%3Afr",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests",
-   "archived": 13
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 15
   },
   {
    "name": "Marchés · Amérique du Nord",
    "cat": "finance",
    "topic": "marches",
    "url": "https://news.google.com/rss/search?q=%28%22Wall+Street%22+OR+%22S%26P+500%22+OR+Nasdaq+OR+%22Dow+Jones%22+OR+TSX%29+stocks+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests",
-   "archived": 82
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 85
   },
   {
    "name": "Marchés · Amérique latine",
@@ -386,9 +386,9 @@
    "cat": "finance",
    "topic": "marches",
    "url": "https://news.google.com/rss/search?q=%28Nikkei+OR+%22Hang+Seng%22+OR+%22Asian+shares%22+OR+%22Asian+stocks%22+OR+Kospi+OR+%22Shanghai+Composite%22+OR+Sensex+OR+%22ASX+200%22%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "count": 3,
-   "error": null,
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests",
    "archived": 93
   },
   {
