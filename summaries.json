@@ -1,12 +1,57 @@
 {
- "generated_at": "2026-11-16T06:18:26Z",
+ "generated_at": "2026-11-17T06:17:44Z",
  "auteur": "Claude",
  "rubriques": {
   "finance": {
-   "titre": "Le ralentissement chinois, la crise de gouvernance chez Nvidia et la chute du bitcoin pèsent sur les marchés en ce début de semaine.",
+   "titre": "La tech recule à Wall Street avant les résultats de Nvidia et l'IPO d'Anthropic, sur fond de ralentissement chinois et de tensions au Moyen-Orient.",
    "points": [
     {
-     "texte": "La croissance chinoise s'est affaiblie sur tous les fronts en octobre : production industrielle, ventes au détail et investissement ont manqué les attentes. BofA juge qu'une nouvelle détérioration de la demande intérieure pourrait appeler un assouplissement. Pékin a par ailleurs confirmé un sommet Xi-Trump-Poutine, attendu sur la non-prolifération nucléaire, le Moyen-Orient et le commerce.",
+     "texte": "Le Nasdaq a chuté d'environ 2,5 % lundi à l'entame d'une semaine à haut risque, entre les résultats de Nvidia et l'introduction en Bourse d'Anthropic. La prudence avant les chiffres de Nvidia a aussi fait tomber les actions émergentes à leur plus bas d'une semaine, tandis que le DAX venait d'inscrire un record.",
+     "articles": [
+      {
+       "titre": "La tech décroche à Wall Street avant l'introduction en Bourse d'Anthropic",
+       "url": "https://www.lesechos.fr/finance-marches/marches-financiers/la-tech-decroche-a-wall-street-avant-lintroduction-en-bourse-danthropic-2262910",
+       "source": "Les Echos"
+      },
+      {
+       "titre": "Emerging-market Stocks, Currencies Fall as AI Concerns Persist",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-16/emerging-market-stocks-currencies-ai-concerns",
+       "source": "Bloomberg Markets"
+      },
+      {
+       "titre": "Investors await Nvidia figures and Anthropic after DAX record",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdmhSWDFHa0JsRGVYbDB5SWdHY1dTeVc5WGJ6X1NCc0Y1WjVWZkxIcmxoNlc2TDBQVW1QNG8tUjdhbWRKNURjME5nOUxaWjMzUE1VRjJSQTNseW5ESGdNU3VNSDRGU1o0SDVqQ3cxWThyTnZQcGlJaGxVSmRESW1uODZ3S05LSjVoUmpySEhxYlpiN3dROURKaUVINUozZGg5ME5PMFh2YVAtR2VneHBrUjlOSU4?oc=5",
+       "source": "marketscreener.com"
+      }
+     ]
+    },
+    {
+     "texte": "Les marchés européens ont terminé en petite baisse et le Bovespa brésilien a cédé 2,05 %. Côté opérations, NBIM, GIC, BlackRock et Capital Group ont participé au placement de 117 milliards de roupies (1,2 milliard de dollars) de Bajaj Finance, et Coca-Cola HBC a obtenu sa cotation à Johannesburg avant le rachat de CCBA (44 milliards de rands).",
+     "articles": [
+      {
+       "titre": "Les marchés européens terminent en petite baisse",
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNREI5aF90VklyU0JCN01qYzRQU0RuYTFSN2tLdlJlaXVveDNiQThLQmotb3FLWjVxcXZ5aXJFUzIyT1VWc191Q3hkYVRjd3dGdzZGbGRfSDFYdnRzVVZHaHpxM2hkZnZPdlhieUdmNWp2a3F2RXhiZGRrOGxmbERSNTBpQkgxYjBrU3hIcDJJVjVKMzlxaE1fcGZqMDlTVmtGUm53aw?oc=5",
+       "source": "allnews.ch"
+      },
+      {
+       "titre": "Brazil stocks lower at close of trade; Bovespa down 2.05%",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMngwckt2MTgyWHNYUWQxdjJmT1NlTzNXWHJRZ0VvSmtuYXBFTEFsUHVseVk5S0gzb3FjSUt1cHQtaEZCSGJTR05jU1pjV0JqX2RkWTlrWjhWQ1F2bG0zdkhEX1NKUHVSanpuS2Q5SVpjdVY1MmpvLUtVMXJBdU5LaHozT05DamZfak10aEdKMmNMcURBRThjZWVYV01HMlExbDA3MGZndEFHOW1KWWF2Nw?oc=5",
+       "source": "Investing.com"
+      },
+      {
+       "titre": "NBIM, GIC, BlackRock Said to Invest in Bajaj Finance Share Sale",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-17/nbim-gic-blackrock-fmr-capital-icici-hdfc-invest-bajaj-finance-share-sale",
+       "source": "Bloomberg Markets"
+      },
+      {
+       "titre": "Coca-Cola HBC Secures JSE Listing Ahead of the R44 Billion CCBA South Africa Deal",
+       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUHpZRzZSUVgwdTIyTm8taG1WcGZPdjA1bmc5NmdYcURKODBpeUR1bm9uWnYzdTV3ZU43dFdqNGpJVk10MG1lZTkzQVREWFdQMTEyUTlDekxTQ0NNTUxtclJnV1BiR3BZRS14dWhOblJfaUVBaXBjY1JWM09ETF9ReW4xTFFJTDczQnRoclptOWVDZ0xJdVJIQ2tSZ1g2OXA0X3MwQjM0T1FFTmJaRUJUX2YxUjlXTjNnUEFjdlJnbGZHQQ?oc=5",
+       "source": "FXLeaders"
+      }
+     ]
+    },
+    {
+     "texte": "L'économie chinoise a ralenti en octobre : production industrielle, ventes au détail et investissement ont manqué les attentes, et la production automobile est tombée à un plus bas de quatre ans. BofA évoque un besoin d'assouplissement, tandis qu'UBS voit encore 10 à 15 % de potentiel pour l'indice MSCI China.",
      "articles": [
       {
        "titre": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
@@ -14,163 +59,133 @@
        "source": "CNBC"
       },
       {
+       "titre": "China Car Output Slows to Four-Year Low as Domestic Demand Drops",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-car-ev-output-slows-four-year-low-domestic-demand-drops",
+       "source": "Bloomberg Markets"
+      },
+      {
        "titre": "Fall in China Demand May Signal Need for Easing: Analyst",
        "url": "https://www.bloomberg.com/news/videos/2026-11-16/fall-in-china-demand-may-signal-need-for-easing-analyst-video",
        "source": "Bloomberg Markets"
       },
       {
-       "titre": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
-       "url": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
-       "source": "CNBC"
+       "titre": "China Stock Bull Sees Up to 15% Upside on Earnings, Valuation",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-17/china-stock-bull-ubs-sees-upside-msci-china-index-earnings-valuation",
+       "source": "Bloomberg Markets"
       }
      ]
     },
     {
-     "texte": "Chez Nvidia, les appels au retour de Jensen Huang, qui a démissionné de la direction, se multiplient parmi les dirigeants de la tech et de grands actionnaires ; le scandale rappelle le poids du groupe dans le S&P 500. À Séoul, les résultats de Nvidia sans Huang sont scrutés alors que le KOSPI recule, que l'encours des prêts sur marge atteint un plus haut de quatre ans et que des produits ELS indexés sur le KOSPI arrivent à échéance sur fond de repli des semi-conducteurs.",
+     "texte": "L'Iran a durci ses menaces après l'arrivée d'un troisième porte-avions américain dans le Golfe et un pétrolier a été touché dans le détroit d'Ormuz. Pékin a confirmé un sommet Xi-Trump-Putin, et le président de la Fed Kevin Warsh fait face à des questions sur l'impact de l'IA sur l'emploi et les taux ; le dollar, au plus haut depuis 19 mois, pèse sur le peso mexicain.",
      "articles": [
       {
-       "titre": "Tech world's calls for Jensen Huang to return to Nvidia are growing",
-       "url": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
+       "titre": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
+       "url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
        "source": "CNBC"
       },
       {
-       "titre": "A big chunk of your 401(k) is likely invested in Nvidia",
-       "url": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
-       "source": "MarketWatch"
+       "titre": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
+       "url": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
+       "source": "CNBC"
       },
       {
-       "titre": "Margin Loan Balances Hit 4-Year High Amid KOSPI Decline",
-       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZktjZ0puRzZNLWs4WjhHZDFuUm5ZWEFodVF2TzhieUd4UWNNVmlUYjd2REltSE94LXVyci1PUTJCVy1hZ2M1dVpWdVlfYWpibTEtMTZST1BURkhEeTZSVl9HOUFkU0MydkJzZlI4bFJ4VWg0b0dFT0NDRk9RWktrdTNnYXhhbFhOTFVnX0VB?oc=5",
-       "source": "조선일보"
+       "titre": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+       "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+       "source": "CNBC"
       },
       {
-       "titre": "South Korea's High-Yield ELS Sold at KOSPI 9000 Level Come Due Next Month; Semiconductor Slump Raises Principal-Loss Alarms",
-       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DMEJuM0ItalVfOUJNWW5ocTVIRWFQc3VTd0pjZklURmltUllINlJHSFVyY2ZwUG8xYzlDd1dkY24zT3R1bTRDU0NfZm5iY2hTQ0ZRYkEyN2dMWlQzZUpIaXhNR0UyZ0tKUVJxSzE0TnU0Y1JrQmc?oc=5",
+       "titre": "Mexican Peso Retreats Against Dollar as 19-Month Dollar High Pressures Emerging Market Currencies",
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQeHpua18wNzhxVjdCNmd5SjI0aXZzX3oxQnVvN0xoTjE2bVhXSG0zd01ON3l2eURWcl90RVpwYTFoWnlha0xuQVlfdGdKMktmUGtFU0UxMU5OQlZXWGxncmVZQ0t1UUFlNWFIMzRhNDdQT1F4bGc?oc=5",
        "source": "BigGo Finance"
       }
      ]
     },
     {
-     "texte": "Le bitcoin poursuit sa baisse et se rapproche de ses plus bas de l'année, éprouvant même les investisseurs les plus convaincus. Côté Wall Street, le S&P 500 est jugé en position de retester son record de novembre après un repli de 500 points suivi de sa plus forte hausse quotidienne depuis près de sept mois.",
+     "texte": "En France, Sénat et gouvernement ont négocié dans le PLFSS 2027 un compromis : pas de désindexation des retraites, mais suppression totale de l'abattement fiscal de 10 %. Fonctionnaires, cheminots et étudiants manifestent ce mardi, et le smic sera relevé au 1er décembre.",
      "articles": [
       {
-       "titre": "Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless",
-       "url": "https://www.bloomberg.com/news/articles/2026-11-15/crypto-s-slow-motion-selloff-leaves-traders-weary-and-hopeless",
-       "source": "Bloomberg Markets"
-      },
-      {
-       "titre": "Futures Loom As Bitcoin Dives In Shaky Rally. What To Do Now.",
-       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQmoxeERFTVM2VG9DVVBnRERlZG4tcU0tOGFveC1mYlhEZEJydUZNM2ptaExRYU1LYXg3XzlUUHhtZ29JSF9OYlZtd0FSaF9mME9TYzhTWUVJT0lSSGVPSTMxZlhkTWhQMVp4MkRFVUdUZHRTNVd1bTdTckF2Q3VYdUxKY3kyaFpDaTZkQ1BVMHdrTUNQLUhnVVhPZzJIM3h6Tlg2THNnZU5NRDRvV3NFZUlta28wVXloNGhfNUFFTWdKR3Q3Vk05RnBhQXdWQkl3UTlGRC1RRGo2QU9rTmc?oc=5",
-       "source": "Investor's Business Daily"
-      },
-      {
-       "titre": "S&P 500 Forecast: Index Poised to Retest Record High in November After 500-Point Pullback, Biggest Daily Gain in Nearly Seven Months",
-       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM3hPZWx5b0RTdkJabGJjQks3TFpfRHR0NVVlekFQN3gtOXFCU2ZJeE9xd25yNUFEdUpXMkp6LWdVV0ZnVnZNdzJMNUdjUHJCeHY4T0pZLXphUDNldXNsRE5KdjBMRHRjTnhiWGxRVXBXNDNSaUQ2WTlJX0Q2V0MzMHRvTGw5Tk00bWdtcmxmdlRySWlibHp0NzVUaER6TzEtdGJkNVpEYkdzdGRKT2Q4Tk9fUmM?oc=5",
-       "source": "TradingKey"
-      }
-     ]
-    },
-    {
-     "texte": "Opérations : MTN, premier opérateur mobile d'Afrique, négocie le rachat de la totalité de Telkom SA via une offre en numéraire et en actions. EQT prévoit d'investir jusqu'à 30 % de ses 30 milliards de dollars de liquidités disponibles au Japon, où il voit une vague d'opportunités de retraits de cote.",
-     "articles": [
-      {
-       "titre": "MTN in Talks to Buy Telkom in South African Cash, Share Deal",
-       "url": "https://www.bloomberg.com/news/articles/2026-11-16/mtn-holds-talks-to-buy-south-africa-s-telkom-in-cash-share-deal",
-       "source": "Bloomberg Markets"
-      },
-      {
-       "titre": "EQT Sees “Wave” of Take-Private Opportunities in Japan",
-       "url": "https://www.bloomberg.com/news/videos/2026-11-16/eqt-sees-wave-of-take-private-opportunities-in-japan-video",
-       "source": "Bloomberg Markets"
-      }
-     ]
-    },
-    {
-     "texte": "En France, la hausse du Smic prévue au 1er décembre inquiète les employeurs, tandis que le gouvernement chiffre à environ 1 milliard d'euros les mesures pour les bas salaires de la fonction publique (350 euros brut par an). Les assureurs, face à des pillages et dégradations dont le coût devrait dépasser le milliard d'euros, envisagent de durcir leurs conditions ; le Crédit Mutuel Arkéa a été piraté via un prestataire externe de logiciels de conformité.",
-     "articles": [
-      {
-       "titre": "\"Nos frais de personnels sont passés de 30 à 35%, des franchisés ferment...\": boulangeries Ange, savonnerie artisanale, fabricant de compresseur... Ces patrons qui s'alarment de la hausse du Smic et des charges",
-       "url": "https://www.bfmtv.com/economie/emploi/nos-frais-de-personnels-sont-passes-de-30-a-35-des-franchises-ferment-boulangeries-ange-savonnerie-artisanale-fabricant-de-compresseur-ces-patrons-qui-s-alarment-de-la-hausse-du-smic-et-des-charge_AV-202611150053.html",
+       "titre": "Pas de désindexation des retraites mais une suppression totale de l'abattement fiscal de 10%? Voilà le compromis négocié entre le Sénat et le gouvernement",
+       "url": "https://www.bfmtv.com/economie/economie-social/pas-de-desindexation-des-retraites-mais-une-suppression-totale-de-l-abattement-fiscal-de-10-voila-le-compromis-negocie-entre-le-senat-et-le-gouvernement_AD-202611170171.html",
        "source": "BFM Business"
       },
       {
-       "titre": "Le gouvernement chiffre à environ 1 milliard d’euros les gestes pour les bas salaires",
-       "url": "https://www.liberation.fr/economie/social/le-gouvernement-chiffre-a-environ-1-milliard-deuros-les-gestes-pour-les-bas-salaires-20261115_SWSZRZNYERBULLREF3KQ7I5XUY/",
+       "titre": "EN DIRECT – Mobilisations sociales : fonctionnaires, cheminots, étudiants et lycéens dans la rue ce mardi",
+       "url": "https://www.liberation.fr/economie/social/en-direct-mobilisations-sociales-fonctionnaires-cheminots-etudiants-et-lyceens-dans-la-rue-ce-mardi-20261117_OHS6A6MT4FDIBE5NLCOZ5SN2QY/",
        "source": "Libération Économie"
       },
       {
-       "titre": "Pillages et dégradations: les assureurs prêts à durcir leurs conditions",
-       "url": "https://www.bfmtv.com/economie/video-pillages-et-degradations-les-assureurs-prets-a-durcir-leurs-conditions_VN-202611150079.html",
-       "source": "BFM Business"
-      },
-      {
-       "titre": "EXCLUSIF - Cyberattaque : ce prestataire externe par lequel les hackeurs ont accédé au coffre-fort d'Arkéa",
-       "url": "https://www.lesechos.fr/finance-marches/banque-assurances/exclusif-cyberattaque-ce-prestataire-externe-par-lequel-les-hackeurs-ont-accede-au-coffre-fort-darkea-2262670",
-       "source": "Les Echos"
+       "titre": "Hausse du smic au 1er décembre : les salariés contraints de se raccrocher aux branches",
+       "url": "https://www.liberation.fr/economie/social/hausse-du-smic-au-1er-decembre-les-salaries-contraints-de-se-raccrocher-aux-branches-20261117_A7IUSAAWRJFUTJTO4XZRX4NXRU/",
+       "source": "Libération Économie"
       }
      ]
     }
    ]
   },
   "science": {
-   "titre": "Un vaccin ARN personnalisé contre le mélanome marque une étape historique, au milieu d'avancées en médecine, en archéologie et en planétologie.",
+   "titre": "La cosmologie bousculée par les résultats finaux d'un grand relevé de galaxies, pendant que la mission Hera dévoile l'astéroïde Didymos.",
    "points": [
     {
-     "texte": "Un vaccin ARN « sur mesure » contre le mélanome réduit de 42 % le risque de récidive ou de décès, une étape qualifiée d'historique dans la lutte contre le cancer de la peau.",
+     "texte": "Un relevé de galaxies mené sur 20 ans a publié ses résultats finaux, qui ne concordent pas tout à fait avec la théorie cosmologique dominante. La sonde européenne Hera a révélé une face mystérieuse et criblée de cratères de l'astéroïde Didymos, avant d'étudier les suites de l'impact de la NASA en 2022.",
      "articles": [
       {
-       "titre": "Cancer de la peau : ce vaccin ARN « sur mesure » réduit de 42 % le risque de rechute ou de décès",
-       "url": "https://www.futura-sciences.com/sante/actualites/cancer-cancer-peau-ce-vaccin-arn-mesure-reduit-42-risque-rechute-deces-k2m6-139292/#xtor%3DRSS-8",
-       "source": "Futura"
-      }
-     ]
-    },
-    {
-     "texte": "Deux pistes médicales : un modèle mathématique suggère que la vitamine C pourrait empêcher la formation de composés potentiellement cancérigènes dans l'estomac après la consommation de nitrates et nitrites ; un médicament contre l'ostéoporose a bloqué l'accumulation minérale dans la colonne vertébrale de poissons-zèbres, après la découverte d'un lien génétique avec la dégénérescence spinale.",
-     "articles": [
-      {
-       "titre": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
-       "source": "ScienceDaily"
+       "titre": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
+       "url": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
+       "source": "Quanta Magazine"
       },
       {
-       "titre": "A common osteoporosis drug blocked spinal damage in a surprising new study",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
+       "titre": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm",
        "source": "ScienceDaily"
       }
      ]
     },
     {
-     "texte": "Au Danemark, un squelette vieux d'environ 6 000 ans, l'« homme de Rødhals », appartenait à un individu qui a vécu l'arrivée de l'agriculture, selon des indices sur son alimentation.",
+     "texte": "Selon une étude, une seule explosion nucléaire dans l'espace désactiverait 98 % des satellites en une semaine, avec des années de chaos technologique. La NASA lance de son côté un concours doté d'un million de dollars pour que des étudiants américains imaginent la première base lunaire permanente.",
      "articles": [
       {
-       "titre": "Skeleton found in Denmark came from man who witnessed the arrival of farming",
-       "url": "https://www.newscientist.com/article/2598961-skeleton-found-in-denmark-was-from-man-who-witnessed-the-arrival-of-farming/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "titre": "Nuclear bomb in space would disable 98 per cent of satellites within a week",
+       "url": "https://www.newscientist.com/article/2598378-nuclear-bomb-in-space-would-disable-98-per-cent-of-satellites-within-a-week/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
        "source": "New Scientist"
-      }
-     ]
-    },
-    {
-     "texte": "De nouvelles simulations suggèrent que des conditions extrêmes à l'intérieur d'Uranus et de Neptune expliqueraient leurs champs magnétiques fortement inclinés, une énigme depuis le passage de Voyager 2 dans les années 1980.",
-     "articles": [
+      },
       {
-       "titre": "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm",
+       "titre": "NASA is offering $1 million for bold ideas to help build a Moon base",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261115085542.htm",
        "source": "ScienceDaily"
       }
      ]
     },
     {
-     "texte": "Climat et industrie : le flux dominant qui se confirme sur la France annonce un hiver 2026-2027 particulier, tandis que le chercheur-entrepreneur Alexandre Duval mise sur l'IA pour concevoir des molécules destinées à une industrie plus propre.",
+     "texte": "Les plus grands centres de données américains consomment environ 2 % de l'électricité annuelle des États-Unis, autant qu'un État entier. Un cadre d'OpenAI alerte sur des agents IA qui pourraient voir les humains comme un obstacle, et des spécialistes s'inquiètent des liens affectifs des enfants et adolescents avec les chatbots.",
      "articles": [
       {
-       "titre": "Météo de l’hiver : ce flux dominant qui se confirme en France annonce une saison très particulière",
-       "url": "https://www.futura-sciences.com/planete/actualites/meteorologie-meteo-hiver-ce-flux-dominant-confirme-france-annonce-saison-tres-particuliere-139315/#xtor%3DRSS-8",
+       "titre": "Massive data centres collectively use as much electricity as an entire US state",
+       "url": "https://www.newscientist.com/article/2599078-massive-datacentres-use-as-much-electricity-as-an-entire-us-state/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "source": "New Scientist"
+      },
+      {
+       "titre": "« Les agents IA pourraient voir les humains comme un obstacle » : l’alerte glaçante d’un cadre d’OpenAI",
+       "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-agents-ia-pourraient-voir-humains-comme-obstacle-alerte-glacante-cadre-openai-139379/#xtor%3DRSS-8",
        "source": "Futura"
       },
       {
-       "titre": "Alexandre Duval, ou comment l'IA conçoit des molécules pour rendre l’industrie plus propre",
-       "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-alexandre-duval-ia-concoit-molecules-rendre-industrie-plus-propre-138273/#xtor%3DRSS-8",
+       "titre": "Enfants, ados et IA : pourquoi les liens affectifs avec les chatbots inquiètent les spécialistes",
+       "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-enfants-ados-ia-liens-affectifs-chatbots-inquietent-specialistes-138296/#xtor%3DRSS-8",
+       "source": "Futura"
+      }
+     ]
+    },
+    {
+     "texte": "De nouveaux travaux montrent que le sexe biologique, la génétique et la ménopause peuvent fortement influencer le risque d'Alzheimer, les réponses aux traitements et les douleurs chroniques comme la fibromyalgie. Une étude s'intéresse aussi à la fonction de communication des miaulements du chat.",
+     "articles": [
+      {
+       "titre": "A hidden biological divide may help explain Alzheimer’s and chronic pain",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261115085535.htm",
+       "source": "ScienceDaily"
+      },
+      {
+       "titre": "Votre chat miaule-t-il vraiment pour vous parler ? Ce que révèle une étude",
+       "url": "https://www.futura-sciences.com/planete/actualites/chat-votre-chat-miaule-t-il-vraiment-vous-parler-ce-revele-etude-139284/#xtor%3DRSS-8",
        "source": "Futura"
       }
      ]
@@ -178,44 +193,59 @@
    ]
   },
   "spatial": {
-   "titre": "L'échec du lanceur Vulcan de ULA, avec 40 satellites Amazon Leo à bord, domine l'actualité spatiale.",
+   "titre": "SpaceX récupère pour la première fois l'étage supérieur de Starship et annonce une version V4 encore plus grande.",
    "points": [
     {
-     "texte": "ULA a subi le premier échec complet de son histoire : sa nouvelle fusée lourde Vulcan a connu une défaillance dimanche pendant l'ascension, entraînant la perte de 40 satellites Internet Amazon Leo.",
+     "texte": "Au lendemain de la première capture de l'étage supérieur de Starship sur son pas de tir, Elon Musk a annoncé qu'une version V4 de nouvelle génération rendra la plus grande fusée du monde encore plus grande.",
      "articles": [
       {
-       "titre": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
-       "url": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
-       "source": "Spaceflight Now"
-      }
-     ]
-    },
-    {
-     "texte": "Les astronomes restent convaincus que la « Blaze Star » T CrB, dans la Couronne boréale, entrera en éruption prochainement.",
-     "articles": [
-      {
-       "titre": "Why hasn't the 'Blaze Star' exploded yet? Astronomers weigh in on what to expect",
-       "url": "https://www.space.com/stargazing/why-hasnt-the-blaze-star-exploded-yet-astronomers-weigh-in-on-what-to-expect",
+       "titre": "Elon Musk says SpaceX’s Starship, already the largest rocket on Earth, will get even bigger with next-gen V4 model",
+       "url": "https://www.space.com/space-exploration/launches-spacecraft/elon-musk-says-spacexs-starship-already-the-largest-rocket-on-earth-will-get-even-bigger-with-next-gen-v4-model",
        "source": "Space.com"
       }
      ]
     },
     {
-     "texte": "La comète 220P/McNaught, devenue des milliers de fois plus brillante cet été, aurait été disloquée par des gaz qui s'en échappaient.",
+     "texte": "Le manifeste de lancements prévoit une Ariane 6 emportant des satellites d'Amazon et des Falcon 9 pour des missions gouvernementales. SpaceNukes a ouvert le 13 novembre à Los Alamos une usine dédiée à son réacteur spatial de nouvelle génération.",
      "articles": [
       {
-       "titre": "How escaping gases ripped apart a comet and caused it to become thousands of times brighter",
-       "url": "https://www.space.com/astronomy/comets/how-escaping-gases-ripped-apart-a-comet-and-caused-it-to-become-thousands-of-times-brighter",
+       "titre": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
+       "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
+       "source": "NASASpaceflight"
+      },
+      {
+       "titre": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
+       "url": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/",
+       "source": "SpaceNews"
+      }
+     ]
+    },
+    {
+     "texte": "Perseverance étudie à « Idubi » des roches claires, vestiges d'anciens systèmes aqueux dans la croûte martienne. Voyager 1 approche d'une distance d'un jour-lumière de la Terre.",
+     "articles": [
+      {
+       "titre": "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
+       "url": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
+       "source": "NASA"
+      },
+      {
+       "titre": "What exactly is a light-day? Here's what Voyager 1's latest milestone means for the interstellar probe",
+       "url": "https://www.space.com/space-exploration/voyager/what-exactly-is-a-light-day-heres-what-voyager-1s-latest-milestone-means-for-the-interstellar-probe",
        "source": "Space.com"
       }
      ]
     },
     {
-     "texte": "Le télescope Webb montre la formation d'étoiles et ses jets dans NGC 7129, image astronomique du jour de la NASA. Observée depuis l'espace, la glace proche du sommet du Puncak Jaya, en Indonésie, n'est plus qu'en plaques éparses trop petites pour s'écouler comme un glacier.",
+     "texte": "Webb montre la formation d'étoiles avec jets dans NGC 7129, les astronautes de l'ISS observent la foudre entre les nuages, et la glace du sommet du Puncak Jaya en Indonésie s'est réduite à des plaques trop petites pour former des glaciers.",
      "articles": [
       {
        "titre": "APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb",
        "url": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/",
+       "source": "NASA"
+      },
+      {
+       "titre": "Tossing Fireworks from Cloud to Cloud",
+       "url": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/",
        "source": "NASA"
       },
       {
@@ -228,40 +258,115 @@
    ]
   },
   "hotellerie": {
-   "titre": "Peu d'actualité ce week-end dans l'hôtellerie : une acquisition à Miami Beach et des signaux mitigés sur la demande de voyage.",
+   "titre": "Une salve de transactions hôtelières, de Carmel à Osaka, domine l'actualité, sur fond de grève à Chicago et de refonte des programmes de fidélité.",
    "points": [
     {
-     "texte": "Playboy rachète un hôtel à Miami Beach et prévoit d'y ouvrir un club.",
+     "texte": "Aux États-Unis, DiamondRock a acquis le Carmel Mission Inn pour 73,25 millions de dollars et l'aéroport DFW a racheté le Hyatt Regency DFW pour 194 millions. Playboy a aussi acheté un hôtel en Floride du Sud où il relance un club.",
      "articles": [
       {
-       "titre": "Playboy buys Miami Beach hotel, plans club",
-       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYnYtUmpXYXhMNXdwc0Jzb2c5UjlxbG1NY2dLMjkwVHU2Z293VTVWd0w5QUlsdFBKZmZoc0VhZHFhWFdtVnduQWFRVG5XUjRIVjc1ZWl5R2YyUjlGS1BOQ2FMUm9UWF85V19QX0RvN3dLZzEtOXFvVzJPLU1MSjdxQ0dTbGJJQkNTQ2c?oc=5",
-       "source": "Travel Weekly"
+       "titre": "DiamondRock Hospitality buys Carmel hotel for $73.25 million By Investing.com",
+       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOXhlQl96ZW5PUW1KU2p1WHA5YUlPWG1iWEFVNjkxU3dJU0RjanJkUmcwUlJWQlV4VFg3WDU4c0pCbG9Ra0xXczhpWUQzMWFHYk1xcU02MUJIMDhmQlNlbmVMVWx6M29aLVNaanQ4WE15Vmcxb3pmc0RONUxSS25ubllYVHFULTlKd0tvZTdqOWdaYUdPM1A4MDROc3d4WE9YWkptbkd4NHQ5Q05tbkFBSzJTQjhUaHBxQmVr?oc=5",
+       "source": "Investing.com UK"
+      },
+      {
+       "titre": "DFW Airport buys Hyatt Regency for $194M",
+       "url": "https://www.hoteldive.com/news/dfw-airport-buys-hyatt-regency-for-194m/874739/",
+       "source": "Hotel Dive"
+      },
+      {
+       "titre": "Playboy just bought a hotel in South Florida and is bringing back a club",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUHJkMHdzZDZ4ZkJ5MUJsSjhZeUJnbEJtMGNYUGVCRXMzWmFyQ1JDRGhPRkYxbE9ZblZZRFdiYkFPYjNhemROTmluNG5xNWppdzYwNl9KX1RiSnNfZ2J4VW5NQlBSLWlENkNoV3gxV2dWQ01VWDZPUVZTMWlwUkdLX2FHT184bW43LWlKNG9GZWd6Zw?oc=5",
+       "source": "Tampa Bay Times"
       }
      ]
     },
     {
-     "texte": "Demande : selon l'AAA, des prix de l'essence plus élevés mettent fin à la série de records de déplacements pour Thanksgiving aux États-Unis. En Inde, la réforme des visas lève un obstacle pour les visiteurs étrangers, mais ne suffira pas à atteindre l'objectif de 100 millions de touristes.",
+     "texte": "À l'international, AXE Management Partners a cédé des hôtels à Osaka pour 21 milliards de yens, les frères Gravanis ont acquis deux hôtels emblématiques de Sydney pour 54 millions de dollars, Exsim Hospitality vise un hôtel à Damansara pour 226 millions de ringgits et Bright Group prend 51 % de SWOT Hospitality.",
      "articles": [
       {
-       "titre": "Higher Fuel Prices Snap Record Thanksgiving Travel Streak, Says AAA",
-       "url": "https://skift.com/2026/11/16/thanksgiving-travel-decline-aaa/",
+       "titre": "AXE Management Partners sells Osaka hotels for JPY 21b",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLXV1bk5peTItTXNveHNNUGk4b0NrbWpFMURiZ0gtVmpVcndfajRiT0RIbUI1LVUwQUZwakZHTkJTTlp0TFVrZ3UwUF9vckVEQlNwclNOWm51RGVFYV85YWtvZWZMTnhkb3ZMb3dwUE5xN2k2aklTZ2dLdktKYWdXcmhzMmdCOEVhVVhBdExHcHFNdw?oc=5",
+       "source": "Travel Daily Media"
+      },
+      {
+       "titre": "Gravanis brothers acquire two iconic Sydney hotels in $54 million deal",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdzhXRHZLTS04T0ZSUEN0dllBVk8tbVUyLS1iWnA1bnJVdGM4NHg1SnpfMHRLaHRzdTREZTR3S2gwVlp6MXhCUWRQUHE0TEtJLUZ3TlBWYW1QVXptQnZfUWFEbVBWVGtZeDBFRDgxb3Q0U1o0MU10YzFqNWJEYllzOFEybkwzTFZ3ek01WTFkY0NEcllmbWdIQ0VXNmdxbWc4bzVDcHExZ3E0YUtxcC1BNQ?oc=5",
+       "source": "The Greek Herald"
+      },
+      {
+       "titre": "Exsim Hospitality targets RM226 million hotel acquisition in Damansara",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdkpULXozbUc0cng2S3NveXdwNTBQeUlnTGc0VWpsVUZtMDFfNWVnOTFDVi1GRVlfRF9TNk9sNWtmcjJ4RzhkVUw3UnlWMmhNb3gxLVd4a1I2SUNSWUtpeEFpajkzOGltaEUyd3FDRUNOQ0l3enlPMmxRdUx3cWJlLVRoZWI4dWxNUkYyV1V5c0NRTkVZaEFFOERxM2ZqaDF4?oc=5",
+       "source": "Traders Union"
+      },
+      {
+       "titre": "BRIGHT GROUP Acquires 51% Stake in SWOT Hospitality",
+       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdmxRZzRwVzI2XzE0X18wRFdOZnp0US1pT1dUanduUk1hTnlJTFF3S01jbVZUa1JIVXlmM3dGcFVmQkJwdE9mVm91MFQ5ck1Ydkg4aFB5eHk0bjNPQjJFODJlRGt1OUNxRTlQekZGMEozWmUxb0RGQmRuZ2RKcnhMbkZhdlFtbmhfMlE?oc=5",
+       "source": "GTP Headlines"
+      }
+     ]
+    },
+    {
+     "texte": "Le résultat courant de Minor Hotels a progressé de 13 % au troisième trimestre, à 2,1 milliards de bahts, porté par la Thaïlande, les Maldives et l'Espagne, tandis que le Moyen-Orient recule. Accor signe un MGallery à Porto Heli pour 2027, IHG vise une centaine d'hôtels en Espagne et Adani transforme ses aéroports en activité hôtelière.",
+     "articles": [
+      {
+       "titre": "Minor Hotels : l'Espagne et la Thaïlande conduisent le troisième trimestre, le Moyen-Orient recule",
+       "url": "https://hospitality-on.com/fr/hotellerie/minor-hotels-lespagne-et-la-thailande-conduisent-le-troisieme-trimestre-le-moyen-orient",
+       "source": "Hospitality ON"
+      },
+      {
+       "titre": "Accor élargit MGallery en Grèce avec un resort à Porto Heli",
+       "url": "https://hospitality-on.com/fr/hotellerie/accor-elargit-mgallery-en-grece-avec-un-resort-porto-heli",
+       "source": "Hospitality ON"
+      },
+      {
+       "titre": "L’Espagne à deux vitesses : les groupes misent sur Madrid et les Baléares",
+       "url": "https://hospitality-on.com/fr/developpement/lespagne-deux-vitesses-les-groupes-misent-sur-madrid-et-les-baleares",
+       "source": "Hospitality ON"
+      },
+      {
+       "titre": "Adani Turns Its Airports Into a Hotel Business",
+       "url": "https://skift.com/2026/11/16/adani-turns-its-airports-into-a-hotel-business/",
+       "source": "Skift"
+      }
+     ]
+    },
+    {
+     "texte": "Selon l'AHLA, 50 % des consommateurs confondent des sites de réservation trompeurs avec les sites officiels des hôtels. WorldHotels Rewards fusionnera le 5 janvier 2027 avec Best Western Rewards (70 millions de membres, plus de 4 000 hôtels), et Airbnb voit désormais les hôtels comme une opportunité de plusieurs milliards.",
+     "articles": [
+      {
+       "titre": "New Study: Consumers Frequently Mistake Deceptive Booking Sites for Official Hotel Websites; Want Stronger Standards to Protect Travelers",
+       "url": "https://www.hospitalitynet.org/news/4135505/new-study-consumers-frequently-mistake-deceptive-booking-sites-for-official-hotel-websites-want-stronger-standards-to-protect-travelers",
+       "source": "Hospitality Net"
+      },
+      {
+       "titre": "WorldHotels Unveils Rewards Overhaul, Elite Status After Just 5 Nights",
+       "url": "https://www.hospitalitynet.org/news/4135502/worldhotels-unveils-rewards-overhaul-elite-status-after-just-5-nights",
+       "source": "Hospitality Net"
+      },
+      {
+       "titre": "Airbnb bets big on multibillion-dollar hotel opportunity",
+       "url": "https://www.hoteldive.com/news/airbnb-hotel-strategy/874692/",
+       "source": "Hotel Dive"
+      }
+     ]
+    },
+    {
+     "texte": "À Chicago, la grève s'étend à 11 hôtels avec le Royal Sonesta, le Marriott Marquis et The Wade. Les quatre grandes compagnies américaines risquent jusqu'à 964 millions de dollars de pertes après l'arrêt au sol de vendredi, mais la demande pour Thanksgiving tient ; United a résolu une panne de ses systèmes.",
+     "articles": [
+      {
+       "titre": "3 more Chicago hotels join citywide strike",
+       "url": "https://www.hoteldive.com/news/3-more-chicago-hotels-join-citywide-strike/874747/",
+       "source": "Hotel Dive"
+      },
+      {
+       "titre": "Airlines Brace for Up to $1 Billion Hit From Ground Stop, but Holiday Demand Holds Steady",
+       "url": "https://skift.com/2026/11/16/ground-stop-dent-airlines-fourth-quarter-holiday-demand-steady/",
        "source": "Skift"
       },
       {
-       "titre": "India’s Visa Overhaul Fixes the Easy Part of Its Tourism Problem",
-       "url": "https://skift.com/2026/11/16/indias-visa-overhaul-fixes-the-easy-part-of-its-tourism-problem/",
+       "titre": "United Airlines Resolves Tech Issue That Caused Systemwide Outage",
+       "url": "https://skift.com/2026/11/16/united-airlines-resolves-tech-issue-that-caused-systemwide-outage/",
        "source": "Skift"
-      }
-     ]
-    },
-    {
-     "texte": "À Boulogne-Billancourt, l'île Seguin, ancienne usine Renault fermée en 1992 puis rasée, se reconvertit en « Pointe des Arts ».",
-     "articles": [
-      {
-       "titre": "Île Seguin, de la forteresse Renault à la Pointe des Arts",
-       "url": "https://hospitality-on.com/fr/hotellerie/ile-seguin-de-la-forteresse-renault-la-pointe-des-arts",
-       "source": "Hospitality ON"
       }
      ]
     }
