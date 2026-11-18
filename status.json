@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T07:56:56Z",
+ "generated_at": "2026-11-18T06:16:26Z",
  "sources": [
   {
    "name": "CNBC",
@@ -9,7 +9,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 80
+   "archived": 83
   },
   {
    "name": "Bloomberg Markets",
@@ -19,7 +19,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 88
+   "archived": 91
   },
   {
    "name": "MarketWatch",
@@ -29,7 +29,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 66
+   "archived": 69
   },
   {
    "name": "Les Echos",
@@ -39,7 +39,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 63
+   "archived": 64
   },
   {
    "name": "BFM Business",
@@ -49,7 +49,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 87
+   "archived": 89
   },
   {
    "name": "BCE",
@@ -69,7 +69,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 44
+   "archived": 47
   },
   {
    "name": "The Motley Fool",
@@ -79,7 +79,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 84
+   "archived": 87
   },
   {
    "name": "Le Parisien Économie",
@@ -89,7 +89,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 84
+   "archived": 87
   },
   {
    "name": "Libération Économie",
@@ -109,7 +109,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 59
+   "archived": 62
   },
   {
    "name": "ScienceDaily",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 64
+   "archived": 67
   },
   {
    "name": "Futura",
@@ -159,7 +159,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 31
+   "archived": 33
   },
   {
    "name": "NASASpaceflight",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 19
+   "archived": 18
   },
   {
    "name": "Space.com",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 62
+   "archived": 65
   },
   {
    "name": "Hotel Dive",
@@ -229,7 +229,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 43
+   "archived": 45
   },
   {
    "name": "Hospitality Net",
@@ -239,7 +239,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 59
+   "archived": 62
   },
   {
    "name": "Skift",
@@ -249,7 +249,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 59
+   "archived": 60
   },
   {
    "name": "Transactions · Amérique du Nord",
@@ -259,16 +259,16 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 45
+   "archived": 47
   },
   {
    "name": "Transactions · Amérique latine",
    "cat": "hotellerie",
    "topic": "transactions",
    "url": "https://news.google.com/rss/search?q=hotel+%28acquires+OR+acquisition+OR+acquired+OR+sells+OR+sold+OR+buys+OR+%22sale+of%22%29+%28Mexico+OR+Brazil+OR+Caribbean+OR+%22Latin+America%22+OR+Colombia+OR+Chile+OR+Argentina+OR+Peru+OR+%22Costa+Rica%22%29+when%3A14d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests",
+   "ok": true,
+   "count": 3,
+   "error": null,
    "archived": 34
   },
   {
@@ -289,7 +289,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 33
+   "archived": 35
   },
   {
    "name": "Transactions · Moyen-Orient",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 35
+   "archived": 34
   },
   {
    "name": "Transactions · Asie-Pacifique",
@@ -319,7 +319,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 21
+   "archived": 23
   },
   {
    "name": "Transactions · Afrique (FR)",
@@ -339,17 +339,17 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 84
+   "archived": 85
   },
   {
    "name": "Marchés · Amérique latine",
    "cat": "finance",
    "topic": "marches",
    "url": "https://news.google.com/rss/search?q=%28Ibovespa+OR+Bovespa+OR+%22Mexican+peso%22+OR+%22Latin+American+stocks%22+OR+Merval+OR+%22Brazil+stocks%22%29+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests",
-   "archived": 72
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 73
   },
   {
    "name": "Marchés · Europe",
@@ -359,37 +359,37 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 80
+   "archived": 81
   },
   {
    "name": "Marchés · Europe (FR)",
    "cat": "finance",
    "topic": "marches",
    "url": "https://news.google.com/rss/search?q=%28%22CAC+40%22+OR+%22Bourse+de+Paris%22+OR+%22Bourse+suisse%22+OR+%22SMI%22+OR+%22march%C3%A9s+europ%C3%A9ens%22%29+when%3A2d&hl=fr&gl=FR&ceid=FR%3Afr",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests",
-   "archived": 71
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 72
   },
   {
    "name": "Marchés · Moyen-Orient",
    "cat": "finance",
    "topic": "marches",
    "url": "https://news.google.com/rss/search?q=%28%22Gulf+stocks%22+OR+%22Mideast+stocks%22+OR+Tadawul+OR+%22Saudi+stocks%22+OR+%22Dubai+index%22+OR+%22Gulf+bourses%22%29+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests",
-   "archived": 65
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 68
   },
   {
    "name": "Marchés · Asie-Pacifique",
    "cat": "finance",
    "topic": "marches",
    "url": "https://news.google.com/rss/search?q=%28Nikkei+OR+%22Hang+Seng%22+OR+%22Asian+shares%22+OR+%22Asian+stocks%22+OR+Kospi+OR+%22Shanghai+Composite%22+OR+Sensex+OR+%22ASX+200%22%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests",
-   "archived": 92
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 93
   },
   {
    "name": "Marchés · Afrique",
@@ -399,7 +399,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 76
+   "archived": 75
   }
  ]
 }

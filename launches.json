@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T07:56:56Z",
+ "generated_at": "2026-11-18T06:16:27Z",
  "launches": [
   {
    "name": "Long March 2D | Unknown Payload",
@@ -14,7 +14,7 @@
   },
   {
    "name": "Falcon 9 Block 5 | USSF-317",
-   "net": "2026-11-19T03:00:00Z",
+   "net": "2026-11-20T02:46:00Z",
    "status": "Go",
    "status_label": "Go for Launch",
    "provider": "SpaceX",
@@ -47,9 +47,9 @@
   },
   {
    "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
-   "net": "2026-11-23T00:00:00Z",
-   "status": "TBD",
-   "status_label": "To Be Determined",
+   "net": "2026-11-23T11:09:00Z",
+   "status": "Go",
+   "status_label": "Go for Launch",
    "provider": "Arianespace",
    "pad": "Ariane Launch Area 4",
    "location": "Guiana Space Centre, French Guiana",
