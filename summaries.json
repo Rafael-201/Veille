@@ -1,191 +1,176 @@
 {
- "generated_at": "2026-11-17T06:17:44Z",
+ "generated_at": "2026-11-18T06:18:04Z",
  "auteur": "Claude",
  "rubriques": {
   "finance": {
-   "titre": "La tech recule à Wall Street avant les résultats de Nvidia et l'IPO d'Anthropic, sur fond de ralentissement chinois et de tensions au Moyen-Orient.",
+   "titre": "Les résultats de Nvidia, solides mais éclipsés par le départ de Jensen Huang, dominent des marchés secoués par un nouveau repli de la tech et les tensions au Moyen-Orient.",
    "points": [
     {
-     "texte": "Le Nasdaq a chuté d'environ 2,5 % lundi à l'entame d'une semaine à haut risque, entre les résultats de Nvidia et l'introduction en Bourse d'Anthropic. La prudence avant les chiffres de Nvidia a aussi fait tomber les actions émergentes à leur plus bas d'une semaine, tandis que le DAX venait d'inscrire un record.",
+     "texte": "Nvidia a publié un troisième trimestre supérieur aux attentes et une prévision de 130 milliards de dollars de chiffre d'affaires pour le trimestre suivant. C'est la première publication de Colette Kress comme directrice générale par intérim ; le conseil d'administration n'envisage pas de réinstaller Jensen Huang.",
      "articles": [
       {
-       "titre": "La tech décroche à Wall Street avant l'introduction en Bourse d'Anthropic",
-       "url": "https://www.lesechos.fr/finance-marches/marches-financiers/la-tech-decroche-a-wall-street-avant-lintroduction-en-bourse-danthropic-2262910",
-       "source": "Les Echos"
+       "titre": "Nvidia’s stock rises as blowout numbers help ease CEO transition fears",
+       "url": "https://www.marketwatch.com/story/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transition-fears-2f20d38a?mod=mw_rss_topstories",
+       "source": "MarketWatch"
       },
       {
-       "titre": "Emerging-market Stocks, Currencies Fall as AI Concerns Persist",
-       "url": "https://www.bloomberg.com/news/articles/2026-11-16/emerging-market-stocks-currencies-ai-concerns",
-       "source": "Bloomberg Markets"
+       "titre": "With Jensen Huang gone, Colette Kress shows Nvidia is still at the center of AI",
+       "url": "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html",
+       "source": "CNBC Résultats"
       },
       {
-       "titre": "Investors await Nvidia figures and Anthropic after DAX record",
-       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdmhSWDFHa0JsRGVYbDB5SWdHY1dTeVc5WGJ6X1NCc0Y1WjVWZkxIcmxoNlc2TDBQVW1QNG8tUjdhbWRKNURjME5nOUxaWjMzUE1VRjJSQTNseW5ESGdNU3VNSDRGU1o0SDVqQ3cxWThyTnZQcGlJaGxVSmRESW1uODZ3S05LSjVoUmpySEhxYlpiN3dROURKaUVINUozZGg5ME5PMFh2YVAtR2VneHBrUjlOSU4?oc=5",
-       "source": "marketscreener.com"
+       "titre": "Jensen Huang reviendra-t-il à la tête de Nvidia? Le conseil d'administration \"n'envisage pas de le réinstaller au poste de directeur général\"",
+       "url": "https://www.bfmtv.com/economie/international/jensen-huang-reviendra-t-il-a-la-tete-de-nvidia-le-conseil-d-administration-n-envisage-pas-de-le-reinstaller-au-poste-de-directeur-general_AD-202611180141.html",
+       "source": "BFM Business"
       }
      ]
     },
     {
-     "texte": "Les marchés européens ont terminé en petite baisse et le Bovespa brésilien a cédé 2,05 %. Côté opérations, NBIM, GIC, BlackRock et Capital Group ont participé au placement de 117 milliards de roupies (1,2 milliard de dollars) de Bajaj Finance, et Coca-Cola HBC a obtenu sa cotation à Johannesburg avant le rachat de CCBA (44 milliards de rands).",
+     "texte": "Wall Street a reculé sous l'effet d'une nouvelle vague de ventes sur la tech menée par Nvidia, et les Bourses asiatiques ont baissé après le durcissement par le département américain du Commerce des contrôles sur les exportations de puces (S&P/ASX 200 −1,79 %). En Europe, le luxe a fait trébucher le CAC 40, tandis que les Treasuries progressent pour la troisième séance.",
      "articles": [
       {
-       "titre": "Les marchés européens terminent en petite baisse",
-       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNREI5aF90VklyU0JCN01qYzRQU0RuYTFSN2tLdlJlaXVveDNiQThLQmotb3FLWjVxcXZ5aXJFUzIyT1VWc191Q3hkYVRjd3dGdzZGbGRfSDFYdnRzVVZHaHpxM2hkZnZPdlhieUdmNWp2a3F2RXhiZGRrOGxmbERSNTBpQkgxYjBrU3hIcDJJVjVKMzlxaE1fcGZqMDlTVmtGUm53aw?oc=5",
-       "source": "allnews.ch"
+       "titre": "Stocks tumble on Wall Street as Nvidia leads another sell-off in technology companies",
+       "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQWkJFTkhnRk5NSjZxSXJ1RUxSRmduaWNzdDVyNDlQeTNTX1dXWWptMW4zd3d5Qm5NV2RUdmw3c3pJQzI5WXJTblNGX3lxWmFSSko4NnZFSlduY3pYRlpZVzhtemRJQ3Njb3E0UW5kSi1xTVFrWnJGeDItR0FRWjJqVEJuVGdnSVJkeGQ1bXhFbGlMYmI2aE9wWEZnQjVHRVRFVmZvdHdLMVlURWdCVE5hb2dkSTBIZVZhMGpGeGRBWW1VVThqcFd5YVZnbUgwdVBBdUU4aGp1YjU2OWpZWV9mLW1uQjhQdHFkQ0diQ2pCMTBqdnhobWZBNVF1VlQxRjlhYmNKblR3czlDbEs1dDdwTWhNVUhqMnI4bzNGTlROZnhXNmdkaG5nR0FSNVI?oc=5",
+       "source": "JHNewsAndGuide.com"
       },
       {
-       "titre": "Brazil stocks lower at close of trade; Bovespa down 2.05%",
-       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMngwckt2MTgyWHNYUWQxdjJmT1NlTzNXWHJRZ0VvSmtuYXBFTEFsUHVseVk5S0gzb3FjSUt1cHQtaEZCSGJTR05jU1pjV0JqX2RkWTlrWjhWQ1F2bG0zdkhEX1NKUHVSanpuS2Q5SVpjdVY1MmpvLUtVMXJBdU5LaHozT05DamZfak10aEdKMmNMcURBRThjZWVYV01HMlExbDA3MGZndEFHOW1KWWF2Nw?oc=5",
-       "source": "Investing.com"
+       "titre": "Asia Stocks Fall as U.S. Commerce Department Cracks Down on Chip Shipments",
+       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWVVdldZOXZsVElHNUkwYWR2aGpfaVhRTFZKZ183elNOOVNNZ196a2drOXhxQTQwVGk3eWtQLXJZYjZiX2JSOXduOG1Gb2tZRUJGUDdhVXo5RW1TRloxWFRhNjFWZmhqaXFyYmRsQkxtZzFZWmpxWTNhaEQxQnJybEE1MGQ0ZmZ4UFFtSm10U0RIUE1zSUxMT3UtSW9zdXBXRzBZUnN5cXNQejJPSkE0TmliWkF4YU5S?oc=5",
+       "source": "WSJ"
       },
       {
-       "titre": "NBIM, GIC, BlackRock Said to Invest in Bajaj Finance Share Sale",
-       "url": "https://www.bloomberg.com/news/articles/2026-11-17/nbim-gic-blackrock-fmr-capital-icici-hdfc-invest-bajaj-finance-share-sale",
+       "titre": "Le secteur du luxe a fait trébucher le CAC 40",
+       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdU9Zb0ZlMGM3dHVJRV9oSlV6emdoUld0N1M4cHE3WmxzUG5fYktGTXdXdmxmcTRJU1l1ZUhtWVZIc0JrUmhzUXdlOTNjT2ZyOHJkbVFXRmhNZGVqa2pjejhWM0lBZmJIMG14QUhBYzdiMFVwOXJmVE1KVWdacVItcTZBMXowZw?oc=5",
+       "source": "Radio Monaco"
+      },
+      {
+       "titre": "Treasuries Edge Higher for a Third Day as Risk Appetite Falters",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-18/treasuries-ust-bond-yields-risk-appetite-falters",
        "source": "Bloomberg Markets"
-      },
-      {
-       "titre": "Coca-Cola HBC Secures JSE Listing Ahead of the R44 Billion CCBA South Africa Deal",
-       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUHpZRzZSUVgwdTIyTm8taG1WcGZPdjA1bmc5NmdYcURKODBpeUR1bm9uWnYzdTV3ZU43dFdqNGpJVk10MG1lZTkzQVREWFdQMTEyUTlDekxTQ0NNTUxtclJnV1BiR3BZRS14dWhOblJfaUVBaXBjY1JWM09ETF9ReW4xTFFJTDczQnRoclptOWVDZ0xJdVJIQ2tSZ1g2OXA0X3MwQjM0T1FFTmJaRUJUX2YxUjlXTjNnUEFjdlJnbGZHQQ?oc=5",
-       "source": "FXLeaders"
       }
      ]
     },
     {
-     "texte": "L'économie chinoise a ralenti en octobre : production industrielle, ventes au détail et investissement ont manqué les attentes, et la production automobile est tombée à un plus bas de quatre ans. BofA évoque un besoin d'assouplissement, tandis qu'UBS voit encore 10 à 15 % de potentiel pour l'indice MSCI China.",
+     "texte": "Donald Trump, Xi Jinping et Vladimir Poutine doivent se rencontrer à Shenzhen en marge du sommet de l'APEC. Avant l'entrevue, le président chinois a plaidé pour une « économie ouverte » et l'élimination des barrières commerciales.",
      "articles": [
       {
-       "titre": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
-       "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+       "titre": "Three things to watch as Trump, Xi and Putin meet in China",
+       "url": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
        "source": "CNBC"
       },
       {
-       "titre": "China Car Output Slows to Four-Year Low as Domestic Demand Drops",
-       "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-car-ev-output-slows-four-year-low-domestic-demand-drops",
-       "source": "Bloomberg Markets"
-      },
-      {
-       "titre": "Fall in China Demand May Signal Need for Easing: Analyst",
-       "url": "https://www.bloomberg.com/news/videos/2026-11-16/fall-in-china-demand-may-signal-need-for-easing-analyst-video",
-       "source": "Bloomberg Markets"
-      },
-      {
-       "titre": "China Stock Bull Sees Up to 15% Upside on Earnings, Valuation",
-       "url": "https://www.bloomberg.com/news/articles/2026-11-17/china-stock-bull-ubs-sees-upside-msci-china-index-earnings-valuation",
-       "source": "Bloomberg Markets"
+       "titre": "\"Une économie ouverte\": avant de rencontrer Donald Trump, Xi Jinping plaide pour \"éliminer les barrières commerciales\"",
+       "url": "https://www.bfmtv.com/economie/international/une-economie-ouverte-avant-de-rencontrer-donald-trump-xi-jinping-plaide-pour-eliminer-les-barrieres-commerciales_AD-202611180135.html",
+       "source": "BFM Business"
       }
      ]
     },
     {
-     "texte": "L'Iran a durci ses menaces après l'arrivée d'un troisième porte-avions américain dans le Golfe et un pétrolier a été touché dans le détroit d'Ormuz. Pékin a confirmé un sommet Xi-Trump-Putin, et le président de la Fed Kevin Warsh fait face à des questions sur l'impact de l'IA sur l'emploi et les taux ; le dollar, au plus haut depuis 19 mois, pèse sur le peso mexicain.",
+     "texte": "Les tensions entre les États-Unis et l'Iran s'intensifient : frappe américaine sur un site de missiles des Gardiens de la révolution, attaques iraniennes visant des installations américaines au Koweït, arrivée d'un troisième porte-avions américain et pétrolier touché dans le détroit d'Ormuz. Les Bourses du Golfe ont clôturé en ordre dispersé.",
      "articles": [
+      {
+       "titre": "US Strikes Iranian Missile Site after Bahrain Attacks",
+       "url": "https://www.bloomberg.com/news/videos/2026-11-18/us-strikes-iranian-missile-site-after-bahrain-attacks-video",
+       "source": "Bloomberg Markets"
+      },
+      {
+       "titre": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
+       "url": "https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html",
+       "source": "CNBC"
+      },
       {
        "titre": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
        "url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
        "source": "CNBC"
       },
       {
-       "titre": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
-       "url": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
-       "source": "CNBC"
-      },
-      {
-       "titre": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-       "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
-       "source": "CNBC"
-      },
-      {
-       "titre": "Mexican Peso Retreats Against Dollar as 19-Month Dollar High Pressures Emerging Market Currencies",
-       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQeHpua18wNzhxVjdCNmd5SjI0aXZzX3oxQnVvN0xoTjE2bVhXSG0zd01ON3l2eURWcl90RVpwYTFoWnlha0xuQVlfdGdKMktmUGtFU0UxMU5OQlZXWGxncmVZQ0t1UUFlNWFIMzRhNDdQT1F4bGc?oc=5",
-       "source": "BigGo Finance"
+       "titre": "Mideast Stocks: Gulf bourses close mixed as shipping security concerns linger",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdGhabklhVHZMWDl0ajZyaDJEUTI4ZDRHVDJxdGlpa09oME5nRW9LN05YZWFQMDE4SkJCclVRZk83dzU4X2NXeEl4MzRlT0FJVFRSUjc3cjJTX0szVTdWZ19NNzFmOFNzbGdUQzJwbF9xSmNWOVNZTjlhaThONkpDbjc0cFRDNFlKUVp3VlNyeTRNNjlOZGRteE5FTjBtVkhOYk9WWGs0QlZSU3l6djVqWERvQ25TMzY5R2I4eEFZb2ZfY28?oc=5",
+       "source": "Zawya"
       }
      ]
     },
     {
-     "texte": "En France, Sénat et gouvernement ont négocié dans le PLFSS 2027 un compromis : pas de désindexation des retraites, mais suppression totale de l'abattement fiscal de 10 %. Fonctionnaires, cheminots et étudiants manifestent ce mardi, et le smic sera relevé au 1er décembre.",
+     "texte": "Côté opérations, les contrats à terme crypto liés à l'introduction en Bourse d'Anthropic impliquent encore une valorisation d'environ 1 700 milliards de dollars malgré la baisse de l'IA. Coca-Cola HBC obtient une cotation secondaire à Johannesburg à partir du 23 novembre, et Deutsche Bank a perdu près de 4 milliards d'euros de capitalisation après une fuite de documents internes.",
      "articles": [
       {
-       "titre": "Pas de désindexation des retraites mais une suppression totale de l'abattement fiscal de 10%? Voilà le compromis négocié entre le Sénat et le gouvernement",
-       "url": "https://www.bfmtv.com/economie/economie-social/pas-de-desindexation-des-retraites-mais-une-suppression-totale-de-l-abattement-fiscal-de-10-voila-le-compromis-negocie-entre-le-senat-et-le-gouvernement_AD-202611170171.html",
-       "source": "BFM Business"
+       "titre": "Anthropic Crypto Bets Imply $1.7 Trillion Value Despite AI Rout",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-crypto-bets-imply-1-7-trillion-value-despite-ai-rout",
+       "source": "Bloomberg Markets"
       },
       {
-       "titre": "EN DIRECT – Mobilisations sociales : fonctionnaires, cheminots, étudiants et lycéens dans la rue ce mardi",
-       "url": "https://www.liberation.fr/economie/social/en-direct-mobilisations-sociales-fonctionnaires-cheminots-etudiants-et-lyceens-dans-la-rue-ce-mardi-20261117_OHS6A6MT4FDIBE5NLCOZ5SN2QY/",
-       "source": "Libération Économie"
+       "titre": "Coca-Cola HBC stock set for JSE listing on November 23",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTUl1MmQwT01SNEo4R1djOUZBNlpkc21ZT2ZGXzBLN1V4TUpiX2dFZ0MyaEM0dkdiQVA3cWk2dFFkdUtjbDBwVkJnTEdXVzMwWWVrdllYWm1EcmxwMnBBb1o5T0VtUl9zMS1td2NUcGFXdi1YQVhXc21UR0hpbnh0bHpYcjRwUldtQl84TElfZG92NUN2X1ZOVzUwSE5DNjlmY2FocERLVlBWODU5V0h1anhLOA?oc=5",
+       "source": "ad-hoc-news.de"
       },
       {
-       "titre": "Hausse du smic au 1er décembre : les salariés contraints de se raccrocher aux branches",
-       "url": "https://www.liberation.fr/economie/social/hausse-du-smic-au-1er-decembre-les-salaries-contraints-de-se-raccrocher-aux-branches-20261117_A7IUSAAWRJFUTJTO4XZRX4NXRU/",
-       "source": "Libération Économie"
+       "titre": "Deutsche Bank, le siège de Francfort dans le jeu des tours infernales",
+       "url": "https://www.lesechos.fr/finance-marches/le-radar-des-marches/deutsche-bank-le-siege-de-francfort-dans-le-jeu-des-tours-infernales-2263157",
+       "source": "Les Echos"
       }
      ]
     }
    ]
   },
   "science": {
-   "titre": "La cosmologie bousculée par les résultats finaux d'un grand relevé de galaxies, pendant que la mission Hera dévoile l'astéroïde Didymos.",
+   "titre": "Physique fondamentale et géosciences en vedette, avec des indices de nouvelle physique dans la plus ancienne lumière de l'Univers et une signature venue du noyau terrestre.",
    "points": [
     {
-     "texte": "Un relevé de galaxies mené sur 20 ans a publié ses résultats finaux, qui ne concordent pas tout à fait avec la théorie cosmologique dominante. La sonde européenne Hera a révélé une face mystérieuse et criblée de cratères de l'astéroïde Didymos, avant d'étudier les suites de l'impact de la NASA en 2022.",
+     "texte": "Des chercheurs de l'UC San Diego ont repéré des indices d'une mystérieuse rotation dans le fond diffus cosmologique, qui pourrait éclairer la matière noire et l'énergie noire. À Hawaï, des roches volcaniques portent une signature isotopique inattendue suggérant que le noyau terrestre renfermerait des traces de météorites venues des confins du Système solaire.",
      "articles": [
       {
-       "titre": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
-       "url": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
-       "source": "Quanta Magazine"
-      },
-      {
-       "titre": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm",
+       "titre": "A mysterious twist in the universe’s oldest light could reveal new physics",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261116023348.htm",
        "source": "ScienceDaily"
-      }
-     ]
-    },
-    {
-     "texte": "Selon une étude, une seule explosion nucléaire dans l'espace désactiverait 98 % des satellites en une semaine, avec des années de chaos technologique. La NASA lance de son côté un concours doté d'un million de dollars pour que des étudiants américains imaginent la première base lunaire permanente.",
-     "articles": [
-      {
-       "titre": "Nuclear bomb in space would disable 98 per cent of satellites within a week",
-       "url": "https://www.newscientist.com/article/2598378-nuclear-bomb-in-space-would-disable-98-per-cent-of-satellites-within-a-week/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-       "source": "New Scientist"
       },
       {
-       "titre": "NASA is offering $1 million for bold ideas to help build a Moon base",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261115085542.htm",
-       "source": "ScienceDaily"
-      }
-     ]
-    },
-    {
-     "texte": "Les plus grands centres de données américains consomment environ 2 % de l'électricité annuelle des États-Unis, autant qu'un État entier. Un cadre d'OpenAI alerte sur des agents IA qui pourraient voir les humains comme un obstacle, et des spécialistes s'inquiètent des liens affectifs des enfants et adolescents avec les chatbots.",
-     "articles": [
-      {
-       "titre": "Massive data centres collectively use as much electricity as an entire US state",
-       "url": "https://www.newscientist.com/article/2599078-massive-datacentres-use-as-much-electricity-as-an-entire-us-state/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-       "source": "New Scientist"
-      },
-      {
-       "titre": "« Les agents IA pourraient voir les humains comme un obstacle » : l’alerte glaçante d’un cadre d’OpenAI",
-       "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-agents-ia-pourraient-voir-humains-comme-obstacle-alerte-glacante-cadre-openai-139379/#xtor%3DRSS-8",
-       "source": "Futura"
-      },
-      {
-       "titre": "Enfants, ados et IA : pourquoi les liens affectifs avec les chatbots inquiètent les spécialistes",
-       "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-enfants-ados-ia-liens-affectifs-chatbots-inquietent-specialistes-138296/#xtor%3DRSS-8",
+       "titre": "« Les volcans d'Hawaï sont différents » : ils ont mis les scientifiques sur la piste d'un secret enfoui au cœur de la Terre",
+       "url": "https://www.futura-sciences.com/planete/actualites/terre-volcans-hawai-sont-differents-ils-ont-mis-scientifiques-piste-secret-enfoui-coeur-terre-139285/#xtor%3DRSS-8",
        "source": "Futura"
       }
      ]
     },
     {
-     "texte": "De nouveaux travaux montrent que le sexe biologique, la génétique et la ménopause peuvent fortement influencer le risque d'Alzheimer, les réponses aux traitements et les douleurs chroniques comme la fibromyalgie. Une étude s'intéresse aussi à la fonction de communication des miaulements du chat.",
+     "texte": "Une étude décrit en détail comment une seule particule de rayonnement peut détruire un composant semi-conducteur, ce qui pourrait aider à rendre l'électronique plus résistante aux conditions spatiales.",
      "articles": [
       {
-       "titre": "A hidden biological divide may help explain Alzheimer’s and chronic pain",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261115085535.htm",
+       "titre": "We now know how radiation destroys electronics devices",
+       "url": "https://www.newscientist.com/article/2599254-we-now-know-how-radiation-destroys-electronics-devices/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "source": "New Scientist"
+      }
+     ]
+    },
+    {
+     "texte": "Seuls neuf pays ont soutenu l'engagement porté par la Turquie, coorganisatrice de la COP31, pour limiter l'empreinte carbone du déploiement de l'IA.",
+     "articles": [
+      {
+       "titre": "Just nine countries back pledge to tackle AI’s environmental footprint",
+       "url": "https://www.newscientist.com/article/2599357-just-nine-countries-back-pledge-to-tackle-ais-environmental-footprint/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "source": "New Scientist"
+      }
+     ]
+    },
+    {
+     "texte": "Une étude finlandaise ayant suivi des enfants pendant huit ans associe davantage de temps d'écran à de meilleures capacités de traitement cognitif à l'adolescence. Une autre recherche montre que les traits psychopathiques s'accompagnent de schémas de langage très différents selon les individus.",
+     "articles": [
+      {
+       "titre": "Scientists tracked kids for 8 years. What they found about screen time was surprising",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261116014725.htm",
        "source": "ScienceDaily"
       },
       {
-       "titre": "Votre chat miaule-t-il vraiment pour vous parler ? Ce que révèle une étude",
-       "url": "https://www.futura-sciences.com/planete/actualites/chat-votre-chat-miaule-t-il-vraiment-vous-parler-ce-revele-etude-139284/#xtor%3DRSS-8",
+       "titre": "The hidden language of psychopathy is not what scientists expected",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261116023346.htm",
+       "source": "ScienceDaily"
+      }
+     ]
+    },
+    {
+     "texte": "Dans le Kentucky, les 1 541 wapitis relâchés à partir de 1997 sur d'anciennes mines de charbon sont devenus, près de 30 ans plus tard, plusieurs milliers.",
+     "articles": [
+      {
+       "titre": "À partir de 1997, le Kentucky relâche 1 541 wapitis sur d'anciennes mines de charbon. Près de 30 ans plus tard, ils sont des milliers",
+       "url": "https://www.futura-sciences.com/planete/actualites/animaux-partir-1997-kentucky-relache-1-541-wapitis-anciennes-mines-charbon-pres-30-ans-plus-tard-ils-sont-milliers-139264/#xtor%3DRSS-8",
        "source": "Futura"
       }
      ]
@@ -193,110 +178,100 @@
    ]
   },
   "spatial": {
-   "titre": "SpaceX récupère pour la première fois l'étage supérieur de Starship et annonce une version V4 encore plus grande.",
+   "titre": "Rocket Lab franchit le cap des 100 missions Electron, sur fond d'innovations industrielles en orbite et de nouvelles découvertes astronomiques.",
    "points": [
     {
-     "texte": "Au lendemain de la première capture de l'étage supérieur de Starship sur son pas de tir, Elon Musk a annoncé qu'une version V4 de nouvelle génération rendra la plus grande fusée du monde encore plus grande.",
+     "texte": "La fusée Electron de Rocket Lab a achevé sa 100e mission, tandis que le lanceur Neutron progresse vers son vol inaugural.",
      "articles": [
       {
-       "titre": "Elon Musk says SpaceX’s Starship, already the largest rocket on Earth, will get even bigger with next-gen V4 model",
-       "url": "https://www.space.com/space-exploration/launches-spacecraft/elon-musk-says-spacexs-starship-already-the-largest-rocket-on-earth-will-get-even-bigger-with-next-gen-v4-model",
-       "source": "Space.com"
+       "titre": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+       "url": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+       "source": "NASASpaceflight"
       }
      ]
     },
     {
-     "texte": "Le manifeste de lancements prévoit une Ariane 6 emportant des satellites d'Amazon et des Falcon 9 pour des missions gouvernementales. SpaceNukes a ouvert le 13 novembre à Los Alamos une usine dédiée à son réacteur spatial de nouvelle génération.",
+     "texte": "La start-up sud-coréenne Cosmo Bee testera en orbite en 2027, avec D-Orbit, son propulseur à effet Hall Honeybee de classe 10 mN. Au Space Tech Expo Europe, Loft Orbital a décrit comment l'IA fait évoluer les satellites.",
      "articles": [
       {
-       "titre": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
-       "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
-       "source": "NASASpaceflight"
+       "titre": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027",
+       "url": "https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/",
+       "source": "SpaceNews"
       },
       {
-       "titre": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
-       "url": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/",
+       "titre": "How AI is pushing satellites to evolve",
+       "url": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
        "source": "SpaceNews"
       }
      ]
     },
     {
-     "texte": "Perseverance étudie à « Idubi » des roches claires, vestiges d'anciens systèmes aqueux dans la croûte martienne. Voyager 1 approche d'une distance d'un jour-lumière de la Terre.",
+     "texte": "La société britannique Foundational a validé en orbite une version de démonstration de sa technologie de miroirs réfléchissant les lasers, conçue pour lutter contre les débris spatiaux.",
      "articles": [
       {
-       "titre": "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
-       "url": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
-       "source": "NASA"
-      },
-      {
-       "titre": "What exactly is a light-day? Here's what Voyager 1's latest milestone means for the interstellar probe",
-       "url": "https://www.space.com/space-exploration/voyager/what-exactly-is-a-light-day-heres-what-voyager-1s-latest-milestone-means-for-the-interstellar-probe",
+       "titre": "Space is filling up with junk. Could laser-reflecting mirrors help humanity clean things up?",
+       "url": "https://www.space.com/space-exploration/satellites/space-is-filling-up-with-junk-could-laser-reflecting-mirrors-help-humanity-clean-things-up",
        "source": "Space.com"
       }
      ]
     },
     {
-     "texte": "Webb montre la formation d'étoiles avec jets dans NGC 7129, les astronautes de l'ISS observent la foudre entre les nuages, et la glace du sommet du Puncak Jaya en Indonésie s'est réduite à des plaques trop petites pour former des glaciers.",
+     "texte": "Voyager 1 vient d'atteindre une distance d'un jour-lumière, un cap que Voyager 2 ne franchira qu'en 2035 en raison des choix de vitesse faits au cours de leurs 50 ans de mission.",
      "articles": [
       {
-       "titre": "APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb",
-       "url": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/",
-       "source": "NASA"
-      },
+       "titre": "NASA's Voyager 1 launched second, so how did it beat Voyager 2 to a light-day by nearly a decade?",
+       "url": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-launched-second-so-how-did-it-beat-voyager-2-to-a-light-day-by-nearly-a-decade",
+       "source": "Space.com"
+      }
+     ]
+    },
+    {
+     "texte": "Les ondes gravitationnelles ont révélé une population de trous noirs qui pourraient être nés d'étoiles massives n'ayant pas explosé en supernova.",
+     "articles": [
       {
-       "titre": "Tossing Fireworks from Cloud to Cloud",
-       "url": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/",
-       "source": "NASA"
-      },
-      {
-       "titre": "The Last Ice on Puncak Jaya",
-       "url": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/",
-       "source": "NASA"
+       "titre": "Astronomers discover rare black holes that formed when stars failed to go supernova",
+       "url": "https://www.space.com/astronomy/black-holes/astronomers-discover-rare-black-holes-that-formed-when-stars-failed-to-go-supernova",
+       "source": "Space.com"
       }
      ]
     }
    ]
   },
   "hotellerie": {
-   "titre": "Une salve de transactions hôtelières, de Carmel à Osaka, domine l'actualité, sur fond de grève à Chicago et de refonte des programmes de fidélité.",
+   "titre": "Accor prend le contrôle total d'Ennismore pour 1,6 milliard d'euros, dans une journée riche en transactions hôtelières.",
    "points": [
     {
-     "texte": "Aux États-Unis, DiamondRock a acquis le Carmel Mission Inn pour 73,25 millions de dollars et l'aéroport DFW a racheté le Hyatt Regency DFW pour 194 millions. Playboy a aussi acheté un hôtel en Floride du Sud où il relance un club.",
+     "texte": "Accor rachète les minoritaires d'Ennismore, dont le fondateur Sharan Pasricha et des investisseurs qataris, pour 1,6 milliard d'euros (1,8 milliard de dollars), cinq ans après la création de la coentreprise. Selon Skift, l'opération dépasse à elle seule quatre grandes acquisitions lifestyle concurrentes réunies.",
      "articles": [
       {
-       "titre": "DiamondRock Hospitality buys Carmel hotel for $73.25 million By Investing.com",
-       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOXhlQl96ZW5PUW1KU2p1WHA5YUlPWG1iWEFVNjkxU3dJU0RjanJkUmcwUlJWQlV4VFg3WDU4c0pCbG9Ra0xXczhpWUQzMWFHYk1xcU02MUJIMDhmQlNlbmVMVWx6M29aLVNaanQ4WE15Vmcxb3pmc0RONUxSS25ubllYVHFULTlKd0tvZTdqOWdaYUdPM1A4MDROc3d4WE9YWkptbkd4NHQ5Q05tbkFBSzJTQjhUaHBxQmVr?oc=5",
-       "source": "Investing.com UK"
+       "titre": "Accor rachète les minoritaires d'Ennismore pour 1,6 milliard d'euros",
+       "url": "https://hospitality-on.com/fr/finance/accor-rachete-les-minoritaires-dennismore-pour-16-milliard-deuros",
+       "source": "Hospitality ON"
       },
       {
-       "titre": "DFW Airport buys Hyatt Regency for $194M",
-       "url": "https://www.hoteldive.com/news/dfw-airport-buys-hyatt-regency-for-194m/874739/",
-       "source": "Hotel Dive"
-      },
-      {
-       "titre": "Playboy just bought a hotel in South Florida and is bringing back a club",
-       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUHJkMHdzZDZ4ZkJ5MUJsSjhZeUJnbEJtMGNYUGVCRXMzWmFyQ1JDRGhPRkYxbE9ZblZZRFdiYkFPYjNhemROTmluNG5xNWppdzYwNl9KX1RiSnNfZ2J4VW5NQlBSLWlENkNoV3gxV2dWQ01VWDZPUVZTMWlwUkdLX2FHT184bW43LWlKNG9GZWd6Zw?oc=5",
-       "source": "Tampa Bay Times"
+       "titre": "Accor’s $1.8 Billion Ennismore Buyout Tops 4 Rival Lifestyle Deals Combined",
+       "url": "https://skift.com/2026/11/17/accors-1-8-billion-ennismore-buyout-tops-4-rival-lifestyle-deals-combined/",
+       "source": "Skift"
       }
      ]
     },
     {
-     "texte": "À l'international, AXE Management Partners a cédé des hôtels à Osaka pour 21 milliards de yens, les frères Gravanis ont acquis deux hôtels emblématiques de Sydney pour 54 millions de dollars, Exsim Hospitality vise un hôtel à Damansara pour 226 millions de ringgits et Bright Group prend 51 % de SWOT Hospitality.",
+     "texte": "TPG a cédé un hôtel de Miami Beach pour 81 millions de dollars, alors que les ventes d'hôtels en Floride du Sud surperforment le reste du pays. Peachtree Group acquiert un Home2 Suites de 112 chambres à Destin, les frères Gravanis deux hôtels emblématiques de Sydney pour 54 millions de dollars, et BRIGHT GROUP 51 % de SWOT Hospitality.",
      "articles": [
       {
-       "titre": "AXE Management Partners sells Osaka hotels for JPY 21b",
-       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLXV1bk5peTItTXNveHNNUGk4b0NrbWpFMURiZ0gtVmpVcndfajRiT0RIbUI1LVUwQUZwakZHTkJTTlp0TFVrZ3UwUF9vckVEQlNwclNOWm51RGVFYV85YWtvZWZMTnhkb3ZMb3dwUE5xN2k2aklTZ2dLdktKYWdXcmhzMmdCOEVhVVhBdExHcHFNdw?oc=5",
-       "source": "Travel Daily Media"
+       "titre": "TPG sells Miami Beach hotel for $81M as South Florida hotel sales massively outperform rest of country",
+       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPREtkRmFfMmZ2elFlYkdidzNrSXJPVExoLUNaZ2dlLVoxU3BCZnpHRmhPbkVEWDdFWXFDVFVpVUNLYkZrY3BaY3pNYkV0bjQwSjg1bG5BUEZDYXV0bF9lVWd3V2VnNlNkdGZIaFZrZ1FudXFVaW14X3M1ay1kSmstYmd6R05xTWZFWEdlNlhmRFpjU3FHSXpBaDlwdDg?oc=5",
+       "source": "The Real Deal"
+      },
+      {
+       "titre": "Peachtree Group Acquires 112-Room Home2 Suites Hotel In Destin",
+       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMU9lcHEyVll0WlV5RWhTS2VBbXZLN1ZyLUtqN01VcDRJN1dSZkk4MGszWUNfMm83ajh4UnkwUThHSnY3QjZOM3FUck9wTFpacFd3UVF4U3VjdXJHTENLY01uVVpmY2czdEJPcFBqVFlLc3FBLTdWeU1FbF95TUtRYmFlVVp6YUJUakE?oc=5",
+       "source": "Pulse 2.0"
       },
       {
        "titre": "Gravanis brothers acquire two iconic Sydney hotels in $54 million deal",
        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdzhXRHZLTS04T0ZSUEN0dllBVk8tbVUyLS1iWnA1bnJVdGM4NHg1SnpfMHRLaHRzdTREZTR3S2gwVlp6MXhCUWRQUHE0TEtJLUZ3TlBWYW1QVXptQnZfUWFEbVBWVGtZeDBFRDgxb3Q0U1o0MU10YzFqNWJEYllzOFEybkwzTFZ3ek01WTFkY0NEcllmbWdIQ0VXNmdxbWc4bzVDcHExZ3E0YUtxcC1BNQ?oc=5",
        "source": "The Greek Herald"
-      },
-      {
-       "titre": "Exsim Hospitality targets RM226 million hotel acquisition in Damansara",
-       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdkpULXozbUc0cng2S3NveXdwNTBQeUlnTGc0VWpsVUZtMDFfNWVnOTFDVi1GRVlfRF9TNk9sNWtmcjJ4RzhkVUw3UnlWMmhNb3gxLVd4a1I2SUNSWUtpeEFpajkzOGltaEUyd3FDRUNOQ0l3enlPMmxRdUx3cWJlLVRoZWI4dWxNUkYyV1V5c0NRTkVZaEFFOERxM2ZqaDF4?oc=5",
-       "source": "Traders Union"
       },
       {
        "titre": "BRIGHT GROUP Acquires 51% Stake in SWOT Hospitality",
@@ -306,66 +281,56 @@
      ]
     },
     {
-     "texte": "Le résultat courant de Minor Hotels a progressé de 13 % au troisième trimestre, à 2,1 milliards de bahts, porté par la Thaïlande, les Maldives et l'Espagne, tandis que le Moyen-Orient recule. Accor signe un MGallery à Porto Heli pour 2027, IHG vise une centaine d'hôtels en Espagne et Adani transforme ses aéroports en activité hôtelière.",
+     "texte": "En Écosse, l'hôtel Gleneagles rachète un parcours de golf « fantôme » pour étendre son offre de luxe, et des investisseurs américains acquièrent un hôtel historique conçu par un architecte écossais renommé.",
      "articles": [
       {
-       "titre": "Minor Hotels : l'Espagne et la Thaïlande conduisent le troisième trimestre, le Moyen-Orient recule",
-       "url": "https://hospitality-on.com/fr/hotellerie/minor-hotels-lespagne-et-la-thailande-conduisent-le-troisieme-trimestre-le-moyen-orient",
+       "titre": "Gleneagles Hotel buys Scotland's 'ghost' golf course",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxUmx4MUVUUGVhMzloOThKQW5GcHpQSnVSeWxGZWg1a3hETGRBZ3dkVHloOU4zZnVFNEE5ZEtOSE52YkJKTDZsRklUTFlOZUxDdlFlZS1uMTFXZ3c?oc=5",
+       "source": "BBC"
+      },
+      {
+       "titre": "US investors acquire historic hotel designed by acclaimed Scottish architect",
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeE1STVV4dlU3dTVNVHVfbHJNR2pyZTFYV2JETTg0V3RfUmZ2ZU96RVRsUS1SX3p5cll0RF8wTUZkeW8zbXJnRGdRb2Z5V2lhMnFweWNYcnhCN01RcGljQzM5SDB5RTVyRWNJZlhUbzUwNE1mQm01OG44ZEpqd0FoTXRVRGxCWDBXZ2ZGQ1g0ODhpZ1d4OFRHeHhlWGJFUUo4VDlDdg?oc=5",
+       "source": "The Herald"
+      }
+     ]
+    },
+    {
+     "texte": "Distribution et fidélité : WorldHotels, nouveau nom de Best Western, lancera le 5 janvier 2027 WorldHotels Rewards en remplacement de Best Western Rewards. Amadeus estime que la distribution devient décisive à l'ère des assistants IA, et un benchmark de Milestone portant sur 1,38 million de réponses d'IA montre que chaque moteur s'appuie sur des sources différentes.",
+     "articles": [
+      {
+       "titre": "WorldHotels lance le 5 janvier le programme qui remplace Best Western Rewards",
+       "url": "https://hospitality-on.com/fr/hotellerie/worldhotels-lance-le-5-janvier-le-programme-qui-remplace-best-western-rewards",
        "source": "Hospitality ON"
       },
       {
-       "titre": "Accor élargit MGallery en Grèce avec un resort à Porto Heli",
-       "url": "https://hospitality-on.com/fr/hotellerie/accor-elargit-mgallery-en-grece-avec-un-resort-porto-heli",
-       "source": "Hospitality ON"
+       "titre": "From dream to journey’s end: Why distribution is the quiet hero of the AI travel era",
+       "url": "https://www.hospitalitynet.org/opinion/4135533/from-dream-to-journeys-end-why-distribution-is-the-quiet-hero-of-the-ai-travel-era",
+       "source": "Hospitality Net"
       },
       {
-       "titre": "L’Espagne à deux vitesses : les groupes misent sur Madrid et les Baléares",
-       "url": "https://hospitality-on.com/fr/developpement/lespagne-deux-vitesses-les-groupes-misent-sur-madrid-et-les-baleares",
-       "source": "Hospitality ON"
+       "titre": "Hospitality AI Visibility Benchmark 2026",
+       "url": "https://www.hospitalitynet.org/news/4135529/hospitality-ai-visibility-benchmark-2026",
+       "source": "Hospitality Net"
+      }
+     ]
+    },
+    {
+     "texte": "Côté développement, le VAI Resort de Glendale (Arizona) ajoute un Barbie Hotel, portant à plus de 800 chambres deux hôtels sous marque Mattel ; Travel + Leisure Co. ouvre à Nashville le premier de quatre Sports Illustrated Resorts prévus, et Adani transforme ses aéroports en activité hôtelière.",
+     "articles": [
+      {
+       "titre": "Arizona’s VAI Resort adds Barbie Hotel, another Mattel-branded concept",
+       "url": "https://www.hoteldive.com/news/vai-resort-adds-barbie-hotel-mattel-branded-concept/874811/",
+       "source": "Hotel Dive"
+      },
+      {
+       "titre": "Travel + Leisure Co.’s Sports Illustrated Resorts debuts in Nashville",
+       "url": "https://www.hoteldive.com/news/travel-leisure-cos-sports-illustrated-resorts-debuts-in-nashville/874876/",
+       "source": "Hotel Dive"
       },
       {
        "titre": "Adani Turns Its Airports Into a Hotel Business",
        "url": "https://skift.com/2026/11/16/adani-turns-its-airports-into-a-hotel-business/",
-       "source": "Skift"
-      }
-     ]
-    },
-    {
-     "texte": "Selon l'AHLA, 50 % des consommateurs confondent des sites de réservation trompeurs avec les sites officiels des hôtels. WorldHotels Rewards fusionnera le 5 janvier 2027 avec Best Western Rewards (70 millions de membres, plus de 4 000 hôtels), et Airbnb voit désormais les hôtels comme une opportunité de plusieurs milliards.",
-     "articles": [
-      {
-       "titre": "New Study: Consumers Frequently Mistake Deceptive Booking Sites for Official Hotel Websites; Want Stronger Standards to Protect Travelers",
-       "url": "https://www.hospitalitynet.org/news/4135505/new-study-consumers-frequently-mistake-deceptive-booking-sites-for-official-hotel-websites-want-stronger-standards-to-protect-travelers",
-       "source": "Hospitality Net"
-      },
-      {
-       "titre": "WorldHotels Unveils Rewards Overhaul, Elite Status After Just 5 Nights",
-       "url": "https://www.hospitalitynet.org/news/4135502/worldhotels-unveils-rewards-overhaul-elite-status-after-just-5-nights",
-       "source": "Hospitality Net"
-      },
-      {
-       "titre": "Airbnb bets big on multibillion-dollar hotel opportunity",
-       "url": "https://www.hoteldive.com/news/airbnb-hotel-strategy/874692/",
-       "source": "Hotel Dive"
-      }
-     ]
-    },
-    {
-     "texte": "À Chicago, la grève s'étend à 11 hôtels avec le Royal Sonesta, le Marriott Marquis et The Wade. Les quatre grandes compagnies américaines risquent jusqu'à 964 millions de dollars de pertes après l'arrêt au sol de vendredi, mais la demande pour Thanksgiving tient ; United a résolu une panne de ses systèmes.",
-     "articles": [
-      {
-       "titre": "3 more Chicago hotels join citywide strike",
-       "url": "https://www.hoteldive.com/news/3-more-chicago-hotels-join-citywide-strike/874747/",
-       "source": "Hotel Dive"
-      },
-      {
-       "titre": "Airlines Brace for Up to $1 Billion Hit From Ground Stop, but Holiday Demand Holds Steady",
-       "url": "https://skift.com/2026/11/16/ground-stop-dent-airlines-fourth-quarter-holiday-demand-steady/",
-       "source": "Skift"
-      },
-      {
-       "titre": "United Airlines Resolves Tech Issue That Caused Systemwide Outage",
-       "url": "https://skift.com/2026/11/16/united-airlines-resolves-tech-issue-that-caused-systemwide-outage/",
        "source": "Skift"
       }
      ]
