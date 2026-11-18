@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T06:18:23Z",
+ "generated_at": "2026-11-18T07:31:46Z",
  "indices": [
   {
    "symbol": "^GSPC",
@@ -95,19 +95,19 @@
    "symbol": "^TASI.SR",
    "name": "Tadawul (TASI)",
    "region": "moyen-orient",
-   "last": 10253.2,
-   "change_pct": -0.11,
-   "month_pct": -0.11,
-   "date": "2026-11-17",
+   "last": 10241.13,
+   "change_pct": -0.12,
+   "month_pct": -0.12,
+   "date": "2026-11-18",
    "currency": "SAR"
   },
   {
    "symbol": "^N225",
    "name": "Nikkei 225",
    "region": "asie",
-   "last": 59002.85,
-   "change_pct": 0.24,
-   "month_pct": -9.68,
+   "last": 59024.28,
+   "change_pct": 0.28,
+   "month_pct": -9.64,
    "date": "2026-11-18",
    "currency": "JPY"
   },
@@ -115,9 +115,9 @@
    "symbol": "^HSI",
    "name": "Hang Seng",
    "region": "asie",
-   "last": 23249.03,
-   "change_pct": -1.1,
-   "month_pct": -3.88,
+   "last": 23287.16,
+   "change_pct": -0.94,
+   "month_pct": -3.72,
    "date": "2026-11-18",
    "currency": "HKD"
   },
@@ -125,9 +125,9 @@
    "symbol": "000001.SS",
    "name": "Shanghai Composite",
    "region": "asie",
-   "last": 3581.13,
-   "change_pct": -0.1,
-   "month_pct": -3.64,
+   "last": 3587.83,
+   "change_pct": 0.09,
+   "month_pct": -3.46,
    "date": "2026-11-18",
    "currency": "CNY"
   },
@@ -135,10 +135,10 @@
    "symbol": "^J203.JO",
    "name": "JSE All Share",
    "region": "afrique",
-   "last": 110616.4,
-   "change_pct": -0.82,
-   "month_pct": -0.29,
-   "date": "2026-11-17",
+   "last": 108992.69,
+   "change_pct": -1.47,
+   "month_pct": -1.75,
+   "date": "2026-11-18",
    "currency": "ZAR"
   },
   {
