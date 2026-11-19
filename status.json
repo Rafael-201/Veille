@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T07:31:46Z",
+ "generated_at": "2026-11-19T06:16:20Z",
  "sources": [
   {
    "name": "CNBC",
@@ -9,7 +9,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 82
+   "archived": 83
   },
   {
    "name": "Bloomberg Markets",
@@ -39,7 +39,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 65
+   "archived": 64
   },
   {
    "name": "BFM Business",
@@ -59,7 +59,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 26
+   "archived": 28
   },
   {
    "name": "CNBC Résultats",
@@ -69,7 +69,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 47
+   "archived": 50
   },
   {
    "name": "The Motley Fool",
@@ -79,7 +79,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 87
+   "archived": 90
   },
   {
    "name": "Le Parisien Économie",
@@ -89,7 +89,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 87
+   "archived": 90
   },
   {
    "name": "Libération Économie",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 68
+   "archived": 71
   },
   {
    "name": "Nature",
@@ -149,7 +149,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 90
+   "archived": 89
   },
   {
    "name": "SpaceNews",
@@ -159,7 +159,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 33
+   "archived": 35
   },
   {
    "name": "NASASpaceflight",
@@ -169,7 +169,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 28
+   "archived": 26
   },
   {
    "name": "Spaceflight Now",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 18
+   "archived": 20
   },
   {
    "name": "Space.com",
@@ -199,7 +199,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: HTTP Error 404: Not Found",
-   "archived": 16
+   "archived": 15
   },
   {
    "name": "NASA",
@@ -209,7 +209,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 70
+   "archived": 71
   },
   {
    "name": "Hospitality ON",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 65
+   "archived": 67
   },
   {
    "name": "Hotel Dive",
@@ -229,7 +229,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 45
+   "archived": 46
   },
   {
    "name": "Hospitality Net",
@@ -239,7 +239,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 62
+   "archived": 61
   },
   {
    "name": "Skift",
@@ -249,7 +249,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 60
+   "archived": 59
   },
   {
    "name": "Transactions · Amérique du Nord",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 48
+   "archived": 47
   },
   {
    "name": "Transactions · Amérique latine",
@@ -269,7 +269,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 34
+   "archived": 33
   },
   {
    "name": "Transactions · Europe",
@@ -279,7 +279,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 43
+   "archived": 45
   },
   {
    "name": "Transactions · Europe (FR)",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 33
+   "archived": 32
   },
   {
    "name": "Transactions · Asie-Pacifique",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 85
+   "archived": 86
   },
   {
    "name": "Marchés · Amérique latine",
@@ -359,7 +359,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 82
+   "archived": 83
   },
   {
    "name": "Marchés · Europe (FR)",
@@ -369,7 +369,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 72
+   "archived": 69
   },
   {
    "name": "Marchés · Moyen-Orient",
@@ -399,7 +399,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 75
+   "archived": 77
   }
  ]
 }
