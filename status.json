@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T06:16:20Z",
+ "generated_at": "2026-11-19T06:19:46Z",
  "sources": [
   {
    "name": "CNBC",
@@ -39,7 +39,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 64
+   "archived": 65
   },
   {
    "name": "BFM Business",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 86
+   "archived": 85
   },
   {
    "name": "Marchés · Amérique latine",
@@ -399,7 +399,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 77
+   "archived": 76
   }
  ]
 }
