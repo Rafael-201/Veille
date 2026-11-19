@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T06:19:46Z",
+ "generated_at": "2026-11-19T07:29:28Z",
  "sources": [
   {
    "name": "CNBC",
@@ -39,7 +39,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 65
+   "archived": 64
   },
   {
    "name": "BFM Business",
@@ -59,7 +59,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 28
+   "archived": 27
   },
   {
    "name": "CNBC Résultats",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 71
+   "archived": 72
   },
   {
    "name": "Nature",
@@ -249,7 +249,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 59
+   "archived": 60
   },
   {
    "name": "Transactions · Amérique du Nord",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 32
+   "archived": 31
   },
   {
    "name": "Transactions · Asie-Pacifique",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 85
+   "archived": 86
   },
   {
    "name": "Marchés · Amérique latine",
@@ -369,7 +369,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 69
+   "archived": 72
   },
   {
    "name": "Marchés · Moyen-Orient",
@@ -379,7 +379,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 68
+   "archived": 67
   },
   {
    "name": "Marchés · Asie-Pacifique",
@@ -399,7 +399,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 76
+   "archived": 77
   }
  ]
 }
