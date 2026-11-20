@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T06:17:58Z",
+ "generated_at": "2026-11-20T07:19:12Z",
  "sources": [
   {
    "name": "CNBC",
@@ -49,7 +49,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 87
+   "archived": 89
   },
   {
    "name": "BCE",
@@ -249,7 +249,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 59
+   "archived": 58
   },
   {
    "name": "Transactions · Amérique du Nord",
@@ -307,7 +307,7 @@
    "topic": "transactions",
    "url": "https://news.google.com/rss/search?q=hotel+%28acquires+OR+acquisition+OR+acquired+OR+sells+OR+sold+OR+buys+OR+%22sale+of%22%29+%28Japan+OR+China+OR+Singapore+OR+India+OR+Thailand+OR+Australia+OR+Vietnam+OR+Indonesia+OR+Bali+OR+Maldives+OR+%22Hong+Kong%22%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
    "ok": true,
-   "count": 0,
+   "count": 1,
    "error": null,
    "archived": 1
   },
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 85
+   "archived": 86
   },
   {
    "name": "Marchés · Amérique latine",
@@ -349,7 +349,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 75
+   "archived": 76
   },
   {
    "name": "Marchés · Europe",
@@ -376,9 +376,9 @@
    "cat": "finance",
    "topic": "marches",
    "url": "https://news.google.com/rss/search?q=%28%22Gulf+stocks%22+OR+%22Mideast+stocks%22+OR+Tadawul+OR+%22Saudi+stocks%22+OR+%22Dubai+index%22+OR+%22Gulf+bourses%22%29+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests",
+   "ok": true,
+   "count": 3,
+   "error": null,
    "archived": 66
   },
   {
@@ -399,7 +399,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 76
+   "archived": 77
   }
  ]
 }
