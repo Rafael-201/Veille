@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T06:16:24Z",
+ "generated_at": "2026-11-20T06:17:58Z",
  "sources": [
   {
    "name": "CNBC",
@@ -376,9 +376,9 @@
    "cat": "finance",
    "topic": "marches",
    "url": "https://news.google.com/rss/search?q=%28%22Gulf+stocks%22+OR+%22Mideast+stocks%22+OR+Tadawul+OR+%22Saudi+stocks%22+OR+%22Dubai+index%22+OR+%22Gulf+bourses%22%29+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "count": 3,
-   "error": null,
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests",
    "archived": 66
   },
   {
