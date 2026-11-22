@@ -1,22 +1,27 @@
 {
- "generated_at": "2026-11-21T06:18:02Z",
+ "generated_at": "2026-11-22T06:17:40Z",
  "auteur": "Claude",
  "rubriques": {
   "finance": {
-   "titre": "Krach de la tech : Wall Street entre en correction et la débâcle de l'IA emporte les marchés mondiaux",
+   "titre": "Krach de la tech : Wall Street signe sa pire semaine depuis le Covid, plombée par Nvidia et l'introduction en Bourse d'Anthropic",
    "points": [
     {
-     "texte": "Le Dow Jones et le S&P 500 sont entrés en correction, le S&P 500 reculant pour la septième séance d'affilée, tandis que le Nasdaq a signé sa pire semaine depuis 2020. Les 11 secteurs du S&P 500 ont tous fini la semaine en baisse de plus de 1 %, une première depuis avril 2025.",
+     "texte": "Wall Street a enregistré sa pire performance hebdomadaire depuis 2020 : le S&P 500 a reculé pour la septième séance d'affilée et est entré en zone de correction, avec une chute de plus de 3 % menée par les semi-conducteurs. Les valeurs technologiques sont repassées dans le rouge sur l'année.",
      "articles": [
       {
-       "titre": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
-       "url": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
-       "source": "MarketWatch"
+       "titre": "La pire semaine depuis le Covid : la tech s'effondre à Wall Street et entraîne le reste des marchés mondiaux",
+       "url": "https://www.lesechos.fr/finance-marches/marches-financiers/a-wall-street-la-chute-de-la-tech-saccelere-et-entraine-avec-elle-les-marches-mondiaux-2263871",
+       "source": "Les Echos"
       },
       {
        "titre": "S&P 500 Falls for Seventh Straight Session, Enters Correction as AI Stock Rally Loses Steam",
        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Hdkp5Tk9WRnBlM2JHeEVLZkd5bGkxNnA1T1FkZWp5YWJkTlBFOVVFMFI0NktSVHdocnp1V0hUNmFUZnJpMWlmaU50NlRVWm42SG9sam5fZk5DTmsyRHpkM2RfTW9pQ3pFa2U2WE1TSnh1bTlBb0E?oc=5",
        "source": "BigGo Finance"
+      },
+      {
+       "titre": "S&P 500 drops more than 3% as semiconductor stocks lead market selloff",
+       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOUYwQUZNMTc0ODR5eXlsdUhacFhUNXVlWGpkel9fRldXUlNUTU9CZXpKWjlZcTZJdkNBcEZ6bGdnRHBKVWgzbEJXT1NESHdneEp1ZU9vbThMVzcwaHZqXzlBUWFDemRUbHI4UWh0S2hpZ3k0WV81b2tGMW9IM0FXdkdWeW83T2t3RllTX25kQk0wbWtuYjJkWENia2RhZkltOTZqaUU5dlBFX0xteFJXSHUteHRGQ05XMlN2SDVIZUxmdw?oc=5",
+       "source": "www.equiti.com"
       },
       {
        "titre": "U.S. stocks slump into correction territory amid tech and AI worries",
@@ -26,211 +31,201 @@
      ]
     },
     {
-     "texte": "Les semi-conducteurs sont au cœur de la déroute : 2 300 milliards de dollars de capitalisation effacés en une semaine, la pire performance hebdomadaire de l'indice des puces depuis 25 ans. Nvidia a chuté de 14 %, sa plus longue série de baisses hebdomadaires depuis 2008, recule au 4e rang mondial derrière Apple, Microsoft et Alphabet, et fait désormais l'objet d'une enquête de la SEC.",
+     "texte": "L'introduction en Bourse record d'Anthropic sur le Nasdaq a coïncidé avec la débâcle : la société aurait perdu environ 109 milliards de dollars de capitalisation deux jours après ses débuts, tandis que le Nasdaq a effacé 4 000 milliards de dollars.",
      "articles": [
       {
-       "titre": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
-       "url": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
-       "source": "MarketWatch"
-      },
-      {
-       "titre": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
-       "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+       "titre": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+       "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
        "source": "CNBC"
       },
       {
-       "titre": "After Its Worst Week in 18 Years, Nvidia Now Faces an SEC Investigation. What It Means for Investors",
-       "url": "https://www.fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors/?source=iedfolrf0000001",
-       "source": "The Motley Fool"
-      }
-     ]
-    },
-    {
-     "texte": "L'introduction en Bourse d'Anthropic n'a pas rassuré : le titre perd plus de 10 % au lendemain de sa cotation et la tech américaine passe dans le rouge sur l'année.",
-     "articles": [
-      {
-       "titre": "A Wall Street, la déroute de la tech entraîne avec elle les marchés mondiaux",
-       "url": "https://www.lesechos.fr/finance-marches/marches-financiers/a-wall-street-la-chute-de-la-tech-saccelere-et-entraine-avec-elle-les-marches-mondiaux-2263871",
-       "source": "Les Echos"
+       "titre": "Anthropic Sheds approximately $109 Billion in Market Value Two Days After Nasdaq Debut; Nasdaq Wipes Out $4 Trillion",
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50ekFnLVFhdTZHVm1qOUxTY3VrY2NfZXl3Qklobl9Hb1VQN0JfZEpMdm1wY294WlpDNm9YR2NZMzVzUTJsTFMyYi0zbjZTbE9mbE03LTdyY0t2Vnlic2RkT25tQkpuQzk4NFdvQkUyanNWUWVxd3c?oc=5",
+       "source": "BigGo Finance"
       },
       {
        "titre": "Stocks Fall After Anthropic IPO Sparks Tech Selloff",
        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSVh1MWlyX3JJdk5DN1QteE5LQXhvZHNiRm4yak45N2xRTkZPeG9xMzFRTjRaZzg2dk9xdHNaeWdYZ3lPTTdQZ19ZaWd4bHpiVTdGVmJjRGgtZ1R5TVVoRWh4TmYwV2JDTGJqLXVLSVBzeVhCc0hYUXdJOFZkU1YzbDZXZ2tET091YzN4akh6T1I?oc=5",
        "source": "Briefs Finance"
-      },
-      {
-       "titre": "Asian tech stocks plunge despite Anthropic's strong US market debut",
-       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWUFXQkxjTFhRR2RnUFNzRVN4eE5Sa3RpY0xXSl9sVHJGWkpFOGRYdWhpWlJJRW9lWTQyN19oWEwyY1dGY0VmRlJuTkg3TE4yUzY4N2poZkZ6VkdabWhFa3A4RGwzSG5GWkNuaWtHc3lKY09faWswRk01dkFtY1pfVXF3bU5ZM1U0YWJ1bVRwZ0JmZDRfaWxrT1FvaVQtWllVSlJmRG5CbzN1OE0?oc=5",
-       "source": "Anadolu Ajansı"
       }
      ]
     },
     {
-     "texte": "La vente se propage en Asie et en Europe : le Nikkei finit près de 5 % plus bas, le Kospi a chuté de 5 % en déclenchant un coupe-circuit (SoftBank -14 %, Kioxia -11 %), le Hang Seng entre en marché baissier. À Paris, le CAC 40 recule de 1,9 % et repasse sous les 8 000 points (-5 % sur la semaine), le FTSE 100 suit le mouvement.",
+     "texte": "Nvidia a bouclé sa plus longue série de baisses hebdomadaires depuis 2008, sa pire semaine en 18 ans, et fait désormais l'objet d'une enquête de la SEC. Après la démission de Jensen Huang, Donald Trump a appelé le groupe à lui accorder une « seconde chance ».",
      "articles": [
       {
-       "titre": "Japan's Nikkei ends 5% lower as Anthropic's IPO fails to restore AI confidence",
-       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVy0wX2tkMExFMHItbkhxYl9FUTRDWk9CQlRlQ3R0MlVDY2JZd01rMmtIc2Zkb1IzU0Zob3VxMEpyZ1FUMU1xcHRLNy1JRU5YMG1uTjhsQU1NeUs5SVcyei1YYmUxUkd1SmNzdVZ5RTNWd3N6YWJWT2dVUUtqZXJlMUhuNmRJRmNIX2MzbXBCejRlN0Nvb2FnTXZIS2EwcVpGcGRBTWpFX215M3JqVkk4OVZEYTVyQ2gyaEtxYnhnZWhNWldPV0dMVzln?oc=5",
-       "source": "marketscreener.com"
+       "titre": "After Its Worst Week in 18 Years, Nvidia Now Faces an SEC Investigation. What It Means for Investors",
+       "url": "https://www.fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors/?source=iedfolrf0000001",
+       "source": "The Motley Fool"
       },
       {
-       "titre": "Kospi Plunges 5% Triggering Circuit Breaker, SoftBank Tumbles Over 14%, Kioxia Slumps 11%, Samsung and SK Hynix Fall Over 6%",
-       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSEdhX3B6QmtWOE9GY0xlSmc2YUlBaDdublZ1WWxlckpvQ1dldmxWMFBaSmZJT3JVMFNWWTlZTFdsU0RxaTBxcTNtaHM0VVAtaExHOGxZU2hwMXQyV2Ewd0hrbmtSMjJaY3R5d2Zxd3RGSlpFSDZ6N3I3OVhLbzA5emRFWHpoT1BtNjVCemhudnZlRlA3aTZJNmE3eHVrbW5XUC1COU5oWktPVDNBTy14V3FLS2hmM2hUZHpGSTlwLXk0U1R6ckVuMEhnSHJOOU9MTGFkME1zMTFveXlndGU5cEM5Mm1yenhGMXg0?oc=5",
-       "source": "TradingKey"
+       "titre": "Donald Trump veut que Nvidia accorde une «seconde chance» à Jensen Huang",
+       "url": "https://www.liberation.fr/economie/economie-numerique/donald-trump-veut-que-nvidia-accorde-une-seconde-chance-a-jensen-huang-20261121_KVS5YUW7KBCKVHMKZK36BNBXUI/",
+       "source": "Libération Économie"
       },
       {
-       "titre": "Hong Kong Stocks Sink 1.89% As Hang Seng Enters Bear Market",
-       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc3lMWFRRS3FZb3VIWE1ud3oyYWwtaFBBdDBQTXYyVFFrdmxpZmpjX1huNjEyaWZWa2xfMFRzZldYMnRKWlk3X3JwbGRSeVVudXpYdzJ6bFZSTjVRV3RySGVEQ052c1pSSWJENHZWN2dDcHZtY05xc3JnUkxjNy0wdUk2NEluaVZqZkU4Q1pvM2kwZzBvYmZjZVhKMGFjSEF6MVVyck93?oc=5",
-       "source": "BusinessToday Malaysia"
-      },
-      {
-       "titre": "CAC40 : Paris chute de 1,9 %, Ubisoft et Soitec décrochent",
-       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTl80TnJWVTM4Sy1OaEMtTjFkM29WOU9FbF9nLVA2WE9qekZHQ2hpYlRqOUEwSjN5SjdWVzBhaFA5cVVtVnhpRUpydXBBV3plU2NLSWdzSmhPN1BhcGtYenliV3VEVVhUREVXeFN5MHV5dW9SNmdRbWprM2YzUTVHM0V2SEhabzVqelFuM2diRFZJTXhlVDVMTlBlQzVpRmJjSlRfVC1fbHNXM0dCUzBzY0lEQzVZdw?oc=5",
-       "source": "Le Revenu"
-      }
-     ]
-    },
-    {
-     "texte": "Côté entreprises et institutions : Zscaler bondit de 18 % sur des informations de discussions de rachat par CrowdStrike ; Worldline est soupçonné d'avoir artificiellement gonflé ses flux de trésorerie. Laurence Boone et Markus Brunnermeier sont assurés d'entrer au directoire de la BCE, et en France le Sénat veut supprimer 23 000 postes de fonctionnaires dans le budget 2027.",
-     "articles": [
-      {
-       "titre": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
-       "url": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
+       "titre": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+       "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
        "source": "CNBC"
+      }
+     ]
+    },
+    {
+     "texte": "En Asie, le KOSPI est passé sous 4 900 puis 4 800 points, Samsung et SK hynix ayant vu leur valeur divisée par deux sur fond de craintes de bulle de l'IA ; en Chine, la déroute des valeurs de l'IA atteint 1 700 milliards de dollars. L'Inde fait exception : le Nifty 50 approche son record et le Sensex touche un plus haut de neuf mois grâce aux achats des investisseurs étrangers.",
+     "articles": [
+      {
+       "titre": "KOSPI Breaks Below 4,900 as AI Bubble Fears Halve Chip Stocks; Brokerages Call It 'Oversold'",
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzN2llTTkzWnhfU0VOdjNjcnU1el9UTS1GZDZTQXpuQVlrcWlGVjE0MS1kUUdOU1lIWjliclN2TzdZZ3F6QjhqYnhJRS13UHphZkVzc2pKUXFsLVRmeTFnaG1oQUUtbURlMGhiQzNyeU1YRmQtQ3c?oc=5",
+       "source": "BigGo Finance"
       },
       {
-       "titre": "Worldline soupçonné d'avoir artificiellement gonflé ses flux de trésorerie",
-       "url": "https://www.lesechos.fr/finance-marches/banque-assurances/worldline-soupconne-davoir-artificiellement-gonfle-ses-flux-de-tresoreries-2263710",
-       "source": "Les Echos"
+       "titre": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
+       "source": "Bloomberg Markets"
       },
       {
-       "titre": "La Française Laurence Boone et l'Allemand Markus Brunnermeier assurés d'entrer au directoire de la BCE",
-       "url": "https://www.lesechos.fr/finance-marches/marches-financiers/la-francaise-laurence-boone-et-lallemand-markus-brunnermeier-assures-dentrer-au-directoire-de-la-bce-2263879",
-       "source": "Les Echos"
+       "titre": "Indian Stocks Surge Against Global Market Tide as Nifty 50 Nears Record High on Foreign Inflows of Over 1 Trillion Rupees",
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00M19YNjF3SFJRckF0Qkkxek15blJ2cHktYmh3S3NsNWw4VlFWblgtSnp0eS1qRms4eHJUdzl4aTlVQmlFZ3JLT3A1MmptZTBOWlVmbzNBQjNXMU1RSGFnOUh2RTFKcE5pOWR2bmlUTDlWSVpEVGc?oc=5",
+       "source": "BigGo Finance"
       },
       {
-       "titre": "Budget 2027 : le Sénat veut supprimer 23 000 postes de fonctionnaires",
-       "url": "https://www.leparisien.fr/economie/budget-2027-le-senat-veut-supprimer-23-000-postes-de-fonctionnaires-20-11-2026-SHCHTOHCDRGGHKRFEACROCYHQY.php",
-       "source": "Le Parisien Économie"
+       "titre": "Nifty Gains 2.6%; Sensex Hits 9-Month High on FII Buying",
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUGFSMWJoeDJNTElSVk5neHlWQk40YTQ2UmhMM3BkMUZOZjRCYlB1ekdMTk54QXdJNlFDWmRubHN5ZjJBQ3BveDRBRHNud1E4OVZvZmh5TWVlcU9jUVVoQ0gya3VqckR3Zkg0Qkl3WkwwUFNRWm94UWdtZEVBN3ZUZ0Z0VlpLZGFCbWZSd1EwODVZNGpJOE5oNnRyMmRfTmdDZ0ZQMUJ5cmd4dw?oc=5",
+       "source": "HDFC Sky"
+      }
+     ]
+    },
+    {
+     "texte": "En Europe, le CAC 40 a perdu 5,27 % sur la semaine, entraîné par le secteur du luxe, et les valeurs automobiles ont mené la baisse des marchés européens sur fond de bras de fer commercial entre les États-Unis et la Chine.",
+     "articles": [
+      {
+       "titre": "CAC 40 : −5,27 % cette semaine, que faire lundi ?",
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblRFUGtheGhjTjdLOTNxWHNub2JrX000aE1tZHpZZFFMbVc2b19TUzVCVlBmQm9Rb1ZGZ083WFlRdURuemxUU2ZhMVNfMC1lRXlLeG9rOS1Lb1haQkFncDMxMkpjMkVRU0FHaWppUVB6dmZodVNEVmlFT3M2el96Z0dQV1ZIbFV3bU1qWlhyVWNBTlZvTVhZcjVBaFhDaXNGVzlHQQ?oc=5",
+       "source": "https://www.leconseilpatrimoine.fr/"
+      },
+      {
+       "titre": "Le secteur du luxe a fait trébucher le CAC 40",
+       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdU9Zb0ZlMGM3dHVJRV9oSlV6emdoUld0N1M4cHE3WmxzUG5fYktGTXdXdmxmcTRJU1l1ZUhtWVZIc0JrUmhzUXdlOTNjT2ZyOHJkbVFXRmhNZGVqa2pjejhWM0lBZmJIMG14QUhBYzdiMFVwOXJmVE1KVWdacVItcTZBMXowZw?oc=5",
+       "source": "Radio Monaco"
+      },
+      {
+       "titre": "Auto stocks lead European shares lower amid US-China trade standoff",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQTdDcVBlU2ZYWHZKbDZsbWFaeElZV1VWSW5UYWFMMGN6VWxYU1VIaDBMVXVwWVhuQ0IwWWVadlkxUmV4NkNMQzh0TVAzM0kwNlBJdG5zdmRRTXdVMDJ5T3liSFRudXYtbHZjeEVWdUtHbUVjSmt5azdaV2l0NzYxd3BwNm5lc0pQVWtXbXVIdnNFOXBIZ3pJdFhYOENhVmtqalpiMzIzUUtxMDZj?oc=5",
+       "source": "Yeni Safak English"
+      },
+      {
+       "titre": "European stocks close lower Friday",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSWZ4YmI2c0s3U3VEVy00N21fWmdDMFJJUDdqZW1oVU9QVVlNci1feTJWM1JMa0czMFFIX2VDOGlMSXJJc1lNTmtjNTFVSE5La1Y5VjlyU0M2V2wwSk9NTXFGNjl5N3ZfZWhFdUx5YVRTbk5NSjF2Y2RQZUtVa1NKcGNwcDY3V3RaaWdORVlWQV9WQQ?oc=5",
+       "source": "巴士的報"
       }
      ]
     }
    ]
   },
   "science": {
-   "titre": "Les mathématiciens saluent une preuve de l'hypothèse de Riemann obtenue avec l'aide de l'IA",
+   "titre": "Astrophysique en vedette : James Webb observe une collision d'étoiles dans Andromède et les ondes gravitationnelles pourraient révéler des planètes invisibles",
    "points": [
     {
-     "texte": "Un chercheur d'Anthropic aurait résolu l'hypothèse de Riemann, l'une des plus anciennes questions des mathématiques, en combinant ingéniosité humaine et puissance de calcul de l'IA ; la communauté exprime admiration, mais aussi incertitude.",
+     "texte": "Dans la galaxie d'Andromède, une petite étoile a spiralé jusqu'à être avalée par une étoile géante 18 000 fois plus lumineuse que le Soleil, déclenchant une violente éruption dont le télescope James Webb a révélé les suites.",
      "articles": [
       {
-       "titre": "Mathematicians are amazed by ‘holy grail’ proof of Riemann hypothesis",
-       "url": "https://www.newscientist.com/article/2600235-mathematicians-are-amazed-by-holy-grail-proof-of-riemann-hypothesis/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-       "source": "New Scientist"
-      },
-      {
-       "titre": "What is the Riemann hypothesis and why is its solution so monumental?",
-       "url": "https://www.newscientist.com/article/2600226-what-is-the-riemann-hypothesis-and-why-is-its-solution-so-monumental/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-       "source": "New Scientist"
+       "titre": "A giant star swallowed another star. James Webb reveals the aftermath",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+       "source": "ScienceDaily"
       }
      ]
     },
     {
-     "texte": "En physique et informatique théorique : deux travaux mathématiques proposent un effet quantique qui pourrait rendre la gravité répulsive, en rupture avec la relativité d'Einstein ; des chercheurs ont identifié quatre structures de réseau responsables des boucles de routage, établissant une théorie de la « résilience parfaite ».",
+     "texte": "Les ondes gravitationnelles, qui renseignent depuis dix ans sur les trous noirs et les étoiles à neutrons, pourraient aussi permettre de détecter des planètes invisibles. Par ailleurs, des chercheurs proposent d'utiliser des horloges atomiques à la sensibilité fortement accrue pour tester si des horloges peuvent vivre plusieurs écoulements du temps à la fois.",
      "articles": [
       {
-       "titre": "Quantum effect could reverse gravity and violate Einstein’s theory of relativity",
-       "url": "https://www.newscientist.com/article/2599897-quantum-effect-could-reverse-gravity-and-violate-einsteins-theory-of-relativity/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-       "source": "New Scientist"
-      },
-      {
-       "titre": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
-       "url": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
-       "source": "Quanta Magazine"
-      }
-     ]
-    },
-    {
-     "texte": "Santé : une analyse portant sur près de 2,8 millions de personnes relie le nombre de cigarettes fumées par jour au risque de démence ; à UC Berkeley, un composé expérimental augmente la dépense énergétique pour brûler les graisses sans sacrifier les muscles.",
-     "articles": [
-      {
-       "titre": "Arrêter de fumer : une vaste analyse révèle une bonne nouvelle inattendue pour notre cerveau",
-       "url": "https://www.futura-sciences.com/sante/actualites/mois-tabac-arreter-fumer-vaste-analyse-revele-bonne-nouvelle-inattendue-notre-cerveau-139427/#xtor%3DRSS-8",
+       "titre": "Et si les ondes gravitationnelles permettaient de découvrir des planètes invisibles ?",
+       "url": "https://www.futura-sciences.com/sciences/actualites/exoplanete-si-ondes-gravitationnelles-permettaient-decouvrir-planetes-invisibles-139425/#xtor%3DRSS-8",
        "source": "Futura"
       },
       {
-       "titre": "Experimental compound burns fat without sacrificing muscle",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
+       "titre": "Time may be far stranger than we realize. Scientists have a way to test it",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
        "source": "ScienceDaily"
       }
      ]
     },
     {
-     "texte": "Espace et planétologie : Voyager 1 est désormais à 16,1 milliards de miles, si loin que ses signaux mettent une journée à arriver ; un télescope à rayons X en route vers Mercure a réalisé ses premières observations ; et des chercheurs impriment en 3D des briques à partir de poussière lunaire.",
+     "texte": "Climat : la chaleur et la sécheresse mettent en difficulté même les cactus, et les prévisions des scientifiques à l'horizon 2100 sont jugées alarmantes.",
      "articles": [
       {
-       "titre": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
-       "source": "ScienceDaily"
-      },
+       "titre": "Il fait tellement chaud et sec sur Terre que même les cactus commencent à disparaître : les prévisions des scientifiques pour 2100 sont alarmantes",
+       "url": "https://www.futura-sciences.com/planete/actualites/plante-il-fait-tellement-chaud-sec-terre-meme-cactus-commencent-disparaitre-previsions-scientifiques-2100-sont-alarmantes-139498/#xtor%3DRSS-8",
+       "source": "Futura"
+      }
+     ]
+    },
+    {
+     "texte": "Archéologie : de nouvelles datations suggèrent que le squelette découvert dans un sarcophage romain de l'abbaye de Westminster appartenait à un abbé médiéval de haut rang, ce qui pourrait résoudre un mystère vieux de plus de 150 ans.",
+     "articles": [
       {
-       "titre": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
+       "titre": "Who was buried in Westminster Abbey's Roman coffin? A 150-year mystery may be solved",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261119194553.htm",
        "source": "ScienceDaily"
-      },
+      }
+     ]
+    },
+    {
+     "texte": "Neurologie : après une opération du cerveau, un Américain de 28 ans voit le visage de son chat sur les personnes qu'il croise, et inversement, parfois pendant toute une journée.",
+     "articles": [
       {
-       "titre": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm",
-       "source": "ScienceDaily"
+       "titre": "« Pendant plusieurs heures, parfois toute la journée » : à 28 ans, il voit son chat prendre un visage humain et les humains ressembler à son chat !",
+       "url": "https://www.futura-sciences.com/sante/actualites/cerveau-pendant-plusieurs-heures-parfois-toute-journee-28-ans-il-voit-son-chat-prendre-visage-humain-humains-ressembler-son-chat-139484/#xtor%3DRSS-8",
+       "source": "Futura"
       }
      ]
     }
    ]
   },
   "spatial": {
-   "titre": "SpaceX enchaîne : mission classifiée pour la Space Force et cap sur l'après-capture de Ship 42",
+   "titre": "BepiColombo entre en orbite autour de Mercure, tandis que SpaceX enchaîne lancement militaire et annonces sur Starship",
    "points": [
     {
-     "texte": "SpaceX a lancé le 20 novembre depuis la Californie une mission classifiée pour la US Space Force, avec une charge utile non divulguée.",
+     "texte": "La sonde européo-japonaise BepiColombo arrive en orbite autour de Mercure le 21 novembre, plus de huit ans après avoir quitté la Terre.",
      "articles": [
       {
-       "titre": "SpaceX launches classified mission for US Space Force from California",
-       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317",
+       "titre": "European-Japanese BepiColombo probe arrives in orbit around Mercury today",
+       "url": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
        "source": "Space.com"
       }
      ]
     },
     {
-     "texte": "Après la capture historique du Starship Ship 42 le 14 novembre, SpaceX prépare la suite de son programme.",
+     "texte": "SpaceX lance la mission NROL-136 depuis la base de Vandenberg pour le National Reconnaissance Office : c'est le quatrième lancement de l'année pour la constellation de satellites de renseignement de l'agence en orbite basse.",
      "articles": [
       {
-       "titre": "Following Ship 42’s catch, SpaceX looks to the future",
-       "url": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
-       "source": "NASASpaceflight"
+       "titre": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
+       "url": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
+       "source": "Spaceflight Now"
       }
      ]
     },
     {
-     "texte": "Des scientifiques réclament un moratoire sur l'exploitation industrielle de la Lune, craignant des dommages irréversibles ; la NASA annonce de nouveaux financements d'amorçage pour des PME travaillant sur les technologies d'exploration lunaire et martienne.",
+     "texte": "Selon Elon Musk, le premier étage supérieur de Starship récupéré par les « baguettes » de la tour ne revolera pas et sera exposé comme pièce de musée.",
      "articles": [
       {
-       "titre": "Don't turn the moon into the Wild West, scientists warn",
-       "url": "https://www.space.com/astronomy/moon/dont-turn-the-moon-into-the-wild-west-scientists-warn",
+       "titre": "SpaceX will retire 1st Starship upper stage ever caught by 'chopsticks,' Elon Musk says",
+       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-retire-1st-starship-upper-stage-ever-caught-by-chopsticks-elon-musk-says",
        "source": "Space.com"
+      }
+     ]
+    },
+    {
+     "texte": "Côté images, la NASA met en avant les tourbillons et couleurs de Jupiter vus par Juno ainsi que Neptune photographiée par Voyager.",
+     "articles": [
+      {
+       "titre": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
+       "url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
+       "source": "NASA"
       },
       {
-       "titre": "New NASA Seed Funding Primes Small Businesses for Innovation",
-       "url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
-       "source": "NASA"
-      }
-     ]
-    },
-    {
-     "texte": "Sur Mars, le rover Curiosity a photographié des nuages crépusculaires dérivant dans le ciel, le 31 octobre, au 5 061e sol de sa mission.",
-     "articles": [
-      {
-       "titre": "Curiosity Spots Drifting Twilight Clouds",
-       "url": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
+       "titre": "APOD: 2026 November 21 – Voyager’s Neptune",
+       "url": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
        "source": "NASA"
       }
      ]
@@ -238,100 +233,50 @@
    ]
   },
   "hotellerie": {
-   "titre": "Accor dans la tourmente : son premier actionnaire veut évincer Sébastien Bazin après le rachat d'Ennismore",
+   "titre": "Les transactions dominent : ventes d'hôtels de prestige à Gstaad et Marseille, rachats aux États-Unis et en Égypte",
    "points": [
     {
-     "texte": "L'investisseur activiste Parvus, premier actionnaire d'Accor, cherche à évincer le PDG Sébastien Bazin, critiquant le rachat d'Ennismore et 13 ans de sous-performance boursière présumée ; Accor a de son côté augmenté sa participation dans Ennismore.",
+     "texte": "La milliardaire suisse Dona Bertarelli aurait vendu son hôtel de Gstaad pour un montant pouvant atteindre 500 millions de dollars.",
      "articles": [
       {
-       "titre": "Accor’s Largest Shareholder Moves to Oust CEO After Ennismore Buyout",
-       "url": "https://skift.com/2026/11/20/accors-largest-shareholder-moves-to-oust-ceo-after-ennismore-buyout/",
-       "source": "Skift"
-      },
-      {
-       "titre": "Lodging Lowdown: Accor increases stake in Ennismore, Under Canvas adds luxury cabins at Ulum Moab in Utah",
-       "url": "https://www.hoteldive.com/news/accor-increases-stake-in-ennismore-under-canvas-adds-cabins-ulum-moab/875308/",
-       "source": "Hotel Dive"
+       "titre": "Swiss billionaire Dona Bertarelli reportedly sells Gstaad hotel for up to $500 million",
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM1VoWkk4djRzRWRSWjNGZnJJQWp6TWJsd0RWZGJJOHNMQ3M0aHZlTGFXZW5fcVRuUGZ2Z0VpTEtGbkRRSkFFWGU0M3VhWlB2NDU2Zk91REhEdGhGSnhRdTkwU0tLZWJseHhxZmVLQUJ3bnVhOGZTOHlLLVFzYWVIYmlnNjRGdnp6Z1ZxZ2k1MXhGMHlDNEg1bDN6TlFnbDkwUkd0Ump0QUFEd21fQlJGTV9KZU9ETjU5aldqQmUwa2NrUER1azRzLQ?oc=5",
+       "source": "Billionaires.Africa"
       }
      ]
     },
     {
-     "texte": "Transactions : l'égyptien SUNRISE rachète trois hôtels Al Kharafi pour 68,1 M$, Corendon Hotels & Resorts acquiert des hôtels à Miami pour 31,6 M$, l'Université de Californie achète le Ritz-Carlton Half Moon Bay et l'Olympic Club un hôtel de Union Square pour 8 M$. En Europe, George Procopiou rachèterait le Park Gstaad et ActivumSG étudie une recapitalisation ou la vente d'Odyssey Hotel Group.",
+     "texte": "À Marseille, l'hôtel Le Petit Nice Passedat est cédé à la famille Saadé ; le dernier service est prévu le 30 janvier 2027.",
      "articles": [
       {
-       "titre": "Egypt's SUNRISE Buys Three Al Kharafi Hotels In $68.1M Deal",
+       "titre": "L’hôtel Le Petit Nice Passedat, à Marseille, cédé à la famille Saadé : dernier service le 30 janvier 2027",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTFhiY1dvR0ZNSjJJc1U5VmkxeWptS0l3azB4ZkZPR3RwUGdtUUppaGV6YlJFRDUxcS1QVGt3dHZkWVpxVkNKalZyNVhyWUUzZEJLNlczUGtqanpHRWZLZHVtcEVSYXk3WVNRSlNIM2o2M3V1bDVHZUlPYjA1V1BfbkQ5YjNOT2Fx?oc=5",
+       "source": "La Revue des Hôtels"
+      },
+      {
+       "titre": "Le Petit Nice Passedat hotel in Marseille sold to the Saadé family: last service on 30 January 2027",
+       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDh1V3JEUnJ3dTVOclVIN1FGRVlBZnp6TG9YRHkyRWp5NGNoSS1GeTBRbXdtRlF1ZEtma1h6a0YzX0Y3ZjdlY2cxQXVSNDJzRFFwMlJaSzhwWExRX01UenlCZWNNc3U2bnEwR2swNVJoZW5UQVBNelBtc1Q0bm1rUE55ZnZoZw?oc=5",
+       "source": "La Revue des Hôtels"
+      }
+     ]
+    },
+    {
+     "texte": "Aux États-Unis, Ascendant Capital Partners est en train d'acquérir le Westin Seattle.",
+     "articles": [
+      {
+       "titre": "Ascendant Capital Partners Acquiring the Westin Seattle Hotel",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYTI0dkVJYmNUMUhmVzVOTFU1VzJsSlNjaFFGY1Axck1UX295WURLZDM2bWpQUl9BcEVLclJ1RVFWeTRTQjdWdUFfT1o1WGprTkdFb19QVUtIVXQ5SzlLa2oxWVk5X2xfcUstNzRDdFhIT2I2WmNCUF9tQ2NUYVVMZ1BQRFVtbGgxZWRUMVBoMi1RYk00eHNqcE5pQ3RRQQ?oc=5",
+       "source": "Connect CRE"
+      }
+     ]
+    },
+    {
+     "texte": "En Égypte, le groupe SUNRISE rachète trois hôtels d'Al Kharafi pour 68,1 millions de dollars, selon la presse.",
+     "articles": [
+      {
+       "titre": "Egypt's SUNRISE Buys Three Al Kharafi Hotels For $68.1M: Report",
        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRkZBTVFMd3FCOTFRM0FsZmduMDM0QXlqMGlfSXk4ZUN4c1lvVXFmTGdoUTI0SFVMdHJBd0xOSG1zbFVKRHNwajVRNmQ3YVRJemViWnV0bFhTS3VmNldVNHFvaENzNDd0dVRhTDZhWFVOWkhPRzVTejBySmcwYkdELWk0ZnVWMFRTNVNGVGRJN0hOdF9ON0lETXlsQVgtSjJsQm1Qd2NXLU5ZR1Y3?oc=5",
        "source": "Forbes Middle East"
-      },
-      {
-       "titre": "South Florida’s top deals: Corendon Hotels & Resorts buys Miami hotels for $31.6M",
-       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbU5XanhoTHNXcWpWemVvR29TTXh4LTh4TWd4QzN0SEFSR1NhT0x4UlI2dmlfZHhHU0lEMXdweHN6M3poLU5yRDlrWkVkSFpIcU9qc3VJenRIbXhWYm1Ocnd0UU1JNmEyRnl4Rnd2SnBKTnFqM2xjZU1MWUttWEYxUUljWW1HWU1YQVNaa285U29XX2lKcnRr?oc=5",
-       "source": "The Real Deal"
-      },
-      {
-       "titre": "University of California buys Ritz-Carlton Half Moon Bay: Property will remain a hotel, HMB mayor said",
-       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRlEtSzZZdXE0TVFIZmIweVpsV1RLSWhvZDFUYV9BUzBhelNLcE5xbzR1MlBnRDhwZ0lBeWdPcnQ1WXJBREI2N0xqTmRvcVVyTUxHV01GMEhGSDN4NDlqYjVPblJmVUk0U3lteVkwMmY5NHNOMExJbGl6SXYwd3VBSzBtQ0lYamVKR2RPcVNHZXBTc2tGeUhyUzJPM2poOGpqZThabTY4eXBPSGJmMlhrN19kbkpYYkw0WHhhMzNicG0zS1FGS0I4ai1BcmhIaGdiSkgwZkdGUE9EWEhaZ0Ztd3BOeGJuMTNsRThaNVRjTVFEZVFQaUdOVEw2N1dHVHdNamJWbUptM2pnZVE4Snc?oc=5",
-       "source": "San Mateo Daily Journal"
-      },
-      {
-       "titre": "Park Gstaad : George Procopiou rachèterait le palace",
-       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWUdfMG0wdU9mN1J2OFh2ZXRvcUszcDFLSG5icFRIbmJFRndqMjJrc0docHB6WkNXLUNKTTZ1ck5wcVN4NlI3S1dKTkJuNGxYTUlVdm02bjQ3UzZvWVQ0RU5KODM1LTF6NXV5anhIM1RhWWtYeDJHeXhKU19mRWpBbzZn?oc=5",
-       "source": "La Tribune de l'Hôtellerie"
-      }
-     ]
-    },
-    {
-     "texte": "Développement : IHG signe trois Holiday Inn Express en Espagne (477 chambres), Minor annonce son neuvième hôtel à Barcelone, Hyatt a ouvert le Thompson Rome (69 chambres) et Welcome Break rachète un hôtel en Cornouailles rebaptisé Ramada by Wyndham. Atream lance la SCPI Atream Atwin, visant 100 M€ d'investissement par an.",
-     "articles": [
-      {
-       "titre": "Espagne: IHG signe trois Holiday Inn Express et Minor annonce son neuvième hôtel à Barcelone",
-       "url": "https://hospitality-on.com/fr/hotellerie/espagne-ihg-signe-trois-holiday-inn-express-et-minor-annonce-son-neuvieme-hotel",
-       "source": "Hospitality ON"
-      },
-      {
-       "titre": "À Rome, l'ancien siège du Parti communiste italien devient l'hôtel Thompson Rome",
-       "url": "https://hospitality-on.com/fr/hotellerie/rome-lancien-siege-du-parti-communiste-italien-devient-lhotel-thompson-rome",
-       "source": "Hospitality ON"
-      },
-      {
-       "titre": "Welcome Break Acquires Cornwall Hotel and Rebrands as Ramada by Wyndham",
-       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNGZhY3U0emFraTdZdVl0Tmt2QkhUbk1sbEFTMHJaQjBhMndSTVJ3eDZRYTl3X2t2bWRUOU9QSE9mbVF3MjBPczNQMjNYT0F6UV90SU1YVzNxcTFnUXpDME1aTDdQV3dDaXg1cTVILVhpeU1qbzV2WDdOUk1pVzBYVmVPMGtOQWZtSk8wbEx6WWJlc1pCSG5aWUZBT3lQQW52bWVrWnl1Qm1xZ2RFWTROZzdsV09rZFMzTndTM0tlcjc?oc=5",
-       "source": "Hospitality & Catering News"
-      },
-      {
-       "titre": "Atream lance une seconde SCPI, Atream Atwin, pour investir 100 millions d’euros chaque année en actifs immobiliers",
-       "url": "https://hospitality-on.com/fr/investisseurs/atream-lance-une-seconde-scpi-atream-atwin-pour-investir-100-millions-deuros-chaque",
-       "source": "Hospitality ON"
-      }
-     ]
-    },
-    {
-     "texte": "Distribution et prix : le Black Friday couvre désormais 13 mois de séjours et 7,55 % des annulations sont des re-réservations moins chères ; Airbnb envisage un alignement des prix, et l'AHLA lance une campagne contre les arnaques à la réservation.",
-     "articles": [
-      {
-       "titre": "Black Friday Now Prices 13 Months of Stays, 7.55% of Cancellations Are Cheaper Rebookings, Where Did the Full-Service GM Go?",
-       "url": "https://www.hospitalitynet.org/editorial/4135622/black-friday-now-prices-13-months-of-stays-755-of-cancellations-are-cheaper-rebookings-where-did-the-full-service-gm-go",
-       "source": "Hospitality Net"
-      },
-      {
-       "titre": "Airbnb Floats Price-Matching: A Skift Test Shows Where Direct Booking Wins",
-       "url": "https://skift.com/2026/11/20/airbnb-floats-price-matching-a-skift-test-shows-where-direct-booking-wins/",
-       "source": "Skift"
-      },
-      {
-       "titre": "Lodging Lowdown: Accor increases stake in Ennismore, Under Canvas adds luxury cabins at Ulum Moab in Utah",
-       "url": "https://www.hoteldive.com/news/accor-increases-stake-in-ennismore-under-canvas-adds-cabins-ulum-moab/875308/",
-       "source": "Hotel Dive"
-      }
-     ]
-    },
-    {
-     "texte": "Transport : Lufthansa va supprimer 1 000 emplois, son propre conseil la jugeant peu compétitive en coûts et en productivité.",
-     "articles": [
-      {
-       "titre": "Luftahnsa to Cut 1,000 Jobs",
-       "url": "https://skift.com/2026/11/20/luftahnsa-to-cut-1000-jobs/",
-       "source": "Skift"
       }
      ]
     }
