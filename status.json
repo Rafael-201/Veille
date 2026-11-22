@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T07:11:54Z",
+ "generated_at": "2026-11-22T06:16:32Z",
  "sources": [
   {
    "name": "CNBC",
@@ -9,7 +9,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 80
+   "archived": 77
   },
   {
    "name": "Bloomberg Markets",
@@ -29,7 +29,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 67
+   "archived": 66
   },
   {
    "name": "Les Echos",
@@ -39,7 +39,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 60
+   "archived": 62
   },
   {
    "name": "BFM Business",
@@ -49,7 +49,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 86
+   "archived": 88
   },
   {
    "name": "BCE",
@@ -69,7 +69,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 48
+   "archived": 45
   },
   {
    "name": "The Motley Fool",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 69
+   "archived": 68
   },
   {
    "name": "Nature",
@@ -109,7 +109,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 61
+   "archived": 59
   },
   {
    "name": "ScienceDaily",
@@ -119,7 +119,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 73
+   "archived": 74
   },
   {
    "name": "Quanta Magazine",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 66
+   "archived": 63
   },
   {
    "name": "Futura",
@@ -149,7 +149,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 89
+   "archived": 88
   },
   {
    "name": "SpaceNews",
@@ -159,7 +159,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 33
+   "archived": 32
   },
   {
    "name": "NASASpaceflight",
@@ -169,7 +169,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 26
+   "archived": 25
   },
   {
    "name": "Spaceflight Now",
@@ -179,7 +179,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 20
+   "archived": 21
   },
   {
    "name": "Space.com",
@@ -189,7 +189,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 81
+   "archived": 80
   },
   {
    "name": "ESA",
@@ -199,7 +199,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: HTTP Error 404: Not Found",
-   "archived": 14
+   "archived": 11
   },
   {
    "name": "NASA",
@@ -209,7 +209,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 71
+   "archived": 69
   },
   {
    "name": "Hospitality ON",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 67
+   "archived": 64
   },
   {
    "name": "Hotel Dive",
@@ -229,7 +229,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 46
+   "archived": 43
   },
   {
    "name": "Hospitality Net",
@@ -239,7 +239,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 60
+   "archived": 59
   },
   {
    "name": "Skift",
@@ -249,7 +249,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 59
+   "archived": 56
   },
   {
    "name": "Transactions · Amérique du Nord",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 46
+   "archived": 47
   },
   {
    "name": "Transactions · Amérique latine",
@@ -269,7 +269,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 32
+   "archived": 31
   },
   {
    "name": "Transactions · Europe",
@@ -289,7 +289,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 34
+   "archived": 32
   },
   {
    "name": "Transactions · Moyen-Orient",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 29
+   "archived": 28
   },
   {
    "name": "Transactions · Asie-Pacifique",
@@ -349,7 +349,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 73
+   "archived": 71
   },
   {
    "name": "Marchés · Europe",
@@ -369,7 +369,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 69
+   "archived": 67
   },
   {
    "name": "Marchés · Moyen-Orient",
@@ -379,7 +379,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 64
+   "archived": 61
   },
   {
    "name": "Marchés · Asie-Pacifique",

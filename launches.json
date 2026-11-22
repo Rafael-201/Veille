@@ -1,31 +1,9 @@
 {
- "generated_at": "2026-11-21T07:11:54Z",
+ "generated_at": "2026-11-22T06:16:32Z",
  "launches": [
   {
-   "name": "Long March 8A | SatNet LEO Group 30",
-   "net": "2026-11-20T11:59:00Z",
-   "status": "Success",
-   "status_label": "Launch Successful",
-   "provider": "China Aerospace Science and Technology Corporation",
-   "pad": "Commercial LC-1",
-   "location": "Wenchang Space Launch Site, People's Republic of China",
-   "mission_type": "Communications",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_launch_2_image_20251206093107.jpeg"
-  },
-  {
-   "name": "Falcon 9 Block 5 | USSF-317",
-   "net": "2026-11-21T04:20:35Z",
-   "status": "Success",
-   "status_label": "Launch Successful",
-   "provider": "SpaceX",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "mission_type": "Government/Top Secret",
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg"
-  },
-  {
    "name": "Falcon 9 Block 5 | NROL-136",
-   "net": "2026-11-22T12:16:00Z",
+   "net": "2026-11-22T12:23:56Z",
    "status": "Go",
    "status_label": "Go for Launch",
    "provider": "SpaceX",
@@ -88,6 +66,28 @@
    "location": "Xichang Satellite Launch Center, People's Republic of China",
    "mission_type": "Unknown",
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25202d_image_20190222031211.jpeg"
+  },
+  {
+   "name": "Spectrum | AT-Astra and Others (Spectrum Flight 3)",
+   "net": "2026-11-26T20:00:00Z",
+   "status": "TBC",
+   "status_label": "To Be Confirmed",
+   "provider": "Isar Aerospace",
+   "pad": "Orbital Launch Pad",
+   "location": "Andøya Spaceport",
+   "mission_type": "Technology",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg"
+  },
+  {
+   "name": "Electron | Night Owls Never Sleep (StriX Launch 14)",
+   "net": "2026-11-27T00:05:00Z",
+   "status": "Go",
+   "status_label": "Go for Launch",
+   "provider": "Rocket Lab",
+   "pad": "Unknown Pad",
+   "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+   "mission_type": "Earth Science",
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
   }
  ]
 }
