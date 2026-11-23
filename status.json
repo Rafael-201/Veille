@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T06:51:36Z",
+ "generated_at": "2026-11-23T06:16:10Z",
  "sources": [
   {
    "name": "CNBC",
@@ -9,7 +9,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 78
+   "archived": 81
   },
   {
    "name": "Bloomberg Markets",
@@ -19,7 +19,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 88
+   "archived": 89
   },
   {
    "name": "MarketWatch",
@@ -59,7 +59,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 26
+   "archived": 24
   },
   {
    "name": "CNBC Résultats",
@@ -69,7 +69,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 45
+   "archived": 43
   },
   {
    "name": "The Motley Fool",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 68
+   "archived": 69
   },
   {
    "name": "Nature",
@@ -129,7 +129,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 17
+   "archived": 16
   },
   {
    "name": "New Scientist",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 63
+   "archived": 60
   },
   {
    "name": "Futura",
@@ -149,7 +149,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 88
+   "archived": 89
   },
   {
    "name": "SpaceNews",
@@ -159,7 +159,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 32
+   "archived": 31
   },
   {
    "name": "NASASpaceflight",
@@ -189,7 +189,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 80
+   "archived": 81
   },
   {
    "name": "ESA",
@@ -199,7 +199,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: HTTP Error 404: Not Found",
-   "archived": 11
+   "archived": 9
   },
   {
    "name": "NASA",
@@ -209,7 +209,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 69
+   "archived": 68
   },
   {
    "name": "Hospitality ON",
@@ -219,7 +219,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 64
+   "archived": 62
   },
   {
    "name": "Hotel Dive",
@@ -229,7 +229,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 43
+   "archived": 42
   },
   {
    "name": "Hospitality Net",
@@ -249,7 +249,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 56
+   "archived": 54
   },
   {
    "name": "Transactions · Amérique du Nord",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 46
+   "archived": 45
   },
   {
    "name": "Transactions · Amérique latine",
@@ -269,7 +269,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 30
+   "archived": 31
   },
   {
    "name": "Transactions · Europe",
@@ -279,7 +279,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 49
+   "archived": 44
   },
   {
    "name": "Transactions · Europe (FR)",
@@ -319,7 +319,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 26
+   "archived": 25
   },
   {
    "name": "Transactions · Afrique (FR)",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 83
+   "archived": 84
   },
   {
    "name": "Marchés · Amérique latine",
@@ -349,17 +349,17 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 71
+   "archived": 70
   },
   {
    "name": "Marchés · Europe",
    "cat": "finance",
    "topic": "marches",
    "url": "https://news.google.com/rss/search?q=%28%22European+shares%22+OR+%22Stoxx+600%22+OR+FTSE+OR+DAX+OR+%22European+stocks%22%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": true,
-   "count": 3,
-   "error": null,
-   "archived": 79
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests",
+   "archived": 78
   },
   {
    "name": "Marchés · Europe (FR)",
@@ -369,7 +369,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 67
+   "archived": 68
   },
   {
    "name": "Marchés · Moyen-Orient",
@@ -379,7 +379,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 61
+   "archived": 63
   },
   {
    "name": "Marchés · Asie-Pacifique",
@@ -399,7 +399,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 75
+   "archived": 74
   }
  ]
 }

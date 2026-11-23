@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T06:51:37Z",
+ "generated_at": "2026-11-23T06:16:11Z",
  "indices": [
   {
    "symbol": "^GSPC",
@@ -95,10 +95,10 @@
    "symbol": "^TASI.SR",
    "name": "Tadawul (TASI)",
    "region": "moyen-orient",
-   "last": 10158.9,
-   "change_pct": -0.4,
-   "month_pct": -0.4,
-   "date": "2026-11-19",
+   "last": 9960.44,
+   "change_pct": -1.95,
+   "month_pct": -1.95,
+   "date": "2026-11-22",
    "currency": "SAR"
   },
   {
@@ -115,20 +115,20 @@
    "symbol": "^HSI",
    "name": "Hang Seng",
    "region": "asie",
-   "last": 22410.8,
-   "change_pct": -1.89,
-   "month_pct": -6.1,
-   "date": "2026-11-20",
+   "last": 22417.23,
+   "change_pct": 0.03,
+   "month_pct": -2.93,
+   "date": "2026-11-23",
    "currency": "HKD"
   },
   {
    "symbol": "000001.SS",
    "name": "Shanghai Composite",
    "region": "asie",
-   "last": 3533.79,
-   "change_pct": -1.22,
-   "month_pct": -5.4,
-   "date": "2026-11-20",
+   "last": 3539.31,
+   "change_pct": 0.16,
+   "month_pct": -4.1,
+   "date": "2026-11-23",
    "currency": "CNY"
   },
   {
@@ -145,10 +145,10 @@
    "symbol": "^CASE30",
    "name": "EGX 30",
    "region": "afrique",
-   "last": 51458.0,
-   "change_pct": -0.17,
-   "month_pct": -0.17,
-   "date": "2026-11-19",
+   "last": 49989.8,
+   "change_pct": -3.02,
+   "month_pct": -3.02,
+   "date": "2026-11-22",
    "currency": "EGP"
   }
  ]
