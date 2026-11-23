@@ -1,157 +1,172 @@
 {
- "generated_at": "2026-11-22T06:17:40Z",
+ "generated_at": "2026-11-23T06:17:26Z",
  "auteur": "Claude",
  "rubriques": {
   "finance": {
-   "titre": "Krach de la tech : Wall Street signe sa pire semaine depuis le Covid, plombée par Nvidia et l'introduction en Bourse d'Anthropic",
+   "titre": "Les doutes sur l'IA font plonger les Bourses mondiales, du Nasdaq au CAC 40 en passant par l'Asie.",
    "points": [
     {
-     "texte": "Wall Street a enregistré sa pire performance hebdomadaire depuis 2020 : le S&P 500 a reculé pour la septième séance d'affilée et est entré en zone de correction, avec une chute de plus de 3 % menée par les semi-conducteurs. Les valeurs technologiques sont repassées dans le rouge sur l'année.",
+     "texte": "Wall Street a vécu sa pire semaine depuis le Covid : le Nasdaq a chuté de 5,28 % en une seule séance, effaçant ses gains de l'année, et s'approche d'un marché baissier, Nvidia en tête du recul. L'introduction en Bourse record d'Anthropic (93,5 milliards de dollars) a précédé la chute ; les contrats à terme américains rebondissent ce lundi.",
      "articles": [
       {
-       "titre": "La pire semaine depuis le Covid : la tech s'effondre à Wall Street et entraîne le reste des marchés mondiaux",
-       "url": "https://www.lesechos.fr/finance-marches/marches-financiers/a-wall-street-la-chute-de-la-tech-saccelere-et-entraine-avec-elle-les-marches-mondiaux-2263871",
-       "source": "Les Echos"
-      },
-      {
-       "titre": "S&P 500 Falls for Seventh Straight Session, Enters Correction as AI Stock Rally Loses Steam",
-       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Hdkp5Tk9WRnBlM2JHeEVLZkd5bGkxNnA1T1FkZWp5YWJkTlBFOVVFMFI0NktSVHdocnp1V0hUNmFUZnJpMWlmaU50NlRVWm42SG9sam5fZk5DTmsyRHpkM2RfTW9pQ3pFa2U2WE1TSnh1bTlBb0E?oc=5",
+       "titre": "Anthropic's $93.5 Billion IPO Marks Record Debut, Then US Stocks Plunge; Nasdaq Drops 5.28% in a Single Day, Erasing Year-to-Date Gains",
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YOXRQRW53T0VXZG5jNVpIb1RjUkZ6VlhIeWVhMC1IUEFOMXc2ME5ydHZZcWJuRTZCSXlBdTVscGQ0WmJ1dFVNVFlJa2VES1hCNXFBNzdMZFdmaVNoMW1lRGgxc0xsanNFWjNVTXhNVHZjbm5TVXc?oc=5",
        "source": "BigGo Finance"
       },
       {
-       "titre": "S&P 500 drops more than 3% as semiconductor stocks lead market selloff",
-       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOUYwQUZNMTc0ODR5eXlsdUhacFhUNXVlWGpkel9fRldXUlNUTU9CZXpKWjlZcTZJdkNBcEZ6bGdnRHBKVWgzbEJXT1NESHdneEp1ZU9vbThMVzcwaHZqXzlBUWFDemRUbHI4UWh0S2hpZ3k0WV81b2tGMW9IM0FXdkdWeW83T2t3RllTX25kQk0wbWtuYjJkWENia2RhZkltOTZqaUU5dlBFX0xteFJXSHUteHRGQ05XMlN2SDVIZUxmdw?oc=5",
-       "source": "www.equiti.com"
+       "titre": "Nasdaq Index: Nvidia Leads Tech Stock Rout as Nasdaq Nears Bear Market",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQmUwVWx0V3V0VDFfSTVMSHIzTElCY2tFWGVJWkZKR1B2d1VGLXJHTlNGTnZBUTk4MnpXVmF2MGg1VXNkUFF2NDJhNGxFTXZIdmFzTmhTZ0RhVVNhT0x5eHZBempkOUNybE9ySDZqX1VFZ0Z3YXpCcmpKc0hPc0dKZUV1Q2tIOEpuWmNEa2k0aEg2b2lIdjFTM3VuSVJsemU4OFlwZnZEQnpEcmRyOUpMWElucEljTG0wc1BQTQ?oc=5",
+       "source": "FXEmpire"
       },
       {
-       "titre": "U.S. stocks slump into correction territory amid tech and AI worries",
-       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUmlPb2NNTTRIVWI5NXJFQUd2MXNkdkFtNzIxODZMZjdEbVFsUWQyWjRQT1AxMUE5YS1nRnZ6U21mN0J1V21IVFFRZEthZms4bkM0MDRNQlR6RkRtcUp2aUJqTnQ2YlloTU9ObkpmLUs1NWgyUXpubUxndklKTElFbExrY3ZtamdWNEpRUG5lNGd2VVZZdHVIUHp3eU1Wc0RzenQ0YQ?oc=5",
-       "source": "The Washington Post"
+       "titre": "Dow Jones Futures: After Nvidia, Anthropic Fuel Worst Week Since Covid, Look For These 'Absolute Losers'",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbGZqY3FoUjhCTGtSbnJQMmlMMlNQWGxuQ1UyR09vYVpCY2xHcU5la0pPb0FGbnkzZ3AwRThVNXdMcXk4cEZ4elRxd1VKVHRqTEdxUGtHeUZNS1RPQkVKdUpXeVJscjg1Qm1zUHpjMDlzYUQ5UUE0X3FVTzRqRC1FWVRGU0NXWUI0Rk1FWERnVWxkWEtRbTJNc3Nldms4emVsSF9yMU4xaDU4SWh6TDgydjJWa3ZYQ2pFaUp2TFhmdUh6cFU?oc=5",
+       "source": "Investor's Business Daily"
+      },
+      {
+       "titre": "US stock futures rebound as Asian stocks tumble. Wall Street sees more trouble ahead for the AI trade.",
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORlNPdE9xWncxZ0dJOHNQaWhXVlZ4QWNlRUVEeElvM2p0X3VGZllWN0U5dXRWZDBkc2Y2TkhTTGQyYXNYcU1KR1RINlBaODl5YXhfdG9VVEthN0FWSFZ5Z1VaVTVINGdDWENQMUxBMk5WM0hRNE82aUlwSm82UDR3WWE4dmpybW5RTi1STGJNYUEzaDhqaXBFZQ?oc=5",
+       "source": "Business Insider"
       }
      ]
     },
     {
-     "texte": "L'introduction en Bourse record d'Anthropic sur le Nasdaq a coïncidé avec la débâcle : la société aurait perdu environ 109 milliards de dollars de capitalisation deux jours après ses débuts, tandis que le Nasdaq a effacé 4 000 milliards de dollars.",
+     "texte": "En Asie, les actions reculent malgré les mesures de soutien annoncées par les régulateurs de Corée du Sud, de Chine et de Taïwan. Le KOSPI est passé sous les 4 900 points avec des valeurs de semi-conducteurs divisées par deux, et la Bourse australienne a baissé pour la huitième séance d'affilée.",
      "articles": [
       {
-       "titre": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
-       "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+       "titre": "Asian Stocks Drop as AI Worries Offset Support Measures",
+       "url": "https://www.bloomberg.com/news/videos/2026-11-23/asian-stocks-drop-as-ai-worries-offset-support-measures-video",
+       "source": "Bloomberg Markets"
+      },
+      {
+       "titre": "How Asian countries are looking to prop up markets as AI downturn sinks stocks",
+       "url": "https://www.cnbc.com/2026/11/23/asia-markets-kospi-taiwan-china-csi300.html",
        "source": "CNBC"
       },
-      {
-       "titre": "Anthropic Sheds approximately $109 Billion in Market Value Two Days After Nasdaq Debut; Nasdaq Wipes Out $4 Trillion",
-       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50ekFnLVFhdTZHVm1qOUxTY3VrY2NfZXl3Qklobl9Hb1VQN0JfZEpMdm1wY294WlpDNm9YR2NZMzVzUTJsTFMyYi0zbjZTbE9mbE03LTdyY0t2Vnlic2RkT25tQkpuQzk4NFdvQkUyanNWUWVxd3c?oc=5",
-       "source": "BigGo Finance"
-      },
-      {
-       "titre": "Stocks Fall After Anthropic IPO Sparks Tech Selloff",
-       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSVh1MWlyX3JJdk5DN1QteE5LQXhvZHNiRm4yak45N2xRTkZPeG9xMzFRTjRaZzg2dk9xdHNaeWdYZ3lPTTdQZ19ZaWd4bHpiVTdGVmJjRGgtZ1R5TVVoRWh4TmYwV2JDTGJqLXVLSVBzeVhCc0hYUXdJOFZkU1YzbDZXZ2tET091YzN4akh6T1I?oc=5",
-       "source": "Briefs Finance"
-      }
-     ]
-    },
-    {
-     "texte": "Nvidia a bouclé sa plus longue série de baisses hebdomadaires depuis 2008, sa pire semaine en 18 ans, et fait désormais l'objet d'une enquête de la SEC. Après la démission de Jensen Huang, Donald Trump a appelé le groupe à lui accorder une « seconde chance ».",
-     "articles": [
-      {
-       "titre": "After Its Worst Week in 18 Years, Nvidia Now Faces an SEC Investigation. What It Means for Investors",
-       "url": "https://www.fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors/?source=iedfolrf0000001",
-       "source": "The Motley Fool"
-      },
-      {
-       "titre": "Donald Trump veut que Nvidia accorde une «seconde chance» à Jensen Huang",
-       "url": "https://www.liberation.fr/economie/economie-numerique/donald-trump-veut-que-nvidia-accorde-une-seconde-chance-a-jensen-huang-20261121_KVS5YUW7KBCKVHMKZK36BNBXUI/",
-       "source": "Libération Économie"
-      },
-      {
-       "titre": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
-       "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
-       "source": "CNBC"
-      }
-     ]
-    },
-    {
-     "texte": "En Asie, le KOSPI est passé sous 4 900 puis 4 800 points, Samsung et SK hynix ayant vu leur valeur divisée par deux sur fond de craintes de bulle de l'IA ; en Chine, la déroute des valeurs de l'IA atteint 1 700 milliards de dollars. L'Inde fait exception : le Nifty 50 approche son record et le Sensex touche un plus haut de neuf mois grâce aux achats des investisseurs étrangers.",
-     "articles": [
       {
        "titre": "KOSPI Breaks Below 4,900 as AI Bubble Fears Halve Chip Stocks; Brokerages Call It 'Oversold'",
        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzN2llTTkzWnhfU0VOdjNjcnU1el9UTS1GZDZTQXpuQVlrcWlGVjE0MS1kUUdOU1lIWjliclN2TzdZZ3F6QjhqYnhJRS13UHphZkVzc2pKUXFsLVRmeTFnaG1oQUUtbURlMGhiQzNyeU1YRmQtQ3c?oc=5",
        "source": "BigGo Finance"
       },
       {
-       "titre": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
-       "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
-       "source": "Bloomberg Markets"
-      },
-      {
-       "titre": "Indian Stocks Surge Against Global Market Tide as Nifty 50 Nears Record High on Foreign Inflows of Over 1 Trillion Rupees",
-       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00M19YNjF3SFJRckF0Qkkxek15blJ2cHktYmh3S3NsNWw4VlFWblgtSnp0eS1qRms4eHJUdzl4aTlVQmlFZ3JLT3A1MmptZTBOWlVmbzNBQjNXMU1RSGFnOUh2RTFKcE5pOWR2bmlUTDlWSVpEVGc?oc=5",
-       "source": "BigGo Finance"
-      },
-      {
-       "titre": "Nifty Gains 2.6%; Sensex Hits 9-Month High on FII Buying",
-       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUGFSMWJoeDJNTElSVk5neHlWQk40YTQ2UmhMM3BkMUZOZjRCYlB1ekdMTk54QXdJNlFDWmRubHN5ZjJBQ3BveDRBRHNud1E4OVZvZmh5TWVlcU9jUVVoQ0gya3VqckR3Zkg0Qkl3WkwwUFNRWm94UWdtZEVBN3ZUZ0Z0VlpLZGFCbWZSd1EwODVZNGpJOE5oNnRyMmRfTmdDZ0ZQMUJ5cmd4dw?oc=5",
-       "source": "HDFC Sky"
+       "titre": "Australian shares sink for eighth straight session",
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX1R4engyMk9GYXkwb3JKZzRtQTBmajk3ODVST2sxaGtEUnYxMmk5cHVXWXNWMDYtam1Md3JJVHh4d1FuR21vclJSR0RYRDQxWDZzWmNYZWliQ1FTbEEwTi1vdjFhQmk4cl9lSVRFRzBLRENxTERRU3JZOHZGOTlFQndicTV6ZE5sOERicWo0SVQzaXhNWTFDTzhyclUwUTVNMHU5TE9kVGZfMU03VXc?oc=5",
+       "source": "CommBank"
       }
      ]
     },
     {
-     "texte": "En Europe, le CAC 40 a perdu 5,27 % sur la semaine, entraîné par le secteur du luxe, et les valeurs automobiles ont mené la baisse des marchés européens sur fond de bras de fer commercial entre les États-Unis et la Chine.",
+     "texte": "L'Europe n'est pas épargnée : le CAC 40 a décroché de 5,3 % sur fond de défiance envers l'IA et est repassé sous les 8 000 points. Dans le Golfe, la plupart des places reculent, la Bourse saoudienne (Tadawul) cédant près de 2 %.",
      "articles": [
       {
-       "titre": "CAC 40 : −5,27 % cette semaine, que faire lundi ?",
-       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblRFUGtheGhjTjdLOTNxWHNub2JrX000aE1tZHpZZFFMbVc2b19TUzVCVlBmQm9Rb1ZGZ083WFlRdURuemxUU2ZhMVNfMC1lRXlLeG9rOS1Lb1haQkFncDMxMkpjMkVRU0FHaWppUVB6dmZodVNEVmlFT3M2el96Z0dQV1ZIbFV3bU1qWlhyVWNBTlZvTVhZcjVBaFhDaXNGVzlHQQ?oc=5",
-       "source": "https://www.leconseilpatrimoine.fr/"
+       "titre": "Le CAC 40 décroche de 5,3 % sur fond de défiance envers l’IA",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYmhHWWhKUWNicXcxNWRiNnpjZ3hKSVZzdFJucGlpR0Zsa1RtbEdCbU80Z1ktWkRkVVZzaHNfSnBLS0tqNVpXYjZpZmxwaWg4MjdxTENvdzg2ZkYteVBGR18tOUFNYlU4RkpnMW1zNTZwQUlLSUVNaXlURHZLWkRRWkZpdmNBQzJkY2VzYXYyUzNSMVdjanRrTlNCekdBWG9hTW9hNEtxNVVkWGxmZ3FobW5vWGM2QQ?oc=5",
+       "source": "Zoom Invest"
       },
       {
-       "titre": "Le secteur du luxe a fait trébucher le CAC 40",
-       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdU9Zb0ZlMGM3dHVJRV9oSlV6emdoUld0N1M4cHE3WmxzUG5fYktGTXdXdmxmcTRJU1l1ZUhtWVZIc0JrUmhzUXdlOTNjT2ZyOHJkbVFXRmhNZGVqa2pjejhWM0lBZmJIMG14QUhBYzdiMFVwOXJmVE1KVWdacVItcTZBMXowZw?oc=5",
-       "source": "Radio Monaco"
+       "titre": "Le CAC 40 s’effondre sous 8000 pts : Début de krach ou soldes boursières ?",
+       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPazhsZmdMcFlPNnFEYkJFeUdseXpsbnRxM2M0S0g3MU9Fc0RpdGttWl9qamVfRFZUY1l1MWQtQVNkY3NpN3lhZWZEREJaV3RsVHozOGNvaUgtUGRuTGhUM1VxcnlYM2JRcVplbjRkcGd1bGRMSk9tZmRHd1BGTzBIakNJT1FoZTZrRlNXUEpXZDdqQW0wOWE5TlBLdDZlUlpyZVY0V2hqQVpJQnpLTGlOeEJHYjljUUptelU2T0RkcWVnVTJvdzVKd3hKUGRJR3U4NXpB?oc=5",
+       "source": "Investing.com France"
       },
       {
-       "titre": "Auto stocks lead European shares lower amid US-China trade standoff",
-       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQTdDcVBlU2ZYWHZKbDZsbWFaeElZV1VWSW5UYWFMMGN6VWxYU1VIaDBMVXVwWVhuQ0IwWWVadlkxUmV4NkNMQzh0TVAzM0kwNlBJdG5zdmRRTXdVMDJ5T3liSFRudXYtbHZjeEVWdUtHbUVjSmt5azdaV2l0NzYxd3BwNm5lc0pQVWtXbXVIdnNFOXBIZ3pJdFhYOENhVmtqalpiMzIzUUtxMDZj?oc=5",
-       "source": "Yeni Safak English"
+       "titre": "Bourses européennes : éviter le jeu de qui perd perd",
+       "url": "https://www.lesechos.fr/finance-marches/le-radar-des-marches/bourses-europeennes-eviter-le-jeu-de-qui-perd-perd-2263969",
+       "source": "Les Echos"
       },
       {
-       "titre": "European stocks close lower Friday",
-       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSWZ4YmI2c0s3U3VEVy00N21fWmdDMFJJUDdqZW1oVU9QVVlNci1feTJWM1JMa0czMFFIX2VDOGlMSXJJc1lNTmtjNTFVSE5La1Y5VjlyU0M2V2wwSk9NTXFGNjl5N3ZfZWhFdUx5YVRTbk5NSjF2Y2RQZUtVa1NKcGNwcDY3V3RaaWdORVlWQV9WQQ?oc=5",
-       "source": "巴士的報"
+       "titre": "Tadawul Slides Nearly 2% as Saudi Shares Close Lower",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbnItMXNjV0lXNUVUYnhwZHZ3d3BvREZEc3dDNWpRR19XTVhJVHhHM3NsN2FIaUlpZGxaN2RCM2Yxa1JYYW1tZWV5MVBZSkZZczhQNHU3c1RYNk1vVXVudWZYckhLUTVmdTdRbXpHNm10dThERnZQcXdzLTRiWFdwWE5wMEoyeHN3Ykdsa3ZqY1d3a19jS1VoWWZvazVocGZMZFotUHdVdVVGVlRlWEtWLXY2Yzc?oc=5",
+       "source": "Business Upturn"
+      }
+     ]
+    },
+    {
+     "texte": "En France, Emmanuel Macron envisage d'inscrire une « règle d'or » budgétaire dans la Constitution si la volatilité sur les taux persiste d'ici janvier. Le sommet Choose France annonce 15 milliards d'euros de projets nouveaux, et le Smic sera revalorisé de 1,6 % le 1er décembre, à plus de 1 500 € net.",
+     "articles": [
+      {
+       "titre": "\"Une idée à explorer\": Emmanuel Macron confirme envisager l'adoption d'une règle d'or budgétaire \"s'il y a encore de la volatilité\" sur les taux \"d'ici janvier\"",
+       "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/une-idee-a-explorer-emmanuel-macron-confirme-envisager-l-adoption-d-une-regle-d-or-budgetaire-s-il-y-a-encore-de-la-volatilite-sur-les-taux-d-ici-janvier_AD-202611230169.html",
+       "source": "BFM Business"
+      },
+      {
+       "titre": "«Règle d’or» budgétaire : Emmanuel Macron réfléchit à s’en emparer, la droite et l’extrême droite s’en réjouissent",
+       "url": "https://www.liberation.fr/economie/regle-dor-budgetaire-emmanuel-macron-reflechit-a-sen-emparer-la-droite-et-lextreme-droite-sen-rejouissent-20261122_BPFY5UQC7VGJNMGJO35GLLOZJQ/",
+       "source": "Libération Économie"
+      },
+      {
+       "titre": "Choose France : une deuxième «édition française» aux allures de bilan pour Emmanuel Macron, dans une économie plombée",
+       "url": "https://www.liberation.fr/economie/choose-france-une-deuxieme-edition-francaise-aux-allures-de-bilan-pour-emmanuel-macron-dans-une-economie-plombee-20261122_ROFFBLVQHNHVVGBYUGNVMTK7EM/",
+       "source": "Libération Économie"
+      },
+      {
+       "titre": "Les offres d'emploi au Smic de plus en plus nombreuses",
+       "url": "https://www.bfmtv.com/economie/video-les-offres-d-emploi-au-smic-de-plus-en-plus-nombreuses_VN-202611220116.html",
+       "source": "BFM Business"
+      }
+     ]
+    },
+    {
+     "texte": "Côté nominations et opérations : l'Espagnol Pablo Hernández de Cos, directeur général de la BRI, est en passe de prendre la présidence de la BCE. Tata Steel va acquérir pour 1,67 milliard de dollars une participation de 26,4 % dans le premier fabricant indien de tubes en acier, et le groupe boursier suisse SIX intensifie ses efforts pour attirer les valeurs de croissance.",
+     "articles": [
+      {
+       "titre": "L'Espagnol Pablo Hernandez de Cos s'impose dans la course à la présidence de la BCE",
+       "url": "https://www.lesechos.fr/finance-marches/marches-financiers/lespagnol-pablo-hernandez-de-cos-simpose-dans-la-course-a-la-presidence-de-la-bce-2263907",
+       "source": "Les Echos"
+      },
+      {
+       "titre": "Tata Steel to buy $1.67 billion stake in India’s largest steel pipe maker; shares plunge nearly 5%",
+       "url": "https://www.cnbc.com/2026/11/23/tata-steel-acquisition-deal-apl-india.html",
+       "source": "CNBC"
+      },
+      {
+       "titre": "Swiss Bourse Owner SIX Steps Up Effort to Attract Growth Stocks",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-23/swiss-bourse-six-group-attract-growth-stocks-aquis-stock-exchange",
+       "source": "Bloomberg Markets"
       }
      ]
     }
    ]
   },
   "science": {
-   "titre": "Astrophysique en vedette : James Webb observe une collision d'étoiles dans Andromède et les ondes gravitationnelles pourraient révéler des planètes invisibles",
+   "titre": "Santé et astrophysique dominent, entre un traitement anti-cholestérol en une seule injection et des trous noirs nés sans supernova.",
    "points": [
     {
-     "texte": "Dans la galaxie d'Andromède, une petite étoile a spiralé jusqu'à être avalée par une étoile géante 18 000 fois plus lumineuse que le Soleil, déclenchant une violente éruption dont le télescope James Webb a révélé les suites.",
+     "texte": "Un nouveau traitement anti-cholestérol, administré en une seule injection, pourrait rester efficace trois ans et remplacer à terme les traitements hypolipémiants classiques.",
      "articles": [
       {
-       "titre": "A giant star swallowed another star. James Webb reveals the aftermath",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+       "titre": "Une seule injection, trois ans d'efficacité : le traitement anti-cholestérol qui suscite l'espoir",
+       "url": "https://www.futura-sciences.com/sante/actualites/cholesterol-seule-injection-trois-ans-efficacite-traitement-anti-cholesterol-suscite-espoir-139440/#xtor%3DRSS-8",
+       "source": "Futura"
+      }
+     ]
+    },
+    {
+     "texte": "Une étude portant sur plus de 2 500 personnes montre que des médicaments courants, dont des antidépresseurs, peuvent modifier durablement le microbiote intestinal, avec des effets persistant des années.",
+     "articles": [
+      {
+       "titre": "Common medications may secretly rewire your gut, with effects lasting for years",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261120071501.htm",
        "source": "ScienceDaily"
       }
      ]
     },
     {
-     "texte": "Les ondes gravitationnelles, qui renseignent depuis dix ans sur les trous noirs et les étoiles à neutrons, pourraient aussi permettre de détecter des planètes invisibles. Par ailleurs, des chercheurs proposent d'utiliser des horloges atomiques à la sensibilité fortement accrue pour tester si des horloges peuvent vivre plusieurs écoulements du temps à la fois.",
+     "texte": "Un motif inattendu dans 257 fusions de trous noirs suggère que des étoiles massives s'effondrent directement en trous noirs sans exploser en supernova. Par ailleurs, des chercheurs montrent qu'au-delà de 75 % de la vitesse de la lumière, la lumière qui propulse une voile solaire pourrait commencer à la freiner.",
      "articles": [
       {
-       "titre": "Et si les ondes gravitationnelles permettaient de découvrir des planètes invisibles ?",
-       "url": "https://www.futura-sciences.com/sciences/actualites/exoplanete-si-ondes-gravitationnelles-permettaient-decouvrir-planetes-invisibles-139425/#xtor%3DRSS-8",
-       "source": "Futura"
+       "titre": "A mysterious gap hints at black holes born from stars that never exploded",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261121221126.htm",
+       "source": "ScienceDaily"
       },
       {
-       "titre": "Time may be far stranger than we realize. Scientists have a way to test it",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+       "titre": "Interstellar solar sails hit a bizarre problem at 75% of light speed",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261120071305.htm",
        "source": "ScienceDaily"
       }
      ]
     },
     {
-     "texte": "Climat : la chaleur et la sécheresse mettent en difficulté même les cactus, et les prévisions des scientifiques à l'horizon 2100 sont jugées alarmantes.",
+     "texte": "Même les cactus atteignent leurs limites face à la chaleur et à la sécheresse : les projections des scientifiques pour 2100 sont alarmantes.",
      "articles": [
       {
        "titre": "Il fait tellement chaud et sec sur Terre que même les cactus commencent à disparaître : les prévisions des scientifiques pour 2100 sont alarmantes",
@@ -159,73 +174,53 @@
        "source": "Futura"
       }
      ]
-    },
-    {
-     "texte": "Archéologie : de nouvelles datations suggèrent que le squelette découvert dans un sarcophage romain de l'abbaye de Westminster appartenait à un abbé médiéval de haut rang, ce qui pourrait résoudre un mystère vieux de plus de 150 ans.",
-     "articles": [
-      {
-       "titre": "Who was buried in Westminster Abbey's Roman coffin? A 150-year mystery may be solved",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261119194553.htm",
-       "source": "ScienceDaily"
-      }
-     ]
-    },
-    {
-     "texte": "Neurologie : après une opération du cerveau, un Américain de 28 ans voit le visage de son chat sur les personnes qu'il croise, et inversement, parfois pendant toute une journée.",
-     "articles": [
-      {
-       "titre": "« Pendant plusieurs heures, parfois toute la journée » : à 28 ans, il voit son chat prendre un visage humain et les humains ressembler à son chat !",
-       "url": "https://www.futura-sciences.com/sante/actualites/cerveau-pendant-plusieurs-heures-parfois-toute-journee-28-ans-il-voit-son-chat-prendre-visage-humain-humains-ressembler-son-chat-139484/#xtor%3DRSS-8",
-       "source": "Futura"
-      }
-     ]
     }
    ]
   },
   "spatial": {
-   "titre": "BepiColombo entre en orbite autour de Mercure, tandis que SpaceX enchaîne lancement militaire et annonces sur Starship",
+   "titre": "La Chine précise sa feuille de route lunaire tandis que les cadences de lancement s'accélèrent chez SpaceX et Amazon.",
    "points": [
     {
-     "texte": "La sonde européo-japonaise BepiColombo arrive en orbite autour de Mercure le 21 novembre, plus de huit ans après avoir quitté la Terre.",
+     "texte": "La Chine a présenté sa feuille de route la plus détaillée à ce jour pour poser des astronautes sur la Lune avant 2030.",
      "articles": [
       {
-       "titre": "European-Japanese BepiColombo probe arrives in orbit around Mercury today",
-       "url": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
+       "titre": "China details its path to a crewed Moon landing before 2030",
+       "url": "https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/",
+       "source": "NASASpaceflight"
+      }
+     ]
+    },
+    {
+     "texte": "Une Ariane 6 doit lancer ce 23 novembre 36 satellites Internet d'Amazon, huit jours seulement après l'échec d'une Vulcan Centaur de ULA lors d'une mission pour Amazon.",
+     "articles": [
+      {
+       "titre": "Watch live today: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
+       "url": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
        "source": "Space.com"
       }
      ]
     },
     {
-     "texte": "SpaceX lance la mission NROL-136 depuis la base de Vandenberg pour le National Reconnaissance Office : c'est le quatrième lancement de l'année pour la constellation de satellites de renseignement de l'agence en orbite basse.",
+     "texte": "SpaceX a lancé deux fusées depuis le même pas de tir californien à 32 heures d'intervalle, battant son propre record de rotation d'environ 13 heures.",
      "articles": [
       {
-       "titre": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
-       "url": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
-       "source": "Spaceflight Now"
-      }
-     ]
-    },
-    {
-     "texte": "Selon Elon Musk, le premier étage supérieur de Starship récupéré par les « baguettes » de la tour ne revolera pas et sera exposé comme pièce de musée.",
-     "articles": [
-      {
-       "titre": "SpaceX will retire 1st Starship upper stage ever caught by 'chopsticks,' Elon Musk says",
-       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-retire-1st-starship-upper-stage-ever-caught-by-chopsticks-elon-musk-says",
+       "titre": "SpaceX launches 2 rockets from same pad 32 hours apart, smashing turnaround record (video)",
+       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
        "source": "Space.com"
       }
      ]
     },
     {
-     "texte": "Côté images, la NASA met en avant les tourbillons et couleurs de Jupiter vus par Juno ainsi que Neptune photographiée par Voyager.",
+     "texte": "La NASA a mis en service à Svalbard (Norvège) un instrument géodésique laser de nouvelle génération servant à mesurer les orbites des satellites et la forme de la Terre ; le Johnson Space Center de Houston fête par ailleurs ses 65 ans.",
      "articles": [
       {
-       "titre": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
-       "url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
+       "titre": "Laser Focus at the Top of the World",
+       "url": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/",
        "source": "NASA"
       },
       {
-       "titre": "APOD: 2026 November 21 – Voyager’s Neptune",
-       "url": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
+       "titre": "65 Years of Human Spaceflight at NASA Johnson",
+       "url": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
        "source": "NASA"
       }
      ]
@@ -233,50 +228,55 @@
    ]
   },
   "hotellerie": {
-   "titre": "Les transactions dominent : ventes d'hôtels de prestige à Gstaad et Marseille, rachats aux États-Unis et en Égypte",
+   "titre": "Reconversions et cessions d'hôtels historiques rythment l'actualité, sur fond de nouveaux modèles de distribution.",
    "points": [
     {
-     "texte": "La milliardaire suisse Dona Bertarelli aurait vendu son hôtel de Gstaad pour un montant pouvant atteindre 500 millions de dollars.",
+     "texte": "Transactions : l'hôtel de Burtaigne, l'un des plus anciens bâtiments de Metz, est racheté par Batigère pour y créer 24 logements ; aux États-Unis, l'immeuble U.S. Hotel de Middletown (Ohio) a été vendu aux enchères.",
      "articles": [
       {
-       "titre": "Swiss billionaire Dona Bertarelli reportedly sells Gstaad hotel for up to $500 million",
-       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM1VoWkk4djRzRWRSWjNGZnJJQWp6TWJsd0RWZGJJOHNMQ3M0aHZlTGFXZW5fcVRuUGZ2Z0VpTEtGbkRRSkFFWGU0M3VhWlB2NDU2Zk91REhEdGhGSnhRdTkwU0tLZWJseHhxZmVLQUJ3bnVhOGZTOHlLLVFzYWVIYmlnNjRGdnp6Z1ZxZ2k1MXhGMHlDNEg1bDN6TlFnbDkwUkd0Ump0QUFEd21fQlJGTV9KZU9ETjU5aldqQmUwa2NrUER1azRzLQ?oc=5",
-       "source": "Billionaires.Africa"
-      }
-     ]
-    },
-    {
-     "texte": "À Marseille, l'hôtel Le Petit Nice Passedat est cédé à la famille Saadé ; le dernier service est prévu le 30 janvier 2027.",
-     "articles": [
-      {
-       "titre": "L’hôtel Le Petit Nice Passedat, à Marseille, cédé à la famille Saadé : dernier service le 30 janvier 2027",
-       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTFhiY1dvR0ZNSjJJc1U5VmkxeWptS0l3azB4ZkZPR3RwUGdtUUppaGV6YlJFRDUxcS1QVGt3dHZkWVpxVkNKalZyNVhyWUUzZEJLNlczUGtqanpHRWZLZHVtcEVSYXk3WVNRSlNIM2o2M3V1bDVHZUlPYjA1V1BfbkQ5YjNOT2Fx?oc=5",
-       "source": "La Revue des Hôtels"
+       "titre": "L'hôtel de Burtaigne, un des plus anciens bâtiments de Metz, racheté par Batigère qui va y créer 24 logements",
+       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcmtJd2NpNmRjU1ViZW1QMm0wMTM0NkgwMlN3YzY1a2ZfUFBUNkN4djdUNVFtY04xcWFiemI5cnc5bnRoZkhUX0V6azlZU1VGMDlGQVhvMkVtX21sY3NpR2hVLVZyXzFTRENKdjJGZUdzdkFaem9RNGxfSk9iM2dSWWJBR1Z6a1BvbFZKX2t3YjNpRlhPYzBIdjJaZFpMb3ZJYnRQc3kyNTBLbEFseTdxS3lfSW5VWUNRcnlCUGt6MzMybjJDLXdudDZqdGRTb0xIUU1xQUQzTW0zUXpHRENoOVRyRng1NkZrcTB6QjlzdmZYdw?oc=5",
+       "source": "ici.fr"
       },
       {
-       "titre": "Le Petit Nice Passedat hotel in Marseille sold to the Saadé family: last service on 30 January 2027",
-       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDh1V3JEUnJ3dTVOclVIN1FGRVlBZnp6TG9YRHkyRWp5NGNoSS1GeTBRbXdtRlF1ZEtma1h6a0YzX0Y3ZjdlY2cxQXVSNDJzRFFwMlJaSzhwWExRX01UenlCZWNNc3U2bnEwR2swNVJoZW5UQVBNelBtc1Q0bm1rUE55ZnZoZw?oc=5",
-       "source": "La Revue des Hôtels"
+       "titre": "Middletown Ohio's U.S. Hotel Building Sold at Absolute Auction",
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVzF5OXZucExDUVNRdlNUWGcxeEVieG1maHRsOXMweWJmM2xTNC1LWUFRYXZIX0ZKMkdreUFUN3RxTG5ibm1fX3hYTjBvaWVLN3lrSHZZaUpyYXdWRmJmcUlfMDlXVkFQRUZ0ZjZ6YWI0T3ZjR3kxYlNfRTFPLXZTT3FfWFdRT2lrUWJtX0N6dDE3Ymg4Njk3MjJCT1R6YjZKamZVUldOQmZsUTg?oc=5",
+       "source": "Hoodline"
       }
      ]
     },
     {
-     "texte": "Aux États-Unis, Ascendant Capital Partners est en train d'acquérir le Westin Seattle.",
+     "texte": "En Algarve (Portugal), une ancienne usine laisse place à un complexe immobilier de luxe comprenant un hôtel.",
      "articles": [
       {
-       "titre": "Ascendant Capital Partners Acquiring the Westin Seattle Hotel",
-       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYTI0dkVJYmNUMUhmVzVOTFU1VzJsSlNjaFFGY1Axck1UX295WURLZDM2bWpQUl9BcEVLclJ1RVFWeTRTQjdWdUFfT1o1WGprTkdFb19QVUtIVXQ5SzlLa2oxWVk5X2xfcUstNzRDdFhIT2I2WmNCUF9tQ2NUYVVMZ1BQRFVtbGgxZWRUMVBoMi1RYk00eHNqcE5pQ3RRQQ?oc=5",
-       "source": "Connect CRE"
+       "titre": "Une ancienne usine cède la place à un complexe immobilier de luxe comprenant un hôtel en Algarve",
+       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMlUteURia0R6R0JEdUdsR3BZelNTSWNhRDhqdjRMRVJUdlJCVXo0c1B1ZFBEOE12U3R5NmFfLXFtbkI4T0E4THhZOHJVRXJoQ2lHNjc2SjZ6M3lsclJzbnowTXAwbHNOalFhbWh4RUlPM2NqTUJIaVFXX1VPU2dsSkkwUlNEdjV2eDduaF9pVFhsbkxPaWV3d1Qyd1JuUS1tSGVvZFRQT081MnNuRk5IQmU2LV9uSXdZb0tkOWo4U0hrcUlmWlNLNklDZ0FzUGJFTVJfamN1NkVvUnpabGZHRnFBTVg2VzRmeHpjbFVQNHBlUQ?oc=5",
+       "source": "The Portugal News"
       }
      ]
     },
     {
-     "texte": "En Égypte, le groupe SUNRISE rachète trois hôtels d'Al Kharafi pour 68,1 millions de dollars, selon la presse.",
+     "texte": "Distribution : l'italien WeRoad entre en Corée du Sud sans vendre directement, en laissant la superapp coréenne NOL détenir la relation client, un modèle possible pour les voyagistes occidentaux en Asie.",
      "articles": [
       {
-       "titre": "Egypt's SUNRISE Buys Three Al Kharafi Hotels For $68.1M: Report",
-       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRkZBTVFMd3FCOTFRM0FsZmduMDM0QXlqMGlfSXk4ZUN4c1lvVXFmTGdoUTI0SFVMdHJBd0xOSG1zbFVKRHNwajVRNmQ3YVRJemViWnV0bFhTS3VmNldVNHFvaENzNDd0dVRhTDZhWFVOWkhPRzVTejBySmcwYkdELWk0ZnVWMFRTNVNGVGRJN0hOdF9ON0lETXlsQVgtSjJsQm1Qd2NXLU5ZR1Y3?oc=5",
-       "source": "Forbes Middle East"
+       "titre": "Italy’s WeRoad Lets Korean Superapp NOL Own Its Customers: Exclusive",
+       "url": "https://skift.com/2026/11/22/italys-weroad-lets-korean-superapp-nol-own-its-customers-exclusive/",
+       "source": "Skift"
+      }
+     ]
+    },
+    {
+     "texte": "Nomination : Ajay K. Bakaya, président de Sarovar Hotels, rejoint le conseil consultatif de Pomolabs (groupe IDS Next) pour orienter ses solutions d'IA hôtelière. Marketing : le W South Beach de Miami Beach devient le « Y Hotel » de GTA VI, contre 650 000 dollars versés par Rockstar Games.",
+     "articles": [
+      {
+       "titre": "Pomolabs, an IDS Next Company, Welcomes Hospitality Veteran Ajay K. Bakaya as Advisory Board Member",
+       "url": "https://www.hospitalitynet.org/news/4135625/pomolabs-an-ids-next-company-welcomes-hospitality-veteran-ajay-k-bakaya-as-advisory-board-member",
+       "source": "Hospitality Net"
+      },
+      {
+       "titre": "GTA VI : du W au Y, quand un hôtel de Miami Beach prête sa façade à Vice City",
+       "url": "https://hospitality-on.com/fr/hotellerie/gta-vi-du-w-au-y-quand-un-hotel-de-miami-beach-prete-sa-facade-vice-city",
+       "source": "Hospitality ON"
       }
      ]
     }
