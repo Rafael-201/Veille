@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T06:17:43Z",
+ "generated_at": "2026-11-23T07:42:02Z",
  "sources": [
   {
    "name": "CNBC",
@@ -39,7 +39,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 62
+   "archived": 61
   },
   {
    "name": "BFM Business",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 69
+   "archived": 67
   },
   {
    "name": "Nature",
@@ -149,7 +149,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 89
+   "archived": 90
   },
   {
    "name": "SpaceNews",
@@ -369,7 +369,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 68
+   "archived": 69
   },
   {
    "name": "Marchés · Moyen-Orient",
@@ -379,7 +379,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 63
+   "archived": 64
   },
   {
    "name": "Marchés · Asie-Pacifique",
@@ -399,7 +399,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 74
+   "archived": 76
   }
  ]
 }
