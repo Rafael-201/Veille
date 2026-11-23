@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T06:16:10Z",
+ "generated_at": "2026-11-23T06:17:43Z",
  "sources": [
   {
    "name": "CNBC",
@@ -349,17 +349,17 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 70
+   "archived": 71
   },
   {
    "name": "Marchés · Europe",
    "cat": "finance",
    "topic": "marches",
    "url": "https://news.google.com/rss/search?q=%28%22European+shares%22+OR+%22Stoxx+600%22+OR+FTSE+OR+DAX+OR+%22European+stocks%22%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests",
-   "archived": 78
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 81
   },
   {
    "name": "Marchés · Europe (FR)",
