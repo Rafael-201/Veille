@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-24T06:18:37Z",
+ "generated_at": "2026-11-24T09:56:36Z",
  "launches": [
   {
    "name": "Soyuz 2.1b | Progress MS-36 (97P)",
    "net": "2026-11-24T10:17:00Z",
-   "status": "TBC",
-   "status_label": "To Be Confirmed",
+   "status": "Go",
+   "status_label": "Go for Launch",
    "provider": "Russian Federal Space Agency (ROSCOSMOS)",
    "pad": "31/6",
    "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
