@@ -1,87 +1,77 @@
 {
- "generated_at": "2026-11-23T06:17:26Z",
+ "generated_at": "2026-11-24T06:18:17Z",
  "auteur": "Claude",
  "rubriques": {
   "finance": {
-   "titre": "Les doutes sur l'IA font plonger les Bourses mondiales, du Nasdaq au CAC 40 en passant par l'Asie.",
+   "titre": "Le retour de Jensen Huang à la tête de Nvidia déclenche un rebond spectaculaire des marchés après la déroute de la tech.",
    "points": [
     {
-     "texte": "Wall Street a vécu sa pire semaine depuis le Covid : le Nasdaq a chuté de 5,28 % en une seule séance, effaçant ses gains de l'année, et s'approche d'un marché baissier, Nvidia en tête du recul. L'introduction en Bourse record d'Anthropic (93,5 milliards de dollars) a précédé la chute ; les contrats à terme américains rebondissent ce lundi.",
+     "texte": "L'action Nvidia s'est envolée de 31 % lundi après le retour aux manettes de Jensen Huang, revigorant Wall Street. Les analystes s'interrogent sur la gouvernance d'un groupe aussi dépendant de son fondateur, jugé « trop important pour être renvoyé ».",
      "articles": [
       {
-       "titre": "Anthropic's $93.5 Billion IPO Marks Record Debut, Then US Stocks Plunge; Nasdaq Drops 5.28% in a Single Day, Erasing Year-to-Date Gains",
-       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YOXRQRW53T0VXZG5jNVpIb1RjUkZ6VlhIeWVhMC1IUEFOMXc2ME5ydHZZcWJuRTZCSXlBdTVscGQ0WmJ1dFVNVFlJa2VES1hCNXFBNzdMZFdmaVNoMW1lRGgxc0xsanNFWjNVTXhNVHZjbm5TVXc?oc=5",
-       "source": "BigGo Finance"
+       "titre": "Jensen Huang, l'homme qui valait 1.000 milliards de dollars",
+       "url": "https://www.lesechos.fr/finance-marches/marches-financiers/jensen-huang-lhomme-qui-valait-1000-milliards-de-dollars-2264205",
+       "source": "Les Echos"
       },
       {
-       "titre": "Nasdaq Index: Nvidia Leads Tech Stock Rout as Nasdaq Nears Bear Market",
-       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQmUwVWx0V3V0VDFfSTVMSHIzTElCY2tFWGVJWkZKR1B2d1VGLXJHTlNGTnZBUTk4MnpXVmF2MGg1VXNkUFF2NDJhNGxFTXZIdmFzTmhTZ0RhVVNhT0x5eHZBempkOUNybE9ySDZqX1VFZ0Z3YXpCcmpKc0hPc0dKZUV1Q2tIOEpuWmNEa2k0aEg2b2lIdjFTM3VuSVJsemU4OFlwZnZEQnpEcmRyOUpMWElucEljTG0wc1BQTQ?oc=5",
-       "source": "FXEmpire"
+       "titre": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO",
+       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNXRXMlFUQkJfcnJPMGVlaWZRejZzSnVuRWJiV1E3TUM3c3pkWkxSSGZJaGtCcEc0Uzdja0xzbFFNcWRIZEtZNlFHMHNDclAzVzJqUHU2Z2lFRE51V3AwSWV1cnRoamFsbDVleTdVUFVhSElYMEhXTlhiNkhQNWtSZlRGT1FYQURPeE9RTA?oc=5",
+       "source": "The New York Times"
       },
       {
-       "titre": "Dow Jones Futures: After Nvidia, Anthropic Fuel Worst Week Since Covid, Look For These 'Absolute Losers'",
-       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbGZqY3FoUjhCTGtSbnJQMmlMMlNQWGxuQ1UyR09vYVpCY2xHcU5la0pPb0FGbnkzZ3AwRThVNXdMcXk4cEZ4elRxd1VKVHRqTEdxUGtHeUZNS1RPQkVKdUpXeVJscjg1Qm1zUHpjMDlzYUQ5UUE0X3FVTzRqRC1FWVRGU0NXWUI0Rk1FWERnVWxkWEtRbTJNc3Nldms4emVsSF9yMU4xaDU4SWh6TDgydjJWa3ZYQ2pFaUp2TFhmdUh6cFU?oc=5",
-       "source": "Investor's Business Daily"
-      },
-      {
-       "titre": "US stock futures rebound as Asian stocks tumble. Wall Street sees more trouble ahead for the AI trade.",
-       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORlNPdE9xWncxZ0dJOHNQaWhXVlZ4QWNlRUVEeElvM2p0X3VGZllWN0U5dXRWZDBkc2Y2TkhTTGQyYXNYcU1KR1RINlBaODl5YXhfdG9VVEthN0FWSFZ5Z1VaVTVINGdDWENQMUxBMk5WM0hRNE82aUlwSm82UDR3WWE4dmpybW5RTi1STGJNYUEzaDhqaXBFZQ?oc=5",
-       "source": "Business Insider"
+       "titre": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
+       "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
+       "source": "CNBC"
       }
      ]
     },
     {
-     "texte": "En Asie, les actions reculent malgré les mesures de soutien annoncées par les régulateurs de Corée du Sud, de Chine et de Taïwan. Le KOSPI est passé sous les 4 900 points avec des valeurs de semi-conducteurs divisées par deux, et la Bourse australienne a baissé pour la huitième séance d'affilée.",
+     "texte": "L'Asie a suivi : le Kospi a gagné 7,5 %, le Nikkei 5 % et Taïwan 9,1 %, tandis que l'ASX 200 australien a clôturé en hausse de 1,82 %. Les régulateurs de Corée du Sud, de Chine et de Taïwan ont introduit des mesures de soutien face au repli lié à l'IA.",
      "articles": [
       {
-       "titre": "Asian Stocks Drop as AI Worries Offset Support Measures",
-       "url": "https://www.bloomberg.com/news/videos/2026-11-23/asian-stocks-drop-as-ai-worries-offset-support-measures-video",
-       "source": "Bloomberg Markets"
+       "titre": "Asian Markets Rally as KOSPI Gains 7.5%, Nikkei Rises 5% and Taiwan Jumps 9.1% on Nvidia Rebound",
+       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNUNxWVRheUo0dGtLQ0RaOXZERk9DRjRsQjM0NHhfNktOc0lTLUFPdTFhamNMTFNnVXJmYUt0WWN3WVJPVkFUWklHNk1ENFczc0ZGckhYRjA1NFRzZ29ZWDJ6cld6dXVXWVFVYmpqMUlfZDlCN0IxY3p5eVFocENEWG1VVkw1OUJVZjhSSGFRaWxvWEZrLW9yTXNQaHJDbnBiOWtwWGphYkpINWVybTVNSmEwQU1wUHFfMzlKTWw1bU5hQ0lHanc0Qzd0M19QbnlRYlhaWnlOclRKVEpyakRZaXNB?oc=5",
+       "source": "Kotak Neo"
+      },
+      {
+       "titre": "Australia stocks higher at close of trade; S&P/ASX 200 up 1.82%",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTnF6WjBjTXhNdFhaYlJmVVB4ZndlWmYxZ3FwcnNzdk9WeUY1QlJSLS1wZ0FSQVZJa19xWlBGdjdKZlAxaDQ3UHExRXdUMy1uNk9uQVJjY0tmUl9FSnlYaWVVenh6TnoyMHpPRmpaZUd5QktJcjAxOVEzUThFemo5aHR2WEZsakEzNGFsdDhHMDZ2SGFiVS01ZThJbXA2VmYyZEFzRlJTRDhNdlJVcU9nSGRzRmJHQQ?oc=5",
+       "source": "Investing.com"
       },
       {
        "titre": "How Asian countries are looking to prop up markets as AI downturn sinks stocks",
        "url": "https://www.cnbc.com/2026/11/23/asia-markets-kospi-taiwan-china-csi300.html",
        "source": "CNBC"
-      },
-      {
-       "titre": "KOSPI Breaks Below 4,900 as AI Bubble Fears Halve Chip Stocks; Brokerages Call It 'Oversold'",
-       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzN2llTTkzWnhfU0VOdjNjcnU1el9UTS1GZDZTQXpuQVlrcWlGVjE0MS1kUUdOU1lIWjliclN2TzdZZ3F6QjhqYnhJRS13UHphZkVzc2pKUXFsLVRmeTFnaG1oQUUtbURlMGhiQzNyeU1YRmQtQ3c?oc=5",
-       "source": "BigGo Finance"
-      },
-      {
-       "titre": "Australian shares sink for eighth straight session",
-       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX1R4engyMk9GYXkwb3JKZzRtQTBmajk3ODVST2sxaGtEUnYxMmk5cHVXWXNWMDYtam1Md3JJVHh4d1FuR21vclJSR0RYRDQxWDZzWmNYZWliQ1FTbEEwTi1vdjFhQmk4cl9lSVRFRzBLRENxTERRU3JZOHZGOTlFQndicTV6ZE5sOERicWo0SVQzaXhNWTFDTzhyclUwUTVNMHU5TE9kVGZfMU03VXc?oc=5",
-       "source": "CommBank"
       }
      ]
     },
     {
-     "texte": "L'Europe n'est pas épargnée : le CAC 40 a décroché de 5,3 % sur fond de défiance envers l'IA et est repassé sous les 8 000 points. Dans le Golfe, la plupart des places reculent, la Bourse saoudienne (Tadawul) cédant près de 2 %.",
+     "texte": "En Europe, le CAC 40 tente de se relever après sa pire semaine depuis mars, comme le FTSE 100. Aux États-Unis, les Treasuries ont progressé, la baisse du pétrole apaisant les craintes d'inflation, alors que l'Iran affirme que trois pétroliers ont heurté des mines dans le détroit d'Ormuz malgré une escorte américaine.",
      "articles": [
       {
-       "titre": "Le CAC 40 décroche de 5,3 % sur fond de défiance envers l’IA",
-       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYmhHWWhKUWNicXcxNWRiNnpjZ3hKSVZzdFJucGlpR0Zsa1RtbEdCbU80Z1ktWkRkVVZzaHNfSnBLS0tqNVpXYjZpZmxwaWg4MjdxTENvdzg2ZkYteVBGR18tOUFNYlU4RkpnMW1zNTZwQUlLSUVNaXlURHZLWkRRWkZpdmNBQzJkY2VzYXYyUzNSMVdjanRrTlNCekdBWG9hTW9hNEtxNVVkWGxmZ3FobW5vWGM2QQ?oc=5",
-       "source": "Zoom Invest"
+       "titre": "Le Cac 40 tente de se relever après sa pire semaine depuis mars, Wall Street annonce un rebond marqué",
+       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRDdpbHRpa2RUQjM0REc3elRTX3E3emZqYllEYnNzaHFDWEExMVhXd3JfY19yQTNZYW5DNTI4aThoSDNDLWJ6Q3BydlhrQnFzcVVGU3gyazM3SWUxblVuZVdTY3VmZVFKRUliaDdQclVGclRYMGx0NUktVFl6VVJkY0N6YTRudTFRQUs5bkJRVmU0UDh5ODQtTlhGdk5PMk4tcXVsczlOblM5V3ItNnJFQnM3aURSU0xjOXhZOEV2YV9HazYzejlwakhsZ3BUYmppeXdjNXY2aHVuZmhJd1czNGdrXzdscGk0cVRRcnlyUldmcW1PTUxiY1JrY0xzRlZJ?oc=5",
+       "source": "Investir Les Echos"
       },
       {
-       "titre": "Le CAC 40 s’effondre sous 8000 pts : Début de krach ou soldes boursières ?",
-       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPazhsZmdMcFlPNnFEYkJFeUdseXpsbnRxM2M0S0g3MU9Fc0RpdGttWl9qamVfRFZUY1l1MWQtQVNkY3NpN3lhZWZEREJaV3RsVHozOGNvaUgtUGRuTGhUM1VxcnlYM2JRcVplbjRkcGd1bGRMSk9tZmRHd1BGTzBIakNJT1FoZTZrRlNXUEpXZDdqQW0wOWE5TlBLdDZlUlpyZVY0V2hqQVpJQnpLTGlOeEJHYjljUUptelU2T0RkcWVnVTJvdzVKd3hKUGRJR3U4NXpB?oc=5",
-       "source": "Investing.com France"
+       "titre": "UK Traders Face Shaky Start After Worst Week for Stocks Since March",
+       "url": "https://www.bloomberg.com/news/newsletters/2026-11-23/uk-traders-face-shaky-start-after-worst-week-for-stocks-since-march",
+       "source": "Bloomberg Markets"
       },
       {
-       "titre": "Bourses européennes : éviter le jeu de qui perd perd",
-       "url": "https://www.lesechos.fr/finance-marches/le-radar-des-marches/bourses-europeennes-eviter-le-jeu-de-qui-perd-perd-2263969",
-       "source": "Les Echos"
+       "titre": "Treasuries Advance as Cheaper Oil Alleviates Inflation Concerns",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-24/treasuries-advance-as-cheaper-oil-alleviates-inflation-concerns",
+       "source": "Bloomberg Markets"
       },
       {
-       "titre": "Tadawul Slides Nearly 2% as Saudi Shares Close Lower",
-       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbnItMXNjV0lXNUVUYnhwZHZ3d3BvREZEc3dDNWpRR19XTVhJVHhHM3NsN2FIaUlpZGxaN2RCM2Yxa1JYYW1tZWV5MVBZSkZZczhQNHU3c1RYNk1vVXVudWZYckhLUTVmdTdRbXpHNm10dThERnZQcXdzLTRiWFdwWE5wMEoyeHN3Ykdsa3ZqY1d3a19jS1VoWWZvazVocGZMZFotUHdVdVVGVlRlWEtWLXY2Yzc?oc=5",
-       "source": "Business Upturn"
+       "titre": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
+       "url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
+       "source": "CNBC"
       }
      ]
     },
     {
-     "texte": "En France, Emmanuel Macron envisage d'inscrire une « règle d'or » budgétaire dans la Constitution si la volatilité sur les taux persiste d'ici janvier. Le sommet Choose France annonce 15 milliards d'euros de projets nouveaux, et le Smic sera revalorisé de 1,6 % le 1er décembre, à plus de 1 500 € net.",
+     "texte": "En France, Emmanuel Macron juge l'adoption d'une règle d'or budgétaire « une idée à explorer » et envisage de convoquer un Congrès en janvier si la volatilité des taux persiste. Sébastien Lecornu propose cinq priorités aux parlementaires pour un compromis sur le budget 2027, sans dépasser 5 % de déficit.",
      "articles": [
       {
        "titre": "\"Une idée à explorer\": Emmanuel Macron confirme envisager l'adoption d'une règle d'or budgétaire \"s'il y a encore de la volatilité\" sur les taux \"d'ici janvier\"",
@@ -89,88 +79,103 @@
        "source": "BFM Business"
       },
       {
-       "titre": "«Règle d’or» budgétaire : Emmanuel Macron réfléchit à s’en emparer, la droite et l’extrême droite s’en réjouissent",
+       "titre": "Règle d’or budgétaire : Emmanuel Macron «explore l’idée» de s’en emparer, la droite et l’extrême droite s’en réjouissent",
        "url": "https://www.liberation.fr/economie/regle-dor-budgetaire-emmanuel-macron-reflechit-a-sen-emparer-la-droite-et-lextreme-droite-sen-rejouissent-20261122_BPFY5UQC7VGJNMGJO35GLLOZJQ/",
        "source": "Libération Économie"
       },
       {
-       "titre": "Choose France : une deuxième «édition française» aux allures de bilan pour Emmanuel Macron, dans une économie plombée",
-       "url": "https://www.liberation.fr/economie/choose-france-une-deuxieme-edition-francaise-aux-allures-de-bilan-pour-emmanuel-macron-dans-une-economie-plombee-20261122_ROFFBLVQHNHVVGBYUGNVMTK7EM/",
-       "source": "Libération Économie"
-      },
-      {
-       "titre": "Les offres d'emploi au Smic de plus en plus nombreuses",
-       "url": "https://www.bfmtv.com/economie/video-les-offres-d-emploi-au-smic-de-plus-en-plus-nombreuses_VN-202611220116.html",
+       "titre": "Il veut fixer 5 priorités dont l'agriculture et les lycées: Sébastien Lecornu tend la main aux parlementaires pour obtenir un compromis sur le budget 2027 mais rappelle la nécessité de ne pas dépasser les 5% de déficit",
+       "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/il-veut-fixer-5-priorites-dont-l-agriculture-et-les-lycees-sebastien-lecornu-tend-la-main-aux-parlementaires-pour-obtenir-un-compromis-sur-le-budget-2027-mais-rappelle-la-necessite-de-ne-pas-depasser-les-5-de-deficit_AD-202611240166.html",
        "source": "BFM Business"
       }
      ]
     },
     {
-     "texte": "Côté nominations et opérations : l'Espagnol Pablo Hernández de Cos, directeur général de la BRI, est en passe de prendre la présidence de la BCE. Tata Steel va acquérir pour 1,67 milliard de dollars une participation de 26,4 % dans le premier fabricant indien de tubes en acier, et le groupe boursier suisse SIX intensifie ses efforts pour attirer les valeurs de croissance.",
+     "texte": "Côté entreprises, CrowdStrike annonce le rachat de Zscaler et HPE relève ses prévisions grâce à la demande liée à l'IA, mais son titre recule. Tata Steel prend 26,4 % d'APL Apollo pour 1,67 milliard de dollars, une opération sanctionnée en Bourse, et Coca-Cola HBC fait ses débuts à la Bourse de Johannesburg avant une opération de 2,6 milliards de dollars.",
      "articles": [
       {
-       "titre": "L'Espagnol Pablo Hernandez de Cos s'impose dans la course à la présidence de la BCE",
-       "url": "https://www.lesechos.fr/finance-marches/marches-financiers/lespagnol-pablo-hernandez-de-cos-simpose-dans-la-course-a-la-presidence-de-la-bce-2263907",
-       "source": "Les Echos"
+       "titre": "Investors are missing the bigger picture in CrowdStrike's deal to buy Zscaler",
+       "url": "https://www.cnbc.com/investingclub/2026/11/23/crowdstrikes-zscaler-deal-investors-are-missing-the-bigger-picture.html",
+       "source": "CNBC Résultats"
       },
       {
-       "titre": "Tata Steel to buy $1.67 billion stake in India’s largest steel pipe maker; shares plunge nearly 5%",
+       "titre": "HPE just posted its strongest growth ever — but its stock is sinking",
+       "url": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+       "source": "MarketWatch"
+      },
+      {
+       "titre": "Investors gives a thumbs down to Tata Steel-APL Apollo $1.67 billion deal, plunging shares",
        "url": "https://www.cnbc.com/2026/11/23/tata-steel-acquisition-deal-apl-india.html",
        "source": "CNBC"
       },
       {
-       "titre": "Swiss Bourse Owner SIX Steps Up Effort to Attract Growth Stocks",
-       "url": "https://www.bloomberg.com/news/articles/2026-11-23/swiss-bourse-six-group-attract-growth-stocks-aquis-stock-exchange",
-       "source": "Bloomberg Markets"
+       "titre": "Coca-Cola HBC Rises in JSE Debut Ahead of $2.6 Billion Deal",
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdzVpUlFENHhESW1xaERMZXFWRS1Pcmcxanc2dkVKemhMenBMU2xYaUZQM2ttS21NLUdJdjV0ZWVkTkNWVTJ5aER0WFBhVC1zZ2JFVFpVSkEtRW85bjdNWUctcHdvM1cxaVR1TGpVVGl2QmlVU3dUTDRzVkZjZjBiUnBDVEd0VnJHeDk0cklUU19hckhaNWFFOFE5aVJnWFZZNnlEME9aZXo2SFZqWkE?oc=5",
+       "source": "Bloomberg.com"
       }
      ]
     }
    ]
   },
   "science": {
-   "titre": "Santé et astrophysique dominent, entre un traitement anti-cholestérol en une seule injection et des trous noirs nés sans supernova.",
+   "titre": "Astronomie, abysses et climat : l'actualité scientifique oscille entre découvertes cosmiques et échec de la COP31.",
    "points": [
     {
-     "texte": "Un nouveau traitement anti-cholestérol, administré en une seule injection, pourrait rester efficace trois ans et remplacer à terme les traitements hypolipémiants classiques.",
+     "texte": "Des astronomes ont découvert la plus ancienne paire compacte de quasars connue, alimentée par deux trous noirs géants 900 millions d'années après le Big Bang. Une autre étude suggère qu'une onde de choc galactique permettrait à la Voie lactée de former des étoiles là où la plupart des galaxies n'y parviennent pas.",
      "articles": [
       {
-       "titre": "Une seule injection, trois ans d'efficacité : le traitement anti-cholestérol qui suscite l'espoir",
-       "url": "https://www.futura-sciences.com/sante/actualites/cholesterol-seule-injection-trois-ans-efficacite-traitement-anti-cholesterol-suscite-espoir-139440/#xtor%3DRSS-8",
+       "titre": "Two monster black holes from the dawn of time defy explanation",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261122060342.htm",
+       "source": "ScienceDaily"
+      },
+      {
+       "titre": "A galactic shock wave could rewrite the map of the Milky Way",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261122060329.htm",
+       "source": "ScienceDaily"
+      }
+     ]
+    },
+    {
+     "texte": "Un sous-marin robotisé a mis en évidence des éruptions volcaniques explosives à 6 100 mètres de profondeur dans la fosse des Mariannes, l'activité de ce type la plus profonde au monde.",
+     "articles": [
+      {
+       "titre": "Submarine finds world’s deepest explosive volcanic activity in Mariana trench",
+       "url": "https://www.newscientist.com/article/2599436-submarine-finds-worlds-deepest-explosive-volcanic-activity-in-mariana-trench/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "source": "New Scientist"
+      }
+     ]
+    },
+    {
+     "texte": "En biologie, des virus jusqu'ici inconnus pourraient expliquer l'évolution de certaines des premières structures du vivant. Un prototype de peigne électrique aurait permis près de 100 % de repousse en un mois contre la calvitie, en aidant deux molécules à franchir la barrière de la peau.",
+     "articles": [
+      {
+       "titre": "Mysterious new viruses reveal a missing link in evolution",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm",
+       "source": "ScienceDaily"
+      },
+      {
+       "titre": "Près de 100 % de repousse en un mois : l'étonnant résultat d'un peigne électrique testé contre la calvitie !",
+       "url": "https://www.futura-sciences.com/sante/actualites/calvitie-pres-100-repousse-mois-etonnant-resultat-peigne-electrique-teste-calvitie-139550/#xtor%3DRSS-8",
        "source": "Futura"
       }
      ]
     },
     {
-     "texte": "Une étude portant sur plus de 2 500 personnes montre que des médicaments courants, dont des antidépresseurs, peuvent modifier durablement le microbiote intestinal, avec des effets persistant des années.",
+     "texte": "La COP31 en Turquie s'est effondrée : des pays progressistes sur le climat ont torpillé l'accord, excédés par les tactiques d'obstruction des pétro-États.",
      "articles": [
       {
-       "titre": "Common medications may secretly rewire your gut, with effects lasting for years",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261120071501.htm",
-       "source": "ScienceDaily"
+       "titre": "COP31 collapse has shattered the pretence of a global climate consensus",
+       "url": "https://www.newscientist.com/article/2600331-cop31-collapse-has-shattered-the-pretense-of-a-global-climate-consensus/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "source": "New Scientist"
       }
      ]
     },
     {
-     "texte": "Un motif inattendu dans 257 fusions de trous noirs suggère que des étoiles massives s'effondrent directement en trous noirs sans exploser en supernova. Par ailleurs, des chercheurs montrent qu'au-delà de 75 % de la vitesse de la lumière, la lumière qui propulse une voile solaire pourrait commencer à la freiner.",
+     "texte": "Le patron de l'IA chez Meta affirme que « la superintelligence arrive », une annonce qui relance le débat sur la capacité de l'IA à surpasser les chercheurs en mathématiques.",
      "articles": [
       {
-       "titre": "A mysterious gap hints at black holes born from stars that never exploded",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261121221126.htm",
-       "source": "ScienceDaily"
-      },
-      {
-       "titre": "Interstellar solar sails hit a bizarre problem at 75% of light speed",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261120071305.htm",
-       "source": "ScienceDaily"
-      }
-     ]
-    },
-    {
-     "texte": "Même les cactus atteignent leurs limites face à la chaleur et à la sécheresse : les projections des scientifiques pour 2100 sont alarmantes.",
-     "articles": [
-      {
-       "titre": "Il fait tellement chaud et sec sur Terre que même les cactus commencent à disparaître : les prévisions des scientifiques pour 2100 sont alarmantes",
-       "url": "https://www.futura-sciences.com/planete/actualites/plante-il-fait-tellement-chaud-sec-terre-meme-cactus-commencent-disparaitre-previsions-scientifiques-2100-sont-alarmantes-139498/#xtor%3DRSS-8",
+       "titre": "« La superintelligence arrive » : pour le patron de l'IA chez Meta, l'une des dernières grandes frontières vient de céder",
+       "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-superintelligence-arrive-patron-ia-chez-meta-dernieres-grandes-frontieres-vient-ceder-139576/#xtor%3DRSS-8",
        "source": "Futura"
       }
      ]
@@ -178,49 +183,64 @@
    ]
   },
   "spatial": {
-   "titre": "La Chine précise sa feuille de route lunaire tandis que les cadences de lancement s'accélèrent chez SpaceX et Amazon.",
+   "titre": "La NASA mise 1,3 milliard de dollars sur la logistique lunaire, sur fond de cadence de lancements soutenue.",
    "points": [
     {
-     "texte": "La Chine a présenté sa feuille de route la plus détaillée à ce jour pour poser des astronautes sur la Lune avant 2030.",
+     "texte": "La NASA a annoncé un achat groupé de 1,3 milliard de dollars de fusées et de véhicules de transfert orbital pour amorcer un réseau de fret vers la surface de la Lune et l'espace cislunaire.",
      "articles": [
       {
-       "titre": "China details its path to a crewed Moon landing before 2030",
-       "url": "https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/",
+       "titre": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles",
+       "url": "https://spaceflightnow.com/2026/11/23/nasa-seeks-to-begin-intergalactic-freight-network-with-1-3-billion-block-purchase-of-rockets-orbital-transfer-vehicles/",
+       "source": "Spaceflight Now"
+      }
+     ]
+    },
+    {
+     "texte": "SpaceX doit lancer depuis Vandenberg une charge classifiée pour l'US Space Force, tandis qu'Arianespace prépare Leo Europe 4, quatrième vol d'Ariane 6 pour la constellation Amazon Leo. Le cargo Progress MS-36 doit décoller de Baïkonour pour ravitailler l'ISS.",
+     "articles": [
+      {
+       "titre": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+       "url": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
+       "source": "Spaceflight Now"
+      },
+      {
+       "titre": "Live coverage: Arianespace to launch Amazon Leo sats amid rocket crunch",
+       "url": "https://spaceflightnow.com/2026/11/23/live-coverage-arianespaces-launches-amazon-leo-sats-amid-rocket-crunch/",
+       "source": "Spaceflight Now"
+      },
+      {
+       "titre": "Progress MS-36 set to launch to ISS from Baikonur",
+       "url": "https://www.nasaspaceflight.com/2026/11/progress-ms-36/",
        "source": "NASASpaceflight"
       }
      ]
     },
     {
-     "texte": "Une Ariane 6 doit lancer ce 23 novembre 36 satellites Internet d'Amazon, huit jours seulement après l'échec d'une Vulcan Centaur de ULA lors d'une mission pour Amazon.",
+     "texte": "Northrop Grumman a réservé un sixième Falcon 9 pour son cargo Cygnus en attendant Antares 330, et a remporté un contrat de la NASA pour le compte de la NOAA dans le cadre du programme Near Earth Orbit Network.",
      "articles": [
       {
-       "titre": "Watch live today: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
-       "url": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
-       "source": "Space.com"
+       "titre": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
+       "url": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
+       "source": "NASASpaceflight"
+      },
+      {
+       "titre": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program",
+       "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/",
+       "source": "NASA"
       }
      ]
     },
     {
-     "texte": "SpaceX a lancé deux fusées depuis le même pas de tir californien à 32 heures d'intervalle, battant son propre record de rotation d'environ 13 heures.",
+     "texte": "Des chercheurs ont fait pousser des pommes de terre dans un régolithe lunaire simulé, et un nouvel instrument géodésique de la NASA, qui aide à mesurer l'orbite des satellites et la forme de la Terre, a été mis en service au Svalbard.",
      "articles": [
       {
-       "titre": "SpaceX launches 2 rockets from same pad 32 hours apart, smashing turnaround record (video)",
-       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
+       "titre": "Will astronauts farm on the moon? Scientists successfully grow potatoes in simulated lunar dust",
+       "url": "https://www.space.com/astronomy/moon/will-astronauts-farm-on-the-moon-scientists-successfully-grow-potatoes-in-simulated-lunar-dust",
        "source": "Space.com"
-      }
-     ]
-    },
-    {
-     "texte": "La NASA a mis en service à Svalbard (Norvège) un instrument géodésique laser de nouvelle génération servant à mesurer les orbites des satellites et la forme de la Terre ; le Johnson Space Center de Houston fête par ailleurs ses 65 ans.",
-     "articles": [
+      },
       {
        "titre": "Laser Focus at the Top of the World",
        "url": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/",
-       "source": "NASA"
-      },
-      {
-       "titre": "65 Years of Human Spaceflight at NASA Johnson",
-       "url": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
        "source": "NASA"
       }
      ]
@@ -228,55 +248,115 @@
    ]
   },
   "hotellerie": {
-   "titre": "Reconversions et cessions d'hôtels historiques rythment l'actualité, sur fond de nouveaux modèles de distribution.",
+   "titre": "Les grandes transactions d'hôtels de luxe en Europe dominent, du Park Gstaad au lac de Côme.",
    "points": [
     {
-     "texte": "Transactions : l'hôtel de Burtaigne, l'un des plus anciens bâtiments de Metz, est racheté par Batigère pour y créer 24 logements ; aux États-Unis, l'immeuble U.S. Hotel de Middletown (Ohio) a été vendu aux enchères.",
+     "texte": "Un armateur grec rachète le Park Gstaad pour 540 millions d'euros, Jumeirah acquiert l'Il Sereno sur le lac de Côme, vendu 104 millions d'euros, et la famille Courtin, propriétaire de Clarins, rachète le groupe hôtelier de luxe Evok.",
      "articles": [
       {
-       "titre": "L'hôtel de Burtaigne, un des plus anciens bâtiments de Metz, racheté par Batigère qui va y créer 24 logements",
-       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcmtJd2NpNmRjU1ViZW1QMm0wMTM0NkgwMlN3YzY1a2ZfUFBUNkN4djdUNVFtY04xcWFiemI5cnc5bnRoZkhUX0V6azlZU1VGMDlGQVhvMkVtX21sY3NpR2hVLVZyXzFTRENKdjJGZUdzdkFaem9RNGxfSk9iM2dSWWJBR1Z6a1BvbFZKX2t3YjNpRlhPYzBIdjJaZFpMb3ZJYnRQc3kyNTBLbEFseTdxS3lfSW5VWUNRcnlCUGt6MzMybjJDLXdudDZqdGRTb0xIUU1xQUQzTW0zUXpHRENoOVRyRng1NkZrcTB6QjlzdmZYdw?oc=5",
-       "source": "ici.fr"
+       "titre": "Greek shipowner buys Park Gstaad, the Swiss hotel that has hosted stars and royalty for 116 years, for €540m",
+       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZDdQQXNtVmlfdUtuSHlPbHZjOE52emJJWllmeU9Ja3EwdmQwdnh1Smk2TmVwNHZpWE11Y0ZObUxEdXIyS2hMNkFyT0RvaHZrT2FLdU54WndsdXNhTVZQaVY3SFhJSmROczlOc3RrdlpxRXgwaG9YbklNZUVqUGx1cU1WUWtPRFNNNDRYal84alZUX3lBalZOV055MjlzUjZBUzV4Ui1CRktuT0I3NUFaRy12bHdJZWp2NktBaXJieGhXNFIxczFnTHhreE1jSTBwT2luTmNBYUMzY00?oc=5",
+       "source": "ProtoThema English"
       },
       {
-       "titre": "Middletown Ohio's U.S. Hotel Building Sold at Absolute Auction",
-       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVzF5OXZucExDUVNRdlNUWGcxeEVieG1maHRsOXMweWJmM2xTNC1LWUFRYXZIX0ZKMkdreUFUN3RxTG5ibm1fX3hYTjBvaWVLN3lrSHZZaUpyYXdWRmJmcUlfMDlXVkFQRUZ0ZjZ6YWI0T3ZjR3kxYlNfRTFPLXZTT3FfWFdRT2lrUWJtX0N6dDE3Ymg4Njk3MjJCT1R6YjZKamZVUldOQmZsUTg?oc=5",
-       "source": "Hoodline"
+       "titre": "Jumeirah acquires the Il Sereno hotel in Como; Italia is a strategic market",
+       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWENHdHcyVTdCSl9HS2tkcEFuSTQ0MThFTnVpYmlEa01vRlh2UzUyV0NOUVlrOENkRy1QUTZ6bEtyZmtsV0pGa0ZYaEx5OEhKSkJTM3BIRXhxQ1FKRVdpN1hUOW5IZjlibktJeWlvRlczdFJ0NlFSOUktQlR0UHhJbzU1WTlEZzBQREJXU1ZkX0xPUDV1anVxYWRLeFRVcDV3ZEVxSzUxYnNXeFVpMkFnM2w2STZobk1Q?oc=5",
+       "source": "Il Sole 24 ORE"
+      },
+      {
+       "titre": "L'un des plus beaux hôtels du monde, situé sur le lac de Côme, a été vendu pour 104 millions d'euros à Abou Dhabi",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00N0hFRjBnXzUyWlhfMGtTX21xMzQyU3dXWVRQQ2VkUUNQRm9iaWdPZE1yTEpRcU5WUUxkVS1vbDY4d0RESFJOdVAxVXNZak1IemtPbVA4bFhwSXBYcGxDZndiVDFMZw?oc=5",
+       "source": "Linternaute.com"
+      },
+      {
+       "titre": "La famille Courtin, propriétaire de Clarins, rachète le groupe hôtelier de luxe Evok",
+       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQUpvM0ZidldCblBrSEl6a25ZMFhCTkh6RWlyYTJmOENib3ZtUENhVFM1NVhqUXpFT0FaaXBsRGxjZjBKdmF1RXo2UW8tMEhSUS1OcVZPaXBKZDh2aEZ0dGw2ZlhJdDViNFVzTGkzTjhpVm1lbmlDVW1MQ0Z3OWxNaXhlcEo4ckxEbkxSRFJ0WG5SX1RGOUF4LXNqRTh1emZaN3pOdURmMS0tcjVZNnkxN0tHcFRkdUx1Ql83cURpUkVJQ09zMFM5YU1B?oc=5",
+       "source": "FashionNetwork France"
       }
      ]
     },
     {
-     "texte": "En Algarve (Portugal), une ancienne usine laisse place à un complexe immobilier de luxe comprenant un hôtel.",
+     "texte": "D'autres opérations se multiplient : Planetaria Hotels rachète le Relais Mont Blanc, cinq-étoiles du Val d'Aoste, Southern Sun acquiert une participation hôtelière de 192 millions de rands, CBRE négocie la vente de l'Inn at Union Square à San Francisco et AAM15 achète un portefeuille hôtel et parking à Manchester.",
      "articles": [
       {
-       "titre": "Une ancienne usine cède la place à un complexe immobilier de luxe comprenant un hôtel en Algarve",
-       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMlUteURia0R6R0JEdUdsR3BZelNTSWNhRDhqdjRMRVJUdlJCVXo0c1B1ZFBEOE12U3R5NmFfLXFtbkI4T0E4THhZOHJVRXJoQ2lHNjc2SjZ6M3lsclJzbnowTXAwbHNOalFhbWh4RUlPM2NqTUJIaVFXX1VPU2dsSkkwUlNEdjV2eDduaF9pVFhsbkxPaWV3d1Qyd1JuUS1tSGVvZFRQT081MnNuRk5IQmU2LV9uSXdZb0tkOWo4U0hrcUlmWlNLNklDZ0FzUGJFTVJfamN1NkVvUnpabGZHRnFBTVg2VzRmeHpjbFVQNHBlUQ?oc=5",
-       "source": "The Portugal News"
+       "titre": "Italie | Planetaria Hotels rachète le Relais Mont Blanc, cinq étoiles de la Vallée d’Aoste",
+       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSndQQ1ZVcFhfWWMwRThnMWxJa1paMGoyM0JwWEdkY3JBdDVFU0VwZ3U0QnVfS2t3X1NoLXJkQlBfT0t4ZlRkQkVybXlJNnZoSUpwd2lSTlVzNHg5bk5LYmdIWFJOM1NYU3RJci1FRXo4RWtRTENLNk1MZXNMcXRTSFBZMnVIVGs?oc=5",
+       "source": "La Tribune de l'Hôtellerie"
+      },
+      {
+       "titre": "Southern Sun acquires R192m hotel stake",
+       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Lb1k4Z0cwcVJTeUpyWmtOdjZTYm9EZER1VndKZlpPLVhSVFFGck4ySDlIZDlKbjEya1NWY2FqR3J4WkRwTlc0SlpXcEtVTEJsVWNLa0h1VHNHQk1yeC1kYXRTcS1Ccm5uQTVueHR0MFNxaXprVE85MU1KZW0?oc=5",
+       "source": "Travel News"
+      },
+      {
+       "titre": "CBRE Negotiates Sale of Inn at Union Square Hotel in San Francisco",
+       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVk1IbHZrYThIdDlvRmFiSVY4empYSE5BTG5BRThTSUZGZHA2ZTRtenVOWjloX25ralRqTE1UUXN5WjNlYnhFd0RMa1g2cHNiOFMxeE55WFdzT2I0bXFjWV9vcjdDSVhRMkhydlJaX2RGV2Q4ZUc0Q253eHVjcnd3ZVdFZV9KaXVaN2lGbDczWXBub3J0SnZETGdCMEo?oc=5",
+       "source": "REBusinessOnline"
+      },
+      {
+       "titre": "AAM15 Buys Downtown Manchester Hotel and Garage Portfolio",
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSVdLZzdZNjBiRzJvTzdTdTN3QXI4MUZ6cXhxcjk5SUhULWFVRWh0SnBrZFhzWmY4MUstZjM4UnNRVmwyOHRkMDBETzZkTVZVRldnNTB5bzA0NXBVNDlpbmpXNDRFMk1nc2s5TWNtNUdGX29fMW81T0tYUTlCWUU5WE80WWsxUWVjZEltLW5rMGprdVpQTVg1U040aU9Ua2NVbU9fdw?oc=5",
+       "source": "Wisevoter"
       }
      ]
     },
     {
-     "texte": "Distribution : l'italien WeRoad entre en Corée du Sud sans vendre directement, en laissant la superapp coréenne NOL détenir la relation client, un modèle possible pour les voyagistes occidentaux en Asie.",
+     "texte": "Dans l'hôtellerie de plein air nord-américaine, Trailborn s'étend à Yosemite avec trois établissements, dont la gestion du Firefall Ranch, et RED Mountain Resort s'associe pour acquérir The Josie Hotel en Colombie-Britannique.",
      "articles": [
       {
-       "titre": "Italy’s WeRoad Lets Korean Superapp NOL Own Its Customers: Exclusive",
-       "url": "https://skift.com/2026/11/22/italys-weroad-lets-korean-superapp-nol-own-its-customers-exclusive/",
+       "titre": "Trailborn Hotels & Resorts expands to Yosemite with 3 properties",
+       "url": "https://www.hoteldive.com/news/trailborn-hotels-resorts-expands-to-yosemite-national-park/875470/",
+       "source": "Hotel Dive"
+      },
+      {
+       "titre": "Yosemite Gateway Resorts Join Trailborn Portfolio Following Acquisition",
+       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMXVuaXpMcmJZTXZkd2xBUnNkcC1UX2MwSl84eWJpZW5MUnA1WUV5ZVBFZFVSMkFpU1BRTjJNNEhYekVjUnZKT1RhTmJWa0N5UVZfN0pEYmo4TUhSdzBLODh3cjI2VDFPZEdFdnpMSHRubGF5XzE3cEw0UFhFd09iSkk2LTZ4WlE4NHIzdmVJLTc3QmtPR29RNGEySEhqVFBZUnc2MzcxZFE?oc=5",
+       "source": "Hotel Online"
+      },
+      {
+       "titre": "RED Mountain Resort partners to acquire The Josie Hotel in British Columbia",
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNHhhdlZBd1RfNm1GZ0kxSjJQTmJYLWJUMWlhRDFPN2prSi0yMUJjQk9ZZ0hPdFRDQloxMVFXMTktTldLTktGR2s5SnVYeGUtSC1IeUJxZnlsWHNFS1AtZzZxcmlTU0xseFhxR1NDVFk0R3BrSDl1ZGhtSmVsbEs4dG9JS29FWGsydUJISmh5VlRyVjNCYXc?oc=5",
+       "source": "Travel Daily News International"
+      }
+     ]
+    },
+    {
+     "texte": "Selon Cushman & Wakefield, qui a interrogé 138 opérateurs européens (plus d'un million de chambres), Madrid, Rome, Milan et Barcelone sont les cibles prioritaires, avec des baux hybrides plus flexibles. Aux États-Unis, US Travel estime que l'arrêt des vols imposé par la FAA fait peser un risque de 26 milliards de dollars sur le secteur, et Skift pointe les pressions sur l'activité B2B d'Expedia.",
+     "articles": [
+      {
+       "titre": "Hotel Operators Target Southern Europe as Contract Flexibility Grows Across the Continent, New Cushman & Wakefield Research Finds",
+       "url": "https://www.hospitalitynet.org/news/4135652/hotel-operators-target-southern-europe-as-contract-flexibility-grows-across-the-continent-new-cushman-wakefield-research-finds",
+       "source": "Hospitality Net"
+      },
+      {
+       "titre": "FAA ground stop eroded traveler confidence, posing $26B industry loss: US Travel",
+       "url": "https://www.hoteldive.com/news/faa-ground-stop-eroded-traveler-confidence-survey/875397/",
+       "source": "Hotel Dive"
+      },
+      {
+       "titre": "The Pressures on Expedia B2B",
+       "url": "https://skift.com/2026/11/23/the-pressures-on-expedia-b2b/",
        "source": "Skift"
       }
      ]
     },
     {
-     "texte": "Nomination : Ajay K. Bakaya, président de Sarovar Hotels, rejoint le conseil consultatif de Pomolabs (groupe IDS Next) pour orienter ses solutions d'IA hôtelière. Marketing : le W South Beach de Miami Beach devient le « Y Hotel » de GTA VI, contre 650 000 dollars versés par Rockstar Games.",
+     "texte": "The Leading Hotels of the World a réuni plus de 400 hôteliers indépendants à Rome pour sa 60e convention, SAX Group convertit l'ancienne Poste d'Antibes en cinq-étoiles SAX Riviera, et Ajay K. Bakaya, président de Sarovar Hotels, rejoint le conseil consultatif de Pomolabs.",
      "articles": [
+      {
+       "titre": "The Leading Hotels of the World Unites More Than 400 Independent Hoteliers in Rome for Its 60th Annual Convention",
+       "url": "https://www.hospitalitynet.org/news/4135656/the-leading-hotels-of-the-world-unites-more-than-400-independent-hoteliers-in-rome-for-its-60th-annual-convention",
+       "source": "Hospitality Net"
+      },
+      {
+       "titre": "SAX convertit l'ancienne Poste d'Antibes en hôtel cinq-étoiles",
+       "url": "https://hospitality-on.com/fr/hotellerie/sax-convertit-lancienne-poste-dantibes-en-hotel-cinq-etoiles",
+       "source": "Hospitality ON"
+      },
       {
        "titre": "Pomolabs, an IDS Next Company, Welcomes Hospitality Veteran Ajay K. Bakaya as Advisory Board Member",
        "url": "https://www.hospitalitynet.org/news/4135625/pomolabs-an-ids-next-company-welcomes-hospitality-veteran-ajay-k-bakaya-as-advisory-board-member",
        "source": "Hospitality Net"
-      },
-      {
-       "titre": "GTA VI : du W au Y, quand un hôtel de Miami Beach prête sa façade à Vice City",
-       "url": "https://hospitality-on.com/fr/hotellerie/gta-vi-du-w-au-y-quand-un-hotel-de-miami-beach-prete-sa-facade-vice-city",
-       "source": "Hospitality ON"
       }
      ]
     }
