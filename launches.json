@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-24T09:56:36Z",
+ "generated_at": "2026-11-25T06:16:29Z",
  "launches": [
   {
    "name": "Soyuz 2.1b | Progress MS-36 (97P)",
-   "net": "2026-11-24T10:17:00Z",
-   "status": "Go",
-   "status_label": "Go for Launch",
+   "net": "2026-11-24T10:17:46Z",
+   "status": "Success",
+   "status_label": "Launch Successful",
    "provider": "Russian Federal Space Agency (ROSCOSMOS)",
    "pad": "31/6",
    "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
@@ -14,9 +14,9 @@
   },
   {
    "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
-   "net": "2026-11-24T10:45:00Z",
-   "status": "Go",
-   "status_label": "Go for Launch",
+   "net": "2026-11-24T11:14:52Z",
+   "status": "Success",
+   "status_label": "Launch Successful",
    "provider": "Arianespace",
    "pad": "Ariane Launch Area 4",
    "location": "Guiana Space Centre, French Guiana",
@@ -26,8 +26,8 @@
   {
    "name": "Falcon 9 Block 5 | USSF-266",
    "net": "2026-11-24T16:08:59Z",
-   "status": "Go",
-   "status_label": "Go for Launch",
+   "status": "Success",
+   "status_label": "Launch Successful",
    "provider": "SpaceX",
    "pad": "Space Launch Complex 4E",
    "location": "Vandenberg SFB, CA, USA",
@@ -36,9 +36,9 @@
   },
   {
    "name": "Long March 2F/G | Shenzhou 24",
-   "net": "2026-11-25T00:18:00Z",
-   "status": "Go",
-   "status_label": "Go for Launch",
+   "net": "2026-11-25T00:18:52Z",
+   "status": "Success",
+   "status_label": "Launch Successful",
    "provider": "China Aerospace Science and Technology Corporation",
    "pad": "Launch Area 91 (SLS-1 / 921)",
    "location": "Jiuquan Satellite Launch Center, People's Republic of China",
