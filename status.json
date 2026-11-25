@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T06:18:21Z",
+ "generated_at": "2026-11-25T08:38:35Z",
  "sources": [
   {
    "name": "CNBC",
@@ -39,7 +39,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 61
+   "archived": 62
   },
   {
    "name": "BFM Business",
@@ -89,7 +89,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 93
+   "archived": 90
   },
   {
    "name": "Libération Économie",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 66
+   "archived": 67
   },
   {
    "name": "Futura",
@@ -166,9 +166,9 @@
    "cat": "spatial",
    "topic": null,
    "url": "https://www.nasaspaceflight.com/feed/",
-   "ok": true,
-   "count": 3,
-   "error": null,
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 403: Forbidden",
    "archived": 29
   },
   {
@@ -239,7 +239,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 63
+   "archived": 64
   },
   {
    "name": "Skift",
@@ -249,7 +249,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 60
+   "archived": 61
   },
   {
    "name": "Transactions · Amérique du Nord",
@@ -276,10 +276,10 @@
    "cat": "hotellerie",
    "topic": "transactions",
    "url": "https://news.google.com/rss/search?q=hotel+%28acquires+OR+acquisition+OR+acquired+OR+sells+OR+sold+OR+buys+OR+%22sale+of%22%29+%28Europe+OR+UK+OR+London+OR+Spain+OR+Germany+OR+Italy+OR+Portugal+OR+Greece+OR+Netherlands+OR+Switzerland%29+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests",
-   "archived": 46
+   "ok": true,
+   "count": 3,
+   "error": null,
+   "archived": 48
   },
   {
    "name": "Transactions · Europe (FR)",
@@ -289,7 +289,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 37
+   "archived": 36
   },
   {
    "name": "Transactions · Moyen-Orient",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 32
+   "archived": 31
   },
   {
    "name": "Transactions · Asie-Pacifique",
@@ -329,7 +329,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 15
+   "archived": 17
   },
   {
    "name": "Marchés · Amérique du Nord",
@@ -349,7 +349,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 70
+   "archived": 72
   },
   {
    "name": "Marchés · Europe",
@@ -379,7 +379,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 66
+   "archived": 68
   },
   {
    "name": "Marchés · Asie-Pacifique",
@@ -399,7 +399,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 76
+   "archived": 77
   }
  ]
 }
