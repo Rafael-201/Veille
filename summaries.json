@@ -1,137 +1,147 @@
 {
- "generated_at": "2026-11-26T06:17:43Z",
+ "generated_at": "2026-11-27T06:17:32Z",
  "auteur": "Claude",
  "rubriques": {
   "finance": {
-   "titre": "Une nouvelle vague de ventes sur les valeurs de l'IA secoue les Bourses mondiales, tandis que les droits de douane américains reviennent au premier plan.",
+   "titre": "Les marchés se reprennent après la déroute des valeurs technologiques, malgré la nouvelle salve de droits de douane américains",
    "points": [
     {
-     "texte": "Wall Street a terminé en ordre dispersé, le Nasdaq et le S&P 500 reculant sur un regain de ventes des valeurs de l'IA alors que le Dow Jones gagnait 423 points. Le mouvement a gagné l'Europe, où le CAC 40 a clôturé en baisse, plombé par les semi-conducteurs, et le Japon, où le Nikkei a chuté de 1 633 points mercredi.",
+     "texte": "Les Bourses mondiales rebondissent après le récent recul de la tech : les actions européennes progressent à la faveur de craintes tarifaires apaisées, la Bourse de Paris termine en nette hausse jeudi portée par la technologie, et les places asiatiques montent pour une deuxième séance (Hang Seng +1,6 %, S&P/ASX 200 +0,80 %). Les contrats à terme sur le Nasdaq grimpent avec le retour du thème de l'IA, alors que Wall Street était passée de l'euphorie à la morosité sur ce dossier.",
      "articles": [
       {
-       "titre": "Wall Street Ends Mixed as Nasdaq and S&P 500 Fall Amid Renewed AI Sell-Off; Dow Jones Gains 423 Points",
-       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOd2cwbHRfcDZoTzRFZGVScFY2MDh6TXdNVHhvYmpaU2ZGSnhUZEk5eG5wTDVGMU9QSU5rdTNzTngzdVpOdDk2bkJ1RTFXdTBrM0xuaDVSbWdIYU9OQTZRaXlOU0hjcUhaTXBEX25yRVF3OEcxV3d3UjgxWUVWZTlJUV8xa0RuaS00S0p5c1hWVUdWVFVQejBpNU1OTGUwQmxQSjdreTc2ZDZjeHF5V1NObXAyVnpTTGhrS1VkRUdYUHdOTnFCM1h3NnhyRkJpdw?oc=5",
-       "source": "Kotak Neo"
+       "titre": "European shares rally as tariff fears ease",
+       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGJnMG9TYXJ6SE11OTZ2M1FweExBMExhTVhENzVkODAtLUh2a052UzBNYWJWYTRsZ0d5VUhheWNOdUllUjVRY21KbTRMWDJndW4xekpnc2d3QmI4VVozTUxqeDdYblVNZTBidGpLaS1KdnBvanFJVjdCM1B6X0lva2RNSFdMUGtTdlJyVzdlVEN4UlVj?oc=5",
+       "source": "The Irish Times"
       },
       {
-       "titre": "Europe succumbs to Wall Street tech selloff",
-       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa3FrZFhBbzQzUVYtLXhHeThBRHYxcW16c1puUEQ3cm5kQzBOa0NkbFVEemtRMEVwNUh4MkhrU1NxVFpNUENtbEcybTJzR0FCTXl4VzU5N2FGWnJwMDcwNkEzX0EzQ19fOXUwamJFNVM4RVF6Y0ctZHBZWkE2SHpteEVGcTNNUGZ2TWxqVDVackZQRVhqOXdaeGJPRW5DRHJmNkRPOTlsUFA?oc=5",
-       "source": "Business Post"
+       "titre": "CAC 40 : La Bourse de Paris progresse nettement, soutenue par le compartiment technologique",
+       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOTJmSmQ2Nm1tdy1xS0hDOVp2TTA3MUEtb0lzUnN6ZGM3NmVaazZ2eXlkbnY4N0Q2NXRkNjZOLUI1cWtjXzV3dFZMRDNPOWtVdnhhNjNiYkw2UmVWa1NadDNpOEZqNDVqajVrclpJTHlTN1U2VzZ3UWY2dXhPZTl4UnZlNVlvaTR4cERhSTN0ZXNmN1FZX01XWHVYaFBadGNpSG1LUHItLVQ0R25HMWJQRFdDOXlpZHk3NWJtZW9Ib3JOMjlTWjVRazVsaDE2YWtFN0NfUF9nUThMc3FNZzJLY1pVQQ?oc=5",
+       "source": "Zonebourse"
       },
       {
-       "titre": "Le CAC 40 recule en clôture, plombé par les semi-conducteurs et l'électrique",
-       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQckRTYWxKWllRV2FUVjhvUlpjXzlXTHg4UWR1cWFxSWlNdXJtU1FQZGR6YlMyY3dfcFpQbE45X3ltU3F2RGpmb2xmRmh5UnMweHRVV09hMUp5b3NrUnFpeFdVNHppUWs4YjJyTjFxcjhTejZkSGNWclA5ODRwdENCRzFKOFJwcU52VnFPQ05hNFVjZDVYZHFYdllpSnFSYUdoZkM0V01XMDJ3NE1vVmVqVW10QzVXX1BOMnlNYXJoNjlDamRhdDk1bG9QR01oZFU?oc=5",
-       "source": "Idéal Investisseur"
+       "titre": "Asian Stocks Rise for Second Day, Treasuries Slip: Markets Wrap",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2ZFa0FGcTRjb19HbGxhWGxZc05LTXQ2WUJDTTQzc2hYNGVrbE5GQWtlcERpWGdVZmptNEFUM0ltY0ZobVhoaVo1Qzl4ZTFuNlBDSXFNaG9ETXFDOGdYSGppVVh1cW10TFJ5RG9sVVNYZmUzMHk2VlROMG9yVDM3UzRtM1VSbXlaYWlSN01McUlncVljREZvOGY5UzZaSjc3R3MzdWJUOF9oS3ZLU2c3bmV0MA?oc=5",
+       "source": "Bloomberg.com"
       },
       {
-       "titre": "Nikkei Plunges 1,633 Points on Wednesday as AI Stocks Tumble",
-       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fNXhQRGZXWUt6MjFpaTEwOTRfNk9mX3ZtVUdEX0daampOaHdrb3FwNFM0czdyTDVFcm4tUFB6N1UxZzYwUFlzajRTSG1JTm9WOEZNLQ?oc=5",
-       "source": "News On Japan"
+       "titre": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap",
+       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5",
+       "source": "Bloomberg.com"
       }
      ]
     },
     {
-     "texte": "Les marchés asiatiques ont rebondi ensuite, emmenés par les valeurs de l'IA et le Kospi sud-coréen, malgré les nouveaux droits de douane américains ; en Inde, le Sensex a bondi de plus de 2 000 points, porté par les achats étrangers et un pétrole moins cher. À contre-courant, CATL a plongé de 12 % sur des craintes concernant ses résultats et des ventes forcées.",
+     "texte": "Washington prévoit une nouvelle série de droits de douane visant 14 partenaires commerciaux, tout en proposant des taux réduits aux pays qui signeront un accord. Selon Bloomberg, cette offensive risque de saper la stratégie « China+1 » de délocalisation des chaînes d'approvisionnement hors de Chine ; les marchés d'Asie-Pacifique ont pour l'instant passé outre.",
      "articles": [
       {
-       "titre": "Asian shares rebound led by AI stocks after Wall Street pares sharp losses",
-       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWXhIc1BMSHZMTzRuSC05TWd5VXFaY1JlYVRqSC1qOXRSSE13a0pPa3ZVLUNNaUV1M1J1WU1OcDN4U2JSUHRlOW1tRFd1SjNFY2Rzb200RndjYTBSY21hSUx0NVhrN1cwdUZpSC1NVklZOTRFUDg2cnU0ODdHb21ibnFBRGJQa0pVdXRDci1PRUx3N1Q5dnpGWmRkYTlOZ216eEpvMEdxUDQ1c01pODRSQVplYjdWODN5bXBWNkhBNFBUQTAyLW5LbWh6WlNrZmVuSzZXNFpUZ2RZS3pfRHVPZjE0UTlUR18tLWZmaXZkN0Q?oc=5",
-       "source": "Toronto Star"
+       "titre": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+       "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+       "source": "CNBC"
       },
       {
-       "titre": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
+       "titre": "Trump Riles Trade Partners With Tariffs That Undercut ‘China+1’",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-26/trump-riles-trade-partners-with-tariffs-that-undercut-china-1",
+       "source": "Bloomberg Markets"
+      },
+      {
+       "titre": "Asia-Pacific markets close higher as investors look past fresh U.S. tariffs",
        "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
        "source": "CNBC"
-      },
-      {
-       "titre": "Sensex jumps over 2,000 points, Nifty surges to 25,951 on foreign fund inflows, lower crude oil",
-       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQakg2TVdKeERDbVNsaTcxX2ZDYzVSZU4tdDFWYzFWUF9xRENDU3g5UnRab0xObEdyNzBqcjFENlIwbUdRYUtENlVUWl9tT2R0Y3pRR3ZSQUIxSm5qQ2x6WFpUODlhanlwUDhuNDlpRmpEX3RxVC1ZdldPQVRaMTF5TWF2cmIySS1SS3gxaGtNNHV2V1RLQUNBRUM5Q2JBM3FJcllDRmlqejNlTjVna09nY0ExUUNyaDdP?oc=5",
-       "source": "DD News"
-      },
-      {
-       "titre": "CATL Tumbles 12% on Fears Over Weak Earnings, Forced Selling",
-       "url": "https://www.bloomberg.com/news/articles/2026-11-25/catl-tumbles-12-on-fears-over-weak-earnings-forced-selling",
-       "source": "Bloomberg Markets"
       }
      ]
     },
     {
-     "texte": "Côté macroéconomie, la Maison Blanche a dévoilé de nouveaux droits de douane visant plus d'une douzaine de grands partenaires commerciaux, une perspective que la Chine qualifie de « manœuvre politique ». La Banque de Corée a relevé son taux directeur de 25 points de base à 3,25 %, et les rendements des bons du Trésor américain ont reculé dans l'attente des chiffres d'inflation.",
+     "texte": "En Chine, les actions s'envolent après une rare déclaration de mi-séance du Conseil d'État réaffirmant son soutien au marché et promettant de nouvelles mesures ; les profits industriels repartent, tirés par l'industrie liée à l'IA tandis que la consommation et l'immobilier restent à la traîne. Au Brésil, la Bourse bondit de 6 % avant la confirmation par Lula du banquier Trabuco aux Finances ; à l'inverse, le peso mexicain connaît sa pire série de baisses depuis 2021 et le rand sud-africain se dirige vers son pire mois de novembre en 25 ans.",
      "articles": [
       {
-       "titre": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
-       "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-       "source": "CNBC"
-      },
-      {
-       "titre": "China Dismisses US Tariff Prospect as ‘Political Maneuvering’",
-       "url": "https://www.bloomberg.com/news/articles/2026-11-25/china-dismisses-us-tariff-prospect-as-political-maneuvering",
+       "titre": "China Stocks Rally After Rare Midday Statement on Market Support",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-27/china-s-cabinet-stresses-market-support-in-midday-release",
        "source": "Bloomberg Markets"
       },
       {
-       "titre": "BOK Hikes Key Rate to 3.25%",
-       "url": "https://www.bloomberg.com/news/videos/2026-11-26/bok-hikes-key-rate-to-3-25-video",
-       "source": "Bloomberg Markets"
+       "titre": "China’s factories are growing profits again, but the AI boom is picking the winners",
+       "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+       "source": "CNBC"
       },
       {
-       "titre": "Treasury yields fall as investors await key inflation signal",
-       "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
-       "source": "CNBC"
+       "titre": "Brazil Stocks Surge 6% Before Lula Confirms Banker Trabuco for Finance",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMGlvUnFTY3kzMTI1T2tHT0E1Q2hrNzUxNklQYzRpUkNTeldWdF8zWFlwdTNHa3FlZWdUc0RZejlfQlhqSllhOXd5Wlh2ZnNvZUliUUVlbk9rX2Z6ZkZ3aFF5UnpTeWNFbkdIQk9xemJLcmthX3NTczMxNXBfbmNJYXVxMkd1ZnRhaWVYZkppUW9xWDUtemloMGhzWHZLQQ?oc=5",
+       "source": "Startup Fortune"
+      },
+      {
+       "titre": "Mexican Peso Sees Worst Losing Streak Since 2021 on Carry Unwind",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeFBrcC0wYjVEMGlGUTB6QWNtMDRaRVRSY0R5cDN5UHNra1pkODhhYXVFQldaWFI1VE9xX0FkZ0xXdnZxTEVkYVBtMWk2clBEY0d3WnNna09wN3E1ZVcxZzU3cXVLSExiR0M5MlJIRTIyWjhFX09VVEFuR0RqbmJVUDJEdmFJMEJTVzdlNlB1c19XNHV3LWpOeE5pcUU1QkxuaUlXZWY2a0V3SG9fSkk4OVBUTVB0dw?oc=5",
+       "source": "Bloomberg.com"
       }
      ]
     },
     {
-     "texte": "Dans les entreprises, Dell a vu ses ventes plus que doubler grâce à l'essor de l'IA, tandis que l'introduction en Bourse d'Anthropic a connu des débuts mouvementés. Les inquiétudes grandissent sur le financement par la dette des investissements de la Big Tech dans l'IA, les prêteurs devenant plus sélectifs.",
+     "texte": "Zone euro : les dirigeants ont validé Pablo Hernandez de Cos pour succéder à Christine Lagarde à la tête de la BCE, Laurence Boone prenant la responsabilité des opérations de marché. Au Moyen-Orient, la plupart des marchés du Golfe reculent après des frappes contre des sites énergétiques saoudiens, les Houthis visant les ports de Jeddah et Jazan.",
      "articles": [
       {
-       "titre": "Dell’s stock rises as the AI boom helps sales more than double",
-       "url": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
-       "source": "MarketWatch"
-      },
-      {
-       "titre": "Chinese AI trade pulls back after Wall Street volatility, Anthropic’s rocky IPO",
-       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNlJkUE5hNktnNlozc1R4c0NWN0ExX3J4OTVBOEd1WEFVakJCSXd2YWtYNU02M2tEbFVka1d5YzkxYmhqbTNmRDI1N3BvbkpIX0Jxd0U2WWs5ck1jQnNRekZ4M2hjdUE0V05lWmM0Uy16XzYxaFRqQWw5UVE0N1V6ZHl5cUJmYmR0T01MNnJ1c2hYdHp5eU9WQ2pjbDUwblpMc2xTamYxVDZaWDRCN0QyUXIyeUFhS19xN3pjWkNnRHFLeWRNVzhGNTN4MDFUaGsySFVBRVpGSW16cEV1?oc=5",
-       "source": "South China Morning Post"
-      },
-      {
-       "titre": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
-       "url": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
-       "source": "CNBC"
-      }
-     ]
-    },
-    {
-     "texte": "Parmi les opérations, BYD rachète un site industriel en Moselle pour s'implanter en France, l'indien Allen Career Institute a choisi ses banques pour une introduction en Bourse pouvant lever jusqu'à 300 millions de dollars, et BC Partners accélère dans le crédit privé en Europe. Le patron d'HSBC affirme avoir réalisé 85 % de son objectif de transformation.",
-     "articles": [
-      {
-       "titre": "Emmanuel Lechypre face à Hedwige Chevrillon : BYD s'implante en France, faut-il s'inquiéter ? - 25/11",
-       "url": "https://www.bfmtv.com/economie/replay-emissions/le-contre-pied/video-emmanuel-lechypre-face-a-hedwige-chevrillon-byd-s-implante-en-france-faut-il-s-inquieter-25-11_VN-202611250366.html",
-       "source": "BFM Business"
-      },
-      {
-       "titre": "Murdoch-Backed Allen Career Is Said to Pick Banks for India IPO",
-       "url": "https://www.bloomberg.com/news/articles/2026-11-25/murdoch-backed-allen-career-is-said-to-pick-banks-for-india-ipo",
-       "source": "Bloomberg Markets"
-      },
-      {
-       "titre": "« L'écart de valorisation entre l'Europe et les Etats-Unis s'est accru » : BC Partners renouvelle son pari sur le Vieux Continent",
-       "url": "https://www.lesechos.fr/finance-marches/gestion-actifs/lecart-de-valorisation-entre-leurope-et-les-etats-unis-sest-accru-bc-partners-renouvelle-son-pari-sur-le-vieux-continent-2264353",
+       "titre": "BCE : les dirigeants européens choisissent Pablo Hernandez de Cos pour succéder à Christine Lagarde",
+       "url": "https://www.lesechos.fr/finance-marches/marches-financiers/accord-definitif-a-bruxelles-pour-la-reconfiguration-de-la-bce-2264823",
        "source": "Les Echos"
       },
       {
-       "titre": "« Nous avons réalisé 85 % de notre objectif » : deux ans après son arrivée, le patron d'HSBC dévoile les prochains chapitres de sa transformation",
-       "url": "https://www.lesechos.fr/finance-marches/banque-assurances/nous-avons-realise-85-de-notre-objectif-deux-ans-apres-son-arrivee-le-patron-dhsbc-devoile-les-prochains-chapitres-de-sa-transformation-2264689",
+       "titre": "Mideast Stocks: Most Gulf markets retreat on Saudi energy strikes, maritime dangers",
+       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORUZnOHdzS2kzcGpGM0hwMmJUczlZYXJMcER1eHlSVVNQY0cydUtzZXVVRHd5S1FZR2Fmd2JJNmJxMV9iR1pEQTB0aGlBeEdaVTVNZHB3dFZYNTJIUG1XWTcyWUhGTEVrR2FHNl9TdjFScUxaSmlsRVdpdGttYnYzZk1aTHRtNlI0YV9zVGIzY0xwLXhtTXpWQkx5bWhiRmRsZUxkQmhBMG5QOHdDbW1yQTAzVHB2dzBwY2d4MmF1ajlJM2lkRnh1MnFn?oc=5",
+       "source": "Zawya"
+      },
+      {
+       "titre": "Houthis Target Jeddah and Jazan Ports as Attacks on Saudi Arabia Intensify",
+       "url": "https://www.bloomberg.com/news/videos/2026-11-26/horizons-middle-east-africa-11-26-2026-video",
+       "source": "Bloomberg Markets"
+      }
+     ]
+    },
+    {
+     "texte": "Côté entreprises : S&P Global Ratings juge la gouvernance de Nvidia insuffisante et menace sa note « AA » ; Virbac rachète Axiota Animal Health pour se renforcer dans la santé bovine aux États-Unis ; Lapeyre passe sous pavillon italien, cédée par l'allemand Mutares ; Stellantis réduit la production de Rennes et Mulhouse ; la compagnie Norse Atlantic suspend tous ses vols et évoque une possible faillite.",
+     "articles": [
+      {
+       "titre": "Nvidia, le « AA » ne tient plus qu'à un homme",
+       "url": "https://www.lesechos.fr/finance-marches/le-radar-des-marches/nvidia-le-aa-ne-tient-plus-qua-un-homme-2264889",
        "source": "Les Echos"
+      },
+      {
+       "titre": "Virbac, une place au soleil américain",
+       "url": "https://www.lesechos.fr/finance-marches/le-radar-des-marches/virbac-une-place-au-soleil-americain-2264890",
+       "source": "Les Echos"
+      },
+      {
+       "titre": "L’enseigne Lapeyre passe sous pavillon italien",
+       "url": "https://www.liberation.fr/economie/lenseigne-lapeyre-passe-sous-pavillon-italien-20261126_BIYDHE2BLNHGRFVL3LNN3MUINE/",
+       "source": "Libération Économie"
+      },
+      {
+       "titre": "Norse Atlantic suspends all flights, warns it may file for bankruptcy",
+       "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
+       "source": "CNBC"
       }
      ]
     }
    ]
   },
   "science": {
-   "titre": "L'astrophysique domine l'actualité scientifique, avec un possible trou noir primordial et de nouvelles découvertes du télescope Euclid.",
+   "titre": "Des abysses aux origines de l'Univers, la recherche dévoile des phénomènes cachés",
    "points": [
     {
-     "texte": "Un objet baptisé Phoebe, repéré lorsqu'il a brièvement amplifié la lumière d'une étoile lointaine, pourrait être un trou noir primordial formé juste après le Big Bang, d'une masse estimée à seulement trois fois celle de la Lune. Euclid et James-Webb ont par ailleurs découvert un objet exceptionnel dans l'Univers primitif qui relance une énigme sur les trous noirs.",
+     "texte": "Océans : plus d'une décennie d'analyses génétiques suggère qu'une crise de biodiversité se joue discrètement dans les grands fonds marins. Sous la mer Rouge, à plus d'un mille de profondeur, des chercheurs ont découvert de rares lacs de saumure susceptibles de renseigner sur les océans anciens de la Terre et sur la possibilité d'une vie extraterrestre.",
+     "articles": [
+      {
+       "titre": "Scientists discover signs of a hidden extinction crisis deep beneath the ocean",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261125045249.htm",
+       "source": "ScienceDaily"
+      },
+      {
+       "titre": "Scientists discover mysterious lakes more than a mile beneath the Red Sea",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261125045259.htm",
+       "source": "ScienceDaily"
+      }
+     ]
+    },
+    {
+     "texte": "Astrophysique : un objet baptisé Phoebe, repéré lorsqu'il a brièvement amplifié la lumière d'une étoile lointaine, pourrait être un trou noir primordial formé juste après le Big Bang, d'une masse estimée à seulement trois fois celle de la Lune. Le radiotélescope Alma a par ailleurs surpris l'étoile Mira Ceti, « la Merveilleuse », en pleine éruption.",
      "articles": [
       {
        "titre": "Astronomers may have discovered a black hole born before the first stars",
@@ -139,113 +149,73 @@
        "source": "ScienceDaily"
       },
       {
-       "titre": "Les télescopes spatiaux Euclid et James-Webb découvrent un monstre cosmique qui bouscule les théories sur les trous noirs",
-       "url": "https://www.futura-sciences.com/sciences/actualites/astronomie-telescopes-spatiaux-euclid-james-webb-decouvrent-monstre-cosmique-bouscule-theories-trous-noirs-139633/#xtor%3DRSS-8",
+       "titre": "En 1662, ils l’ont appelée « la Merveilleuse » : 364 ans plus tard, cette étoile révèle un phénomène qu’ils n’auraient jamais imaginé",
+       "url": "https://www.futura-sciences.com/sciences/actualites/etoile-1662-ils-ont-appelee-merveilleuse-364-ans-plus-tard-cette-etoile-revele-phenomene-quils-nauraient-jamais-imagine-139668/#xtor%3DRSS-8",
        "source": "Futura"
       }
      ]
     },
     {
-     "texte": "Conçu pour étudier les galaxies lointaines et l'Univers sombre, le télescope Euclid de l'ESA a découvert sa première comète inconnue jusque-là. De nouvelles expériences élargissent en parallèle la traque de la matière noire « ultralégère ».",
+     "texte": "Santé : des scientifiques identifient deux périodes où les écrans seraient particulièrement néfastes à l'apprentissage et à la mémoire des enfants, la petite enfance et l'entrée à l'école. Une autre étude compare alimentation et activité physique pour déterminer lequel des deux pèse le plus sur la longévité.",
      "articles": [
       {
-       "titre": "A space telescope hunting for dark matter just discovered something unexpected",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261124055852.htm",
+       "titre": "Scientists identify two ages when children may be most vulnerable to screen time",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261126033220.htm",
        "source": "ScienceDaily"
       },
       {
-       "titre": "Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter",
-       "url": "https://www.quantamagazine.org/novel-experiments-expand-the-hunt-for-ultralight-dark-matter-20261125/",
-       "source": "Quanta Magazine"
+       "titre": "Mieux manger ou bouger davantage pour vivre plus longtemps ? Les chercheurs ont comparé les deux et la balance penche nettement d’un côté !",
+       "url": "https://www.futura-sciences.com/sante/actualites/longevite-mieux-manger-bouger-davantage-vivre-plus-longtemps-chercheurs-ont-compare-deux-balance-penche-nettement-cote-139655/#xtor%3DRSS-8",
+       "source": "Futura"
       }
      ]
     },
     {
-     "texte": "Sur Terre, des scientifiques ont découvert à plus d'un kilomètre et demi sous la mer Rouge de rares lacs de saumure qui pourraient renseigner sur les océans anciens. Des oiseaux marins équipés d'enregistreurs audio et de GPS se révèlent capables de détecter des navires, offrant un moyen de repérer la pêche illégale.",
+     "texte": "Physique et technologies : une expérience sur des atomes ultrafroids pourrait aider à trancher la question du temps que met une particule pour aller d'un point à un autre, point faible de la théorie quantique. À Hanford, héritage du projet Manhattan, un robot de 15 cm doit inspecter des canalisations contaminées ; en paléontologie, de grands mammifères cornus apparus après les dinosaures présenteraient moins de différences entre mâles et femelles qu'on ne le pensait depuis 150 ans.",
      "articles": [
       {
-       "titre": "Scientists discover mysterious lakes more than a mile beneath the Red Sea",
-       "url": "https://www.sciencedaily.com/releases/2026/11/261125045259.htm",
+       "titre": "Ultracold atoms could help unravel a major flaw in quantum theory",
+       "url": "https://www.newscientist.com/article/2600718-ultracold-atoms-could-help-unravel-a-major-flaw-in-quantum-theory/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+       "source": "New Scientist"
+      },
+      {
+       "titre": "En 1943, les États-Unis construisent une usine pour produire le plutonium de la bombe atomique : 83 ans plus tard, un robot de 15 cm doit inspecter ses tuyaux contaminés",
+       "url": "https://www.futura-sciences.com/tech/actualites/technologie-1943-etats-unis-construisent-usine-produire-plutonium-bombe-atomique-83-ans-plus-tard-robot-15-cm-doit-inspecter-tuyaux-contamines-139625/#xtor%3DRSS-8",
+       "source": "Futura"
+      },
+      {
+       "titre": "These bizarre prehistoric mammals may have been misunderstood for 150 years",
+       "url": "https://www.sciencedaily.com/releases/2026/11/261125045310.htm",
        "source": "ScienceDaily"
-      },
-      {
-       "titre": "Seabird ‘spies’ could help spot ships that aren’t broadcasting their location",
-       "url": "https://www.newscientist.com/article/2600830-seabird-spies-could-help-spot-ships-that-arent-broadcasting-their-location/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-       "source": "New Scientist"
-      }
-     ]
-    },
-    {
-     "texte": "En santé, une étude montre qu'un nombre surprenant de personnes n'ont pas retrouvé l'odorat cinq ans après un Covid. Une analyse de 161 études nuance les bienfaits des bains glacés pour la récupération musculaire.",
-     "articles": [
-      {
-       "titre": "Covid : un nombre surprenant de personnes n’ont pas retrouvé l’odorat après 5 ans. Des conséquences parfois lourdes",
-       "url": "https://www.futura-sciences.com/sante/actualites/covid-19-covid-nombre-surprenant-personnes-nont-pas-retrouve-odorat-apres-5-ans-consequences-parfois-lourdes-139410/#xtor%3DRSS-8",
-       "source": "Futura"
-      },
-      {
-       "titre": "Les bains glacés promettent une meilleure récupération après le sport : 161 études révèlent un paradoxe musculaire",
-       "url": "https://www.futura-sciences.com/sante/actualites/sport-bains-glaces-promettent-meilleure-recuperation-apres-sport-161-etudes-revelent-paradoxe-musculaire-139604/#xtor%3DRSS-8",
-       "source": "Futura"
-      }
-     ]
-    },
-    {
-     "texte": "L'IA a résolu un problème majeur des mathématiques, mais il reste impossible de prédire comment ses capacités progresseront dans d'autres domaines, souligne New Scientist.",
-     "articles": [
-      {
-       "titre": "AI’s stunning progress in maths shows how little we understand it",
-       "url": "https://www.newscientist.com/article/2600491-ais-stunning-progress-in-maths-shows-how-little-we-understand-it/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-       "source": "New Scientist"
       }
      ]
     }
    ]
   },
   "spatial": {
-   "titre": "Le feu vert de la FCC à la constellation « Starmind » d'un million de satellites de SpaceX domine l'actualité spatiale.",
+   "titre": "Feu vert de la FCC à la méga-constellation « Starmind » de SpaceX, entre ciel nocturne et images de la Terre",
    "points": [
     {
-     "texte": "La FCC a autorisé SpaceX à déployer un million de satellites « Starmind », des centres de données d'IA en orbite. L'autorisation impose de lancer les premiers satellites d'ici le 25 novembre 2033.",
+     "texte": "La Commission fédérale des communications (FCC) autorise SpaceX à lancer jusqu'à un million de satellites « Starmind » destinés à des centres de données en orbite ; l'autorisation impose le déploiement des premiers satellites d'ici le 25 novembre 2033.",
      "articles": [
       {
        "titre": "FCC green lights SpaceX’s plan to launch 1 million ‘Starmind’ data center satellites",
        "url": "https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/",
        "source": "Spaceflight Now"
+      }
+     ]
+    },
+    {
+     "texte": "Ciel du moment : Vénus atteint son éclat maximal cette semaine dans le ciel avant l'aube. Les images astronomiques du jour de la NASA mettent à l'honneur les observateurs de la Lune et la Voie lactée au-dessus des Lençóis, au Brésil.",
+     "articles": [
+      {
+       "titre": "Venus shines at its brightest in the predawn sky this week. Here's where to look",
+       "url": "https://www.space.com/stargazing/venus-shines-at-its-brightest-in-the-predawn-sky-this-week-heres-where-to-look-nov-27-2026",
+       "source": "Space.com"
       },
       {
-       "titre": "Green light for Starmind: SpaceX gets approval to deploy 1 million AI satellites",
-       "url": "https://www.space.com/space-exploration/launches-spacecraft/green-light-for-starmind-spacex-gets-approval-to-deploy-1-million-ai-satellites",
-       "source": "Space.com"
-      }
-     ]
-    },
-    {
-     "texte": "Dix fusées doivent décoller au cours de la semaine à venir, dont trois lanceurs russe, chinois et de SpaceX pour des missions vers deux stations spatiales différentes.",
-     "articles": [
-      {
-       "titre": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
-       "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
-       "source": "NASASpaceflight"
-      }
-     ]
-    },
-    {
-     "texte": "La NASA fait évoluer son programme de fournisseurs pour les petites entreprises et annonce un accord de mentorat, afin de renforcer la base industrielle aérospatiale nationale en vue des futures missions d'exploration.",
-     "articles": [
-      {
-       "titre": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
-       "url": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/",
-       "source": "NASA"
-      }
-     ]
-    },
-    {
-     "texte": "Côté images, l'APOD de la NASA a mis en avant l'observatoire SPHEREx, capable de voir à travers la poussière, ainsi qu'une vue de la Voie lactée au-dessus des Lençóis.",
-     "articles": [
-      {
-       "titre": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
-       "url": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/",
+       "titre": "APOD: 2026 November 27 – The Moon Watchers",
+       "url": "https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/",
        "source": "NASA"
       },
       {
@@ -254,108 +224,113 @@
        "source": "NASA"
       }
      ]
+    },
+    {
+     "texte": "Observation de la Terre : la NASA publie des vues du volcan Chivelouch, au Kamtchatka, dont la caldeira sommitale émerge d'une couche nuageuse, et de l'île Resolution en Nouvelle-Zélande, pensée comme refuge sans prédateurs pour les oiseaux mais rejointe à la nage par des hermines.",
+     "articles": [
+      {
+       "titre": "Shivelyuch Socked In",
+       "url": "https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/",
+       "source": "NASA"
+      },
+      {
+       "titre": "Seeking Refuge on Resolution Island",
+       "url": "https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/",
+       "source": "NASA"
+      }
+     ]
     }
    ]
   },
   "hotellerie": {
-   "titre": "Les transactions s'enchaînent dans l'hôtellerie, des États-Unis à l'Inde, tandis que la famille Courtin-Clarins prend le contrôle total d'Evok.",
+   "titre": "Une vague d'acquisitions hôtelières en Europe, en Amérique du Nord et en Inde, sur fond de tensions au Moyen-Orient",
    "points": [
     {
-     "texte": "Aux États-Unis, Host Hotels a complété son achat d'un hôtel à Brooklyn pour 202 millions de dollars par une acquisition de commerces et de parking de 29 millions. Le Staybridge Suites Naples - Marco Island a été cédé pour 22,75 millions de dollars, et GAP Hotels rachète le DoubleTree de Baton Rouge ; Ryman Hospitality prévoit une extension de 305 millions de dollars du Gaylord Rockies, près de Denver.",
+     "texte": "Transactions en Amérique du Nord : Synvest rachète Accent Inns et Hotel Zed pour 210 millions de dollars, et Host Hotels acquiert le bail du 1 Hotel Brooklyn Bridge. En Inde, SanRaj Group met la main sur le Zuri Whitefield de 162 chambres à Bengaluru.",
      "articles": [
       {
-       "titre": "Host Hotels Rounds Out $202M Brooklyn Hotel Buy With $29M Retail, Parking Acquisition",
-       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbmNRc1VRREN4SWoyRWtkRkhHdVRsMUphbmwtaXRCOTJRWEVvVUlGUS1Fb2I3UDVWQVpmTXVlamlvcm9obUxPczMzWV9LLUUwcXNlU0piMUU0ME1ZV0xTRXpfVTZaN1l6cGdhWUZTTnJVVUtEbzNpekJnd1c0dmNCRjFJZkZ5dVY5NXFBbTNuamc4RWwzcHlRNHd3?oc=5",
-       "source": "Commercial Observer"
-      },
-      {
-       "titre": "Extended stay property in Florida sells for $22.75M",
-       "url": "https://www.hoteldive.com/news/staybridge-suites-naples-florida-sells-for-2275m/875742/",
-       "source": "Hotel Dive"
-      },
-      {
-       "titre": "GAP Hotels Buys Baton Rouge DoubleTree Hotel",
-       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaDFzMzh5RjFiQ1hNV0tpRmNrcm9PRThTRnY4RWcyYjVzbVlIY1o2S3dad3ltNEI1TGNwUUJqY1ZNOVA2MnhpZEktcFF4UzYyQW9EV0E2UnB4RmxpNTFralFPZDFYSE5HY1JMd2VtRHY0RFVad0ZnYjFZVFdIenh1MUFNUlcyeVV1VjgxVVE0XzVSU1BYSnQ0NTZhMzBJSVhK?oc=5",
+       "titre": "Synvest Buys Accent Inns, Hotel Zed for $210M",
+       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM241TmVSSlhRQ20ydlROQWRmR2lMMjh2UEdjUThuN2FUd0FWNzZsR1h4emFSNUswaWJNd3J1SjRBOFBMUmZfR1BZTVFBSndnTG5pb2Q2U0g1ZTQ3QkpjRWdCSTRYZVU2WnBEZm0xeEFaZEllQ0NkY25kam1WbEJ1NlVSRFBHVUZUWWc?oc=5",
        "source": "Wisevoter"
       },
       {
-       "titre": "Colorado’s Gaylord Rockies Resort to undergo $305M expansion",
-       "url": "https://www.hoteldive.com/news/gaylord-rockies-resort-expansion/875664/",
-       "source": "Hotel Dive"
+       "titre": "Host Hotels Buys 1 Hotel Brooklyn Bridge Lease",
+       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLTR5bS15M2FnRlJYMmpZLTE0VXVqZWJGWVlYSlRsbTl0amR3aHJ0MGpiSzFPbTByS1V3TUpLYzNyZWNYdThOazRKRDdBWVdfanNYRmhCVkFydk8zUnNqWU45cWw1LTFQN1N1ZmJmdzVYUEpsWFBnaTZjLWg4Mmc4QVR2UHluY3g3WFlWamRVektRekY5OUc5cThibnBNdkV4SFNRdDhnQmg?oc=5",
+       "source": "Wisevoter"
+      },
+      {
+       "titre": "SanRaj Group acquires 162-room Zuri Whitefield hotel in Bengaluru",
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSjRkcV9hNDNkckFvN2ZPSURBSEJGTXdkdHJkNEJVcTZ4OEFGaG1BWllSb2p1ajB3RmF3UkpZaTlILUczNnVqMW9Rc1pZOG9hcHFld0MweXVHb01nUEJHeG12Y3VYTXFpeVRVTDNiVVZlc3BmRGNCRHRzdFZkVmd2amNHdS1nYTBWcVQxVFhWT3MzOWN0Z0llMGpYZUdGRkNPbzFIOTFjRmdBZw?oc=5",
+       "source": "Hotelier India"
       }
      ]
     },
     {
-     "texte": "En Europe, la famille Courtin, derrière Clarins, prend 100 % du capital du groupe hôtelier de luxe Evok, réunissant murs, marques et exploitation. AEW Patrimoine acquiert l'Hotel Indigo de Dresde, et B&B Hotels annonce l'ouverture à Séville de son millième hôtel.",
+     "texte": "Transactions en Europe : le grec Bright Group prend 51 % de l'opérateur SWOT Hospitality ; H10 Hotels achète un hôtel dans le centre historique de Venise et compte désormais quatre établissements en Italie ; AEW Patrimoine acquiert un hôtel de 5 000 m² à Dresde, Leonardo Hotels s'étend en Allemagne et le groupe MSC rachète l'hôtel Le Berry face à la gare de Saint-Nazaire.",
      "articles": [
       {
-       "titre": "La famille Courtin-Clarins acquiert 100% du capital du groupe hôtelier Evok",
-       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZTI0cXRMdzNkZEQ0eThFYzV1RTNEb2E0empvWXN5SmpHWVFpcWZOR3IxN2JWdDd2eURxNkJCa1loT19pSU5mU09uX3hOZVdNYTBkY3otamhHN1R1SV9yRHgxek1EYWtabHpuS1RQUEZqcG1vcDZxU1hTVEhydFExdGZqdXo1LS1GX2d1ZlluWDZpak4tOXpwTnJWWkswYkRPb1BtQkxGX1VaVlIzdUltUHJtZUJ6SmJZQ3NF?oc=5",
-       "source": "L'Echo touristique"
+       "titre": "Greece's Bright Group buys 51% of hotel operator SWOT Hospitality",
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaTh5bnFyWkZGM2VTazN0dFFFaWdhdkw3NHJyTmdyX0Y3ZXhKaXJ0MVBtTmV6MFNMenlrRUxhUTVyTlppZnR4aWZJN0lCMXRiSWhyVzhjYXJVdXU5d09YcmpMYWhaNWJIaUQ4RmtKajdwaFk5aXQ1VEpSVWVwMjlTRXl5OEFxcUlJT1RUVzVuVUR1cVRJLXFPZzNrN2NGdUk?oc=5",
+       "source": "Dealroom"
       },
       {
-       "titre": "Clarins Family Takes Full Ownership of Luxury Hotel Group Evok",
-       "url": "https://skift.com/2026/11/25/clarins-family-takes-full-ownership-of-luxury-hotel-group-evok/",
+       "titre": "H10 Hotels buys a hotel in Venice’s historic center and reaches four establishments in Italy",
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRndraTEwaXJRWHA2N2NVc3N4WjFGeHNEaUZiSzMyQ1ZhbGN6VW50LTFkeWplQ2gxYkdxYnNfQW1OemM5OGt0cDl2Z3NYWTJBdm43cmdYTTNzUy1IQzdBc001eE81VnI1TkRlM0hWZmlkUnFyNEkzUk9LRGNPaktNZ0I5Q0RIbnhDVzQwZS1ONzhDcm5CaVh6YlVxdUZpU0p6cGotSkxpclItNVpvNnBDZE8xLXhTWVNBLW9XRmhJZFM0OWtvTTlrS9IBzgFBVV95cUxNaUJxRzdXNUM0RXpfbEM3ZnNnVXRPbS1WNm10bUw3Z2FWZl80c21KUXlud3Y3ejNtVUJvOEh5M3dPUXVSQkpaMENWc2dNV3JSZE9reHEtMnN0aER6TnZtc2UxZzU1Rk5iRjgzWnQzODZoS3F2djNDaFJMMndkLXVuS1A1TnA1RUZDVFpQQ1ZKSmJkTnY2SzJLZU1ORXVsQ1FxYnktOXJZaENRUkN2TDNsQXItMTIwRXNMS0ZqLWNsV3l4Y19CZEJ1aVVRc0o1Zw?oc=5",
+       "source": "Demócrata"
+      },
+      {
+       "titre": "AEW Patrimoine acquiert un hôtel de 5 000 m² à Dresde, en Allemagne",
+       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVWFEeFZWczdZYTVZVnFRUndUNE5PVjlzUTgycy1kWDlYZTZGOFp4a01MODM0dWdLU0NXeXQ3MXVPNzVQT01DZ09mS0MwQUV1b2VEVFIxYU1wMzNSWFYyb3F1NzN5RU5XZmR3Zks2OVo3cVI3NWNWNk0yWGtuNnFJXzJIODZ3c3ZHdFJVWnFSLWJJUHZMR0E5eW9RSzh6bkRxRmMyTjVQNjVhYkwtbWNTeEtOVVRHX3dhZ0djNFlaZXlGQ1ItRjFxbk5aa2didjVXRm90WFdwLU1tQVV0UElwWVNXOW9abkVkamZPNA?oc=5",
+       "source": "TendanceHotellerie"
+      },
+      {
+       "titre": "Le groupe maritime italo-suisse MSC rachète l’hôtel Le Berry situé face à la gare de Saint-Nazaire",
+       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQT2Rtckw2bUx4STR1Sk1HOTY1UjZBLWo4YUk3TmtQckE5VWE2Xzl3c1JzTjhfemoyTS15LVc4TGJhWkp4QmdZSUhzVVZ0Ny1WUHBQd3NiM0N3ZVEwYTRDVE0zVTdodnA4bUNSbjl1c1JGNFNCUGRjbW1TbVU0R18wYWRQM1Q2N01GX1ZUVk1XdkUtSjl3QWhxaWdscFNwUnEtTlFXYjl2M3NmdmEzemZ2SHc4YlhYaHpHa2RhbHVteFR0NmhrLVVXamVHcllJbldwYVBxNWc2ZXppVE1oT21JTVVOQUJGWm9TRmJ2YnZhNF9YcUZ6ckNpVTNLQQ?oc=5",
+       "source": "maville.com"
+      }
+     ]
+    },
+    {
+     "texte": "Nominations et gouvernance : Peter Krueger prend mardi la tête de Travelodge, qui doit appliquer 38 recommandations de sécurité, faire face à la hausse des coûts et refinancer sa dette.",
+     "articles": [
+      {
+       "titre": "Travelodge’s New CEO Inherits Safety Reckoning, Rising Costs and Looming Debt",
+       "url": "https://skift.com/2026/11/26/travelodges-new-ceo-inherits-safety-reckoning-rising-costs-and-looming-debt/",
        "source": "Skift"
-      },
+      }
+     ]
+    },
+    {
+     "texte": "Financement et promotion : le capital-investissement et les club deals spécialisés se multiplient, l'épargne privée finançant la montée en gamme avec des rendements visés à deux chiffres. Chez Vinci Immobilier, Jean-Luc Guermonprez juge le marché porteur mais constate que les projets mobilisent trois fois plus d'acteurs et deux fois plus de temps ; la tokenisation des parties productrices de revenus des projets mixtes est aussi étudiée.",
+     "articles": [
       {
-       "titre": "Allemagne | AEW Patrimoine acquiert l’Hotel Indigo de Dresde",
-       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kOXFWSUE4ZWdIa1hZYjNqQlY3Tk9uMEFEU2JfcXBxV1ZWNWtQUUh3Qjc5Y2ktaklOQ1A0Tm1GN2ltRHFyLWprR0RNZDR5RXNMTWdOd0FyamY0bFRMaW02YzdrZ3U3QjJUUnc0bHg4Rks2Zi1sRlppR0Z3?oc=5",
-       "source": "La Tribune de l'Hôtellerie"
-      },
-      {
-       "titre": "« Une vraie étape pour le groupe » : avec son millième hôtel, B&B Hotels accélère en Europe du Sud",
-       "url": "https://hospitality-on.com/fr/developpement/une-vraie-etape-pour-le-groupe-avec-son-millieme-hotel-bb-hotels-accelere-en-europe",
+       "titre": "Développement hôtelier via le capital-investissement : l'épargne privée finance la montée en gamme",
+       "url": "https://hospitality-on.com/fr/developpement/developpement-hotelier-le-capital-investissement-lepargne-privee-finance-la-montee-en",
        "source": "Hospitality ON"
-      }
-     ]
-    },
-    {
-     "texte": "En Inde, Shree Naman Group acquiert le JW Marriott Bengaluru et le Crowne Plaza Pune pour environ 165 M€, tandis que SanRaj Group rachète un hôtel de 162 chambres à Bengaluru et vise 2 000 chambres en deux ans.",
-     "articles": [
-      {
-       "titre": "Inde | Shree Naman Group acquiert le JW Marriott Bengaluru et le Crowne Plaza Pune pour environ 165 M€",
-       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb2I0MTduN0tBNkZDb3NfVnQ1YTQyTWJ4TkowMlpXVVNoWmdvaGNDSTVLVHBPSUpFNWJLU2s0T0k2Tk9VTFlDdUwxRHYyel9GT2tleUt3Znk5X0dzVW96MVpuSFgyMFNOcHVkSTA0aHJaa1I2ai14Qnc5S1J2Sm80VWoxbUV1MmJNaGNqUTRaWl9FSkVuWDQzUw?oc=5",
-       "source": "La Tribune de l'Hôtellerie"
       },
       {
-       "titre": "SanRaj Group acquires 162-room Bengaluru hotel, targets 2,000-room portfolio in two years",
-       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQa3FPeFlwLUstN2JmYTRJV19EY3o0MEVjTjRaR2c4N0tsdVZlR3JnVVB6V0w0ZGhZQkJaY1JRaGZBTmh1cm9OcjZkVGxtN3c2SEc4VUNsNmlKNFJFRWNNN3U3V0RoX2o0eExMdnFRSlZWazNDa0JKYWtlR1lWYWdBOEt2V1B6WjBDZ0dHVW1xdnJfY2IycDFSRDhralo0dFFMX2VuWnY5bXJnTDBVcy1jc2thVlJtX1lpRkI3QkJrQVV2OVlmemMyZVhvY2lIam9YYjNYS2VlNF9QUld2UEVsaldNeGhwQklIQlktUkZWWdIB9AFBVV95cUxOZ0xkdkh5N0VxbENQWmpaUTFyMGt3S1FxQmp6aTNkbkVKT2UzQlVyZlBvTkxPMDUzUkJxeXFhczd1REhUNGh5eTlHUG1Ca3NmaWJPMV92ZlZWTm1HZDgtWXRFc1QxWkFMYnItYTNrNWpFdnBxMzN0aVN0MGRJMjU3alJaTzVDbmNEOUNNekllQ1JpMFMyRW9TbldIcWpNeVdqbzJZV25kMjhyY2NaT1djajRzMTdUY2RVdGhGUzAybENpclJPXzQzbnBtMm90cUp4eUd5SWlrWjExU3N6T2xFejNTM3JJcDk1cU5ya2Q2X0VqYnMx?oc=5",
-       "source": "ET TravelWorld"
+       "titre": "Jean-Luc Guermonprez, Vinci Immobilier : \"Les projets sortent avec trois fois plus d'acteurs et deux fois plus de temps\"",
+       "url": "https://hospitality-on.com/fr/investisseurs/jean-luc-guermonprez-vinci-immobilier-les-projets-sortent-avec-trois-fois-plus",
+       "source": "Hospitality ON"
+      },
+      {
+       "titre": "Capital options in hotel and mixed-use schemes: when tokenising one part pays",
+       "url": "https://www.hospitalitynet.org/opinion/4135719/capital-options-in-hotel-and-mixed-use-schemes-when-tokenising-one-part-pays",
+       "source": "Hospitality Net"
       }
      ]
     },
     {
-     "texte": "Au Vietnam, Hilton et Sun Group étendent leur partenariat à 10 hôtels et plus de 5 000 chambres, avec les débuts de Signia by Hilton en Asie du Sud-Est. Accor avertit que l'île vietnamienne en plein essor pourrait capter les groupes de touristes sensibles aux prix qui vont aujourd'hui en Thaïlande.",
+     "texte": "Marchés régionaux : Dubaï retrouve une partie de ses compagnies aériennes tandis que Riyad attend des semaines sans frappes houthies, ses hôtels perdant en attendant la clientèle régionale de milieu de semaine. En Asie, Accor avertit la Thaïlande qu'une île vietnamienne en plein essor pourrait séduire les groupes de touristes sensibles aux prix.",
      "articles": [
       {
-       "titre": "Hilton and Sun Group Expand Strategic Partnership to 10 Hotels and More Than 5,000 Rooms Across Vietnam",
-       "url": "https://www.hospitalitynet.org/news/4135685/hilton-and-sun-group-expand-strategic-partnership-to-10-hotels-and-more-than-5000-rooms-across-vietnam",
-       "source": "Hospitality Net"
+       "titre": "Dubai Gets Some Airlines Back as Riyadh Waits on Houthis",
+       "url": "https://skift.com/2026/11/27/dubai-gets-some-airlines-back-as-riyadh-waits-on-houthis/",
+       "source": "Skift"
       },
       {
        "titre": "Accor Warns Thailand: A Vietnamese Island Is Coming for Your Tourists",
        "url": "https://skift.com/2026/11/25/accor-warns-thailand-a-vietnamese-island-is-coming-for-your-tourists/",
-       "source": "Skift"
-      }
-     ]
-    },
-    {
-     "texte": "La 26e édition des Hospitality Awards a récompensé notamment Accor, IHG et Hilton, et Serge Trigano a reçu un Lifetime Achievement remis par Sébastien Bazin. Au Moyen-Orient, la demande se scinde : pèlerinages et séjours balnéaires tiennent, quand le long-courrier et les voyages d'affaires reculent.",
-     "articles": [
-      {
-       "titre": "Hospitality Awards 2026 : Accor, IHG, Hilton et la Suisse parmi les lauréats de la 26e édition",
-       "url": "https://hospitality-on.com/fr/hotellerie/hospitality-awards-2026-accor-ihg-hilton-et-la-suisse-parmi-les-laureats-de-la-26e",
-       "source": "Hospitality ON"
-      },
-      {
-       "titre": "Lifetime Achievement : Sébastien Bazin crée la surprise pour saluer Serge Trigano",
-       "url": "https://hospitality-on.com/fr/hotellerie/lifetime-achievement-sebastien-bazin-cree-la-surprise-pour-saluer-serge-trigano",
-       "source": "Hospitality ON"
-      },
-      {
-       "titre": "Middle East Tourism Has Split. Which Demand Gets Capital?",
-       "url": "https://skift.com/2026/11/25/middle-east-tourism-gulf-capital-2027/",
        "source": "Skift"
       }
      ]
