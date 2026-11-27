@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T08:22:38Z",
+ "generated_at": "2026-11-27T06:16:12Z",
  "sources": [
   {
    "name": "CNBC",
@@ -29,7 +29,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 70
+   "archived": 69
   },
   {
    "name": "Les Echos",
@@ -39,7 +39,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 62
+   "archived": 61
   },
   {
    "name": "BFM Business",
@@ -49,7 +49,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 86
+   "archived": 84
   },
   {
    "name": "BCE",
@@ -59,7 +59,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 26
+   "archived": 27
   },
   {
    "name": "CNBC Résultats",
@@ -69,7 +69,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 46
+   "archived": 43
   },
   {
    "name": "The Motley Fool",
@@ -89,7 +89,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 90
+   "archived": 91
   },
   {
    "name": "Libération Économie",
@@ -99,7 +99,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 68
+   "archived": 67
   },
   {
    "name": "Nature",
@@ -139,7 +139,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 67
+   "archived": 66
   },
   {
    "name": "Futura",
@@ -149,7 +149,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 90
+   "archived": 88
   },
   {
    "name": "SpaceNews",
@@ -159,7 +159,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 30
+   "archived": 29
   },
   {
    "name": "NASASpaceflight",
@@ -199,7 +199,7 @@
    "ok": false,
    "count": 0,
    "error": "HTTPError: HTTP Error 404: Not Found",
-   "archived": 8
+   "archived": 6
   },
   {
    "name": "NASA",
@@ -209,7 +209,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 71
+   "archived": 70
   },
   {
    "name": "Hospitality ON",
@@ -229,7 +229,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 46
+   "archived": 43
   },
   {
    "name": "Hospitality Net",
@@ -239,7 +239,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 64
+   "archived": 62
   },
   {
    "name": "Skift",
@@ -259,7 +259,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 51
+   "archived": 52
   },
   {
    "name": "Transactions · Amérique latine",
@@ -269,7 +269,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 31
+   "archived": 32
   },
   {
    "name": "Transactions · Europe",
@@ -279,7 +279,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 47
+   "archived": 48
   },
   {
    "name": "Transactions · Europe (FR)",
@@ -289,7 +289,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 39
+   "archived": 40
   },
   {
    "name": "Transactions · Moyen-Orient",
@@ -299,7 +299,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 30
+   "archived": 31
   },
   {
    "name": "Transactions · Asie-Pacifique",
@@ -319,17 +319,17 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 26
+   "archived": 24
   },
   {
    "name": "Transactions · Afrique (FR)",
    "cat": "hotellerie",
    "topic": "transactions",
    "url": "https://news.google.com/rss/search?q=h%C3%B4tel+%28rachat+OR+acquiert+OR+cession+OR+rach%C3%A8te%29+%28Maroc+OR+S%C3%A9n%C3%A9gal+OR+%22C%C3%B4te+d%27Ivoire%22+OR+Tunisie+OR+Afrique%29+when%3A30d&hl=fr&gl=FR&ceid=FR%3Afr",
-   "ok": true,
-   "count": 3,
-   "error": null,
-   "archived": 17
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests",
+   "archived": 16
   },
   {
    "name": "Marchés · Amérique du Nord",
@@ -339,7 +339,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 84
+   "archived": 85
   },
   {
    "name": "Marchés · Amérique latine",
@@ -369,7 +369,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 70
+   "archived": 68
   },
   {
    "name": "Marchés · Moyen-Orient",
@@ -379,7 +379,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "archived": 68
+   "archived": 66
   },
   {
    "name": "Marchés · Asie-Pacifique",
